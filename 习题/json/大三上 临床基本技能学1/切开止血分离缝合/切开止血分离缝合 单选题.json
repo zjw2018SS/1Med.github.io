@@ -1,0 +1,198 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "临床基本技能学（外科基本技能）",
+        "filename": "切开止血分离缝合",
+        "type_all_num": 7,
+        "dev": {
+            "wrap_num": 7,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 7,
+        "time": "24年11月09日22小时10分16秒",
+        "id": "id-m3a8t63z-k83irfyod"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列哪种属外翻缝合法"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 水平褥式缝合法",
+                " 荷包缝合法",
+                " 伦勃特缝合法",
+                " 康乃尔缝合法"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "手术过程中，深部创口大量渗血，常用的止血方式是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 钳夹止血",
+                " 结扎止血",
+                " 长凡士林纱布条填塞压迫止血",
+                " 缝扎止血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述哪种属内翻缝合法"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 锁边缝合",
+                " 荷包缝合",
+                " 横褥式缝合法",
+                " 8字缝合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "皮下丝线打结剪线后，留下线头长度是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 4一5毫米",
+                " 1一2毫米",
+                " 3一4毫米",
+                " 5毫米以上"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "钝性分离，下列哪一项错误"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 用刀分离",
+                " 用刀柄分离",
+                " 用止血钳分离",
+                " 用纱布小球分离"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "阑尾切除术中，阑尾残端包埋处理，常用缝合方式是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 荷包缝合",
+                " Lembert缝合",
+                " 单纯连续缝合",
+                " 间断垂直褥式外翻缝合"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对活动性血管出血宜用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 压迫止血",
+                " 止血粉止血",
+                " 钳夹丝线结扎止血",
+                " 明胶海绵止血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

@@ -1,0 +1,668 @@
+[
+    {
+        "name": "军事技能",
+        "credit": "2",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "10500000110"
+    },
+    {
+        "name": "大学生职业发展与就业指导1",
+        "credit": "0.5",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "30500000510"
+    },
+    {
+        "name": "基础化学C",
+        "credit": "4",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "50900014520"
+    },
+    {
+        "name": "医用高等数学",
+        "credit": "2.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51000010520"
+    },
+    {
+        "name": "医用物理学B",
+        "credit": "2.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51000010620"
+    },
+    {
+        "name": "临床医学导论",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "限选",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51100004820"
+    },
+    {
+        "name": "医学细胞生物学",
+        "credit": "1.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51100054120"
+    },
+    {
+        "name": "医学细胞生物学实验",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51100055420"
+    },
+    {
+        "name": "大学英语A1",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51600028110"
+    },
+    {
+        "name": "形势与政策1",
+        "credit": "0.5",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51700000510"
+    },
+    {
+        "name": "思想道德与法治",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51700001310"
+    },
+    {
+        "name": "大学体育1",
+        "credit": "1",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2022年秋季学期",
+        "id": "51800000210"
+    },
+    {
+        "name": "大学计算机B",
+        "credit": "4",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "50500000210"
+    },
+    {
+        "name": "有机化学F",
+        "credit": "4",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "50900014220"
+    },
+    {
+        "name": "组织学与胚胎学A",
+        "credit": "5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51100000120"
+    },
+    {
+        "name": "医学人文素质教育导论",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "限选",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51100004720"
+    },
+    {
+        "name": "系统解剖学",
+        "credit": "6",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51100006420"
+    },
+    {
+        "name": "大学英语A2",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51600063410"
+    },
+    {
+        "name": "中国近现代史纲要",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51700000410"
+    },
+    {
+        "name": "形势与政策2",
+        "credit": "0.5",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51700000610"
+    },
+    {
+        "name": "大学体育2",
+        "credit": "1",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年春季学期",
+        "id": "51800000310"
+    },
+    {
+        "name": "实验动物学C",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "其它",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "30700000420"
+    },
+    {
+        "name": "生物化学G",
+        "credit": "5.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51100002320"
+    },
+    {
+        "name": "生理学B",
+        "credit": "4.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51100003820"
+    },
+    {
+        "name": "机能实验学A1",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51100006020"
+    },
+    {
+        "name": "局部解剖学",
+        "credit": "4.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51100006520"
+    },
+    {
+        "name": "医学免疫学",
+        "credit": "4.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51100010220"
+    },
+    {
+        "name": "大学英语A3",
+        "credit": "2",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51600063510"
+    },
+    {
+        "name": "形势与政策3",
+        "credit": "0.5",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51700000710"
+    },
+    {
+        "name": "毛泽东思想和中国特色社会主义理论体系概论",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51700001010"
+    },
+    {
+        "name": "大学体育3",
+        "credit": "1",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2023年秋季学期",
+        "id": "51800000410"
+    },
+    {
+        "name": "医学分子生物学D",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "限选",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100002820"
+    },
+    {
+        "name": "人体寄生虫学A",
+        "credit": "2.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100009720"
+    },
+    {
+        "name": "医学微生物学A",
+        "credit": "4",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100027120"
+    },
+    {
+        "name": "病理学",
+        "credit": "4",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100051120"
+    },
+    {
+        "name": "病理学实验",
+        "credit": "2",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100051320"
+    },
+    {
+        "name": "医学遗传学A",
+        "credit": "1.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100054220"
+    },
+    {
+        "name": "医学遗传学A实验",
+        "credit": "0.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51100055520"
+    },
+    {
+        "name": "形势与政策4",
+        "credit": "0.5",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51700000810"
+    },
+    {
+        "name": "习近平新时代中国特色社会主义思想概论",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51700000910"
+    },
+    {
+        "name": "马克思主义基本原理",
+        "credit": "3",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51700001210"
+    },
+    {
+        "name": "大学体育4",
+        "credit": "1",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年春季学期",
+        "id": "51800000510"
+    },
+    {
+        "name": "大学生创新创业基础",
+        "credit": "2",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "30500000410"
+    },
+    {
+        "name": "创新创业实践（创新创业基础）",
+        "credit": "2",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "30500000810"
+    },
+    {
+        "name": "医学伦理学A",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100004520"
+    },
+    {
+        "name": "临床基本技能学1",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100008230"
+    },
+    {
+        "name": "病理生理学A",
+        "credit": "3",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100011320"
+    },
+    {
+        "name": "医学心理学B",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100024430"
+    },
+    {
+        "name": "法医学",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "限选",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100027720"
+    },
+    {
+        "name": "机能实验学A2",
+        "credit": "0.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100051420"
+    },
+    {
+        "name": "诊断学C1",
+        "credit": "1.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51100056520"
+    },
+    {
+        "name": "流行病学C",
+        "credit": "2",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51300007020"
+    },
+    {
+        "name": "预防医学A",
+        "credit": "2.5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51300020030"
+    },
+    {
+        "name": "医学统计学",
+        "credit": "2",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51300022530"
+    },
+    {
+        "name": "卫生法学B",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2024年秋季学期",
+        "id": "51500039020"
+    },
+    {
+        "name": "临床基本技能学2",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51100008330"
+    },
+    {
+        "name": "外科学总论B",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51100008430"
+    },
+    {
+        "name": "精神病学A",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51100015630"
+    },
+    {
+        "name": "诊断学C2",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51100028020"
+    },
+    {
+        "name": "医学影像学",
+        "credit": "2.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51100049230"
+    },
+    {
+        "name": "机能实验学A3",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51100051520"
+    },
+    {
+        "name": "药理学A",
+        "credit": "5",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51200001630"
+    },
+    {
+        "name": "医学科研设计",
+        "credit": "1",
+        "course_nature": "学科基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年春季学期",
+        "id": "51300022820"
+    },
+    {
+        "name": "劳动教育",
+        "credit": "2",
+        "course_nature": "公共基础课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "10800000110"
+    },
+    {
+        "name": "妇产科学B",
+        "credit": "5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100014730"
+    },
+    {
+        "name": "口腔科学",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100016530"
+    },
+    {
+        "name": "麻醉学",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100020030"
+    },
+    {
+        "name": "内科学A1",
+        "credit": "5.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100020630"
+    },
+    {
+        "name": "外科学1",
+        "credit": "5.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100022230"
+    },
+    {
+        "name": "眼科学C",
+        "credit": "2",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100023630"
+    },
+    {
+        "name": "传染病学",
+        "credit": "2.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "511000472"
+    },
+    {
+        "name": "临床技能学3",
+        "credit": "1.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100048230"
+    },
+    {
+        "name": "全科医学概论",
+        "credit": "1",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "51100049030"
+    },
+    {
+        "name": "神经病学",
+        "credit": "2.5",
+        "course_nature": "专业课平台",
+        "course_attributes": "必修",
+        "abbreviation": "",
+        "semester": "2025年秋季学期",
+        "id": "90002623730"
+    }
+]

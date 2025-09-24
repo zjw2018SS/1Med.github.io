@@ -1,0 +1,16 @@
+mainmenu_press_cs360.wav
+mainmenu_press_home_01.wav
+mainmenu_press_inventory_01.wav
+mainmenu_press_inventory_02.wav
+mainmenu_press_loadout_01.wav
+mainmenu_press_news_01.wav
+mainmenu_press_play.wav
+mainmenu_press_play_02.wav
+mainmenu_press_play_03.wav
+mainmenu_press_quit_02.wav
+mainmenu_press_settings_01.wav
+mainmenu_press_settings_02.wav
+mainmenu_press_shop_01.wav
+mainmenu_press_watch_01.wav
+mainmenu_press_watch_02.wav
+mainmenu_rollover_01.wav

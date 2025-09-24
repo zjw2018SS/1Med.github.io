@@ -1,0 +1,1574 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "诊断期末实验考试",
+        "filename": "诊断期末实验考试",
+        "type_all_num": 60,
+        "dev": {
+            "wrap_num": 60,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 60,
+        "time": "24年12月09日01小时27分34秒",
+        "id": "id-m4fvmllx-x0ot9cxdo"
+    },
+    "body": [
+        {
+            "questions": [
+                " 侧壁心肌梗死病理性Q波出现在(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅴ1、Ⅴ2、Ⅴ3、Ⅴ4、Ⅴ5、Ⅴ6导联",
+                " Ⅴ7、Ⅴ8、V9",
+                " Ⅱ、Ⅲ、aⅤF导联",
+                " Ⅴ1、Ⅴ2、Ⅴ3导联",
+                " Ⅰ、aⅤL、Ⅴ5、Ⅴ6导联"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 有关胸腔穿刺的方法,下列哪项不正确:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 穿刺时应沿肋骨下缘进针",
+                " 穿刺抽液时,穿刺点取浊音明显部位,一般取肩胛线7~8肋间隙或腋中线6~7肋",
+                " 小量积液或包裹性积液时应根据超声检查所见决定穿刺部位",
+                " 抽液量每次不超过1000ml",
+                " 抽气量每次可大于1000ml"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 白细胞计数实验所需血量是多少?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 20uL",
+                " 30uL",
+                " 15uL",
+                " 10uL",
+                " 25uL"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 成人腰椎穿刺进针深度约为:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 5~10cm",
+                " 4~6cm",
+                " 1cm",
+                " 6cm",
+                " 1~2cm"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " 腹腔穿刺时体弱患者体位应取:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 俯卧位",
+                " 仰卧位",
+                " 膝胸卧位",
+                " 半卧位",
+                " 头低足高位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 对肥胖的患者来说,骨髓穿刺术最常选用的穿刺部位是( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 棘突",
+                " 胫骨上端",
+                " 髂后上棘",
+                " 髂前上棘",
+                " 胸骨"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 关于胸导联电极的安放,V7安放的正确的位置是( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V2与V4连线中点",
+                " 左第5肋间腋中线处",
+                " 左平V4水平腋后线处",
+                " 左平V4水平腋中线处",
+                " 左第5肋间锁骨中线处"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 对骨髓穿刺术,错误的操作是:( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 成人进针深度约为针尖达骨膜后再刺入0.5~1.0cm 左右。",
+                " 穿刺时需先固定穿刺针的长度,宜长而不宜短。",
+                " 以穿刺点为中心进行局部消毒,消毒范围宜大。",
+                " 操作者用左手拇指和示指固定穿刺部位的皮肤,右手持穿刺针与穿刺部位呈垂直角度缓缓钻刺而入,达骨髓腔时可有空脱感。",
+                " 局麻时皮肤表面和骨膜推注量应多,皮下脂肪组织不推注或推注量应少。"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "如在白细胞分类计数实验中，发现血样中有较多类似下图视野的镜下特点，则可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 遗传性球形红细胞增多症",
+                " 缺铁性贫血",
+                " 红细胞大小不均",
+                " 巨幼细胞性贫血",
+                " 正常血象"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "如果镜检时如下图所示，则下图中箭头所指的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 疟原虫配子体",
+                " 中毒性白细胞",
+                " 杜勒小体",
+                " 奥氏小体",
+                " 异型淋巴细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 如在白细胞分类计数中发现了如下图黑色箭头所示的地方，则可判断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Pelger-Huet奇形",
+                " 染料杂质",
+                " 粒细胞中毒性改变",
+                " 杜勒小体",
+                " 棒状小体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 关于白细胞分类计数的实验步骤说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 推片与载玻片间保持约45°夹角,轻轻用力,均匀而缓慢地将推片沿载玻片表面推至玻片的另一端,直至血液推完为止，成为舌形血膜",
+                " 在血膜中间部位选择染色良好的部分，在油镜下按“弓”字形顺序进行检测",
+                " 分类计数需要计数100～200个白细胞,计算出各类白细胞的百分率，并注意有无异常或未成熟的白细胞",
+                " 取已干燥的血涂片,用蜡笔在血膜外划两条直线，滴瑞氏染液3～5滴,以遮盖全部血膜，放置约30秒钟，再加等量缓冲液冲洗掉染液,放置染色约3～8分钟,待干后可镜检。",
+                " 制作血涂片时，将推玻片的一端边缘垂直立在玻片血滴的前方,接触血滴,使血滴沿推片端的边缘均匀展开 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 在白细胞显微镜计数实验课中，如何确定白细胞的数量?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 通过直接计数每个小方格内的白细胞",
+                " 以上都不是",
+                " 通过计算小方格内白细胞的比例来确定",
+                " 通过计算多个大方格内白细胞的比例来确定",
+                " 通过计算大方格内白细胞的比例来确定"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 关于心电图诊断右室肥大的描述,下列不正确的是(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心电图诊断右室肥大敏感性也较高",
+                " 心电图诊断右室肥大准确性较高",
+                " 出现右室高电压",
+                " 电轴右偏",
+                " QRS波型改变也非常有意义"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 细菌性脑膜炎 ( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 脑脊液压力增高",
+                " 脑脊液压力增高和蛋白质增高两者均无",
+                " 脑脊液蛋白质明显增高",
+                " 脑脊液压力增高和蛋白质增高两者均有"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 包裹性气胸作胸膜腔穿刺的部位用以下哪种方法确定最佳:( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " B超",
+                " 胸片",
+                " 体格检查",
+                " 肺部CT"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " 关于二尖瓣型P波,下列不正确的是(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以Ⅰ、Ⅱ导联明显",
+                " VL导联较明显",
+                " 提示左房肥大",
+                " 为二尖瓣狭窄所特有",
+                " 双峰切迹≥O04秒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " I、AVL. V5导联ST抬高提示?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 下壁心内膜下心肌损伤",
+                " 前壁心内膜下心肌损伤",
+                " 侧壁心外膜下心肌损伤",
+                " 下壁心外膜下心肌损伤",
+                " 侧壁心内膜下心肌损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 低血钙时的心电图表现为( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段延长,QT间期缩短",
+                " ST段正常,QT间期正常",
+                " ST段缩短,QT间期延长",
+                " ST暇缩短,QT间期缩短",
+                " ST段延长,QT间期延长"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 少量腹水行诊断性穿刺,穿刺点在:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 仰卧位，脐和耻骨联合连线的中点上方1cm,偏左1.5cm处",
+                " 侧卧位，脐水平线与近床侧的腋前线交点处",
+                " 仰卧位，脐与左髂前上棘连线外1/3和中1/3的交点",
+                " 仰卧位，脐与右髂前上棘连线外1/3和中1/3的交点",
+                " 仰卧位，脐和耻骨联合连线的中点上方1cm,偏右1.5cm处"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " 无P波,R-R间期绝对规整,QRS波形正常,且频率快,多见于(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房颤动",
+                " 窦性心动过速",
+                " 阵发性室性心动过速",
+                " 阵发性室上性心动过速",
+                " 心室颤动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 骨髓穿刺的术前准备不包括下列哪项:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 进行医患沟通,告知可能出现的并发症",
+                " 洗手,戴口罩、帽子",
+                " 准备骨髓穿刺的物品及器械",
+                " 了解骨髓穿刺的目的、适应证和禁忌证",
+                " 填写实验申请单及准备容器"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 诊断前间壁心肌梗死的导联是(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " v1、v2、v3导联",
+                " Ⅱ、Ⅲ、AVF",
+                " Ⅰ、AvL ,V5",
+                " v3、v4、v5导联",
+                " v7、v8、v9导联"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 正常QRS波宽度"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " <0.04s",
+                " <0.30s",
+                " 0.12~0.20s",
+                " <0.11s",
+                " 0.06~0.10s"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 在白细胞显微镜计数中，通常使用哪种类型的显微镜?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 数码显微镜",
+                " 光学显微镜",
+                " 透射电子显微镜",
+                " 共聚焦显微镜",
+                " 扫描电子显微镜"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " 三度房室传导阻滞的特征是(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P-R间期延长、P与QRS关系固定两者均无",
+                " P-R间期延长、P与QRS关系固定两者均有",
+                " P-R间期延长、P与QRS关系固定",
+                " P-R间期逐渐延长,有QRS脱漏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 下列关于胸腔穿刺的穿刺点,哪项是错误的:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 气胸抽气减压--患侧锁骨中线第2肋间或腋中线4-5肋间---腋前线",
+                " 积液较多时--肩胛下角线、腋后线7-8肋间、腋中线6-7肋间、腋前线5-6肋间。",
+                " 小量积液或包裹性积液--根据超声检查所见决定穿刺部位",
+                " 仰卧位--腋前线5-6肋间",
+                " 胸腔积液--胸部叩诊实音最明显处"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 白细胞计数实验进行计数时"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在低倍镜下观察看到的白细胞呈圆形,有核,稍有折光。",
+                " 用移液枪加稀释液加的过多，会导致计数结果偏高",
+                " 需要在高倍镜下计数 ",
+                "  需要局部皮肤消毒,穿刺采血,用微量采血吸管吸取血液10μl",
+                " 计数中央大方格内白细胞总共个数（W表示）,乘以50即得每μl血液所含白细胞数目"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 室性期前收缩可以出现(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " QRS增宽及P-R间期缩短,可见σ波两者均有",
+                " QRS增宽",
+                " P-R间期缩短,可见σ波",
+                " P-R间期缩短及可见σ波两者均无"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " 反映心室晚期复极电变化的波(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " T波",
+                " P波",
+                " J波",
+                " U波",
+                " QRS波"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 关于胸导联电极的安放,V9安放的正确的位置是( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左脊柱旁线平V4水平",
+                " V4水平腋后线处",
+                " 左平V4水平腋中线处",
+                " 左肩胛线平V4水平",
+                " 左第5肋间腋中线处"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 这是外周血涂片中看到的某种细胞，箭头所示的该细胞是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 异型淋巴细胞",
+                " 幼淋巴细胞",
+                " 幼稚粒细胞",
+                " 单核细胞",
+                " 吞噬细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " QRS波群只表现为一个向下的大波时,其命名应该是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Q波",
+                " S波",
+                " q波",
+                " QS波",
+                " qS波"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 下列哪项是骨髓穿刺的禁忌症:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 重度贫血",
+                " 恶性组织细胞病",
+                " 血友病",
+                " 显著血小板减少",
+                " 粒细胞缺乏症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 下列哪项不是骨髓穿刺常选用的穿刺部位:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 腰椎棘突",
+                " 胸骨",
+                " 髂前上棘",
+                " 肋骨",
+                " 髂后上棘"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 下列哪种组织的传导速度最慢( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 浦肯野纤维",
+                " 心室肌",
+                " 房室束",
+                " 房室结",
+                " 心房肌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 胸腔穿刺抽液过多过快可能出现 ( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血胸",
+                " 气胸",
+                " 刺破隔肌损伤腹腔脏器",
+                " 胸膜反应",
+                " 急性肺水肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 胸膜反应最重要的处理措施是: ( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 立即停止胸穿",
+                " 皮下注射肾上腺素",
+                " 吸氧",
+                " 测量血压"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 广泛前壁心肌梗死病理性Q波出现在(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅴ1、Ⅴ2、Ⅴ3、Ⅴ4、Ⅴ5、Ⅴ6导联",
+                " Ⅰ、aⅤL、Ⅴ5、Ⅴ6导联",
+                " Ⅴ7Ⅴ8",
+                " Ⅱ、Ⅲ、aⅤF导联",
+                " Ⅴ1、Ⅴ2、Ⅴ3导联"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 术后需去枕平卧4~6小时的操作是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 骨髓穿刺",
+                " 胸腔穿刺",
+                " 腰椎穿刺",
+                " 肝穿刺活检",
+                " 腹腔穿刺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 急性白血病 ( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 骨髓穿刺可能会有干抽现象",
+                " 骨髓穿刺可能会有干抽现象,应该穿刺时进行多部位的骨髓穿刺和取材",
+                " 骨髓穿刺不会干抽,不需要穿刺时进行多部位的骨髓穿刺和取材",
+                " 穿刺时应该进行多部位的骨髓穿刺和取材"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 下列图片中如箭头所示的细胞，选项中哪一种细胞最符合图片描述的特征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 感染了疟原虫的中性粒细胞",
+                " 有奥氏小体的粒细胞",
+                " 被染料颗粒遮盖的粒细胞",
+                " 有杜勒小体的粒细胞",
+                " 有中毒性颗粒的粒细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 在实验课显微镜计数白细胞时，每个大方格内包含多少个小方格?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 16",
+                " 64",
+                " 4",
+                " 32",
+                " 8"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 病人必须取侧卧位的是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 关节腔穿刺",
+                " 胸腔穿刺",
+                " 腰椎穿刺",
+                " 骨髓穿刺",
+                " 腹腔穿刺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 年轻人出现”冠状T波“,除考虑冠心病外,首先应排除(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心肌炎",
+                " 肥厚型心肌病",
+                " 先心病",
+                " 心包炎",
+                " 扩张型心肌病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " J波常见于(? )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 预激综合征",
+                " SISuSm综合征",
+                " 病态窦房结综合征",
+                " 早期复极综合征",
+                " β受体亢进综合征"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 如在白细胞分类计数中的外周血涂片中发现下图颗粒状物质，则该处应判断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 疟原虫",
+                " 染料颗粒",
+                " 嗜酸性粒细胞的颗粒",
+                " 血小板",
+                " 脱掉胞浆的细胞核碎片"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 小于3岁儿童的常用骨髓穿刺部位 ( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 棘突",
+                " 髂后上棘",
+                " 胫骨上端",
+                " 髂前上棘",
+                " 胸骨柄"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下面图片中是那一种白细胞？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 嗜碱性粒细胞",
+                " 单核细胞",
+                " 淋巴细胞",
+                " 嗜酸性粒细胞",
+                " 中性粒细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 腰椎穿刺的绝对禁忌症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 贫血",
+                " 癫痫",
+                " 脑疝形成",
+                " 高血压病",
+                " 心脏病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " QRS波群代表"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心室肌除极过程",
+                " 心房肌除极过程",
+                " 心房肌复极过程",
+                " 房室交界区的兴奋性",
+                " 心室肌复极过程"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者女性，38岁，农民。野炊后恶心、呕吐伴腹泻4天，神志不清1天急送入院，外周血象中见到下图细胞，请问箭头所示为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 嗜酸性粒细胞",
+                " 异型淋巴细胞",
+                " 中毒性粒细胞",
+                " 单核细胞",
+                " 晚幼粒细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 下列符合骨髓纤维化的是 ( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 穿刺时应该进行多部位的骨髓穿刺和取材",
+                " 骨髓穿刺不会干抽,不需要穿刺时进行多部位的骨髓穿刺和取材",
+                " 骨髓穿刺可能会有干抽现象",
+                " 骨髓穿刺可能会有干抽现象,应该穿刺时进行多部位的骨髓穿刺和取材"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 出现文氏现象的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 二度Ⅱ型房室传导阻滞",
+                " 高度房室传导阻滞",
+                " 三度房室传导阻滞",
+                " 二度Ⅰ型房室传导阻滞",
+                " 一度房室传导阻滞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 下列关于诊断性腹腔穿刺正确的是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抽取腹水100~150ml送检",
+                " 腹水量较少的诊断性穿刺及腹膜腔内药物注射,穿刺针垂直刺入即可",
+                " 针锋抵抗感突然消失时,表示针尖已穿过腹膜脏层进入腹膜腔",
+                " 完毕后拔出穿刺针,局部盖上消毒纱巾以胶布固定",
+                " 必须以迷路穿刺的方式进入腹腔"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 卧位腰椎穿刺的脑脊液压力正常值是:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 50~180mmH2O",
+                " 70~170mmH2O",
+                " 80~220mmH2O",
+                " 120~180mmH2O",
+                " 80~180mmH2O"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 股静脉穿刺的适应证不包括( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 用于监测中心静脉压的优先选择",
+                " 快速输注液体",
+                " 长时间的血液透析",
+                " 反复的血液采样"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 实验课在进行白细胞显微镜计数时，说法不正确的是?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 采样使用移液枪增强精确性",
+                " 使用一次性酒精棉片消毒",
+                " 计数时要计数板上面的四角的正方形大方格里的白细胞数",
+                " 先清洗计数板",
+                " 计数前样本要注意混匀后静置几分钟"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 骨髓穿刺抽取骨髓液的量为( )"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0.1~0.2ml",
+                " 0.5~1.0ml",
+                " 1.0~2.0ml",
+                " 0.2~0.5ml"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 下列哪项不是胸腔穿刺的禁忌症:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 穿刺点局部皮肤有炎症者",
+                " 凝血机制障碍或血友病患者",
+                " 病情垂危、极度衰弱不能耐受者",
+                " 剧烈咳嗽难以定位者",
+                " 肋骨骨折"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

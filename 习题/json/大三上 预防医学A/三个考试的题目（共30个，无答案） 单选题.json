@@ -1,0 +1,603 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "三个考试的题目（共30个，无答案）",
+        "type_all_num": 30,
+        "dev": {
+            "wrap_num": 30,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 30,
+        "time": "25年01月01日20小时10分01秒",
+        "id": "id-m5duuo8q-2afj8nh66"
+    },
+    "body": [
+        {
+            "questions": [
+                "水体富营养化的主要原因是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大量重金属污染水源",
+                "大量氯化物、硫酸盐污染水源",
+                "大量有机物污染水源",
+                "大量硫、磷污染水源",
+                "大量磷、氮污染水源"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "受生物性污染的水体最易引起"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性中毒",
+                "肿瘤",
+                "公害病",
+                "介水传染病",
+                "急性中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "下列不是构成室内小气候的因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "气湿",
+                "气压",
+                "热辐射",
+                "气流",
+                "气温"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "评价室内空气清洁度的常用指标是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "SO2，NO2",
+                "微生物和悬浮颗粒物",
+                "CO，CO2",
+                "以上全是"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "太阳辐射能力最强部分主要集中的波长范围是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无法确定",
+                "紫外线",
+                "红外线",
+                "可见光"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "现代家庭中儿童的变态反应性疾病不断上升，这可能与（   ）有关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蚊子",
+                "蟑螂",
+                "病毒",
+                "尘螨"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "某年初冬,东北某市一居民区,一家4口昏睡不醒,后经邻居及时发现,并报告当地疾病预防控制中心,经调查发现病家室内燃有一小煤炉,受害者有呼吸困难、脉搏加快、神志不清等症状。最简单而易行的预防办法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加强卫生监督",
+                "服用药物",
+                "加强通风换气",
+                "加强营养"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "太阳辐射按波长可以分为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可见光，红外线",
+                "紫外线，红外线",
+                "紫外线，可见光",
+                "紫外线，可见光，红外线"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "室内空气中甲醛主要来源于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "室外空气污染",
+                "烹调油烟",
+                "人体代谢废物",
+                "生活炉灶",
+                "家具和室内装饰装修"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "一次污染物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有机汞",
+                "三氧化硫",
+                "二氧化硫",
+                "酸雨",
+                "过氧乙酰硝酸酯"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "大豆类食物的第一限制氨酸是（     ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛋氨酸",
+                "苏氨酸",
+                "赖氨酸",
+                "亮氨酸 "
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "蛋白质生物学价值反映了（      ） "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛋白质的含量",
+                "机体利用蛋白质的情况",
+                "机体消化蛋白质的情况",
+                "氮储留情况"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "哪种营养物质能为大脑提供能量？ "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪酸",
+                "葡萄糖",
+                "氨基酸",
+                "维生素"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "下列哪些不是抑制膳食钙吸收的因素？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳糖",
+                "植酸盐、草酸盐         ",
+                "脂肪酸",
+                "膳食纤维"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "膳食铁的良好来源是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿胶",
+                "菠菜",
+                "猪血",
+                "牛奶"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "下列哪种食品中亚硝基类化合物污染最重  （        ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腌制肉制品",
+                "奶类 ",
+                "蔬菜、水果",
+                "酒类"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "引起沙门氏菌食物中毒的主要食物是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蔬菜、水果",
+                "肉类、奶类及其制品",
+                "豆类及其制品 ",
+                "谷类"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "对霉变甘蔗中毒的描述，下列哪项是正确的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有特效的药物治疗  ",
+                "病人预后良好",
+                "引起中毒的毒素是一种神经毒",
+                "霉变甘蔗不易鉴别，故易引起中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "钙缺乏会引起哪些疾病？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "缺铁性贫血",
+                "骨质软化",
+                "肾结石",
+                "奶碱综合征    "
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "下列关于脂类说法正确的是(      ) "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "广义的脂肪包括中性脂肪和类脂",
+                "糖脂不是类脂 ",
+                "狭义的脂肪仅指类脂",
+                "胆固醇不属于脂类"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "下列那种物质是汽车尾气中的主要污染物之一"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NOX",
+                "SO2",
+                "CH4",
+                "O3",
+                "TSP"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "防止职业病发生的根本措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "将生产环境有害因素浓度或强度控制在职业接触限值以下",
+                "加强毒物的安全保护工作",
+                "做好卫生保健工作",
+                "加强健康教育",
+                "合理使用个体防护用品"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "       不是慢性汞中毒时的临床表现｡"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口腔炎",
+                "神经衰弱综合症",
+                "易兴奋",
+                "震颤",
+                "腹绞痛"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "苯的主要蓄积部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经组织",
+                "肝脏",
+                "骨骼",
+                "肾脏",
+                "骨髓"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "沉积在骨骼中铅的存在形式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氧化铅",
+                "磷酸铅",
+                "四氧化三铅",
+                "甘油磷酸铅",
+                "磷酸氢铅"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "尘肺是一种"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维化疾病",
+                "肺部疾病",
+                "以纤维化为主的疾病",
+                "粉尘引起的免疫性疾病"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 粉尘在呼吸道的沉积方式有多种，但没有下列哪项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "沉降",
+                "巨噬细胞吞噬",
+                "撞击",
+                "弥散作用"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "高温作业的主要类型有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高温强辐射作业",
+                "以上都是",
+                "高温高湿作业",
+                "夏季露天作业"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "高温作业工人患病率较高的疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心血管和消化系统疾病",
+                "神经系统疾病",
+                "泌尿系统疾病",
+                "心血管疾病"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                "生产性噪声引起的特异性损伤为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "听力损伤和噪声聋",
+                "心血管系统损伤",
+                "神经系统损伤",
+                "消化系统损伤"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        }
+    ]
+}

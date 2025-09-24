@@ -1,0 +1,2424 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "source": "学院",
+        "filename": "A1_2024年临床医学专业（本科）水平测试模拟考试二(2024-11-20)A",
+        "type_all_num": 100,
+        "dev": {
+            "wrap_num": 100,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 100,
+        "time": "25年01月12日18小时51分32秒",
+        "id": "id-m5thw3oa-y8mcdaaqw"
+    },
+    "body": [
+        {
+            "questions": [
+                "颈内静脉伴行的血管是哪一条"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈外静脉",
+                "上颌静脉",
+                "颈外动脉",
+                "下颌后静脉",
+                "颈总动脉"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述哪种情况提示门静脉高压症患者近期具有较高的曲张血管破裂出血风险"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血小板计数低于50×109/L",
+                "肝功能检测总胆红素67µmol/L",
+                "凝血酶原时间17秒",
+                "增强CT显示门静脉血栓形成",
+                "胃镜显示曲张血管红色征阳性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "屏状核与岛叶皮质之间的白质称最外囊",
+                "屏状核与岛叶皮质之间的白质称外囊",
+                "大脑内的弓状纤维主要联系同侧半球各叶",
+                "皮质核束经内囊后肢下行",
+                "下纵束和扣带属于连合纤维"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "前尿道是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺部",
+                "尿道膜部",
+                "尿道海绵体部",
+                "前列腺部、膜部",
+                "膜部、海绵体部"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "参加肩关节旋外的肌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸大肌",
+                "小圆肌",
+                "背阔肌",
+                "大圆肌",
+                "肩胛下肌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "接受肝淋巴管的淋巴结的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠系膜上淋巴结",
+                "腰淋巴结",
+                "腹腔淋巴结",
+                "膈上淋巴结",
+                "幽门淋巴结"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列药物可用于治疗高钙血症的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呋塞米",
+                "氨苯喋啶",
+                "乙酰唑胺",
+                "噻嗪类",
+                "甘露醇"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下药物对胃的刺激性较大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地西泮",
+                "水合氯醛",
+                "苯巴比妥",
+                "甲丙氨酯",
+                "硫喷妥钠"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "维拉帕米的抗心律失常作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "促进K＋外流",
+                "促进Na＋内流",
+                "促进Cl－内流",
+                "抑制Ca2＋内流",
+                "抑制K＋外流"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "与双嘧达莫抗血栓作用无关的机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制血小板环氧酶，使TXA2合成减少",
+                "抑制磷酸二酯酶活性，使cAMP含量增加",
+                "增强PGI2活性",
+                "阻碍ADP介导的血小板活化",
+                "阻断GP Ⅱb/Ⅲa受体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "利福平、异烟肼、吡嗪酰胺均可引起哪种不良反应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃肠道刺激症状",
+                "激活肝药酶",
+                "视神经炎",
+                "肝损害",
+                "周围神经炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "小剂量阿托品即可引起的药理作用是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管扩张",
+                "平滑肌松弛",
+                "扩瞳",
+                "腺体分泌减少",
+                "心率加快"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "造成人群对环境有害因素易感性差异的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基因多态性和遗传缺陷",
+                "生活作息习惯",
+                "遗传和非遗传因素共同作用",
+                "生活和职业环境条件",
+                "不同种病原微生物感染"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "哪一型大肠癌多见于青年人，且预后较差"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "隆起型",
+                "溃疡型",
+                "浸润型",
+                "胶样型",
+                "息肉型"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "青霉素G不宜口服的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂溶性低",
+                "易被胃酸及消化酶破坏，吸收少且不规则",
+                "口服后达峰时间长",
+                "主要分布于细胞外液",
+                "几乎全部以原形经尿排泄"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "适应性免疫应答不具备的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无需抗原激发",
+                "具有免疫记忆性",
+                "具有抗原特异性",
+                "具有再次应答的能力",
+                "精确区分“自身”和“非己”"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在B细胞对TD抗原的应答中，Th细胞不发挥作用的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗体亲和力成熟",
+                "生发中心的形成",
+                "对抗原的特异性识别",
+                "B细胞的活化",
+                "Ig类别转换"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列对妊娠合并巨幼细胞贫血的描述，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "本病多发生在妊娠前半期",
+                "外周血象表现为大细胞低血红蛋白性贫血",
+                "巨幼细胞贫血多数由于叶酸缺乏引起，可单用叶酸治疗",
+                "维生素B12缺乏无神经系统症状",
+                "叶酸缺乏无神经系统症状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "AICD是一种高度特异性的生理反馈调节，仅针对被抗原活化并发生克隆扩增的免疫细胞，正确的解释是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是Fas与FasL结合引发的细胞凋亡",
+                "免疫细胞组成性表达Fas，活化T细胞大量表达和分泌FasL",
+                "FasL通常由活化的T细胞和NK细胞产生",
+                "是Fas与FasL结合引发的细胞凋亡；免疫细胞组成性表达Fas，活化T细胞大量表达和分泌FasL",
+                "是Fas与FasL结合引发的细胞凋亡；免疫细胞组成性表达Fas，活化T细胞大量表达和分泌FasL；FasL通常由活化的T细胞和NK细胞产生"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与细菌致病性无关的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "荚膜",
+                "菌毛",
+                "磷壁酸",
+                "脂多糖",
+                "异染颗粒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "钩端螺旋体血清学诊断最常用的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "玻片凝聚试验",
+                "显微镜凝聚试验",
+                "间接凝聚试验",
+                "血凝试验",
+                "血凝抑制试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于免疫耐受下述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是由于射线照射或药物引起的",
+                "对所有的抗原均不产生免疫应答",
+                "成年动物较容易诱导形成免疫耐受",
+                "T细胞较B细胞容易形成免疫耐受",
+                "抗原在体内消失后耐受性仍持续存在"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "HBV包膜上的S蛋白为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "HBsAg",
+                "HBsAg＋HBcAg",
+                "PreS1Ag",
+                "PreS2Ag",
+                "HBsAg＋PreS1Ag＋PreS2Ag"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "使相应细菌裂解的噬菌体称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前噬菌体",
+                "毒性噬菌体",
+                "温和噬菌体",
+                "溶原性细菌",
+                "L型细菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "多种病毒通过呼吸道感染，下列病毒中不能通过呼吸道感染的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺病毒",
+                "冠状病毒",
+                "肝炎病毒",
+                "副黏病毒",
+                "痘病毒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在人体肠道正常菌群中，占绝对优势的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链球菌",
+                "大肠埃希菌",
+                "变形杆菌",
+                "白色念珠菌",
+                "无芽孢厌氧菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于病毒概念错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病毒在细胞外不能产生能量",
+                "病毒在细胞外不能合成蛋白质",
+                "病毒在细胞外不能合成自身代谢所需要的酶",
+                "包膜病毒需要宿主的细胞膜作为包膜成分",
+                "病毒需降解宿主细胞DNA以获得核苷酸"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "衣原体与病毒的不同点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对抗生素敏感",
+                "专性活真核细胞内寄生",
+                "可用鸡胚接种进行培养",
+                "可在感染细胞中形成包涵体",
+                "可通过细菌滤器"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "流行病学的基本研究方法包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "统计学检验、控制偏倚、观察性研究",
+                "实验性研究、干预性研究、分析性研究",
+                "描述性研究、统计学检验、观察性研究",
+                "描述性研究、分析性研究、实验性研究",
+                "分析性研究、病例对照研究、队列研究"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "描述某种事物或疾病发生严重程度的指标是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "率",
+                "构成比",
+                "相对比",
+                "均数",
+                "标准差"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "筛检试验的特异度是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "筛检试验阴性者患病的可能性",
+                "实际有病，根据筛检试验被确定为有病的百分比",
+                "实际有病，根据筛检试验被确定为无病的百分比",
+                "实际无病,根据筛检试验被确定为无病的百分比",
+                "实际无病，根据筛检试验被确定为有病的百分比"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对传染病病人或疑似传染病病人污染的场所和物品,医疗保健机构应当及时采取"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "封闭场所并销毁物品",
+                "强制隔离治疗",
+                "必要的卫生处理",
+                "报告上级卫生行政部门处理",
+                "提请卫生防疫部门处理"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪一组疾病，均应以一级预防为重点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地方病、传染病、职业病",
+                "职业病、心脑血管疾病、传染病",
+                "食物中毒、肿瘤、公害病",
+                "地方病、肿瘤、职业病",
+                "公害病、心脑血管疾病、传染病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列选项中，适用于两样本均数比较的假设检验有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "方差齐性检验",
+                "正态性检验",
+                "方差分析和t检验",
+                "χ2检验",
+                "t检验（唯一方法）"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在同一总体中随机抽样，其他条件不变，样本含量越大，则"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "样本标准差越小",
+                "样本标准差越大",
+                "总体均数95%可信区间越窄",
+                "总体均数95%可信区间越宽",
+                "样本均数95%的可信区间越窄"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列事项属于社区老年人预防保健服务群体预防的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心理健康指导",
+                "健康教育",
+                "培养健康的生活方式",
+                "合理营养",
+                "开展体育锻炼"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于妊娠期高血压疾病，下述最正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "妊娠期高血压疾病均发生于孕24周以后",
+                "轻度妊娠期高血压病不能直接发展为重度子痫前期",
+                "有贫血者不易并发妊娠期高血压疾病性心脏病",
+                "子痫可以在产后24h内发生",
+                "重度子痫前期时，血压常超过200/100mmHg"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在统计检验中，是否选用非参数统计方法，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "根据研究目的和数据特征确定",
+                "可在算出几个统计量和得出初步结论后进行选择",
+                "要看哪个统计结论更符合专业理论",
+                "要看哪个P值更小",
+                "基于研究目的"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "长链脂酰CoA通过线粒体内膜的载体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "载体蛋白",
+                "3-磷酸甘油",
+                "柠檬酸",
+                "苹果酸",
+                "肉碱"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血清与血浆的最主要区别在于血清缺乏"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纤维蛋白",
+                "纤维蛋白原",
+                "凝血酶",
+                "血小板",
+                "凝血因子"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎的病理变化，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺组织大面积广泛实变",
+                "肺泡性炎",
+                "以纤维素渗出为主",
+                "可合并肺肉质变",
+                "常有肺泡壁结构破坏"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾小球毛细血管血压较高时会导致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾交感神经兴奋性升高",
+                "致密斑感受器兴奋",
+                "肾素释放增加",
+                "肾小球滤过增加",
+                "醛固酮释放增加"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "琥珀胆碱用于气管镜操作时，其给药途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口服",
+                "静脉注射",
+                "肌内注射",
+                "皮下注射",
+                "吸入"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在足骨，跟骨前方的跗骨是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "足舟骨",
+                "骰骨",
+                "外侧楔骨",
+                "内侧楔骨",
+                "中间楔骨"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肝脏在物质代谢中的作用，哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝脏是维持血糖水平稳定的重要器官",
+                "肝脏是酮体生成的主要器官",
+                "肝脏可以进行生物转化作用",
+                "维生素D3转变成1-OH-D3",
+                "肝脏可以合成胆汁酸"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是慢性肾盂肾炎的主要病变特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变可单侧也可双侧发生，且两侧改变不对称",
+                "肉眼观表现为肾体积缩小，有瘢痕",
+                "均由急性肾盂肾炎转变而来",
+                "代偿扩张的肾小管内可出现甲状腺滤泡样管型",
+                "肾盂、肾盏变形，黏膜粗糙"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝细胞性黄疸，临床生化检查不应该出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血清结合胆红素上升",
+                "血清总胆红素上升",
+                "血清未结合胆红素上升",
+                "尿胆红素阳性",
+                "粪便颜色呈陶土色"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "卡比多巴治疗帕金森病的机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "激动中枢多巴胺受体",
+                "抑制外周多巴脱羧酶活性",
+                "阻断中枢胆碱受体",
+                "抑制多巴胺的再摄取",
+                "使多巴胺受体增敏"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "当肝细胞内ATP/AMP降低时，下列叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "丙酮酸激酶激活",
+                "磷酸果糖激酶-1激活",
+                "丙酮酸脱氢酶复合体激活",
+                "磷酸果糖激酶-2激活",
+                "丙酮酸羧化酶激活"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "能使动脉血压波幅增大的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心动过速",
+                "房室瓣狭窄",
+                "主动脉瓣狭窄",
+                "大动脉硬化",
+                "小动脉硬化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "由肥大细胞释放的炎症介质有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溶菌酶",
+                "血管活性胺",
+                "激肽",
+                "补体",
+                "缓激肽"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种类型的休克不宜选择缩血管药物治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低排高阻型休克",
+                "神经源性休克",
+                "高动力型休克",
+                "过敏性休克",
+                "高排低阻型休克"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列对于血脂的叙述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "均不溶于水",
+                "主要以脂蛋白形式存在",
+                "都来自肝脏",
+                "与血细胞结合被运输",
+                "脂肪与清蛋白结合被转运"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "支气管肺炎引起Ⅰ型呼吸衰竭的主要发病环节是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺内短路增多",
+                "肺泡通气与血流比例失调",
+                "阻塞性通气障碍",
+                "限制性通气障碍",
+                "弥散障碍"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "当细胞膜上的电压门控Ca2+通道开放增加后，细胞的膜电位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "将向钾离子的平衡电位移动",
+                "细胞膜内外电位差增大",
+                "将远离钠离子的平衡电位",
+                "将远离钙离子的平衡电位",
+                "将发生去极化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "流行性乙型脑炎的病变性质属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "变质性炎",
+                "渗出性炎",
+                "增生性炎",
+                "肉芽肿性炎",
+                "化脓性炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "胃癌最主要的转移途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直接扩散",
+                "淋巴道转移",
+                "血行转移",
+                "腹腔内种植",
+                "盆腔内种植"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "类风湿性关节炎关节固定的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨质疏松",
+                "慢性炎症，肉芽组织和瘢痕形成",
+                "肌痉挛",
+                "软骨变性",
+                "关节附近小动脉炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "骨骼肌细胞中横管的功能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钙离子的贮存库",
+                "钙离子进出肌纤维的通道",
+                "营养物质进出肌细胞的通道",
+                "将兴奋传向肌细胞深部",
+                "使钙离子和肌钙蛋白结合"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于基因治疗的描述，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可以使用生殖细胞作为靶细胞",
+                "最常用的载体是腺病毒载体",
+                "单基因遗传病非常适合进行基因治疗",
+                "恶性肿瘤、心脑血管等复杂性疾病不适合进行基因治疗",
+                "最为理想的基因治疗方法就是基因增补"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列有关水溶性维生素的叙述哪项是对的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不易溶于水，吸收难",
+                "体内储存量较大",
+                "摄入量超过机体饱和程度，即导致相应维生素中毒",
+                "它们多是构成酶的辅基或辅酶成分",
+                "不需要经常摄入"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列机体状态下，脑组织可利用酮体氧化供能的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "饥饿1～3天",
+                "轻型糖尿病",
+                "空腹",
+                "长期饥饿",
+                "剧烈运动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于呼吸商的叙述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "糖的呼吸商为1.00",
+                "脂肪的呼吸商为0.71",
+                "任何情况下，呼吸商不能大于1.00",
+                "是指一定时间内呼出的CO2量和吸入的O2量的比值",
+                "从非蛋白呼吸商可以推测体内氧化的糖和脂肪量的比例"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "开放性颅脑损伤最主要的处理原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "认真清创",
+                "抗生素",
+                "止痛",
+                "止血药物",
+                "纠正一般情况"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列不是影响钩体病预后的因素的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "症状轻重",
+                "患者免疫力",
+                "菌株毒力",
+                "感染钩体的途径",
+                "诊治是否及时"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "布鲁菌病并发症的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "布鲁菌病时可并发血小板减少性紫癜",
+                "可出现脑炎、脑膜炎",
+                "布鲁菌病脑膜炎时脑脊液的改变为典型的化脑改变",
+                "可以并发心内膜炎",
+                "妊娠期妇女患布鲁菌病时不进行抗菌治疗易出现早产、死产等"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于死胎的说法，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "死胎在宫腔内停留过久，能引起母体凝血功能障碍",
+                "胎儿死亡后80%在2～3周内自然娩出",
+                "B超发现胎心和胎动消失，是诊断死胎的可靠依据",
+                "发现死胎后，需等待2～3周后，再行处理",
+                "死胎一经确诊，应尽早引产"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "伤寒患者肥达反应试验阳性常开始于病程的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "第1周",
+                "第2周",
+                "第3周",
+                "第4周",
+                "第5周"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "男性儿童流行性腮腺炎时较常见的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑膜炎、脑膜脑炎",
+                "肘膝与大关节炎",
+                "睾丸炎",
+                "肾炎",
+                "肝炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下复位肩关节脱位的方法中，最易造成肱骨头骨折的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Kocher法",
+                "Stimson法",
+                "Hippocrates法",
+                "中医伤科手法",
+                "切开复位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "健康儿，前囟约1.5cm×1.5cm，未出牙，身长65cm，体重6.5kg，能大笑，不能辨认熟人和陌生人，不能独坐。其年龄大约是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～2个月",
+                "3～4个月",
+                "5～6个月",
+                "6～10个月",
+                "10～12个月"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项最有助于狂犬病的诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑组织中找到内氏小体",
+                "出现恐惧不安和恐水",
+                "曾被可疑动物咬伤",
+                "血清中和抗体阳性",
+                "脑脊液细胞数偏高"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不符合低血糖的症状或表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手抖",
+                "心悸",
+                "饥饿感",
+                "便频",
+                "皮肤多汗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "妊娠合并心脏病于分娩期的处理，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "产程开始时即给予抗生素",
+                "宫口开全后鼓励产妇屏气用力，以加快分娩",
+                "胎儿娩出后，产妇腹部放置沙袋加压",
+                "产后立即肌内注射吗啡",
+                "产后子宫收缩不良可用缩宫素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于肾损伤时出现血尿，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾损伤患者大多有血尿",
+                "血尿与损伤程度一致",
+                "肾挫伤时可出现少量血尿",
+                "严重肾裂伤一般呈大量肉眼血尿",
+                "肾蒂血管断裂可以无血尿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "婴儿腹泻，轻度脱水，在无明显呕吐，腹胀时，第1天补液应首选"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2∶1液静滴",
+                "3∶2∶1液静滴",
+                "4∶3∶2液静滴",
+                "ORS溶液口服",
+                "0.9%氯化钠液静滴"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "小婴儿发生室上性心动过速时容易诱发心力衰竭，应及时予以纠正。其室上性心动过速的心电图特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心室率＞160bpm，ST-T长期改变",
+                "心室率＞180bpm，P-R间期可以不等",
+                "心室率＞250bpm，QRS波宽大畸形",
+                "心室率160～300bpm，QRS波形态同窦性",
+                "心室率200～300bpm，R-R间期不规律"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下不是ARDS的病理和病理生理改变的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺表面活性物质增加",
+                "肺间质水肿",
+                "通气/血流比例失调",
+                "弥散障碍",
+                "低氧血症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性肾衰竭多尿期后最不可能出现的是下列哪项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低钾血症",
+                "脱水",
+                "血尿素氮及肌酐即可降至正常",
+                "继发感染",
+                "上消化道出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列液体是1/2张的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2∶3∶1含钠液",
+                "4∶3∶2含钠液",
+                "5%葡萄糖液",
+                "5%碳酸氢钠液",
+                "1.87%乳酸钠液"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "小于2.0cm的尿路结石宜选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保守治疗",
+                "体外冲击波碎石",
+                "经皮肾镜取石",
+                "输尿管肾镜取石",
+                "开放手术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "应首选糖皮质激素治疗的贫血是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "海洋性贫血",
+                "遗传性球形红细胞增多症",
+                "慢性病性贫血",
+                "自身免疫性溶血性贫血",
+                "再生障碍性贫血"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某疑似肺血栓栓塞症患者，为明确诊断应进行的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心电图",
+                "胸部X线平片",
+                "超声心动图",
+                "核素肺通气/灌注扫描",
+                "动脉血气分析"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "儿科急诊抢救惊厥患儿的首选药物为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "奋乃静",
+                "地西泮",
+                "安乃近",
+                "苯巴比妥",
+                "氯丙嗪"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下对医学伦理学的描述不准确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "医德实践规律是将医学伦理学学习成果转化为医德实践的唯一依据和可靠路径",
+                "在当代，生命伦理学对医学伦理学做了超越",
+                "医学伦理学是元伦理学",
+                "医学伦理学是医学与伦理学的交叉学科，研究“医学应当”与“医学至善”",
+                "医学伦理学以医患关系为核心"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "已确定为医疗事故的，卫生行政部门应医疗事故争议双方当事人请求，可以进行医疗事故赔偿调解。关于调解时应当遵循的原则，准确的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "互惠互利原则",
+                "患者权利保护原则",
+                "公平公正原则",
+                "医患双方协商原则",
+                "当事人双方自愿原则"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于基因研究引发的伦理问题的论述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "遗传学连锁图对某些家族来说，可能包含预警信号——该家族对某一种疾病具有易感性，患该种疾病的概率相对较大。基因研究者应依据这些家族成员的具体需求，决定是否告知",
+                "随着基因研究的深入，用人单位在招聘、雇佣人员时，不再局限于常规的身体检查，而是要求进行遗传信息乃至基因的检查。这引发了基因组图谱的信息使用与人的社会权利的争议",
+                "随着人类基因组计划的开展，也启动了相应的伦理、法律和社会意义的研究项目",
+                "基因对人类究竟有多大的影响，还需要进一步深入研究",
+                "从人类基因库里剔除“不利”基因，是一个明智的决策"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "疫苗的生产者、分配者、销售者不应因有直接接触机会获得优先接种的权利，体现的伦理要求是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "效用准则",
+                "尊重准则",
+                "分配公正",
+                "程序公正",
+                "回报公正"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列关于医患沟通中的有利准则，理解不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不伤害是有利准则的最高要求",
+                "有利准则是将病人利益放在第一位的伦理准则",
+                "有利准则要求医务人员的所作所为有利于病人",
+                "有利准则要求医务人员从整体上选择有利的医学行为",
+                "《希波克拉底誓言》中“为病家谋利益”的思想就是有利准则的体现"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "根据《基本医疗卫生与健康促进法》的规定，国家大力发展中医药事业，发挥中医药在医疗卫生与健康事业中的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主导作用",
+                "独特作用",
+                "并重作用",
+                "辅助作用",
+                "补充作用"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "残疾者最常见的心理行为问题是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "焦虑不安",
+                "自卑抑郁",
+                "忧虑担心",
+                "愤怒不平",
+                "恐惧害怕"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "暗示治疗最有效的适应证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神分裂症",
+                "心身障碍",
+                "癔症",
+                "情绪障碍",
+                "强迫症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于吗啡描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强而持久的镇痛作用",
+                "镇静作用",
+                "呼吸抑制",
+                "降低胃肠平滑肌张力",
+                "引起体位性低血压"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一个大学生刚刚参加工作，对工作环境和人际环境都有很多不适应，这位大学生哪种调整不恰当"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "调整认知态度",
+                "合理运用防御机制",
+                "接受社会支持",
+                "调整自我期望",
+                "要求单位调整岗位"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心理治疗的最终目标是使病人减轻病痛，增进心身健康，最重要的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纠正病人不正常的思想",
+                "纠正病人不正常的行为",
+                "纠正病人不健全的意志力",
+                "帮助病人坚定正确的人生观",
+                "纠正病人偏离正常的人格"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "欲研发一种新的工具质粒，计划从临床分离菌株中获得原始质粒序列再进行改建，通常不希望该质粒具有的特性是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "编码耐药基因",
+                "具有松弛复制性",
+                "具有紧密复制性",
+                "具有与其他质粒的相容性",
+                "可经接合和转化等机制在细菌间转移"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是恶性肿瘤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Krukenberg瘤",
+                "Ewing肉瘤",
+                "Hodgkin瘤",
+                "淋巴瘤",
+                "多形性腺瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于应激的情绪反应，以下正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "所有的情绪反应对人体不利",
+                "所有的情绪反应对人体有益",
+                "适度的焦虑情绪有利于个体",
+                "过度的焦虑情绪有利于个体",
+                "适度的焦虑情绪有损于个体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "糖酵解的最重要的关键酶是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "葡萄糖激酶",
+                "己糖激酶",
+                "丙酮酸激酶",
+                "6-磷酸果糖激酶-1",
+                "磷酸甘油酸激酶"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性心肌梗死时血清酶中升高最早的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳酸脱氢酶同工酶1（LDH1）",
+                "乳酸脱氢酶同工酶2（LDH2）",
+                "乳酸脱氢酶同工酶3（LDH3）",
+                "谷草转氨酶（AST）",
+                "肌酸磷酸激酶同工酶（CPK-MB）"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

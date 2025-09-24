@@ -1,0 +1,7224 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "免疫",
+        "source": "未知",
+        "filename": "【人卫一类】A1",
+        "type_all_num": 300,
+        "dev": {
+            "wrap_num": 300,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 300,
+        "time": "25年01月13日12小时10分12秒",
+        "id": "id-m5uizufs-r0ge63pq2"
+    },
+    "body": [
+        {
+            "questions": [
+                "补体的三种激活途径均必须有下列哪种成分参与"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "C1q",
+                "C4和C2",
+                "C3",
+                "B因⼦",
+                "D因⼦"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抗体产⽣过程中，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "TI抗原刺激B细胞产⽣抗体需T细胞的辅助",
+                "应答早期主要产⽣低亲和⼒的IgM",
+                "Th细胞与B细胞的相互作⽤受MHC限制",
+                "Ig的类别转换需要Th细胞的辅助",
+                "浆细胞是产⽣抗体的细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "决定抗原特异性的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原的化学性质",
+                "抗原分⼦结构的复杂性",
+                "抗原分⼦的特殊化学基团",
+                "抗原相对分⼦质量的⼤⼩",
+                "抗原的物理性状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于隐蔽抗原的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精⼦",
+                "组织相容性抗原",
+                "脑组织",
+                "睾丸",
+                "眼晶状体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于补体的叙述下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "存在于正常⼈的新鲜⾎清中",
+                "包括30余种组分",
+                "其活性较不稳定",
+                "激活后具有酶活性",
+                "在机体受抗原刺激后产⽣"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对⼈类来说，来源于下列哪种动物的抗原的免疫原性相对较强"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾦丝猴",
+                "熊猫",
+                "鹤",
+                "娃娃⻥",
+                "⾦⻰⻥"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "介导NK细胞、巨噬细胞、中性粒细胞发挥ADCC效应的Ig主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgA",
+                "IgM",
+                "IgE",
+                "IgD",
+                "IgG"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "内源性抗原肽需经下列哪种分⼦转运进⼊内质⽹"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "LMP",
+                "TAP",
+                "CLIP",
+                "HLA-DM",
+                "Ii"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "CD4 T细胞识别的抗原表位不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "线性表位",
+                "顺序表位",
+                "构象表位",
+                "蛋⽩降解后的多肽⽚断",
+                "MHCⅡ类分⼦提呈的表位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于中性粒细胞正确的叙述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "来源于淋巴样前体细胞",
+                "含有嗜天⻘颗粒",
+                "主要功能为巡视、清除病原微⽣物",
+                "在慢性炎症中起关键作⽤",
+                "可与IgE结合"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "引起1型糖尿病的抗原属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "异嗜性抗原",
+                "⾃身抗原",
+                "同种异型抗原",
+                "变应原",
+                "耐受原"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能直接杀伤肿瘤细胞的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-1",
+                "IFN-α",
+                "TNF-α",
+                "IL-6",
+                "IL-4"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "辅助性T细胞的表⾯标志之⼀"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD5",
+                "CD4",
+                "CD8",
+                "CD19",
+                "CD21"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于正常⼈丙种球蛋⽩制剂，下述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "包括胎盘球蛋⽩和⾎浆丙种球蛋⽩",
+                "可⽤于某些传染病的应急预防和潜伏期治疗",
+                "可达到防⽌发病，减轻症状，缩短病程的效果",
+                "只含IgG类抗体",
+                "⼀般为多价抗⾎清"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "B1细胞接受多糖类抗原刺激后可产⽣"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以IgM为主的⾼亲和性抗体",
+                "以IgG为主的⾼亲和性抗体",
+                "以IgM为主的低亲和性抗体",
+                "以IgG为主的低亲和性抗体",
+                "IgM和IgG两种不同类型的抗体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "除B细胞和T细胞外，与抗体产⽣有关的细胞还有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "FDC细胞",
+                "嗜酸性粒细胞",
+                "嗜碱性粒细胞",
+                "肥⼤细胞",
+                "NK细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不表达MHCⅡ类分⼦的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "初始T细胞",
+                "初始B细胞",
+                "活化B细胞",
+                "活化巨噬细胞",
+                "成熟DC细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于HLAⅡ类分⼦的说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由α链和β2",
+                "提呈外源性抗原",
+                "分布在所有有核细胞的表⾯",
+                "由HLA-A、B、C等基因编码",
+                "可与CD8分⼦结合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "NADPH氧化酶系统缺陷导致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链球菌感染",
+                "慢性⾁芽肿病",
+                "桥本病",
+                "⽩细胞黏附功能缺陷",
+                "DiGeorge综合征"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "HIV侵⼊靶细胞时，与CD4分⼦结合的蛋⽩是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "gp120",
+                "gp41",
+                "p17",
+                "P24",
+                "gp21"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下关于免疫应答的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是指免疫系统识别和清除抗原物质的整个过程",
+                "包括固有免疫和适应性免疫",
+                "免疫应答总是对机体有利",
+                "固有免疫是适应性免疫的先决条件",
+                "适应性免疫可促进固有免疫应答的发⽣"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "活化后可产⽣⼤量Ⅰ型⼲扰素的DC是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滤泡样DC",
+                "并指状DC",
+                "朗格汉斯细胞",
+                "间质DC",
+                "浆细胞样DC"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⼀患者因注射抗毒素发⽣⾎清病，最佳的处理措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输全⾎",
+                "输⽩蛋⽩",
+                "停⽌注射抗毒素",
+                "注射抗⽣素",
+                "输⾎⼩板"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于CD8＋T细胞，下列哪种说法是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可通过合成穿孔素和颗粒酶溶解靶细胞",
+                "可诱导靶细胞凋亡",
+                "不能杀伤CD4＋T细胞",
+                "通过相互作⽤的表⾯分⼦识别靶细胞",
+                "对靶细胞的杀伤具有特异性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于B细胞叙述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要参与天然免疫应答",
+                "介导细胞免疫应答",
+                "在胸腺内发育、分化、成熟",
+                "在体液免疫应答中，既是抗原提呈细胞，也是免疫应答细胞",
+                "可直接分泌产⽣免疫球蛋⽩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "T细胞特异性活化的第⼀步是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "APC对抗原的摄取",
+                "APC对抗原的加⼯和处理",
+                "初始T细胞表⾯的TCR识别APC表⾯的抗原肽-MHC复合物",
+                "IL-2的分泌",
+                "CD3的表达"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "可刺激红细胞产⽣的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "TPO",
+                "G-CSF",
+                "EPO",
+                "M-CSF",
+                "GM-CSF"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "TI抗原单独可以诱导"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗体亲和⼒成熟",
+                "Ig类别转换",
+                "记忆B细胞形成",
+                "B1细胞的免疫应答",
+                "B2细胞的免疫应答"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "可促进Th1细胞进⼀步分化，同时抑制Th2细胞增⽣的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-2",
+                "IL-4",
+                "IL-13",
+                "TNF-β",
+                "IFN-γ"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "HLAⅡ类分⼦与抗原肽结合的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "α1",
+                "α1",
+                "β1",
+                "α1",
+                "α2和β2"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下关于抗体分⼦结构域的说法，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "轻链有2个结构域",
+                "IgA和IgD的重链有4个结构域",
+                "IgE和IgM的重链有5个结构域",
+                "IgG的重链有4个结构域",
+                "抗体的Fab段有2个结构域"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "吞噬细胞表⾯CD14和TLR4识别结合的配体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "G＋菌肽聚糖",
+                "G－菌脂多糖",
+                "细菌⽢露糖",
+                "酵⺟多糖",
+                "病毒双股RNA"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "传递B细胞活化的第⼆信号分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD40",
+                "CD40L",
+                "CD21",
+                "CD81",
+                "CD28"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对于初次免疫应答，以下解释正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婴⼉刚出⽣时发⽣的免疫应答为初次免疫应答，此后都是再次免疫应答",
+                "初次免疫应答⼀般都⽐再次免疫应答更快速",
+                "初次免疫应答⼀般都⽐初次免疫应答更强⼤",
+                "初次免疫应答⼀定会发病",
+                "初次免疫应答的潜伏期通常在⼀周以上"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "机体免疫监视功能低下时易发⽣"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫耐受",
+                "⾃身免疫病",
+                "移植排斥反应",
+                "超敏反应",
+                "肿瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于IgG的叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可分为四个亚类",
+                "可通过胎盘",
+                "抗原结合价为⼆价",
+                "CH2有补体C1q结合点",
+                "经⽊⽠蛋⽩酶⽔解后可获得F（ab'）2"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种疾病不属于⾃身免疫病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "SLE",
+                "溃疡性结肠炎",
+                "重症肌⽆⼒",
+                "荨麻疹",
+                "甲状腺功能亢进"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于TI-2抗原说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌胞壁是TI-2抗原",
+                "荚膜多糖是TI-2抗原",
+                "对TI-2抗原应答的主要是B2细胞",
+                "仅能激活成熟B细胞",
+                "不能诱导抗体亲和⼒成熟"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期⾮特异性免疫应答阶段发⽣于感染后（ ）⼩时之内"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0～4",
+                "0～24",
+                "4～48",
+                "4～96",
+                "24～96"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "DC通过分泌何种细胞因⼦激活Th1细胞"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-12",
+                "IL-10",
+                "IL-2",
+                "Il-3",
+                "IL-4"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "T细胞的阴性选择发⽣在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾎管",
+                "⻣髓",
+                "淋巴结",
+                "脾",
+                "胸腺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⽤于肾衰竭导致的贫⾎、癌症或癌症化疗导致的贫⾎、失⾎后贫⾎的细胞因⼦⾸选"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "G-CSF",
+                "EPO",
+                "SCF",
+                "TNF-α",
+                "IL-11"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "抗体J链的功能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结合sIgA并转运到黏膜表⾯",
+                "保护Ig铰链区不受蛋⽩酶⽔解",
+                "将重链连接起来",
+                "将轻链和重链偶联",
+                "将免疫球蛋⽩单体分⼦连接成多聚体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪⼀项可改变⾃身组织和细胞的免疫原性"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "外伤、异体组织移植",
+                "外伤、感染、电离辐射、药物",
+                "外伤、肿瘤、免疫接种",
+                "肿瘤、免疫接种、药物",
+                "外伤⼿术、免疫接种、药物"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "TI-Ag引起免疫应答的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只引起体液免疫",
+                "可以产⽣各种类别的Ig",
+                "有免疫记忆",
+                "可以引起细胞免疫",
+                "需要巨噬细胞进⾏加⼯处理"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "两种以上的细胞因⼦发挥同样或类似的⽣物学作⽤，这种作⽤的特点称为细胞因⼦的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多效性",
+                "重叠性",
+                "协同性",
+                "拮抗性",
+                "⽹络性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "诱导T细胞向Treg细胞分化的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "SCF",
+                "TNF",
+                "IFN",
+                "TGF-β",
+                "IL-2"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "接种预防性疫苗获得免疫保护的主要原理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "诱导⾼⽔平的IgM",
+                "诱导⼤量的细胞因⼦",
+                "诱导特异性抗病原体关键蛋⽩的中和性抗体IgG",
+                "诱导补体活性⽚断产⽣",
+                "诱导特异性T细胞应答"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不能通过诱导免疫耐受治疗的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "花粉过敏症",
+                "肝癌",
+                "系统性红斑狼疮",
+                "同种异体⽪肤移植",
+                "类⻛湿关节炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于细胞因⼦的基本特征，叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以特异性⽅式发挥作⽤",
+                "合成和分泌是⼀种⾃我调控的过程",
+                "可诱导产⽣",
+                "在较低浓度下即可发挥⽣物学活性",
+                "作⽤效应具有多样性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抗体介导的超敏反应有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Ⅰ、Ⅱ、Ⅳ型超敏反应",
+                "Ⅰ、Ⅱ、Ⅲ型超敏反应",
+                "Ⅰ、Ⅲ、Ⅳ型超敏反应",
+                "Ⅱ、Ⅲ、Ⅳ型超敏反应",
+                "Ⅱ、Ⅲ型超敏反应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "NK细胞所不具备的作⽤和特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表达杀伤活化受体",
+                "具有免疫调节作⽤",
+                "表达IgFc受体",
+                "具有吞噬作⽤",
+                "表达杀伤抑制受体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "T细胞中参与⾮特异性免疫应答的亚群是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Th细胞",
+                "Tc细胞",
+                "TCRαβ＋细胞",
+                "TCRγδ＋细胞",
+                "记忆性T细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于T细胞和B细胞介导的免疫应答，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "均产⽣效应产物",
+                "对TD-Ag的应答均需T细胞的参与",
+                "效应产物的作⽤都是特异性的",
+                "都能形成免疫耐受",
+                "对TD-Ag的应答都产⽣记忆细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "介导Ⅰ型超敏反应的⽣物活性物质主要是由下列哪⼀种细胞释放的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单核细胞",
+                "巨噬细胞",
+                "嗜碱性粒细胞",
+                "B细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "由Th细胞分泌并参与CTL细胞增殖与分化的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-1",
+                "TNF",
+                "IFN-γ",
+                "MCP",
+                "IL-8"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "⽤于治疗和紧急预防细菌外毒素所致疾病的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗毒素⾎清",
+                "丙种球蛋⽩",
+                "免疫毒素",
+                "抗淋巴细胞丙种球蛋⽩",
+                "细胞因⼦"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能与肥⼤细胞表⾯FcεRⅠ结合的免疫球蛋⽩是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgG",
+                "IgM",
+                "IgE",
+                "IgD",
+                "sIgA"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "预防Rh⾎型不合的新⽣⼉溶⾎症的⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽤抗Rh⾎清给新⽣⼉进⾏⼈⼯被动免疫",
+                "给胎⼉输⼊⺟亲的红细胞",
+                "⽤过量的抗原中和⺟亲的抗Rh球蛋⽩",
+                "⽤免疫抑制剂抑制⺟体产⽣抗Rh抗体",
+                "分娩72⼩时内给产妇注射抗Rh免疫⾎清"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在B细胞对TD抗原的应答中，Th细胞不发挥作⽤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗体亲和⼒成熟",
+                "⽣发中⼼的形成",
+                "对抗原的特异性识别",
+                "B细胞的活化",
+                "Ig类别转换"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪⼀过程不需要APC的参与"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T细胞的充分活化",
+                "T细胞的发育成熟",
+                "CTL的细胞毒效应",
+                "胸腺细胞的阴性选择",
+                "T细胞的中枢耐受"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "反应性氧中间物系统中所不具备的杀菌物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超氧阴离⼦",
+                "⼀氧化氮",
+                "单态氧",
+                "游离羟基",
+                "过氧化氢"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "拮抗Th2细胞分化的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-2",
+                "IFN-γ",
+                "IL-4",
+                "IL-5",
+                "IL-1"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "天然的特异性细胞因⼦抑制物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-1Rα",
+                "IL-2R",
+                "IL-4R",
+                "IL-6R",
+                "IL-8R"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "MHC分⼦参与下列哪种细胞的分化过程"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红细胞",
+                "中性粒细胞",
+                "嗜酸性粒细胞",
+                "嗜碱性粒细胞",
+                "T细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "机体免疫⾃稳功能失调，可引发"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫缺陷病",
+                "病毒持续感染",
+                "肿瘤",
+                "超敏反应",
+                "⾃身免疫病"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "摄取、加⼯处理抗原能⼒最强的DC是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前体DC",
+                "未成熟DC",
+                "⻣髓内DC",
+                "迁移期DC",
+                "成熟DC"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "容易引起免疫耐受的抗原注射途径为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉＞⽪下、肌⾁＞腹腔",
+                "腹腔＞⽪下、肌⾁＞静脉",
+                "腹腔＞静脉＞⽪下、肌⾁",
+                "静脉＞腹腔＞⽪下、肌⾁",
+                "⽪下、肌⾁＞腹腔＞静脉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是调节性T细胞的作⽤特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分泌抑制性细胞因⼦",
+                "通过细胞间直接接触抑制",
+                "抑制APC抗原提呈",
+                "抑制肿瘤的发⽣",
+                "抑制⾃身免疫性疾病的发⽣"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于TI抗原描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "能刺激初始B细胞",
+                "如某些细菌多糖及脂多糖",
+                "即胸腺⾮依赖性抗原",
+                "能在⽆胸腺⿏诱导Ab应答",
+                "在正常个体可诱导Ab产⽣和T细胞应答"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "TNF-α主要由哪种细胞产⽣"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单核-巨噬细胞",
+                "初始T细胞",
+                "B细胞",
+                "树突状细胞",
+                "红细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抗体抗肿瘤的机制不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增强抗体的作⽤",
+                "ADCC",
+                "调理作⽤",
+                "CDC",
+                "封闭肿瘤细胞上的转铁蛋⽩受体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "可与iC3b及C3d结合，增强B细胞对抗原应答的分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD2",
+                "CD40",
+                "CD19",
+                "CD21",
+                "CD28"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对⼈体来说，⼄型肝炎病毒表⾯抗原（HBsAg）不属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸腺依赖性抗原",
+                "异种抗原",
+                "内源性抗原",
+                "天然抗原",
+                "异嗜性抗原"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种细胞不是由造⾎⼲细胞分化⽽来的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红细胞",
+                "中性粒细胞",
+                "胸腺细胞",
+                "树突状细胞",
+                "成纤维细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "能特异性杀伤肿瘤的免疫细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CTL",
+                "Mφ",
+                "Th",
+                "Treg",
+                "DC"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于γδT细胞，正确的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼤多数是CD4＋CD8＋",
+                "具有细胞毒作⽤",
+                "⼤多数是CD4＋CD8",
+                "主要分布于脾脏和淋巴结",
+                "识别抗原时具有MHC限制性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "单纯疱疹病毒感染的树突状细胞对该病毒抗原最可能的加⼯提呈途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经蛋⽩酶体降解为多肽，由MHCⅠ类分⼦提呈给CD8＋T细胞",
+                "经溶酶体降解为多肽，由MHCⅠ类分⼦提呈给CD8＋T细胞",
+                "经蛋⽩酶体降解为多肽，由MHCⅡ类分⼦提呈给CD4＋T细胞",
+                "经吞噬溶酶体降解为多肽，由MHCⅡ类分⼦提呈给CD4＋T细胞",
+                "经溶酶体降解为多肽，由MHCⅡ类分⼦提呈给CD4＋T细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "⽤⽜痘预防天花的学者是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Pasteur",
+                "Jenner",
+                "Koch",
+                "Landsteiner",
+                "Ehrlich"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "半抗原"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "除⾮与载体结合，否则不能与抗体结合",
+                "是⼤分⼦物质",
+                "通常具有多肽的性质",
+                "本身不具有免疫原性",
+                "只能触发体液免疫"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "采⽤⽪试⽅法检测细胞免疫功能时常⽤的抗原是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⻘霉素",
+                "脂多糖",
+                "结核菌素",
+                "PHA",
+                "PWM"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "借助抗原识别受体捕获抗原的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "巨噬细胞",
+                "树突状细胞",
+                "并指细胞",
+                "朗格汉斯细胞",
+                "B细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⼝服脊髓灰质炎疫苗后，肠内含量明显升⾼的免疫球蛋⽩是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "sIgA",
+                "IgD",
+                "IgG",
+                "IgM",
+                "IgE"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "B1细胞具有鉴别意义的表⾯标志是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD5＋，mIgM＋",
+                "CD5－，mIgM＋",
+                "CD5＋，mIgM",
+                "CD25＋，mIgM＋",
+                "CD25＋，mIgM"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列APC中，抗原提呈功能最强的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "巨噬细胞",
+                "树突状细胞",
+                "上⽪细胞",
+                "B细胞",
+                "内⽪细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "抗体与抗原结合的相互作⽤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "共价键",
+                "⾮共价键",
+                "⼆硫键",
+                "磷酸化作⽤",
+                "氢键"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下关于T细胞表位的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由TCR识别",
+                "由少于20个氨基酸组成",
+                "需要蛋⽩酶降解后才能释放",
+                "识别具有MHC限制",
+                "既有线性表位，⼜有构象表位"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种疾病属于重症联合免疫缺陷病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CVID",
+                "T-B-SCID",
+                "慢性⾁芽肿病",
+                "⽩细胞黏附分⼦缺陷1型（LAD1）",
+                "遗传性⾎管神经性⽔肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "新⽣⼉从⺟乳中获得的抗体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgG类抗体",
+                "IgM类抗体",
+                "IgA类抗体",
+                "IgD类抗体",
+                "IgE类抗体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种细胞因⼦可促进巨噬细胞杀灭其胞内寄⽣的结核杆菌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-1",
+                "IL-4",
+                "SCF",
+                "IFN-γ",
+                "G-CSF"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下关于轻链的说法，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "轻链分⼦量约为25kD，约由214个氨基酸残基构成",
+                "轻链分为κ链和λ链两种",
+                "⼀个免疫球蛋⽩分⼦中的两条轻链可以相同，也可以是不同型别",
+                "同⼀个体内存在分别带有κ链或λ链的抗体分⼦",
+                "5类免疫球蛋⽩中都可出现κ链和λ链"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "适于分离纯化T淋巴细胞的⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "密度梯度离⼼",
+                "亲和层析",
+                "电泳分离",
+                "FACS",
+                "沉降法"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "适应性免疫应答"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "时相是在感染后数分钟⾄96⼩时",
+                "可遗传",
+                "具有特异性",
+                "先天获得",
+                "吞噬细胞是主要效应细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "B细胞表⾯不表达的受体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "BCR",
+                "HIV受体",
+                "EB病毒受体",
+                "CR1和CR2",
+                "FcγRⅡ"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于⽩三烯的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可使平滑肌收缩",
+                "可使⽑细⾎管收缩",
+                "可使⽑细⾎管通透性增加",
+                "可使外分泌腺分泌增加",
+                "在迟发相发挥主要作⽤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个分⼦为B细胞抗原特异性识别受体"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD2",
+                "MHCⅡ",
+                "MHCⅠ",
+                "BCR",
+                "TCR"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "MHCⅠ类分⼦抗原提呈途径中，负责转运抗原肽进⼊内质⽹的分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "LMP",
+                "TAP",
+                "CLIP",
+                "HLA-DM",
+                "Ii"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胞质区含有ITIM，与B7结合后可抑制T细胞活化的CD分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD3",
+                "CD28",
+                "CD4",
+                "CD8",
+                "CD152"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于DC在抗原提呈过程中作⽤的叙述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "DC既具有免疫激活作⽤，也能诱导免疫耐受",
+                "DC既能激活初始T细胞，也能激活记忆T细胞",
+                "DC既能提呈外源性抗原，也能提呈内源性抗原",
+                "DC既能激活CD4＋T细胞，也能激活CD8＋T细胞",
+                "DC既能提呈抗原给T细胞，也能提呈抗原给B细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下关于B细胞表位的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由BCR识别",
+                "⼤多为构象表位",
+                "识别受MHC限制",
+                "⽆需蛋⽩酶降解就可识别",
+                "⼀般由10个左右氨基酸组成"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "能刺激CTL分化增殖和活化的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Th1分泌的细胞因⼦",
+                "Th2分泌的细胞因⼦",
+                "Th3分泌的细胞因⼦",
+                "Th17分泌的细胞因⼦",
+                "Treg分泌的细胞因⼦"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "嵌合抗体是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "将⿏CDR序列移植到⼈抗体可变区形成的抗体",
+                "⼀条肽链中含两个抗体可变区⽚段的抗体",
+                "⼩⿏转染⼈抗体基因后产⽣的抗体",
+                "双特异性抗体",
+                "将⿏源抗体可变区与⼈抗体恒定区融合形成的抗体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "细胞之间相互作⽤不受MHC限制的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CTL对肿瘤细胞的杀伤作⽤",
+                "NK细胞对肿瘤细胞的杀伤作⽤",
+                "APC对Th细胞的激活作⽤",
+                "CTL对病毒感染细胞的杀伤作⽤",
+                "Th细胞对B细胞的辅助作⽤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤细胞表⾯"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "HLA-Ⅱ类抗原显著增加",
+                "HLA-Ⅰ类抗原显著增加",
+                "HLA-Ⅰ类抗原显著减少",
+                "HLA-Ⅲ类抗原显著增加",
+                "HLA-Ⅰ和Ⅱ类抗原表达均降低"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "CTL细胞杀伤靶细胞的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可通过释放穿孔素、颗粒酶杀伤靶细胞",
+                "受MHCⅡ类分⼦限制",
+                "⽆抗原特异性",
+                "可通过ADCC作⽤杀伤靶细胞",
+                "可通过分泌IL-10杀伤靶细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "初始T细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "未接触抗原的成熟T细胞",
+                "具有记忆功能的T细胞",
+                "经抗原活化过的T细胞",
+                "未接触抗原的未成熟T细胞",
+                "表达⾼亲和⼒IL-2受体的T细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在机体抗HIV感染过程中，下列哪个细胞有可能成为HIV的“庇护所” "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NK细胞",
+                "CD4＋T细胞",
+                "CD8＋T细胞",
+                "B细胞",
+                "树突状细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "能与亲和素特异性结合的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原",
+                "补体",
+                "过氧化物酶",
+                "⽣物素",
+                "抗体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "尚未发现对肿瘤细胞有杀伤作⽤的免疫细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞毒T细胞",
+                "NK细胞",
+                "嗜碱性粒细胞",
+                "活化巨噬细胞",
+                "淋巴因⼦激活的杀伤细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪⼀个为NK细胞抑制性功能受体"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD16",
+                "CD56",
+                "KAR",
+                "KIR",
+                "MHCⅠ"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下对于补体介导的细胞毒作⽤的⽣物学意义描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "参与抗细菌",
+                "参与抗病毒（如流感病毒）",
+                "参与抗寄⽣⾍",
+                "引起机体⾃身细胞溶解，导致组织损伤",
+                "引起癌变"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "浆细胞的主要聚居场所是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⻣髓",
+                "胸腺",
+                "脾",
+                "淋巴结",
+                "黏膜相关淋巴组织"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能直接杀伤肿瘤细胞的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IFN-γ",
+                "TNF-α",
+                "CSF",
+                "IL-2",
+                "TGF-β"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "选择素家族成员胞膜外区CL结构域结合的组分是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "碳⽔化合物",
+                "脂类",
+                "核酸",
+                "多肽",
+                "LPS"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "未成熟DC的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾼表达共刺激分⼦",
+                "⾼表达MHC分⼦",
+                "有效提呈抗原",
+                "有效摄取抗原",
+                "⾼表达肽-MHC分⼦复合物"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "可以⽤于亲⼦鉴定的⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "声⾳识别",
+                "指纹检测",
+                "HLA型别检测",
+                "Ig⾎清型检测",
+                "⾯部识别"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "引起Ⅲ型超敏反应组织损伤的主要细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Mφ",
+                "⾎⼩板",
+                "淋巴细胞",
+                "中性粒细胞",
+                "NK细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "免疫功能相关基因中与炎症和应激反应密切相关的基因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Bf基因",
+                "TAP基因",
+                "PSMB基因",
+                "HSP70基因",
+                "HLA-DM基因"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于B1细胞的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对细菌多糖抗原应答",
+                "mIgM＋",
+                "表达CD5",
+                "⽆免疫记忆性",
+                "易发⽣体细胞⾼频突变"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对巨噬细胞具有趋化和激活作⽤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-8",
+                "MIP-1α/β",
+                "IL-1",
+                "IL-6",
+                "TNF-α"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对TI-1抗原叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常被称为B细胞丝裂原",
+                "诱导B细胞应答⽐TD-Ag早",
+                "低浓度时特异活化相应B细胞",
+                "⾼浓度时多克隆活化B细胞",
+                "可诱导记忆性B细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "CD4主要表达于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CTL",
+                "B细胞",
+                "NK细胞",
+                "Th",
+                "巨噬细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "IgG通过经典途径激活补体⾄少需要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1个",
+                "2个",
+                "4个",
+                "5个",
+                "3个"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于黏膜相关淋巴组织"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "派尔集合淋巴结",
+                "阑尾",
+                "上⽪细胞下散在的淋巴组织",
+                "扁桃体",
+                "肠系膜淋巴结"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可通过ADCC效应杀伤肿瘤细胞的淋巴细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "γδT细胞",
+                "B细胞",
+                "αβT细胞",
+                "NKT细胞",
+                "NK细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "MHCⅡ类分⼦抗原提呈途径中，HLA-DM分⼦的作⽤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "引导MHCⅡ类分⼦进⼊内体",
+                "解离抗原肽结合槽中的CLIP",
+                "引导抗原肽进⼊内体",
+                "促进MHCⅡ分⼦的折叠与装配",
+                "降解抗原肽结合槽中的Ii"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于新⽣⼉溶⾎症描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全身换⾎可治疗新⽣⼉溶⾎症",
+                "⺟⼦间ABO⾎型不符可引起此病",
+                "可以采⽤给患⼉注射抗Rh抗体预防此病",
+                "可以采⽤给Rh阴性⺟亲注射抗Rh抗体预防此病",
+                "⺟⼦间Rh⾎型不符可引起此病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种分⼦属于⼈类组织相容性抗原（即移植抗原）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD分⼦",
+                "细胞因⼦",
+                "黏附分⼦",
+                "HLA分⼦",
+                "Ig分⼦"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项属于⼈⼯主动免疫"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "注射丙种球蛋⽩预防麻疹",
+                "接种卡介苗预防结核",
+                "注射胸腺肽治疗恶性肿瘤",
+                "静脉注射CIK细胞治疗肿瘤",
+                "注射破伤⻛抗毒素治疗破伤⻛"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "与体液免疫应答异常有关的免疫缺陷病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "X连锁⽆丙种球蛋⽩⾎症",
+                "阵发性夜间⾎红蛋⽩尿",
+                "慢性⾁芽肿病",
+                "WAS",
+                "遗传性⾎管神经性⽔肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "B细胞抗原识别受体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "TCR",
+                "CD3",
+                "FcR",
+                "CR2",
+                "mIg"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于TD抗原正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在胸腺中产⽣",
+                "只有在T细胞辅助下才能产⽣针对这种抗原的抗体",
+                "仅存在于T细胞上",
+                "相应抗体在胸腺中产⽣",
+                "对此抗原不产⽣体液免疫"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "γδT细胞所不能识别的抗原是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表达于感染细胞表⾯的热休克蛋⽩",
+                "表达于感染细胞表⾯的CD1分⼦提呈的脂类抗原",
+                "表达于APC表⾯的抗原肽-MHC分⼦复合物",
+                "表达于感染细胞表⾯的某些病毒蛋⽩",
+                "表达于感染细胞表⾯的磷酸化抗原"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在Ig类别转化中，能促进IgM转化为IgE的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-4",
+                "TNF",
+                "IL-2",
+                "TGF-β",
+                "IL-10"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "DNA疫苗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是将编码病原体有效免疫原的基因插⼊病毒基因组中",
+                "是将编码病原体有效免疫原的基因插⼊细菌基因组中",
+                "可⽤于表达蛋⽩质、多糖和脂类抗原",
+                "可诱导细胞免疫和体液免疫",
+                "不易于保存和运输"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于免疫耐受的说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫耐受是对某⼀抗原物质上的所有决定簇都具有特异性",
+                "耐受最易在成年期产⽣",
+                "应⽤佐剂可增强免疫耐受效果",
+                "免疫耐受可⼈为终⽌",
+                "免疫耐受形成只与抗原的性质有关，与机体因素⽆关"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "进⾏抗肿瘤主动免疫治疗时，可给患者输⼊"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单克隆抗体",
+                "淋巴因⼦激活的杀伤细胞",
+                "灭活瘤苗",
+                "肿瘤浸润淋巴细胞",
+                "IL-10"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "⼈体内抗病毒、中和毒素、抗真菌最重要的抗体类别是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgA",
+                "IgM",
+                "IgG",
+                "IgE",
+                "IgD"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列关于DC的分类⽅法，⽬前最为认可的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经典DC和调节DC",
+                "经典DC和胸腺DC",
+                "经典DC和浆细胞样DC",
+                "经典DC和间质DC",
+                "经典DC和滤泡DC"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抗CD20靶向治疗⽤于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "再⽣障碍性贫⾎",
+                "移植排斥反应",
+                "急性髓样⽩⾎病",
+                "B细胞淋巴瘤",
+                "类⻛湿关节炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⼉童患肠道寄⽣⾍病时⾎液和肠黏液中哪种Ig可增⾼"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgG",
+                "IgA",
+                "IgM",
+                "IgD",
+                "IgE"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于再次应答，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要产⽣⾼亲和⼒的IgG抗体",
+                "抗体浓度增加快",
+                "抗体维持时间短",
+                "诱发再次应答所需抗原剂量⼩",
+                "再次应答较初次应答的潜伏期短"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "B1细胞主要存在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹膜腔和派⽒集合淋巴结中",
+                "肠道固有层和派⽒集合淋巴结中",
+                "腹膜腔和脾脏中",
+                "扁桃体和腹膜腔中",
+                "肠道固有层和腹膜腔中"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "免疫缺陷病是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫系统先天发育不全或后天受损所致免疫功能降低或缺失的⼀组临床综合征",
+                "应⽤免疫抑制剂导致的免疫⽆应答状态",
+                "由于过度⽽持久的⾃身免疫反应导致组织器官损伤的⼀类疾病",
+                "机体对某些抗原所产⽣的⾮正常⽣理性免疫应答",
+                "机体经某种抗原诱导后形成的特异性免疫⽆应答状态"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "接受病毒刺激后可产⽣⼤量Ⅰ型⼲扰素的免疫细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髓样树突状细胞",
+                "浆细胞样树突状细胞",
+                "滤泡树突状细胞",
+                "B淋巴细胞",
+                "巨噬细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "含有免疫效应分⼦的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽩喉类毒素",
+                "破伤⻛抗毒素",
+                "卡介苗",
+                "百⽇咳疫苗",
+                "脊髓灰质炎疫苗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⽤⼈IgG免疫动物，理论上不可能诱导产⽣的抗体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗κ链抗体",
+                "抗λ链抗体",
+                "抗γ链抗体",
+                "抗独特型抗体",
+                "抗α链抗体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可募集和活化巨噬细胞的细胞因⼦不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "MCP-1",
+                "MIP-1α/β",
+                "IL-10",
+                "IFN-γ",
+                "GM-CSF"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "需要做溶⾎空斑试验的情况是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "研究药物对B细胞功能的影响",
+                "检测红细胞完整性",
+                "研究单核细胞吞噬功能",
+                "测定⾃身免疫性溶⾎患者⾎清抗体滴度",
+                "检测肿瘤患者的NK细胞活性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "组成化学屏障的杀、抑菌物质不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪酸",
+                "α-防御素",
+                "乳酸",
+                "溶菌酶",
+                "抗菌肽"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能够形成免疫耐受的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B细胞和NK细胞",
+                "T细胞和NK细胞",
+                "T细胞和B细胞",
+                "B细胞和单核细胞",
+                "T细胞和单核细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "接种疫苗后，⾸先产⽣的抗体⼀般是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgM",
+                "IgG",
+                "IgA",
+                "IgE",
+                "IgD"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下关于补体系统的描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是存在于⼈和脊椎动物⾎清与组织液中的⼀组耐热蛋⽩质",
+                "本身具有酶活性，不需要活化的⼀组蛋⽩质",
+                "与炎症反应⽆关",
+                "包括30余种可溶性蛋⽩和膜结合蛋⽩",
+                "属于固有免疫系统成分，不参与特异性免疫应答"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "CD8分⼦是哪种细胞的标志"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B细胞",
+                "辅助性T细胞",
+                "细胞毒性T细胞",
+                "活化的巨噬细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "可诱导肿瘤特异性免疫应答的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "LAK细胞",
+                "TIL",
+                "抗独特型抗体疫苗",
+                "⽣物导弹",
+                "肿瘤疫苗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于抗原免疫原性影响因素的叙述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原与机体之间的亲缘关系越远，免疫原性越弱",
+                "⼀般⽽⾔，脂类较蛋⽩质免疫原性强",
+                "⼀般⽽⾔，抗原的分⼦量越⼤，免疫原性越弱",
+                "抗原的分⼦结构越复杂，免疫原性越强",
+                "抗原结构越简单，免疫原性越强"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "DC摄取凋亡的肿瘤细胞后，其肿瘤抗原⾃吞噬体逸出⾄胞浆。该抗原经过DC的加⼯处理，最有可能激活的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD4＋T细胞",
+                "CD8＋T细胞",
+                "NKT细胞",
+                "B1细胞",
+                "B2细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于AIDS的典型临床特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "机会性感染",
+                "⼼、脾衰竭",
+                "恶性肿瘤",
+                "神经系统疾病",
+                "发热、体重减轻、腹泻等AIDS相关症候群"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中和抗体发挥效应的主要作⽤机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "裂解病原体",
+                "阻⽌病原体感染宿主细胞",
+                "调理作⽤",
+                "ADCC作⽤",
+                "激活补体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "释放介导Ⅰ型超敏反应的⽣物活性介质的主要细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "巨噬细胞",
+                "单核细胞",
+                "肥⼤细胞",
+                "B细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "能产⽣IL-2、IFN-γ、TNF-α的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Th2细胞",
+                "Th1细胞",
+                "巨噬细胞",
+                "NK细胞",
+                "B细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "T细胞的⾃分泌⽣⻓因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-2",
+                "IL-3与IL-5",
+                "IL-6与IL-8",
+                "IL-1与IL-7",
+                "EPO与TPO"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "超抗原引起⾃身免疫病的机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "隐蔽抗原的释放",
+                "⾃身抗原的改变",
+                "交叉抗原的存在",
+                "免疫忽视的打破",
+                "分⼦模拟"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "细胞间相互作⽤不受MHC限制的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CTL细胞与肿瘤细胞",
+                "巨噬细胞与Th细胞",
+                "Th细胞与B细胞",
+                "树突状细胞与Th细胞",
+                "活化的巨噬细胞与肿瘤细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⼝服抗原可诱导局部黏膜免疫应答，却引起全身性免疫耐受的现象称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "耐受分离",
+                "⾼带耐受",
+                "低带耐受",
+                "免疫忽视",
+                "免疫抑制"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "重症肌⽆⼒的⾃身抗原是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾎⼩板",
+                "⼄酰胆碱受体",
+                "胰岛素受体",
+                "细胞核",
+                "平滑肌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "构成TCR特异性识别肽段的是该分⼦的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胞内区",
+                "C区",
+                "跨膜区",
+                "恒定区",
+                "CDR1～3"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "NK细胞通过ADCC机制杀伤靶细胞需要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "补体",
+                "抗体",
+                "MHC",
+                "TCR",
+                "细胞因⼦"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胸腺细胞经历阴性选择后获得了"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表达协同刺激分⼦的能⼒",
+                "杀伤靶细胞的能⼒",
+                "分泌细胞因⼦的能⼒",
+                "MHC限制性",
+                "⾃身耐受"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "MHCⅠ类分⼦抗原提呈途径中，负责降解内源性抗原的分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "LMP",
+                "TAP",
+                "CLIP",
+                "HLA-DM",
+                "Ii"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下属于Ⅱ型超敏反应性疾病的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新⽣⼉溶⾎症",
+                "系统性红斑狼疮",
+                "⾎清病",
+                "接触性⽪炎",
+                "⻘霉素过敏性休克"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于BCR，以下说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主体是⼀个mIgG分⼦",
+                "主体是五个mIgM分⼦",
+                "主体是⼀个mIgD分⼦",
+                "主体是五个mIgD分⼦",
+                "主体是⼀个mIgM分⼦"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "巨噬细胞表⾯可识别病原菌表⾯岩藻糖残基的分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "清道夫受体",
+                "Toll样受体",
+                "CD14分⼦",
+                "⽢露糖受体",
+                "调理性受体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于⾃身免疫病发病的正确说法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼉童发病多于⽼年⼈",
+                "男性多于⼥性",
+                "切除卵巢后发病率增⾼",
+                "睾丸酮可诱发某些品系⼩⿏出现系统性红斑狼疮",
+                "切除⼩⿏卵巢可避免某些品系⼩⿏发⽣⾃发性系统性红斑狼疮"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对⻝物过敏的最佳预防⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脱敏治疗",
+                "免疫⽣物疗法",
+                "过敏反应试验",
+                "避免接触过敏原",
+                "服⽤抗过敏药"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "B1细胞不具备的抗体应答特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "产⽣以IgM为主的低亲和⼒抗体",
+                "可发⽣Ig类别转换",
+                "⽆免疫记忆",
+                "在机体早期抗感染免疫发挥作⽤",
+                "识别病原体的某些多糖抗原被激活"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "A族⼄型溶⾎性链球菌感染后引起肾⼩球肾炎是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链球菌与肾⼩球基底膜具有相似表位",
+                "促进隐蔽抗原的释放",
+                "免疫功能缺陷",
+                "⾃身抗原的改变",
+                "免疫调节功能异常"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Graves病患者⾎清中存在的⾃身抗体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗TSHR抗体",
+                "抗TSH抗体",
+                "抗内因⼦抗体",
+                "抗胰岛素受体抗体",
+                "抗⼄酰胆碱受体抗体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "Th2细胞不分泌的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-10",
+                "IL-4",
+                "IFN-γ",
+                "IL-13",
+                "IL-5"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "Th2细胞通过产⽣何种细胞因⼦抑制Th1细胞的活性"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-4",
+                "IFN-γ",
+                "TNF-α",
+                "IL-12",
+                "IL-2"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "过客⽩细胞主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NK细胞",
+                "T淋巴细胞",
+                "B淋巴细胞",
+                "树突状细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "根据HLA单体型遗传特征，同胞兄弟姐妹之间有⼀个单体型相同的⼏率为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "10%",
+                "25%",
+                "50%",
+                "75%",
+                "100%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列细胞因⼦中，哪⼀个对T细胞增殖⾄关重要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-2",
+                "IL-4",
+                "IL-6",
+                "IL-10",
+                "IL-12"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪组趋化因⼦受体是HIV在巨噬细胞和T淋巴细胞上的辅助受体"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CCR2、CXCR4",
+                "CCR1、CXCR2",
+                "CCR5、CXCR4",
+                "CCR5、CX3CR1",
+                "XCR1、CCR5"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "B1细胞通过表⾯BCR可直接识别"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染细胞表⾯的热休克蛋⽩",
+                "⾃身组织细胞表⾯的MHCⅠ类分⼦",
+                "C反应蛋⽩",
+                "细菌脂多糖",
+                "细菌表⾯的岩藻糖"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对减毒活疫苗叙述有误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽤减毒或⽆毒活病原体制成",
+                "接种后产⽣类似隐性感染",
+                "⽐死疫苗更安全",
+                "保存要求⽐死疫苗⾼",
+                "能诱导产⽣细胞免疫"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "淋巴样⼲细胞可以分化为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T细胞",
+                "红细胞",
+                "⾎⼩板",
+                "巨噬细胞",
+                "嗜碱性粒细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于整合素分⼦的结构和功能，下述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "属于IgSF",
+                "由⼀条α链和⼀条β链组成",
+                "以β链不同⽽分组",
+                "参与黏附功能",
+                "可结合细胞外基质"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "与⻛湿性⼼脏病的发病机制有关的主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫忽视的打破",
+                "表位扩展",
+                "分⼦模拟",
+                "免疫隔离部位抗原的释放",
+                "⾃身抗原发⽣改变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "发⽣机制与分⼦模拟⽆关的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发性硬化症",
+                "急性肾⼩球肾炎",
+                "⻛湿性⼼脏病",
+                "类⻛湿关节炎",
+                "柯萨奇病毒感染引发的糖尿病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于免疫记忆细胞叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "再次遇到抗原时能迅速增殖与分化",
+                "仅限于B细胞",
+                "可存活数⽉⾄数年",
+                "参加淋巴细胞再循环",
+                "已接受抗原刺激"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "NK细胞杀伤肿瘤细胞时"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不需预先致敏",
+                "抗瘤谱较窄",
+                "通过表⾯的IgE Fc段发挥作⽤",
+                "有MHC限制性",
+                "在肿瘤晚期时杀瘤作⽤较强"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "双抗体夹⼼ELISA检测⼈⾎清IL-2⽔平，所⽤的酶标记特异性抗体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "酶标记的包被抗体",
+                "酶标记⽺抗⼈IL-2抗体",
+                "酶标记⽺抗⿏IL-2抗体",
+                "酶标记⽺抗⿏Ig抗体",
+                "酶标记⽺抗⼈Ig抗体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于Th17细胞的叙述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Th17细胞分泌IL-21促进Th17细胞的扩增",
+                "Th17细胞分泌IL-23维持与稳定Th17细胞的特征",
+                "Th17细胞可分泌⼤量IL-22",
+                "Th17细胞参与病理性肠道炎症",
+                "TGF-β抑制Th17细胞分化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⾮专职性APC最重要的属性是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组成性表达MHCⅠ类分⼦",
+                "诱导性表达MHCⅠ类分⼦",
+                "组成性表达MHCⅡ类分⼦",
+                "诱导性表达MHCⅡ类分⼦",
+                "诱导性表达MHCⅢ类分⼦"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于抗原抗体反应，下列哪项描述是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原抗体反应具有特异性",
+                "抗原抗体反应具有可⻅性",
+                "抗原抗体反应具有可逆性",
+                "抗原抗体反应为⾮共价结合",
+                "抗原抗体反应的物质基础，是抗原决定基与抗体分⼦中的互补决定区相互结合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对抗原致免疫耐受描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原剂量过⾼或过低都可导致免疫耐受",
+                "单体抗原较其聚体容易导致免疫耐受",
+                "特殊的抗原表位及抗原表位的变异均可导致免疫耐受",
+                "不易被Mϕ处理提呈的抗原易致免疫耐受",
+                "⽪下注射抗原易致免疫耐受"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不表达HLAⅠ类抗原的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞",
+                "成熟红细胞",
+                "⾎⼩板",
+                "⽹织红细胞",
+                "肝细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "淋巴结中初始B细胞主要存在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "初级淋巴滤泡",
+                "次级淋巴滤泡",
+                "髓质区",
+                "⽣发中⼼",
+                "深⽪质区"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对B细胞内化抗原描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内化的抗原可经MHCⅡ类分⼦途径提呈",
+                "只有产⽣了第⼀信号，B细胞才能内化抗原",
+                "内化的抗原可经MHCⅠ类分⼦途径提呈",
+                "B细胞活化的第⼀信号是抗原与BCR结合后产⽣",
+                "抗原信息提呈给抗原特异性Th细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "属于同种异型抗原的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲胎蛋⽩",
+                "HLA⾎型物质",
+                "甲状腺球蛋⽩",
+                "肠毒素",
+                "外毒素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪⼀种物质与Ⅰ型超敏反应⽆关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组胺",
+                "备解素",
+                "激肽",
+                "⽩三烯",
+                "前列腺素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "促进红细胞的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "EPO",
+                "IL-11",
+                "TPO",
+                "IL-10",
+                "IL-4"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "具有抗原提呈功能的固有免疫细胞不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "郎格罕细胞",
+                "巨噬细胞",
+                "树突状细胞",
+                "并指状细胞",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "区别B1和B2细胞的重要表⾯标志"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD3",
+                "CD5",
+                "CD40",
+                "CD79",
+                "CD86"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "系统性红斑狼疮（SLE）致病机制属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Ⅰ型超敏反应",
+                "Ⅱ型超敏反应",
+                "Ⅲ型超敏反应",
+                "Ⅳ型超敏反应",
+                "免疫缺陷病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "最不易引起免疫耐受的情况是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新⽣期注射可溶性抗原",
+                "成年期注射可溶性抗原",
+                "新⽣期注射颗粒性抗原",
+                "成年期注射颗粒性抗原",
+                "成年期注射佐剂与颗粒性抗原"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "X连锁慢性⾁芽肿病（CGD）属于哪类免疫缺陷病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T淋巴细胞缺陷病",
+                "B淋巴细胞缺陷病",
+                "联合免疫缺陷病",
+                "补体缺陷病",
+                "吞噬细胞缺陷病"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于⾃身抗体的正确说法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "检出⾃身抗体即可诊断患有⾃身免疫病",
+                "检出⾃身反应性T细胞即可诊断患⾃身免疫病",
+                "⾃身抗体有助于清除衰⽼变性的⾃身细胞",
+                "健康个体没有⾃身抗体产⽣",
+                "⾃身抗体都能导致组织损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "既表达MHCⅠ类分⼦，⼜表达MHCⅡ类分⼦的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红细胞",
+                "嗜碱性粒细胞",
+                "B细胞",
+                "中性粒细胞",
+                "肥⼤细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD40L是位于B细胞表⾯的第⼆信号分⼦，是CD40的配体",
+                "CD40是位于B细胞表⾯的第⼆信号分⼦，是CD40L的受体",
+                "CD40L是位于B细胞表⾯的第⼆信号分⼦，是CD34的配体",
+                "CD40是位于B细胞表⾯的第⼆信号分⼦，是CD34的受体",
+                "CD40和CD40L都是位于B细胞表⾯的第⼆信号分⼦，两者的作⽤恰恰相反"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "IgE分⼦中，具有⾼亲和性、可结合到肥⼤细胞上的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Fab段",
+                "CH2功能区",
+                "H链恒定区",
+                "HVR区",
+                "Fc段"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "固有免疫分⼦不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "防御素",
+                "补体系统",
+                "细胞因⼦",
+                "溶菌酶",
+                "抗毒素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "HLA完全相同的供受者间进⾏移植，发⽣排斥反应的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "移植物没有充分⾎液供应",
+                "受者产⽣封闭抗体",
+                "供者患有先天免疫缺陷",
+                "常染⾊体编码的mH抗原不匹配",
+                "受者患有后天免疫缺陷"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于旁路激活途径正确的叙述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "需要抗原抗体的识别和反应",
+                "膜攻击单位与经典途径相同",
+                "⾸先活化的补体成分是C5",
+                "形成的C3转化酶与经典途径相同",
+                "形成的C5转化酶与经典途径相同"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于肿瘤免疫的叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞免疫是抗肿瘤免疫的主要机制",
+                "抗体在抗肿瘤中并不发挥主要作⽤",
+                "静⽌和活化的巨噬细胞均能杀瘤细胞",
+                "NK细胞是抗肿瘤的第⼀道防线",
+                "增强抗体具有促进肿瘤⽣⻓的作⽤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "T细胞通过哪个分⼦促进B细胞增殖、分化和抗体产⽣"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD2",
+                "CD40L",
+                "CD152",
+                "PD-1",
+                "ICOS"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于⽣发中⼼的FDC，以下说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "这是B细胞分化中的⼀个阶段",
+                "这是⼀种脂肪细胞",
+                "始终与T细胞接触",
+                "这是具备抗原提呈能⼒的DC",
+                "可将抗原浓缩、滞留在细胞表⾯"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不能⽤于可溶性抗原检测的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "间接凝集试验",
+                "反向间接凝集试验",
+                "间接凝集抑制试验",
+                "直接凝集试验",
+                "SPA协同凝集试验"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "可直接作⽤于⾰兰⽒细菌细胞壁、使之溶解破坏的物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "C反应蛋⽩",
+                "穿孔素",
+                "溶菌酶",
+                "⽢露糖结合凝集素",
+                "乳铁蛋⽩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "补体活性⽚段所不具备的⽣物学作⽤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "调理作⽤",
+                "炎症介质作⽤",
+                "中和作⽤",
+                "免疫调节作⽤",
+                "清除免疫复合物作⽤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "成熟树突状细胞具有的⽣物学特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾼表达调理性受体，摄取加⼯抗原能⼒强",
+                "⾼表达模式识别受体，摄取加⼯抗原能⼒强",
+                "⾼表达共刺激分⼦，摄取加⼯抗原能⼒强",
+                "⾼表达MHCⅡ类分⼦，提呈抗原能⼒强",
+                "⾼表达黏附分⼦，迁移能⼒强"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "最易诱导免疫耐受的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T细胞",
+                "B细胞",
+                "巨噬细胞",
+                "单核细胞",
+                "NK细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种抗原，不是颗粒性抗原"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾦⻩⾊葡萄球菌",
+                "伤寒杆菌",
+                "红细胞",
+                "抗原包被的乳胶微粒",
+                "细菌外毒素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可促进Th2细胞⽣成的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-2",
+                "IL-12",
+                "TGF-β",
+                "IFN-γ",
+                "IL-4"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "⾃身免疫病的组织损伤机制包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Ⅰ、Ⅱ、Ⅲ型超敏反应",
+                "Ⅱ、Ⅲ、Ⅳ型超敏反应",
+                "Ⅲ、Ⅳ型超敏反应",
+                "Ⅰ、Ⅱ、Ⅳ型超敏反应",
+                "Ⅱ、Ⅲ型超敏反应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于T细胞介导的抗肿瘤免疫，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "受MHC限制",
+                "CD8＋T细胞是主要效应细胞",
+                "抗原致敏的T细胞才能杀伤肿瘤细胞",
+                "Th细胞不参与抗肿瘤免疫反应",
+                "在肿瘤免疫应答中起重要作⽤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于诱导免疫耐受的⽅法的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "应⽤IFN-γ诱导抗原提呈细胞上调MHCⅡ类分⼦表达",
+                "静脉注射抗原",
+                "应⽤⾃身抗原肽拮抗肽",
+                "阻断共刺激信号",
+                "过继输⼊抑制性免疫细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "存在于树突状细胞表⾯，与HIV免疫逃逸有关的受体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Fc受体",
+                "DC-SING受体",
+                "CXCR",
+                "CCR",
+                "CX3CR"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "氨苯磺酸结合载体诱导机体产⽣的抗氨苯磺酸抗体，只能与氨苯磺酸结合，⽽⽆法与结构相近的氨苯甲醛结合，这体现了抗原的什么性质"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫原性",
+                "免疫反应性",
+                "抗原特异性",
+                "抗原的交叉免疫性",
+                "半抗原-载体效应"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "PSA属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "致癌病毒产物",
+                "基因突变产物",
+                "正常组织中的隐蔽抗原",
+                "胚胎抗原",
+                "分化抗原"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "T细胞表⾯传递抗原识别信号的分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD2",
+                "CD3",
+                "CD4",
+                "CD8",
+                "CD28"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "Th细胞活化B细胞主要靠下列哪两种分⼦间的相互作⽤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD4和MHCⅡ类分⼦",
+                "CD40L和CD40",
+                "B7和CD28",
+                "B7和CTLA-4",
+                "ICAM和LFA-1"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "具有抑制病毒增殖作⽤细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IFN-α",
+                "TNF-α",
+                "IL-1",
+                "IL-6",
+                "IL-2"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "与艾滋病发病密切相关的主要受体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD3",
+                "CD4",
+                "CD8",
+                "CD28",
+                "CD40"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "Ig分⼦的独特型决定簇存在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "重链C区",
+                "轻链C区",
+                "重链Ⅴ区",
+                "轻链V区",
+                "重链和轻链的V区"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以完整蛋⽩形式激活T细胞，并不受MHC限制的抗原是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完全抗原",
+                "超抗原",
+                "半抗原",
+                "TD抗原",
+                "TI抗原"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "B细胞中枢耐受形成，描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不成熟B细胞遇⾃身Ag",
+                "可在⻣髓及末梢中发⽣",
+                "仅在胚胎发育期发⽣",
+                "经克隆消除所致",
+                "需与⾃身Ag⾼亲和⼒结合"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "可鉴定T细胞亚群的⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "ELISA",
+                "ELISPOT",
+                "间接凝集试验",
+                "免疫荧光法",
+                "沉淀反应"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "机体免疫防御反应异常增⾼，可引发"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤",
+                "超敏反应",
+                "严重感染",
+                "免疫缺陷病",
+                "⾃身免疫病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于CD4＋T细胞，正确的说法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "其数量占总T细胞的30%～35%",
+                "识别抗原时受MHCⅠ类分⼦的限制",
+                "主要分化为CTL细胞",
+                "其TCR主要是αβ型",
+                "其效应细胞不具有免疫抑制作⽤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "补体激活旁路途径中形成C3转化酶需要下列哪种补体固有成分"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "C1",
+                "C2",
+                "C3",
+                "C4",
+                "C5"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "单核细胞进⼊肝脏后发育⽽成的免疫细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "破⻣细胞",
+                "库普弗细胞",
+                "⼩胶质细胞",
+                "朗格汉斯细胞",
+                "肥⼤细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⽬前临床上肾脏移植⾯临的主要困难之⼀是移植排斥反应，请问诱导该反应的主要抗原属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Forssmann抗原",
+                "异种抗原",
+                "同种异型抗原",
+                "⾎型抗原",
+                "独特型抗原"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "与G-CSF联合应⽤于外周⾎⼲细胞移植的重组细胞因⼦药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "LT",
+                "IL-6",
+                "IFN-γ",
+                "SCF",
+                "IL-4"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "黏膜相关淋巴组织中的B细胞主要分泌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgG类抗体",
+                "IgA类抗体",
+                "IgE类抗体",
+                "IgM类抗体",
+                "IgD类抗体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "未成熟B淋巴细胞表达的膜免疫球蛋⽩是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "mIgA",
+                "mIgM",
+                "mIgE",
+                "mIgD",
+                "mIgG"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "介导B细胞活化第⼆信号的分⼦对是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD28-B7",
+                "CD40-CD40L",
+                "BCR-抗原",
+                "CD4-MHCⅡ类分⼦",
+                "CD8-MHCⅠ类分⼦"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "抗IgE（Xolair）⽤于下列哪种疾病治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持续性哮喘",
+                "斑块性银屑病",
+                "多发性硬化症",
+                "年龄相关性⻩斑病变",
+                "类⻛湿关节炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "单克隆抗体是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是指所有具有相同H链的抗体",
+                "是由突变的浆细胞产⽣",
+                "具有⾼度均⼀性",
+                "具有识别多种抗原决定簇之特点",
+                "对⼈体⽆免疫原性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列细胞因⼦中，对T细胞增殖分化没有作⽤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-12",
+                "IL-10",
+                "IL-8",
+                "IL-6",
+                "IL-2"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "个体甄别是依据HLA分⼦的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肽结合区",
+                "跨膜区",
+                "胞浆区",
+                "Ig样区",
+                "单体型"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关免疫器官和组织的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⻣髓是所有免疫细胞发育和成熟的场所",
+                "脾是对⾎液性抗原产⽣免疫应答的主要场所",
+                "淋巴结是T细胞的主要定居地",
+                "黏膜免疫系统是局部免疫应答发⽣部位",
+                "脾是⼈体最⼤的外周免疫器官"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "可诱导B细胞分化为分泌IgE的浆细胞的细胞因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IL-4",
+                "IL-2",
+                "IL-6",
+                "IFN-γ",
+                "TGF-β"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "经典途径中激活补体能⼒最强的免疫球蛋⽩是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IgG",
+                "IgE",
+                "⾎清型IgA",
+                "sIgA",
+                "IgM"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "B细胞的体细胞⾼频突变是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B细胞在任何时候都可能发⽣突变，频率远⾼于普通体细胞",
+                "B细胞在分裂时发⽣突变的频率远⾼于普通体细胞",
+                "B细胞在⻣髓中阴性选择时突变的频率远⾼于普通体细胞",
+                "B细胞的突变频率远⾼于普通体细胞，⼤约⾼100倍",
+                "B细胞的突变频率远⾼于普通体细胞，⼤约⾼10倍"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "初始T细胞活化所需的第⼆信号"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由CD3分⼦转导",
+                "由TCR分⼦胞浆区直接转导",
+                "代表适应性免疫应答严格的特异性",
+                "由TCR识别APC提呈的抗原肽-MHC分⼦复合物⽽产⽣",
+                "是APC与T细胞共刺激分⼦相互作⽤的结果"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于IgE的说法哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在五类Ig中⾎清含量最低",
+                "有CH4区",
+                "可介导Ⅰ型超敏反应",
+                "有亲细胞性",
+                "在种系发育过程中最早产⽣"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于免疫耐受下述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是由于射线照射或药物引起的",
+                "对所有的抗原均不产⽣免疫应答",
+                "成年动物较容易诱导形成免疫耐受",
+                "T细胞较B细胞容易形成免疫耐受",
+                "抗原在体内消失后耐受性仍持续存在"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "可直接作⽤于G＋菌细胞壁、使之溶解破坏的物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "C反应蛋⽩",
+                "穿孔素",
+                "TNF-α",
+                "⽢露聚糖结合凝集素",
+                "溶菌酶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "动物⾎清抗毒素对⼈⽽⾔，属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "异种抗原",
+                "同种异型抗原",
+                "独特型抗原",
+                "异嗜性抗原",
+                "⾃身抗原"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关未成熟DC，哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾼表达TLR",
+                "⾼表达调理性受体",
+                "⾼表达趋化因⼦受体",
+                "⾼表达MHCⅡ类分⼦",
+                "摄取加⼯抗原能⼒强"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "与特异性抗原相遇前的成熟T细胞称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "初始T细胞",
+                "效应T细胞",
+                "细胞毒性T细胞",
+                "记忆T细胞",
+                "前T细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "氯苯那敏抗过敏的作⽤原理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "稳定肥⼤细胞",
+                "松弛平滑肌",
+                "促IgE合成转变为IgG合成",
+                "灭活组胺",
+                "拮抗组胺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "引起新⽣⼉溶⾎症患⼉红细胞溶解的抗体是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "天然的⾎型抗体IgA",
+                "免疫的⾎型抗体IgA",
+                "天然的⾎型抗体IgM",
+                "免疫的⾎型抗体IgM",
+                "免疫的⾎型抗体IgG"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关固有免疫应答与适应性免疫应答的关系，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "固有免疫应答参与适应性免疫应答的全过程",
+                "固有免疫应答启动适应性免疫应答",
+                "固有免疫应答影响适应性免疫应答的强度",
+                "固有免疫应答影响适应性免疫应答的类型",
+                "适应性免疫应答不影响固有免疫应答的强度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "参与Ⅰ型超敏反应的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "巨噬细胞",
+                "NK细胞",
+                "T细胞",
+                "肥⼤细胞",
+                "树突状细胞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "兄弟姐妹间引起器官移植排斥反应的物质属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾃身抗原",
+                "同种异型抗原",
+                "异种抗原",
+                "异嗜性抗原",
+                "隐蔽抗原"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "特异性免疫治疗不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "免疫毒素疗法",
+                "细胞因⼦治疗",
+                "抗毒素⾎清治疗",
+                "抗体导向化学疗法",
+                "细胞因⼦拮抗治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最易引起免疫耐受的抗原是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颗粒性抗原",
+                "可溶性抗原",
+                "⼤分⼦聚合状态抗原",
+                "细菌",
+                "⻢⾎清⽩蛋⽩加佐剂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "哺乳类动物的中枢免疫器官包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴结和脾脏",
+                "胸腺和⻣髓",
+                "法⽒囊和胸腺",
+                "⻣髓和黏膜相关淋巴组织",
+                "淋巴结和⻣髓"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "免疫耐受是指机体对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "任何抗原都不发⽣反应的状态",
+                "改变的⾃身成分不发⽣反应的状态",
+                "⾃身组织成分不发⽣反应的状态",
+                "某种抗原不发⽣反应的状态",
+                "超抗原不发⽣反应的状态"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关环孢素A的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要作⽤是降低T细胞活性",
+                "抑制细胞因⼦的释放",
+                "⽤于治疗急性移植排斥反应",
+                "从真菌代谢产物中提取",
+                "也⽤于治疗肿瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "脾脏和淋巴结⽣发中⼼主要由（ ）聚积形成"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T淋巴细胞",
+                "B淋巴细胞",
+                "粒细胞",
+                "巨噬细胞",
+                "NK细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "补体激活的三条途径的共同末端通路是补体的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "合成阶段",
+                "识别阶段",
+                "活化阶段",
+                "膜攻击阶段",
+                "降解阶段"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "补体激活过程中产⽣的哪⼀种产物可固定于细菌或其他颗粒性物质的表⾯"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "C2a",
+                "C3a",
+                "C3b",
+                "C4a",
+                "C5b"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抗CD3、抗CD25等单克隆抗体作为免疫抑制剂在临床上⾸先治疗下列哪种疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性⼄型病毒性肝炎",
+                "肝细胞癌",
+                "肾移植后急性排斥反应",
+                "类⻛湿性关节炎",
+                "持续性哮喘"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于初始T细胞与APC间黏附分⼦的⾮特异性结合，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发⽣在淋巴结的副⽪质区",
+                "包括LFA-1与ICAM-1的结合",
+                "包括CD2与LFA-3的结合",
+                "是不可逆的",
+                "为TCR识别特异性抗原肽提供机会"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于TSA的正确叙述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只存在于某种肿瘤细胞表⾯⽽不存在于正常细胞的新抗原",
+                "特异性⾼，⼤部分是超抗原",
+                "诱发宿主免疫反应⽆MHC限制性",
+                "在胚胎发育时期曾经出现过",
+                "⼀般是9个氨基酸的短肽"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下不属于Ⅰ型超敏反应性疾病的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "荨麻疹",
+                "⽀⽓管哮喘",
+                "⾎清过敏性休克",
+                "过敏性⿐炎",
+                "链球菌感染后的肾⼩球肾炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "可抑制T细胞活化的配对分⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B7/CD28",
+                "CTLA-4/B7",
+                "LFA-1/ICAM-1",
+                "CD40L/CD40",
+                "CD2/LFA-3"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⽣发中⼼⼤约形成于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗原进⼊机体时",
+                "抗原进⼊机体第⼆天",
+                "抗原进⼊机体⼀周后",
+                "抗原进⼊机体两周后",
+                "抗原进⼊机体三周后"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "婴幼⼉易感染含TI-2抗原的病原体的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婴幼⼉体内的B1细胞不成熟",
+                "婴幼⼉体内的B2细胞不成熟",
+                "婴幼⼉体内的Th1细胞不成熟",
+                "婴幼⼉体内的Th2细胞不成熟",
+                "婴幼⼉体内的DC细胞不成熟"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于B1细胞错误的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表⾯标记⼤多为CD5＋、CD11＋、CD23－、mIgM＋",
+                "识别Ag谱较窄，主要包括TI-Ag和变性的⾃身成分",
+                "个体发育过程中出现较晚",
+                "产⽣的免疫应答以IgM为主，⽆Ig类别转换和免疫记忆",
+                "具有⾃我更新的能⼒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "当肺癌细胞表⾯由HLA-B位点编码的分⼦表达减少时，以下哪种细胞的抗肿瘤作⽤最可能下降"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NK细胞",
+                "CTL",
+                "巨噬细胞",
+                "γδ细胞",
+                "B细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "HPV疫苗可预防"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宫颈癌",
+                "乳腺癌",
+                "⿊⾊素瘤",
+                "成⼈T细胞⽩⾎病",
+                "前列腺癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "耐受原表位是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "能诱导免疫耐受的Ag所具有的表位",
+                "能诱导B细胞活化的表位",
+                "能诱导Ts细胞活化的Ag表位",
+                "能诱导Mφ活化的表位",
+                "能诱导Th细胞活化的Ag表位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "介导T细胞活化的共刺激分⼦"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CD16",
+                "CD28",
+                "CD4",
+                "CD8",
+                "CTLA-4"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "进⾏器官移植时优先考虑的候选供者是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者的⽗⺟",
+                "患者的妻⼦",
+                "患者的⼦⼥",
+                "患者的表兄弟姐妹",
+                "患者的同胞兄弟姐妹"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "参与T细胞与APC细胞间⾮特异性相互作⽤的T细胞表⾯分⼦有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "LFA-1",
+                "CD80",
+                "CD86",
+                "CD40",
+                "LFA-3"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列可被动转移Ⅳ型超敏反应的成分是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "巨噬细胞",
+                "淋巴细胞",
+                "⾎清Ig",
+                "⾎清补体",
+                "中性粒细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于T细胞识别同种抗原机制的正确描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宿主的同种异型MHC分⼦可通过直接和间接途径被T细胞识别",
+                "受者T细胞识别移植物APC表⾯同种异型MHC分⼦为直接识别",
+                "受者T细胞识别移植物APC表⾯同种异型MHC分⼦为间接识别",
+                "直接识别排斥反应较弱",
+                "间接识别需要供者APC参与"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⼈T细胞区别于B细胞及其他细胞的特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "形态",
+                "Fc受体",
+                "胞质颗粒",
+                "TCR",
+                "Ig表⾯标志"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "B细胞以BCR介导内化抗原后，其抗原肽-MHC分⼦复合物形成的部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞膜",
+                "内质⽹",
+                "MHC-Ⅱ类⼩室",
+                "⾼尔基体",
+                "蛋⽩酶体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "只有偶联到蛋⽩质载体上才具有免疫原性的物质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "调理素",
+                "佐剂",
+                "半抗原",
+                "变应原",
+                "耐受原"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "⼀种细胞因⼦可增强另⼀种细胞因⼦的功能，这种作⽤的特点称为细胞因⼦的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多效性",
+                "重叠性",
+                "协同性",
+                "拮抗性",
+                "⽹络性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "导致机体对肿瘤细胞产⽣免疫耐受的因素不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤抗原⼤部分属于⾃身抗原",
+                "肿瘤细胞MHC分⼦表达下调或丢失",
+                "抗原提呈细胞表⾯的B7、CD40分⼦表达下调",
+                "肿瘤细胞具有异质性",
+                "肿瘤细胞产⽣抑制性的细胞因⼦"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "诱导T细胞耐受较为有效的⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肌内注射⼤剂量TI抗原",
+                "⽪下注射⼤剂量TI抗原",
+                "⽪下注射⼤剂量TD抗原",
+                "静脉注射⼤剂量TI抗原",
+                "静脉注射⼤剂量TD抗原"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "具有⾃我更新能⼒的淋巴细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "NK细胞",
+                "B1细胞",
+                "γδT细胞",
+                "αβT细胞",
+                "B2细胞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "影响⾃身免疫病发⽣的因素不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "年龄和性别",
+                "体重和身⾼",
+                "免疫系统功能",
+                "激素的影响",
+                "遗传因素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

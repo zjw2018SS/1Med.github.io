@@ -1,0 +1,11 @@
+{
+    "wrap_re": "(?<=\\d+\\. )[\\s\\S]+?(?=\\d+\\. (?![%小～~]))",
+    "type_code_input_re": "1",
+    "type_re": "@单选题",
+    "q_re": "[\\s\\S]+?(?=A、)",
+    "options_wrap_re": "A、[\\s\\S]+?(?=答案)",
+    "option_re": "(?<=[A-Z]、)[\\s\\S]+?(?=\\n)",
+    "answer_true_re": "(?<=答案：)[A-Z]",
+    "analysis_re": "",
+    "answer_true_row_input_re": ""
+}

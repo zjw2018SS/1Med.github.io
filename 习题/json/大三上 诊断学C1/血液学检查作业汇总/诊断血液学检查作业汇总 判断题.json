@@ -1,0 +1,223 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "诊断血液学检查作业汇总",
+        "type_all_num": 25,
+        "dev": {
+            "wrap_num": 25,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_3_num": 25,
+        "time": "24年12月01日19小时31分38秒",
+        "id": "id-m45itwg5-lepzpjopd"
+    },
+    "body": [
+        {
+            "questions": [
+                "核右移是中性粒细胞的毒性变化。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "空腹采血是指在禁食8小时后空腹采取的标本,一般在晨起早餐前采血,常用于临床生化检查。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "增长较速的恶性肿瘤血沉多明显减慢,可能与球蛋白、 纤维蛋白减少,肿瘤组织坏死有关。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "镰形细胞,形如镰刀状,常见于增生性贫血。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "嗜酸性粒细胞增多主要见于过敏性疾病,某些传染病。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "显微镜法计数红细胞时需在低倍镜下计数。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "分叶核粒细胞分叶过多,分叶在 5 叶以上超过 3%时称左移。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正常人红细胞生存时间约为120 天,因此成人体内每天约 1/120的红细胞因衰老而被破坏。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "ESR是指红细胞在一定条件下沉降速率。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "网织红细胞是早幼红细胞到成熟红细胞之间尚未完全成熟的红细胞。"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

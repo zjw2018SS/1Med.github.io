@@ -1,0 +1,1032 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（甲状腺+乳房）A1",
+        "type_all_num": 42,
+        "dev": {
+            "wrap_num": 42,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 42,
+        "time": "25年01月13日11小时44分20秒",
+        "id": "id-m5ui2l50-dk45ifes4"
+    },
+    "body": [
+        {
+            "questions": [
+                "乳腺癌最常发生疾病的部位为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头部位",
+                "外下象限",
+                "内下象限",
+                "外上象限",
+                "内上象限"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "乳腺癌最常发生疾病的部位为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头部位",
+                "内上象限",
+                "外上象限",
+                "内下象限",
+                "外下象限"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于乳腺炎的治疗方法，哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期可行局部热敷，使炎症消失",
+                "脓肿形成后，主要治疗是及时排脓",
+                "乳腺脓肿均应做放射状切口引流",
+                "为了使脓肿引流通畅，可在脓肿最低部位另加切口做对口引流",
+                "脓肿引流后有乳瘘者可应用药物终止乳汁分泌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期乳癌的最主要临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无痛性多个结节状硬块",
+                "无痛单发性小肿块",
+                "乳头或局部皮肤凹陷",
+                "皮肤出现“橘皮样”外观",
+                "患侧腋窝触及孤立肿大之淋巴结"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于甲状腺乳头状癌，下列哪项不正确 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "女性占大多数",
+                "较早出现颈淋巴结转移",
+                "老年人占大多数",
+                "约占成人甲状腺癌的大多数",
+                "多中心者占大多数"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "乳腺纤维腺瘤的治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术切除",
+                "药物治疗",
+                "药物治疗，必要时手术",
+                "抗感染治疗",
+                "抗结核治疗"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "预后最差的乳腺癌类型是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头状癌",
+                "髓样癌",
+                "炎性乳腺癌",
+                "胶样癌",
+                "腺癌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "判断甲亢术前准备病情控制是否理想，下列哪项指标最主要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "每日睡眠达9小时",
+                "体重增加3kg",
+                "突眼度减少2mm",
+                "腺体变实，由Ⅲ°肿大缩小至Ⅱ°肿大",
+                "脉率80次/min，血压15.6/10.4kPa（120/80mmHg）"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "甲状腺功能亢进术前准备通常不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T3、T4测定",
+                "控制心率",
+                "喉镜检查",
+                "给予氢化可的松",
+                "测定基础代谢率"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下不是浸润性非特殊癌的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺癌",
+                "髓样癌",
+                "浸润性导管癌",
+                "硬癌",
+                "乳头状癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "乳头有鲜红色血性溢液时，最常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳房结核",
+                "急性乳腺炎",
+                "乳房囊性增生病",
+                "乳房肉瘤",
+                "乳管内乳头状瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "乳房囊性增生症的最主要治疗手段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增生部位局部切除术",
+                "全乳腺切除术",
+                "常规用激素治疗",
+                "药物治疗",
+                "放射治疗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "甲亢时，下述哪项检查最能反映甲状腺功能"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T4测定",
+                "基础代谢率",
+                "核素扫描",
+                "TSH测定",
+                "血清中抗甲状腺球蛋白测定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正常基础代谢率是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "－10～0",
+                "0～＋10",
+                "0～＋20",
+                "－10～＋10",
+                "－20～＋20"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "甲亢术后12小时，出现重度呼吸困难，口唇发绀，鼻翼翕动，颈部肿胀，切口渗血，应立即采用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吸氧，密切观察呼吸变化",
+                "应用呼吸兴奋剂",
+                "拆开切口缝线，清除血肿",
+                "床边气管插管",
+                "气管切开"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "为预防甲亢术后出现甲状腺危象，最关键的措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术后用冬眠合剂镇静",
+                "吸氧",
+                "术后给予氢化可的松",
+                "术后补钙",
+                "术前使基础代谢率降至正常范围"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对于乳腺癌微小病灶有较好的检出效果的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超声",
+                "钼靶X线摄片",
+                "MRI",
+                "活组织病理检查",
+                "红外线"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "乳腺纤维腺瘤的好发部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "外下象限",
+                "外上象限",
+                "内上象限",
+                "内下象限",
+                "中央区"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于结节性甲状腺肿继发甲状腺功能亢进的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者年龄多在40岁以上",
+                "双侧甲状腺肿大多不对称",
+                "可发生眼球突出",
+                "容易并发心肌损害",
+                "有手术指征"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "甲状旁腺素对血液中钙磷浓度的调节作用表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "降低血钙浓度，升高血磷浓度",
+                "降低血钙浓度，不影响血磷浓度",
+                "升高血钙浓度，降低血磷浓度",
+                "升高血钙浓度，不影响血磷浓度",
+                "升高血钙、血磷浓度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "乳房肿块质韧，光滑易推动，多考虑是哪种疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺炎",
+                "乳腺囊性增生症",
+                "乳腺纤维腺瘤",
+                "乳腺癌",
+                "脂肪瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，30岁，因“原发甲亢”施行甲状腺次全切除术后6小时，患者感呼吸困难。查体：面色发绀，颈部敷料呈红色。下列并发症中，可能性最大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "喉返神经损伤",
+                "喉上部神经损伤",
+                "切口内出血",
+                "甲状腺危象",
+                "甲状旁腺损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "应用钼靶X线摄影有诊断价值的肿瘤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲状腺癌",
+                "乳癌",
+                "肝癌",
+                "胃癌",
+                "肾癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "甲状旁腺的功能是调节血液中的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钙",
+                "钠",
+                "镁",
+                "钾",
+                "锌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于甲亢手术治疗的适应证，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高功能腺瘤",
+                "中度以上原发性甲亢",
+                "甲状腺肿大有压迫症状",
+                "抗甲状腺药物或放射性131I治疗无效者",
+                "少年儿童患者"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "乳腺的基本单位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺小叶",
+                "腺叶",
+                "小乳管",
+                "腺泡",
+                "乳管"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "甲亢作次全切除术，主要并发症中最危急的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术后甲状腺危象",
+                "术后呼吸困难或窒息",
+                "喉返神经损伤",
+                "手足抽搐",
+                "喉上神经损伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "检查乳腺时应掌握正确方法，下列不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者解开上衣，局部光线要明亮",
+                "与检查者相对而坐或站位，保持乳腺松弛",
+                "检查者用平坦的手指掌面循序轻轻触摸",
+                "触清肿块后测其大小、性质、周边、活动度",
+                "为了解肿块深度，可抓捏双合诊"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "乳头血性溢液最常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺小叶增殖症",
+                "乳腺纤维瘤",
+                "乳腺导管内乳头状瘤",
+                "男性乳房发育症",
+                "副乳腺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于原发性甲亢的手术指征，下列不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中度以上的原性甲亢；腺体较大，伴有压迫症状",
+                "药物治疗或核素治疗无效",
+                "继发性甲亢或高功能腺瘤",
+                "妊娠早、中期的甲亢患者凡具有上述指征者",
+                "青少年甲亢患者"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "青春期甲状腺肿患者，肿大明显时，首选治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口服硫氧嘧啶类药物",
+                "行甲状腺大部分切除术",
+                "口服甲状腺素片",
+                "行同位素碘治疗",
+                "多食营养丰富食物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "甲亢患者，行双侧甲状腺次全切除术，术后并发甲状腺危象，最多是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者精神过度紧张",
+                "服用碘剂过久",
+                "切除腺体过少",
+                "术中挤压腺体过多",
+                "甲亢症状未能很好控制"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "单纯性甲状腺肿中，下列哪项不是手术适应证"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "压迫气管引起症状",
+                "胸骨后甲状腺肿",
+                "核素扫描有冷结节",
+                "结节性甲状腺肿继发甲亢",
+                "巨大甲状腺肿影响工作"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腋窝Ⅱ组淋巴结位于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸大肌外侧",
+                "胸小肌外侧",
+                "胸大小肌间",
+                "胸小肌后",
+                "胸小肌内侧"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "乳管壶腹部为哪种疾病的好发部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺纤维腺瘤",
+                "乳腺癌",
+                "乳腺炎",
+                "乳管内乳头状瘤",
+                "乳腺囊性增生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "乳房最常见的良性肿瘤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺纤维腺瘤",
+                "乳头状瘤",
+                "乳腺癌",
+                "乳腺肉瘤",
+                "乳腺结核"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "乳房纤维腺瘤的高发年龄"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "15～20岁",
+                "20～25岁",
+                "25～40岁",
+                "40～50岁",
+                "40～60岁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中度甲亢的基础代谢率是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "±10%",
+                "±10%～30%",
+                "＋30%～60%",
+                "＋40%～60%",
+                "＋60%以上"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者甲状腺手术后1天发生手足抽搐，处理方法是立即"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "测定血清钙浓度",
+                "静脉注射10%葡萄糖酸钙10～20ml",
+                "口服二氢速固醇",
+                "口服钙剂",
+                "行甲状旁腺移植术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "甲状腺功能亢进患者的手术禁忌证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中度Graves病",
+                "胸骨后甲状腺肿伴甲亢",
+                "高功能腺瘤",
+                "妊娠早期重度甲亢",
+                "青少年患者"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，40岁，进行乳腺癌普查时，下列检查最为合适的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "近红外线扫描",
+                "液晶热图检查",
+                "细针穿刺细胞学检查",
+                "超声及钼靶X线摄片",
+                "乳腺磁共振"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "根据乳癌国际TNM临床分期，下列不属于Ⅲ期的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T3N0M0",
+                "T2N2M0",
+                "T2N1M0",
+                "T3N1M0",
+                "T1N2M0"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

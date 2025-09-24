@@ -1,0 +1,4824 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "精神病学",
+        "source": "未知",
+        "filename": "【人卫一类】A1",
+        "type_all_num": 200,
+        "dev": {
+            "wrap_num": 200,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 200,
+        "time": "25年01月12日21小时53分21秒",
+        "id": "id-m5todxh8-zwvgnuz9s"
+    },
+    "body": [
+        {
+            "questions": [
+                "共感现象主要⻅于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神分裂症",
+                "⼈格障碍",
+                "神经衰弱",
+                "癔症",
+                "癫痫先兆"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列属于SSRIs抗抑郁药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "利培酮",
+                "⻬拉⻄酮",
+                "舍曲林",
+                "安⾮他酮",
+                "⻢普替林"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "焦虑症的核⼼症状为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "注意⼒难以集中",
+                "精神性焦虑",
+                "躯体性焦虑",
+                "⾃主神经功能紊乱",
+                "睡眠障碍"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于躯体疾病所致精神障碍的治疗原则中，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对于精神障碍的出现，⾸先要使⽤精神药物对症治疗",
+                "使⽤精神药物时，如症状稳定后，应继续维持原剂量⼀段时间",
+                "精神药物的起始剂量应更低",
+                "对有严重失眠和焦虑的病⼈，应⻓期使⽤镇静催眠药和抗焦虑药",
+                "抑郁患者有⻘光眼可使⽤三环类抗抑郁剂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "神经性厌⻝症描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "担⼼被别⼈嘲笑肥胖⽽故意节⻝",
+                "绝⼤多数为⻘少年⼥性",
+                "即使⻣瘦如柴仍觉得身材不好",
+                "⽐平均体重值减轻40%以上",
+                "常采⽤过度运动、诱吐、腹泻药等⽅法避免体重增加"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "躯体形式障碍的疼痛障碍的病程标准是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾄少3个⽉",
+                "⾄少6个⽉",
+                "⾄少9个⽉",
+                "⾄少1年",
+                "⾄少2年"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于⼼境障碍的临床表现，下列说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼼境障碍没有幻觉",
+                "⼼境障碍没有妄想",
+                "⼼境障碍没有思维散漫",
+                "⼼境障碍可伴有幻觉、妄想和思维散漫",
+                "⼼境障碍伴有幻觉、妄想和思维散漫，且常有情感不协调"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下哪条不是⾏为治疗的基本理论"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "学习理论",
+                "强化作⽤",
+                "经典条件反射",
+                "操作性条件反射",
+                "精神分析理论"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症最常⻅的感知觉障碍是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "视物变形症",
+                "感觉减退",
+                "幻觉",
+                "内感性不适",
+                "错觉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于⾃杀的地域与信仰因素，以下说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "欧洲的斯堪的纳维亚半岛及原苏联加盟共和国⾃杀率较低，⽽地中海地区较⾼",
+                "⼀般情况下城市⾼于农村",
+                "我国农村的⾃杀率⾼于城市",
+                "宗教对死亡的认识态度及教徒与社会的整合程度，会影响教徒对⾃杀的态度",
+                "原苏联加盟共和国⾃杀率较⾼"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪⼀项是导致遗忘综合征的最常⻅病因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼀氧化碳中毒",
+                "⼼脏停搏所致的缺氧",
+                "酒精滥⽤导致维⽣素B1缺乏",
+                "脑⾎管性疾病",
+                "脑炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下最可能是妄想的现象是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感到别⼈能够看穿他的⼼思",
+                "打针后腿疼，认为损伤了神经",
+                "在公共⻝堂吃饭时看⻅有⼈敲饭盆，认为在骂他是饭桶",
+                "声称某国家领导⼈是⾃⼰的⼤学校友",
+                "声称⾃⼰同班的班花暗恋⾃⼰"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "⾃杀的将来⾏为最佳预测因⼦是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "习惯性⾏为",
+                "⽇常⾏为习惯",
+                "偶然⾏为",
+                "既往⾃杀⾏为",
+                "习得性⾏为"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⾏为主义理论对于性⼼理障碍的解释是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "明显的内分泌异常",
+                "性⼼理因为某些挫折⽽出现退化",
+                "⽆关刺激与性兴奋的偶然结合⽽形成了条件联系",
+                "⽗⺟对⼦⼥的性教育失当",
+                "社会道德⽂化对⼉童的不良影响"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抑郁症患者在进⾏⽆抽搐电休克治疗后，最常⻅的副作⽤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "记忆⼒减退",
+                "情绪低落",
+                "焦虑",
+                "失眠",
+                "思维迟缓"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "躯体疾病所致的精神障碍的处理原则，以下哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾸先必须治疗引起精神障碍的原发躯体疾病",
+                "停⽤可能引起精神障碍的药物",
+                "严重失眠和焦虑的病⼈，可以短期、⼩量使⽤抗焦虑药",
+                "精神症状稳定时，应考虑逐渐减少精神药物剂量",
+                "对精神症状的控制应遵从⼤剂量、⾜疗程的原则"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对强迫症最有效的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿⽶替林",
+                "氯丙咪嗪",
+                "安定",
+                "奥氮平",
+                "丙咪嗪"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "诊断抑郁发作时，其典型症状不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "情绪低落",
+                "兴趣缺乏",
+                "快感缺失",
+                "精⼒不济或疲乏感",
+                "⾃杀观念"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "危机的类型不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发展性危机",
+                "境遇性危机",
+                "存在性危机",
+                "疾病危机",
+                "以上都是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "谵妄的特征不包括下列哪⼀项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意识障碍",
+                "注意⼒不能集中",
+                "情绪低落",
+                "神志恍惚",
+                "对周围环境与事物的清晰度降低"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症最常⻅的妄想是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "罪恶妄想",
+                "夸⼤妄想",
+                "疑病妄想",
+                "被害妄想与关系妄想",
+                "钟情妄想"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性短暂性精神病性障碍的临床特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持续的幻觉，系统的妄想",
+                "持续的幻觉，但是妄想多不系统",
+                "⽚段的幻觉和妄想",
+                "⽚段的幻觉，系统的妄想",
+                "持续的幻觉，妄想内容泛化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "哪项不是Briquet综合征的临床特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼥性多⻅，常在成年早期发病",
+                "临床上以被害、关系、躯体妄想等多⻅",
+                "临床表现以多种多样、反复出现、时常变化多⻅",
+                "常⻅的症状有胃肠道不适、异常的⽪肤感觉、呼吸、循环系统症状",
+                "本病为慢性波动性病程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "谵妄的病理机制主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染",
+                "电解质紊乱",
+                "颅脑损伤",
+                "低⾎压",
+                "脑神经细胞急性代谢紊乱"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列属于性指向障碍的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "异性症",
+                "摩擦症",
+                "性施虐症",
+                "恋物症",
+                "同性恋"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症患者在幻觉妄想⽀配下的违法⾏为应评为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完全责任能⼒",
+                "部分责任能⼒",
+                "⽆责任能⼒",
+                "⽆⾏为能⼒",
+                "以上均不是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "柯萨可夫精神病临床特点为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意识障碍",
+                "定向⼒障碍",
+                "近记忆缺损突出",
+                "远记忆缺损严重",
+                "虚构和错构"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抑郁症的思维障碍主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思维贫乏",
+                "思维迟缓",
+                "思维不连贯",
+                "被害妄想",
+                "对其漠视，不⽤特殊治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列对持续性躯体形式疼痛障碍的描述不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有明显的⼼理因素",
+                "持续严重的疼痛不能⽤⽣理过程或躯体障碍予以合理解释",
+                "经检查未发现相应的躯体病变",
+                "躯体任何部位都可受影响\"",
+                "虽病程持续6个⽉以上，但疼痛可以缓解"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在神经症的常⻅症状中，不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "情绪症状",
+                "感觉过敏",
+                "躯体不适症状",
+                "幻觉",
+                "精神易兴奋"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "哪项不是躯体形式的疼痛障碍的疼痛特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对称性",
+                "持续性",
+                "令⼈痛苦",
+                "检查⽆明显异常",
+                "易反复"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中属于5-HT1A受体部分激动剂抗焦虑药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地⻄泮",
+                "阿普唑仑",
+                "安⾮他酮",
+                "坦度螺酮",
+                "⻬拉⻄酮"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述精神症状，对诊断精神分裂症最有意义的⼀组是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "情感⾼涨、思维加快",
+                "思维散漫、思维破裂",
+                "意识蒙眬、幻觉妄想",
+                "思维迟缓、情绪低落",
+                "反复出现强迫观念及动作"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "Jaspers 认为⾃我意识的特征不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "存在意识",
+                "能动性意识",
+                "统⼀性意识",
+                "同⼀性意识",
+                "交接性意识"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列属于SSRIs抗抑郁药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "碳酸锂",
+                "帕罗⻄汀",
+                "利培酮",
+                "奥氮平",
+                "多塞平"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "神经性厌⻝常发⽣于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⻘少年⼥性",
+                "⻘少年男性",
+                "中年男性",
+                "中年⼥性",
+                "⼉童⼥孩"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下说法符合创伤后应激障碍的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "遭受创伤后数⽇⾄数⽉后，罕⻅延迟半年以上发⽣，病程⾄少持续1个⽉以上，⼀般",
+                "遭受⼼理社会刺激发⽣后1个⽉内发⽣，病程⾄少持续1个⽉，⼀般不超过6个⽉",
+                "表现为精神运动性兴奋或精神运动性抑制，可有意识模糊",
+                "以抑郁、焦虑、害怕等情感症状为核⼼症状，有退缩、不注意卫⽣、⽣活⽆规律等⾏",
+                "该疾病若应激源被消除，预后良好，缓解完全"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症最多⻅的幻觉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "视幻觉",
+                "听幻觉",
+                "触幻觉",
+                "嗅幻觉",
+                "味幻觉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于尼古丁对精神活动的影响叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吸烟可以消除烦恼、提⾼⼯作效率",
+                "尼古丁的兴奋作⽤很短",
+                "吸烟不会增加脑⼒活动",
+                "尼古丁可增加⼼⾎管负担",
+                "吸烟习惯本是复杂的条件反射"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项属于躯体形式障碍"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疑病障碍",
+                "惊恐障碍",
+                "强迫障碍",
+                "神经性厌⻝",
+                "神经性呕吐"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "癫痫和分离（转换）性障碍的鉴别诊断中，属于癫痫发作的三个阶段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发作、强直、缓解",
+                "前兆、发作、缓解",
+                "强直、痉挛、缓解",
+                "强直、痉挛、恢复",
+                "发作、痉挛、恢复"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性短暂性精神病性障碍的定义"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼀组起病急、缓解不完全、持续时间短暂的精神病性障碍",
+                "⼀组起病慢、缓解完全、持续时间⻓的精神病性障碍",
+                "⼀组起病急、缓解完全、持续时间短暂的精神病性障碍",
+                "⼀组起病慢、缓解不完全、持续时间短暂的精神病性障碍",
+                "⼀组起病急、缓解完全、持续时间⻓的精神病性障碍"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断精神分裂症，不具有特征性诊断意义的听幻觉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "评论性幻听",
+                "原始性幻听",
+                "议论性幻听",
+                "命令性幻听",
+                "辱骂性幻听"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男性，35岁，个体。因出现幻觉-妄想综合征、情绪⾼涨的精神症状住院治疗，在躯体检查时，发现其⻆膜外缘⻩褐⾊环，出现强直，震颤，运动减少，常规化验中尿铜含量增加，据此诊断患者为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Wilson 病",
+                "⼼境障碍，躁狂发作",
+                "精神分裂症",
+                "多发性硬化",
+                "癫痫所致精神障碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "分离性抽搐的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发作突然性",
+                "有节律性肢体抽动",
+                "意识未完全丧失",
+                "发作时间短暂",
+                "有咬破唇⾆"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "注意缺陷多动障碍的最主要的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "注意障碍",
+                "活动过多",
+                "学习困难",
+                "神经系统症状",
+                "智能障碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症治疗原则不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病情好转后即可停药，不需要维持治疗",
+                "强调早期、⾜量、⾜疗程",
+                "治疗应从低剂量开始",
+                "系统⽽规范",
+                "药物剂量应该逐渐加⼤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪⼀项不是与分离（转换）性障碍的鉴别诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癫痫",
+                "躯体疾病",
+                "精神分裂症",
+                "焦虑症",
+                "急性应激反应"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列抗精神病药物中，属于多巴胺受体部分激动剂的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⻬拉⻄酮",
+                "利培酮",
+                "阿⽴哌唑",
+                "奥氮平",
+                "氯氮平"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "使⽤成瘾物质后吸⻝者主观上产⽣某种陶醉感和欣快感主要是因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞内5-HT浓度增⾼",
+                "细胞内5-HT浓度降低",
+                "突触间隙DA浓度增⾼",
+                "突触间隙DA浓度降低",
+                "突触间隙5-HT浓度增⾼"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于记忆的说法，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "部分或全部不能再现以往的经验称为记忆错误",
+                "由于再现的失真⽽引起的记忆障碍称为遗忘",
+                "病⼈以想象的、未曾亲身经历过的事件来填补亲身经历的记忆称为记忆增强",
+                "将过去经历过的事物在具体时间，具体⼈物或地点上搞错了，称为错构",
+                "病⼈把从未⻅过的⼈当作熟⼈或朋友认识，称为虚构"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于攻击⾏为的⽣物学因素的说法中，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "男性明显多于⼥性",
+                "⼥性明显多于男性",
+                "不存在家族聚集性",
+                "与神经内分泌⽆关",
+                "与神经递质关系不⼤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性短暂性精神障碍的共同特点不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2周内急性起病",
+                "以精神病性症状为主",
+                "起病前有相应的⼼因",
+                "通常⽆幻觉妄想",
+                "在2～3⽉内痊愈"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "躁狂发作思维表现有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思维阻塞",
+                "思维奔逸",
+                "思维插⼊",
+                "思维云集",
+                "关系妄想"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对于谵妄患者抗精神病药物的使⽤，以下哪个说法是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "针对精神症状，可给予抗精神病药⼩剂量、短期治疗",
+                "不能使⽤苯⼆氮䓬类药物治疗",
+                "加强镇静作⽤，以保证患者的安全",
+                "⾸先考虑使⽤⾮典型的抗精神病药物，如奥氮平、喹硫平、利培酮等",
+                "给予⼈⼯冬眠合剂，积极改善患者的精神症状"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对于成瘾物质依赖现象描述不正确的⼀项是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "耐受性增加",
+                "尚未产⽣戒断症状",
+                "可分为躯体依赖和⼼理依赖",
+                "⼀组认知、⾏为、和⽣理症状群",
+                "⼀种病理性适应状态"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "ICD-10中，诊断抑郁发作时其主要表现为显著⽽持久的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "情绪低落",
+                "思维迟缓",
+                "意志活动减少",
+                "精神运动性迟滞或激越",
+                "⾃杀观念"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪个是惊恐障碍的常⻅症状"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "听幻觉",
+                "被害妄想",
+                "濒死感",
+                "被洞悉感",
+                "错觉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下说法不符合急性应激障碍特征的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可有⼀定程度的意识障碍",
+                "可出现⽊僵状态",
+                "有⼼悸、汗多、⾯部潮红等副交感神经活动亢进的表现",
+                "可有激越性活动过多，如兴奋、失眠、喊叫",
+                "病程短暂，⼀般持续⼏⼩时到⼀周，预后良好"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "病理性焦虑和恐怖症状的区别在于后者"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有⽆⾃主神经功能紊乱症状",
+                "有惊恐发作的表现",
+                "意识清楚",
+                "发作时间⼀般不超过30分钟",
+                "有明确的指向对象"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于孤独症的病程，下列说法中正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼀般出⽣时即起病",
+                "⼀般3岁前起病",
+                "后期⼈际交往障碍症状减轻",
+                "后期进⻝问题症状改善不明显",
+                "⻘春期⼀般不会出现⾃伤⾏为"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在精神检查涉及具体症状时，最重要的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "确定症状的⾸发时间",
+                "澄清症状的性质",
+                "澄清症状严重程度",
+                "与患者讨论症状真实性",
+                "按预定程序询问以免患者感到疲乏"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "哪项表现不符合谵妄状态的特性"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意识模糊",
+                "恐怖性幻觉和错觉",
+                "不协调性精神运动性兴奋",
+                "事后有遗忘",
+                "情绪⾼涨"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对神经性厌⻝患者的治疗原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "采⽤认知疗法、⾏为治疗等⼼理治疗⽅法为主",
+                "采⽤抗精神病药或抗抑郁药等药物治疗⽅法为主",
+                "采⽤纠正营养不良的治疗⽅法为主",
+                "⾸先纠正营养不良，同时或稍后开展⼼理治疗以及辅助的药物治疗",
+                "⾸先开展⼼理治疗，然后再采取措施纠正营养不良"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于精神分裂症⻘春型，下列说法何种不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要为思维破裂",
+                "发病多在⻘春期",
+                "⽚断幻觉，妄想，可有象征性思维",
+                "起病呈急或亚急性",
+                "预后良好"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某神经症患者在看⻅或听到“天才”⼆字时，⻢上想起“笨蛋”⼆字；看⻅或听到“安全”⼆字时，便想到“危险”⼆字，此症状称之为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强迫性对⽴观念",
+                "牵连观念",
+                "强迫意向",
+                "强迫性穷思竭虑",
+                "以上都对"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "双相障碍患者频繁发作（每年发作4次以上），发作可以是躁狂、轻躁狂、抑郁或混合发作，称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "快速转变型",
+                "循环型",
+                "快速循环型",
+                "快速发作型",
+                "反复发作型"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "酒精在体内的代谢⼤部分是通过肝内的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "微粒体⼄醇氧化系统",
+                "⼄醇脱羧酶系",
+                "⼄醛脱氢酶系",
+                "⼄醇脱氢酶系",
+                "⼄醛脱羧酶系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下⾯哪项内容不是对⾏为治疗的描述"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基于实验⼼理学的成果",
+                "帮助病⼈消除不良⾏为",
+                "关注病⼈对事物的理解",
+                "促进良好⾏为的产⽣",
+                "可操作性相对较强"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关⼼身疾病的描述，哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "也称为⼼理⽣理疾病",
+                "是⼀组与⼼理紧张有关的躯体疾病",
+                "有器质性病变或确定的病理、⽣理过程",
+                "冠⼼病和消化性溃疡不属于⼼身疾病",
+                "⼼理社会因素在疾病的发⽣、发展、治疗和预后中有相对重要的作⽤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "经典精神分析是在19世纪90年代，由（ ）创⽴的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "巴甫洛夫（Pavlov）",
+                "罗杰斯（Rogers）",
+                "斯⾦纳（Skinner）",
+                "弗洛伊德（S.Freud）",
+                "⻢斯洛（Maslow）"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阿尔茨海默病的病程特征为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阶梯式恶化",
+                "只发作⼀次",
+                "⾃限性病程，短期内⾃⾏好转",
+                "进⾏性发展加重",
+                "缓慢发展，逐渐好转"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于内感性不适和内脏性幻觉，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内感性不适性质和部位不明确",
+                "两者均可⻅于精神分裂症和抑郁症",
+                "内感性不适属于知觉障碍",
+                "内感性不适可继发疑病观念",
+                "内脏性幻觉可继发疑病观念"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于刺激与反应，下述哪⼀项最正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽂字刺激只引起⼼理反应",
+                "化学刺激只产⽣化学反应",
+                "物理刺激只产⽣物理反应",
+                "抽象刺激的作⽤强度⼤于物理刺激",
+                "从最简单的单细胞⽣物到最复杂的⼈类，都能对刺激作出反应"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "ICD-10中，关于恶劣⼼境的诊断标准，以下描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性的⼼境低落，⽆论从严重程度还是⼀次发作的持续时间，⽬前均不符合轻度或中",
+                "⾄少2年内抑郁⼼境持续存在或反复出现，其间的正常⼼境很少持续⼏周",
+                "社会功能受损较轻",
+                "病程中偶可出现轻躁狂症状",
+                "⾃知⼒完整或较完整"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⼼理治疗的主要适应证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经症",
+                "抑郁症",
+                "躁狂症",
+                "精神分裂症",
+                "精神发育迟滞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "⽣物反馈治疗主要适⽤于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "躁狂症",
+                "精神分裂症",
+                "⼉童精神病",
+                "疑病症",
+                "焦虑症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "刻板⾔语或动作主要⻅于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癔症",
+                "强迫症",
+                "精神分裂症",
+                "器质性精神障碍",
+                "躁狂症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "躁狂发作的睡眠障碍特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼊睡困难",
+                "多梦",
+                "睡眠需求减少",
+                "早醒",
+                "睡眠过多"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在精神分裂症预后不良的诸因素中，不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起病缓慢",
+                "幻觉妄想丰富",
+                "病程迁延",
+                "病前性格缺陷",
+                "缺乏家庭照顾"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于精神障碍的⼀级预防，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是预防精神障碍最积极、最主动的措施",
+                "主要针对病因已经明确的精神疾病",
+                "对易患精神障碍的“⾼危⼈群”，如从事⾼⼼理压⼒职业者，采取相应的⼼理⼲预措施",
+                "定期进⾏精神病流⾏病学调查属于⼀级预防的主要内容之⼀",
+                "对确认或可疑的精神障碍者，指导患者及家属及时就诊"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "惊恐障碍的发作⼀般持续多⻓时间"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～5分钟",
+                "5～20分钟",
+                "20～60分钟",
+                "1～2⼩时",
+                "2～24⼩时"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "病理性醉酒状态下的违法⾏为⼀般应评为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完全责任能⼒",
+                "部分责任能⼒",
+                "⽆责任能⼒",
+                "⽆⾏为能⼒",
+                "以上均不是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中属于苯⼆氮卓类抗焦虑药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "舍曲林",
+                "氯硝⻄泮",
+                "喹硫平",
+                "坦度螺酮",
+                "丙戊酸钠"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "额叶肿瘤可出现的精神症状表现有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "反复发作，幻听、欣快等",
+                "⼴泛性智能受损、情感障碍、⼈格改变",
+                "失⽤、失写、失算、⼿指失认等",
+                "原始性幻觉",
+                "遗忘综合征"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对⼴泛性焦虑障碍描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者常常因对危险的事物提⼼吊胆、紧张不安",
+                "伴有显著⾃助神经功能紊乱症状、肌⾁紧张及运动性不安",
+                "患者往往能够认识到担忧是过渡和不恰当的，可⾃⾏控制，并不感到痛苦",
+                "由于焦虑症状导致患者⾃知⼒下降，社会功能明显下降",
+                "患者常常出现发作性的濒死感和预期性焦虑，发作间隙完全正常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于疑病症下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "描述不清的疼痛",
+                "躯体症状的表现涉及身体许多不同区域",
+                "有些患者怀疑⾃⼰五官不正",
+                "医⽣的解释与保证可消除其疑病信念",
+                "病⼈⼈格特征多疑、敏感、主观"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "失眠症治疗时最常⽤的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地⻄泮类",
+                "氯丙嗪",
+                "多塞平",
+                "奋乃静",
+                "阿⽶替林"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国的毒品不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "海洛因",
+                "可卡因",
+                "酒精",
+                "苯丙胺",
+                "⼤麻"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于思维形式障碍"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "思维迟缓",
+                "思维散漫",
+                "病理性赘述",
+                "思维中断",
+                "牵连观念"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精神障碍的诊断标准就是将疾病的症状按照不同组合，以条理化形式列出的⼀种标准化条⽬，其中不包括的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "症状学",
+                "病情严重程度",
+                "精神⼼理量表判定",
+                "功能损害",
+                "病程"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不属于强迫症治疗的⼀线药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氟⻄汀",
+                "阿⽴哌唑",
+                "舍曲林",
+                "帕罗⻄汀",
+                "氟伏沙明"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "分离性（转换）性障碍的好发年龄是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "15～20岁",
+                "20～30岁",
+                "30～40岁",
+                "40～50岁",
+                "50～60岁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列属于性⼼理障碍的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阳痿",
+                "早泄",
+                "易性症",
+                "性乐⾼潮障碍",
+                "阴道痉挛"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于孤独症的精神科药物治疗，下列说法中正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有治疗核⼼症状的特效药物",
+                "抗精神病药物必须应⽤",
+                "精神症状明显且严重时才可考虑",
+                "抗抑郁药物系统治疗",
+                "不可应⽤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "精神障碍常⽤的分类依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "遗传及神经⽣理、⽣化",
+                "影像和实验室检查",
+                "症状评定及量表",
+                "病因、病理和症状",
+                "学派及国际惯例"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于超价观念，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常有⼀定的现实基础",
+                "有⼀定的⼈格基础",
+                "有强烈的情感体验及需要",
+                "是⼀种坚信",
+                "是妄想的早期表现"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "除惊恐发作外，神经症的病程标准⾄少要求达到"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2周",
+                "1个⽉",
+                "2个⽉",
+                "3个⽉",
+                "6个⽉"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "哪项不是躯体形式障碍的共同特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "症状复杂、多样，不能找到明确的器质性依据",
+                "反复检查和治疗，疗效不好，影响医患关系",
+                "诊断名称含糊、多样，可能加重患者的求医⾏为",
+                "通过检查证实有明确的躯体疾病",
+                "患者往往对躯体不适过分关注，治疗依从性差"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于意识障碍"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜睡",
+                "昏睡",
+                "缄默症",
+                "昏迷",
+                "朦胧状态"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对躯体畸形（虽然根据不⾜但毫⽆根据）疑虑或先占观念属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "躯体疾病所致精神障碍",
+                "躯体化障碍",
+                "未分化躯体形式障碍",
+                "分离（转换）性障碍",
+                "疑病障碍"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症最常⻅的幻觉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "味幻觉",
+                "触幻觉",
+                "本体幻觉",
+                "嗅幻觉",
+                "⾔语性幻听"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种疾病属于按病因学原则分类的精神疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分离（转换）性障碍",
+                "⼴泛性焦虑障碍",
+                "酒精所致精神障碍",
+                "抑郁障碍",
+                "强迫性障碍"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于癔症性瘫痪，下列何种说法不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘫痪表现为单瘫、截瘫或偏瘫",
+                "瘫痪伴有肌张⼒增强或弛缓",
+                "⽆神经系统损害的体征，病理反射阴性",
+                "即使病程持久也不出现失⽤性萎缩",
+                "催眠、暗示疗法治疗可能有效"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列属于酒精戒断综合征的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "酒精所致幻觉症",
+                "柯萨科夫综合征",
+                "Wernicke 脑病",
+                "震颤谵妄",
+                "痴呆"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "⻓期⼤量饮酒者如突然断酒，震颤谵妄常出现在断酒"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "72⼩时后",
+                "24⼩时后",
+                "8⼩时后",
+                "48⼩时后",
+                "12⼩时后"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种成瘾性物质不属于阿⽚类"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吗啡",
+                "海洛因",
+                "美沙酮",
+                "哌替啶",
+                "咖啡因"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Cotard 综合征最常出现于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "晚发精神分裂症",
+                "阿尔茨海默病",
+                "匹克病",
+                "⼈格解体性神经症",
+                "⽼年期抑郁障碍"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中属于苯⼆氮卓类抗焦虑药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿⽴哌唑",
+                "⽶氮平",
+                "阿普唑仑",
+                "丁螺环酮",
+                "碳酸锂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "谵妄综合征的主要特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "幻视",
+                "意识障碍昼轻夜重",
+                "幻听",
+                "记忆减退",
+                "错觉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "精神疾病的物理治疗⼀般不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "电痉挛治疗",
+                "经颅磁刺激",
+                "迷⾛神经刺激",
+                "深部脑刺激",
+                "精神分析治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在⼼理治疗⼯作中，下列哪项是最重要的治疗原则"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "必须详细地收集病史，包括个⼈成⻓史",
+                "与药物配合治疗",
+                "建⽴良好，信任的医患关系",
+                "注意调动病⼈的主观能动性",
+                "治疗者必须掌握各种⼼理治疗的理论"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是处于应激状态下的个体的表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体内内分泌活动发⽣改变",
+                "体内神经递质发⽣改变",
+                "可能导致脑功能损害",
+                "常表现交感神经兴奋",
+                "常表现为副交感神经兴奋"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于躯体疾病所致精神障碍的诊断依据中，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只要发⽣精神障碍时，存在有躯体疾病的依据即可诊断",
+                "精神症状必须⽐躯体疾病出现晚",
+                "当躯体疾病好转，精神障碍可能仍⽆好转",
+                "有典型的功能性精神障碍的症状出现",
+                "躯体疾病在精神障碍的发⽣、发展、转归等⽅⾯有时间上的密切关系"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "分离性运动和感觉障碍最有效的治疗⽅法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾏为治疗",
+                "镇静药物",
+                "暗示治疗",
+                "抗精神病药物",
+                "物理治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "较容易引起⾼催乳素⾎症的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氯丙嗪",
+                "氟哌啶醇",
+                "喹硫平",
+                "利培酮",
+                "阿⽴哌唑"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "选择性5-HT再摄取抑制剂不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氟⻄汀",
+                "舍曲林",
+                "帕罗⻄汀",
+                "⻢普替林",
+                "⻄酞普兰"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "WHO的统计数据表明，关于全世界⾃杀⼈数的描述，以下正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全世界每年约有10万⼈死于⾃杀，平均400s左右有1⼈死于⾃杀，每30s有1⼈⾃",
+                "全世界每年约有100万⼈死于⾃杀，平均40s左右有1⼈死于⾃杀，每3s有1死于⾃",
+                "全世界每年约有500万⼈死于⾃杀，平均200s左右有1⼈死于⾃杀，每15s有1⼈⾃",
+                "全世界每年约有1000万⼈死于⾃杀，平均4s左右有1⼈死于⾃杀，每0.3s有1⼈⾃",
+                "全世界每年约有5000万⼈死于⾃杀，平均4s左右有1⼈死于⾃杀，每0.3s有1⼈⾃"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "精神⾃动综合征的临床表现不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "假性幻觉",
+                "被控制感",
+                "思维云集",
+                "意识障碍",
+                "被害妄想"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当前⼴泛提倡的新的医学模式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽣物-⼼理-社会医学模式",
+                "社会⽂化模式",
+                "⽣物医学模式",
+                "⼼理社会模式",
+                "整体平衡模式"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于精神分裂症的焦虑、抑郁症状以下说法不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以疾病的早期和缓解后期多⻅",
+                "以阴性症状为主的患者较多出现",
+                "患者发⽣⾃杀⾏为和物质滥⽤的可能性增加",
+                "可继发于药物的不良反应",
+                "常常被精神病性症状所掩盖"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列属于第⼆代抗精神病药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "舍曲林",
+                "阿⽴哌唑",
+                "氯丙嗪",
+                "氟哌啶醇",
+                "碳酸锂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "躁狂病⼈的精神检查中，最常⻅的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "听幻觉",
+                "夸⼤妄想",
+                "被害妄想",
+                "钟情妄想",
+                "关系妄想"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "渐进性放松训练治疗的主要适应证为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神分裂症",
+                "抑郁症",
+                "躁狂症",
+                "⼼身疾病",
+                "器质性精神病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "神经性呕吐的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常伴有明显器质性病变",
+                "不能⾃控的反复⻝后呕吐",
+                "体重明显减轻",
+                "害怕体重增加或影响身材",
+                "⾃发的反复呕吐"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "痴呆综合征的症状不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "记忆能⼒减退",
+                "理解能⼒减退",
+                "计算能⼒减退",
+                "意识障碍",
+                "⼈格改变"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "危机评估的内容包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "迅速确定事件、危机的严重程度",
+                "危机评估并确保安全",
+                "制定⼲预⽬标并实施⼲预",
+                "以上均包括",
+                "以上均不包括"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "属于基因异常的精神发育迟滞的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "苯丙酮尿症",
+                "半乳糖⾎症",
+                "⼽谢病",
+                "先天性脑积⽔",
+                "脂质沉积症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是失眠症最常⻅的病因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼼理⽣理因素",
+                "精神病的伴发症状",
+                "药物依赖的伴发症状",
+                "睡眠中呼吸困难引起",
+                "酒类依赖的戒断症状"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪⼀点可作为癫痫发作与分离（转换）性障碍的鉴别诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癫痫发作时患者处于意识朦胧状态",
+                "癫痫发作有抽搐、强直和恢复三个阶段",
+                "分离（转换）性障碍抽搐发作时患者脑电图检查有特征性变化",
+                "癫痫发作后完全不能回忆",
+                "分离（转换）性障碍抽搐发作时常有⼤⼩便失禁"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "意志通常的特征错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "指向性",
+                "⽬的性",
+                "坚强性",
+                "⾃觉性",
+                "多变性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "临床表现符合躯体化障碍或者不典型，但病程短于2年，应诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "躯体疾病所致精神障碍",
+                "未分化躯体形式障碍",
+                "躯体形式的⾃主神经功能紊乱",
+                "分离（转换）性障碍",
+                "疑病障碍"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列有关氯胺酮的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氯胺酮粉末⼜称为K粉",
+                "只能通过⿐吸和⽓雾法摄取",
+                "可对多个脏器系统造成损害",
+                "滥⽤者常将氯胺酮与其他药物合⽤",
+                "滥⽤者有时连续数天使⽤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⼝服⻓效的抗精神病药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "五氟利多",
+                "帕利哌酮",
+                "奥氮平",
+                "利培酮",
+                "氯氮平"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项提示存在意识障碍"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "诉凭空听⻅骂⾃⼰的声⾳",
+                "滔滔不绝，说话难以打断",
+                "看⻅地上的绳⼦以为是蛇",
+                "感觉体内有⾍⼦在爬",
+                "感觉⾃⼰的⼿臂变⻓了"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "与⼼理和社会因素密切相关，以⽣理障碍为主要临床表现的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑郁障碍",
+                "分离性障碍",
+                "⼼因性精神障碍",
+                "⼼理因素相关⽣理障碍",
+                "转换性障碍"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "双相障碍快速循环型患者的发作频率是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "每年发作2次以上",
+                "每年发作3次以上",
+                "每年发作4次以上",
+                "半年发作3次以上",
+                "半年发作4次以上"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中属于TCAs抗抑郁药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氟哌啶醇",
+                "奥氮平",
+                "艾司⻄酞普兰",
+                "⽶氮平",
+                "⻢普替林"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "病⼈将墙上的污迹看成⼀只张⽛舞⽖的⽼⻁，此现象属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "错觉",
+                "幻觉",
+                "虚构",
+                "错构",
+                "感知综合障碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪⼀组症状为抑郁症主要精神症状"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑郁，焦虑，兴趣缺乏，⾃责⾃罪",
+                "悲伤，贫穷妄想，内脏性幻觉",
+                "抑郁⼼境，思维中断",
+                "悲伤，幻听，被害妄想",
+                "情感淡漠，思维贫乏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "⼴泛性焦虑障碍的描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼴泛性焦虑障碍的主要临床相是伴有疲劳、抑郁、恐惧等症状",
+                "⼴泛性焦虑障碍以焦虑为主要表现，其共病率较低",
+                "⼴泛性焦虑约2/3伴有抑郁症状",
+                "焦虑症状的患者害怕死亡，合并抑郁症状，其⾃杀⻛险会⼤幅下降",
+                "⼴泛性焦虑障碍与惊恐障碍为焦虑障碍的不同类型，共病的可能性较少，⼤都单独存"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "重度精神发育迟滞患者的违法⾏为应评定为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "完全责任能⼒",
+                "部分责任能⼒",
+                "⽆责任能⼒",
+                "⽆⾏为能⼒",
+                "以上均不是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对精神分裂症常出现的意志障碍的描述，哪项不妥"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意志增强",
+                "意志减退",
+                "意志坚强",
+                "犹豫不决",
+                "意志缺乏"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "强迫观念不包括下列哪⼀种症状"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强迫性穷思竭虑",
+                "强迫性计数",
+                "强迫性怀疑",
+                "强迫性对⽴思维",
+                "强迫性回忆"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于精神病学的学科地位，以下哪种说法正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神病学是⽣物医学的分⽀学科",
+                "精神病学是⾏为医学的分⽀学科",
+                "精神病学是社会科学的分⽀学科",
+                "精神病学是临床医学的分⽀学科",
+                "精神病学是⼼理学的分⽀学科"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "抑郁发作的⽣物学特征，⼀般不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "便秘",
+                "早醒",
+                "情感低落",
+                "⻝欲和性欲减退",
+                "情绪呈昼重夜轻的节律改变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关⾃杀的动机，以下不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾃杀的⽬的可以是为了摆脱痛苦、逃避现实、实现精神再⽣",
+                "有⼈试图通过死后进⼊天堂，以获得⼈世间得不到的东⻄",
+                "⾃杀可以作为⼀种表达困境、向外界寻求帮助和同情的⼿段",
+                "某种⽬的或信仰，以及保持⾃⼰道德上和⼈格上的完美的努⼒不会成为⾃杀动机",
+                "⾃杀是为了惩罚⾃⼰罪恶的⾏为"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对精神分裂症的研究表明，精神分裂症的阳性症状可能与以下因素有关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽪层下边缘系统DA功能亢进",
+                "⽪层下边缘系统DA功能低下",
+                "5-HT 系统功能亢进",
+                "5-HT 系统功能低下",
+                "去甲肾上腺素系统功能不⾜"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列属于第⼆代抗精神病药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "丁螺环酮",
+                "曲唑酮",
+                "五氟利多",
+                "⻬拉⻄酮",
+                "⽶氮平"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于酒精所致的⼈格改变，说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⼈格不会出现明显的衰退",
+                "对饮酒的需要超过其他⼀切活动",
+                "⽇益加重的⾃我为中⼼，⾃私",
+                "为了得到酒⽽不诚实",
+                "⾏为标准下降，有时表现为偷窃和诈骗"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "伴有癫痫发作的孤独症患⼉，宜选⽤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氯氮平",
+                "氟伏沙明",
+                "氯丙嗪",
+                "丙戊酸钠",
+                "艾司唑仑"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于妄想，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "妄想都是与事实不相符的信念",
+                "妄想是⼀种病理性的歪曲信念",
+                "妄想是可以通过摆事实、讲道理说服的信念",
+                "坚信不疑的信念就是妄想",
+                "妄想与患者的⽂化⽔平、社会背景相称"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种神经递质异常可能与谵妄的发⽣有关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多巴胺功能亢进",
+                "多巴胺合成减少",
+                "五羟⾊胺功能亢进",
+                "五羟⾊胺合成减少",
+                "⼄酰胆碱合成减少"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下⾯关于精神活性物质叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "能够影响⼈类的情绪",
+                "能够影响⼈类的⾏为",
+                "能够改变⼈类的意识状态",
+                "有致依赖作⽤",
+                "⼀类⽣物学物质"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症的意志与⾏为障碍主要表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强迫性⾏为",
+                "协调性精神运动性兴奋",
+                "协调性精神运动性抑制",
+                "意志减退和紧张综合征",
+                "冲动、伤⼈⾏为"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "按照我国《婚姻法》的规定，精神病患者"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只要双⽅同意均可以结婚",
+                "不能结婚",
+                "在疾病未愈的情况下不能离婚",
+                "不能离婚",
+                "可以结婚，但不能⽣育⼦⼥"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在CCMD-3中，关于⼴泛性焦虑症的病期要求是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⾄少3个⽉",
+                "⾄少6个⽉",
+                "⾄少1个⽉",
+                "⾄少12个⽉",
+                "⾄少2年"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症临床表现中不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感知障碍",
+                "思维及联想障碍",
+                "情感障碍",
+                "意识障碍",
+                "意志与⾏为障碍"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于精神活动的说法，哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神活动以⼤脑为基础",
+                "精神活动是以客观现实为基础的",
+                "精神活动包括认知、情感、意志等过程",
+                "病态精神活动与客观现实脱离因此与客观现实⽆关",
+                "精神活动受到躯体营养代谢状况的影响"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对⼼电图QT间期影响较⼤的抗精神病药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿⽴哌唑",
+                "⻬拉⻄酮",
+                "利培酮",
+                "奥氮平",
+                "喹硫平"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "⽬前常⽤的脱毒治疗替代药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可乐定",
+                "美沙酮",
+                "中草药",
+                "东莨菪碱",
+                "氯硝⻄泮"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关⾎管性痴呆（VD）以下说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "VD发病与年龄有关，男性多于⼥性VD",
+                "是指由脑⾎管病变导致的痴呆",
+                "与AD⽐较，VD较少出现夜间精神紊乱，但⼈格改变较多⻅",
+                "可伴发抑郁、情绪不稳和情感失控等症状",
+                "与AD⽐较，VD认知功能缺损通常较局限，记忆缺损可能不太严重"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肾脏疾病患者透析治疗，说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常出现持续性的幻觉、妄想综合征",
+                "可发⽣透析性痴呆",
+                "透析性痴呆的发⽣，可能与透析液含有⾼铝有关",
+                "可造成持久的神经系统症状，和智能的进⾏性下降",
+                "可出现“平衡失调”综合征"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "巴⽐妥类药物诱导的睡眠特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "缩短快眼动睡眠时相",
+                "延⻓快眼动睡眠时相",
+                "缩短⾮快眼动睡眠时相",
+                "延⻓⾮快眼动睡眠时相",
+                "与正常睡眠⽆区别"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "严重抑郁症⾃杀观念强烈者应⾸先考虑使⽤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿⽶替林",
+                "丙咪嗪",
+                "多塞平",
+                "苯⼄肼",
+                "电休克治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精神发育迟滞的治疗原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "教育⼀般不会有效",
+                "康复训练为主",
+                "⼼理治疗为主",
+                "可⻓期应⽤抗精神病药物",
+                "建议放弃治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于虚构，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "虚构的内容固定不变",
+                "虚构的内容经常改变",
+                "虚构是病理性谎⾔",
+                "虚构常⻅于⼈格障碍",
+                "虚构就是错构"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于神经性贪⻝的临床表现描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要由于神经系统障碍导致的进⻝障碍，控制不知的⼤量进⻝",
+                "患者⼀般因为⼼情较好⽽⼤量进⻝。暴⻝后感到厌恶、内疚、担忧，有的为此⽽产⽣",
+                "患者多为⻘少年男性",
+                "患者常采取多种⼿段，如引吐、导泻、服减肥药等以避免体重增加",
+                "⼤部分患者因⼤量进⻝⽽导致体重明显增加"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "躯体化障碍的主要症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "焦虑",
+                "抑郁",
+                "易疲劳",
+                "强迫思维",
+                "反复出现的躯体症状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "医学⼼理学强调的整体医学模式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽣物医学模式",
+                "⽣理-⼼理医学模式",
+                "⽣物-⼼理-社会医学模式",
+                "⼼理-社会医学模式",
+                "⽣物-社会医学模式"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在精神分裂症的病因中，遗传因素的⽬前研究发现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者近亲的患病率与⼀般⼈群接近",
+                "同卵双⽣的同病率是异卵双⽣的4～6倍",
+                "精神分裂症的⺟亲所⽣⼦⼥从⼩寄养于正常家庭环境中，成年后患病率明显降低",
+                "分⼦遗传学研究已经明确了精神分裂症的基因定位",
+                "与精神分裂症患者⾎缘关系越近，发病率越低"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下关于神经性厌⻝的描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经性疾病造成的厌⻝",
+                "精神疾病造成的厌⻝",
+                "过度肥胖使病⼈产⽣的厌⻝",
+                "指有意节制饮⻝，导致体重明显低于正常标准的⼀种进⻝障碍",
+                "以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下关于应激源的说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者只要遭遇了应激源就会出现应激相关障碍",
+                "患者遭遇的应激源越严重、时间越⻓，所患的应激障碍越严重",
+                "对从事的⼯作⽆兴趣、频繁变换⼯作这些不算应激源",
+                "应激源只有其强度和主观体验超出个体的耐受能⼒时，才能成为应激相关障碍的治病",
+                "以上选项均正确"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症发病机制中神经⽣化假说主要为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5-HT 假说",
+                "ACH假说",
+                "DA假说",
+                "NE假说",
+                "GABA假说"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "正常思维的特征不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "⽬的性",
+                "连贯性",
+                "逻辑性",
+                "实践性",
+                "创新性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪个神经递质系统的异常是惊恐障碍的主要机制"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "DA",
+                "⾕氨酸",
+                "⼄酰胆碱",
+                "褪⿊素",
+                "γ-氨基丁酸"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于品⾏障碍，下列说法中正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "男性明显多于⼥性",
+                "患病⾼峰期在⻘春期前",
+                "患病⾼峰期在成年期",
+                "城市患病率明显低于农村",
+                "⼀般不会影响公众利益"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于癌性镇痛，下列叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疼痛是癌症患者最普遍的症状",
+                "WHO专家推荐镇痛三阶梯⽅法",
+                "⻓期使⽤镇痛药可出现耐受性",
+                "镇痛药物应按需给药，避免成瘾",
+                "镇痛药的选择由弱到强"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项症状对抑郁发作诊断具有特征性意义"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "情绪呈昼重夜轻的节律变化",
+                "早醒",
+                "便秘",
+                "⻝欲和性欲减退",
+                "叹息"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于品⾏障碍的病因，下列说法中错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "与遗传因素有关",
+                "与不良家庭环境有关",
+                "与不良社会环境因素有关",
+                "与不良营养状况有关",
+                "与激素及神经递质可能有关"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下妄想症状对诊断精神分裂症有特殊意义的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "被害妄想",
+                "关系妄想",
+                "夸⼤妄想",
+                "物理影响妄想",
+                "罪恶妄想"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "未分化躯体形式障碍的病程不⾜"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1个⽉",
+                "3个⽉",
+                "6个⽉",
+                "1年",
+                "2年"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有环境意识障碍⽽⾃我意识存在则为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜睡状态",
+                "意识模糊状态",
+                "昏睡状态",
+                "昏迷状态",
+                "意识混浊状态"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "我国对于精神障碍的第三级预防，最主要措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "做好精神障碍患者的康复训练",
+                "建⽴精神障碍防治康复体系",
+                "对精神障碍患者进⾏定期随访",
+                "提⾼精神障碍患者的社会地位",
+                "对患者进⾏合理、系统的药物和⼼理治疗，争取使疾病达到完全缓解"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪⼀类不属于抗抑郁药"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "苯⼆氮䓬类药物",
+                "三环类抗抑郁药",
+                "四环类抗抑郁药",
+                "单胺氧化酶抑制剂",
+                "选择性5-HT再摄取抑制剂"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "镇静作⽤强，抗胆碱能作⽤明显，对⼼⾎管和肝功能影响⼤，锥体外系不良反应较⼩，治疗剂量⽐较⼤。以上是哪类抗精神病药物的作⽤特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中效价抗精神病药物",
+                "⾼效价抗精神病药物",
+                "低效价抗精神病药物",
+                "所有抗精神病药物",
+                "⾮典型抗精神病药物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "慢性脑病综合征最主要的临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意识障碍",
+                "冲动⾏为",
+                "幻觉、妄想",
+                "记忆障碍",
+                "全⾯的智能减退"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "中国精神障碍分类与诊断标准（CCMD-3系统）中将精神疾病共分为⼏⼤类"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～10共⼗⼤类",
+                "0～9共⼗⼤类",
+                "1～9共九⼤类",
+                "1～17共⼗七⼤类",
+                "F00～F99共⼗⼀⼤类"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "抑郁症的主要症状不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "“三⽆”症状",
+                "“三低”症状",
+                "⾃杀",
+                "情绪低落昼重夜轻",
+                "情绪低落昼轻夜重"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中属于5-HT1A受体部分激动剂抗焦虑药物的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "碳酸锂",
+                "丁螺环酮",
+                "曲唑酮",
+                "安⾮他酮",
+                "利培酮"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症的情感障碍主要表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "情感⾼涨",
+                "情感低落",
+                "情感不协调",
+                "情感不稳",
+                "情感淡漠"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种疾病不属于⼼身疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发性⾼⾎压",
+                "神经性呕吐",
+                "糖尿病等",
+                "紧张性头痛",
+                "疑病症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于假性幻觉，正确的叙述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "存在于主观空间，随意志控制",
+                "存在于客观空间，随意志控制",
+                "存在于主观空间，不随意志控制",
+                "存在于客观空间，不随意志控制",
+                "是假性痴呆的主要表现之⼀"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "谵妄常由下列哪种疾病引起"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染中毒",
+                "神经症",
+                "精神分裂症",
+                "抑郁症",
+                "癔症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于精神分裂症后抑郁，以下说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者诊断为精神分裂症的急性期，同时有抑郁情绪，且抑郁情绪是由幻觉妄想等症状",
+                "在患者有抑郁情绪的同时有关系妄想等，抑郁情绪不是由妄想等症状造成",
+                "患者诊断为精神分裂症并服药后精神病性症状明显缓解，后出现持续超过2周的抑郁",
+                "患者诊断为精神分裂症的同时伴有严重的抑郁情绪，服药后精神病性症状控制，抑郁",
+                "患者⼀直有持续的精神病性症状，此次病前有话多、兴奋的表现，此次表现为⼼情"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "攻击⾏为的⾼发阶段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婴⼉期",
+                "⼉童期",
+                "⻘春期",
+                "中年期",
+                "⽼年期"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "精神疾病的概念是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "受精神创伤后的情绪悲观",
+                "未达到个⼈⽬的的内⼼⽭盾",
+                "以精神活动失调为主要表现的疾病",
+                "以上都不对",
+                "精神疾病实际上是思想病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列对躯体形式障碍描述不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多种多样，时常变化的多系统躯体症状",
+                "病⼈存在明显的抑郁和焦虑情绪",
+                "病⼈描述症状时往往有夸⼤",
+                "男病⼈多于⼥病⼈",
+                "病⼈常常于多家医院就诊"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列属于窥阴症的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "8岁的男童由于好奇偷看姐姐洗澡",
+                "19岁的男性偷看⼥性如厕并实施了性侵犯",
+                "34岁单身男性通过望远镜观察隔壁楼上的某陌⽣夫妻同房以达到性⾼潮",
+                "29岁的男性在与妻⼦性交时观看⾊情电影以提⾼情趣",
+                "21岁男性⼤学⽣在观看成⼈⾊情电影时出现性兴奋"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "吗啡和海洛因等短效药物的戒断反应的极期，常出现于停药后"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "8～12⼩时",
+                "12～24⼩时",
+                "24～48⼩时",
+                "48～72⼩时",
+                "8～10天"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

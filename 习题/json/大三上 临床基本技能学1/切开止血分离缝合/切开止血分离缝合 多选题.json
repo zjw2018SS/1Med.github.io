@@ -1,0 +1,52 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "临床基本技能学（外科基本技能）",
+        "filename": "切开止血分离缝合",
+        "type_all_num": 1,
+        "dev": {
+            "wrap_num": 1,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_2_num": 1,
+        "time": "24年11月09日22小时11分12秒",
+        "id": "id-m3a8ud2o-cflgpfqc4"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于切开，哪些哪些说法是正确的？"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 不损伤重要血管和神经",
+                " 切开处应显露好",
+                " 负重或易受磨擦部位作切口不会对愈合造成影响",
+                " 切口缝合后张力小，血运丰富"
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        }
+    ]
+}

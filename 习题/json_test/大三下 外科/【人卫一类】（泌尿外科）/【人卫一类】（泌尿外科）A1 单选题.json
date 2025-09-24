@@ -1,0 +1,4824 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（泌尿外科）A1",
+        "type_all_num": 200,
+        "dev": {
+            "wrap_num": 200,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 200,
+        "time": "25年01月13日11小时38分31秒",
+        "id": "id-m5uhv3p0-es7uulst3"
+    },
+    "body": [
+        {
+            "questions": [
+                "5岁以内小儿肾盂容量约为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1ml",
+                "5ml",
+                "10ml",
+                "15ml",
+                "20ml"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性肾盂肾炎时作逆行肾盂造影的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "除外梗阻是最重要的",
+                "是不必要的",
+                "可显示疾病所特有的异常",
+                "因输尿管水肿而不能进行",
+                "用于局部治疗是有用的"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下尿路感染，下述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿频，尿急，尿痛",
+                "无明显发热",
+                "无明显腰疼",
+                "尿中有蛋白管型",
+                "尿中有多量WBC少量RBC"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不在男性直肠与膀胱之间的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输精管壶腹",
+                "精囊",
+                "前列腺",
+                "输尿管",
+                "耻骨前列腺韧带"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有一住院患者，在检查身体时做B超偶然发现右肾有一低回声区，做CT怀疑为小肾癌，为进一步确诊以下哪项检查最有意义"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿细胞学检查",
+                "经静脉肾盂造影",
+                "肾动脉造影",
+                "逆行性肾盂造影",
+                "肾图"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "隐睾症最宜手术的年龄是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2岁以前",
+                "3～6岁",
+                "7～9岁",
+                "10～13岁",
+                "14岁以后"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "球部尿道损伤尿外渗部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱周围",
+                "会阴浅袋",
+                "会阴深袋",
+                "阴茎部",
+                "阴囊部"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "治疗泌尿系感染的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "消除症状",
+                "预防复发",
+                "达到尿液无菌",
+                "保持尿流通畅",
+                "缓解精神压力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关隐睾的并发症，下列哪项是罕见的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "造成不育",
+                "隐睾恶变",
+                "睾丸扭转",
+                "造成两性畸形",
+                "造成心理不良影响"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有膀胱刺激症状并向尿道和阴茎头放射性痛，应考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂结石",
+                "肾盏结石",
+                "输尿管上段结石",
+                "输尿管末段结石",
+                "输尿管中段结石"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列需行肾切除（对侧肾正常）的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾下极碎裂伤",
+                "肾上极碎裂伤",
+                "肾全层裂伤",
+                "肾严重碎裂伤或肾血管撕裂",
+                "肾挫伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "先天性尿道下裂的手术矫正时机为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "6个月以内",
+                "6～18个月",
+                "1岁以内",
+                "2岁以内",
+                "1～2岁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "不属于睾丸内结构的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "睾丸小隔",
+                "睾丸网",
+                "精曲小管",
+                "输精管",
+                "精直小管"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，每日可产生（ ）个以上的精子"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "108",
+                "106",
+                "107",
+                "105",
+                "104"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有助于区别腹膜外膀胱破裂和后尿道断裂的是前者有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "休克",
+                "导尿管易插入膀胱，造影时造影剂漏至膀胱外盆腔内",
+                "排尿困难",
+                "尿道口流出少量血性尿液",
+                "骨盆骨折"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾绞痛的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持续性的胀痛",
+                "突发性剧烈绞痛并沿输尿管向下腹部放射",
+                "无其他任何并发症状",
+                "泌尿系结核典型的临床表现",
+                "疼痛持续时间长，不易缓解"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对怀疑肾癌者，下列检查使诊断最准确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IVP",
+                "逆行性肾盂造影",
+                "同位素肾扫描",
+                "CT检查",
+                "尿细胞学检查"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是泌尿系结核最常见的临床表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无痛性血尿",
+                "口服头孢后尿路刺激症状明显好转",
+                "脓血尿",
+                "持续性腰部疼痛",
+                "肾区包块"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾结核的手术治疗原则，哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无泌尿生殖系统以外的活动性结核病灶",
+                "术前使用足量的抗结核药物",
+                "术中尽量保存正常的肾组织",
+                "有附睾结核存在，不切除病肾",
+                "术后使用足量的抗结核药物"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在我国泌尿生殖系统肿瘤最常见的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾癌",
+                "肾盂癌",
+                "前列腺癌",
+                "膀胱癌",
+                "阴茎癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "诊断肾积水首先应做的检查是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "KUB",
+                "IVU",
+                "KUB＋IVP",
+                "逆行造影",
+                "B超"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "能用于常规体检，且能发现早期肾癌的检查手段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "排泄性尿路造影",
+                "逆行性尿路造影",
+                "B超检查",
+                "CT检查",
+                "MRI检查"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "婴幼儿最常见的肿瘤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾肿瘤",
+                "肾盂肿瘤",
+                "肾母细胞瘤",
+                "肾血管瘤",
+                "肾上腺瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于输尿管的说法，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "止于膀胱外上角",
+                "跨闭孔动脉、神经的内侧",
+                "沿盆侧壁向后下走行",
+                "女性子宫动脉跨越其前上方",
+                "男性输精管由外向内侧跨越其前上方"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "闭合性膀胱损伤的前提条件是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "暴力太大",
+                "暴力正对准下腹部",
+                "膀胱胀尿",
+                "腹肌薄弱",
+                "妊娠子宫压迫膀胱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于慢性附睾炎，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常由于急性附睾炎未彻底治疗演变而成",
+                "均需作附睾切除治疗",
+                "精索和输精管均匀增粗",
+                "两侧附睾同时感染，可影响生育",
+                "附睾呈不同程度增厚及肿大"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "不作为诊断尿路结石常用的检查方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "泌尿系超声检查",
+                "KUB",
+                "泌尿系平扫CTU",
+                "泌尿系增强CTU",
+                "静脉尿路造影"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "勃起功能障碍（ED），病程至少应在（ ）以上，方能诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1个月",
+                "3个月",
+                "6个月",
+                "12个月",
+                "24个月"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "闭合性肾损伤，非手术疗法须卧床"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "至休克纠正后",
+                "至少2～4周",
+                "至血尿转清",
+                "2～3天",
+                "至腹部肿块不再增大"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "属于肾皮质的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂",
+                "肾盏",
+                "肾柱",
+                "肾乳头",
+                "肾锥体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "膀胱肿瘤患者预后的决定因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿的程度",
+                "肿瘤的大小和数量",
+                "肿瘤生长的部位",
+                "治疗方法",
+                "肿瘤浸润的深度及细胞的分化程度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "为了解肾损伤的部位、程度，下列检查不适宜的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "排泄性尿路造影",
+                "双肾CT",
+                "逆行肾盂造影",
+                "肾动脉造影",
+                "肾脏B超"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关睾丸活检，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有一定的损伤性",
+                "活检标本用甲醛液固定",
+                "双侧小睾丸（容积小于10ml）者不必再作活检",
+                "利用睾丸活检的超微结构特点探索男子抗生育机理",
+                "主要适用于睾丸体积和血清FSH水平正常的不明原因的无精子症"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可初步诊断泌尿系统感染的简易检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺液",
+                "尿常规",
+                "排泄性尿路造影",
+                "中段尿培养",
+                "X线腹部平片"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "区别原发性与继发性精索静脉曲张，主要依据"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阴囊坠胀感程度",
+                "阴囊隐痛程度",
+                "静脉扩张程度",
+                "睾丸生精功能",
+                "平卧位后，曲张静脉是否消失"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关嗜铬细胞瘤的表现正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低血压、高血糖、高代谢",
+                "高血压、低血压、心肌改变",
+                "高血压、低血糖、高代谢",
+                "高血压、低血糖、低代谢",
+                "低血压、低血糖、低代谢"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "尿液细菌学检查，采集尿液的最常用方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "初段尿",
+                "中段尿",
+                "终末尿",
+                "导尿",
+                "膀胱穿刺抽尿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关双肾积水，一侧积水严重、一侧较轻的治疗，下列哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可先治疗严重的一侧",
+                "先治疗较轻的一侧",
+                "双侧积水同时手术治疗",
+                "不需手术治疗，定期观察",
+                "口服中药治疗"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不属于尿路感染的治疗原则"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "明确感染的性质",
+                "鉴别上尿路感染还是下尿路感染",
+                "明确血行感染还是上行感染",
+                "查明泌尿系有无梗阻因素",
+                "避免密切接触"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于下尿路感染，下述说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿中有蛋白管型",
+                "无明显发热",
+                "腰部无明显压痛",
+                "尿频，尿急，尿痛",
+                "尿中有多量白细胞、少量红细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肾和输尿管结石最主要的诊断的首选方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床表现与实验室检查",
+                "泌尿系平片及静脉尿路造影",
+                "泌尿系B超检查",
+                "膀胱镜检查加逆行尿路造影",
+                "泌尿系CT检查"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于马蹄形肾，下列说法哪项是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "约95%的马蹄形肾是在肾下极相连",
+                "患肾大多旋转不良，肾血管多变异",
+                "患肾峡部一般有肾实质组织，有单独的血供",
+                "可伴有腹痛、腰痛以及消化道症状",
+                "确诊后应积极行手术治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "考虑尿石症时，确诊应做的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾图",
+                "CT",
+                "肾功能",
+                "KUB＋IVP",
+                "尿细菌培养＋药敏"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾损伤中采取非手术治疗能治愈"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只限于肾挫伤",
+                "肾全层裂伤",
+                "大多数肾损伤",
+                "肾蒂损伤",
+                "肾损伤并腹腔脏器损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "属于5α还原酶抑制剂的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "他达拉非",
+                "阿夫唑嗪",
+                "西地那非",
+                "坦索罗辛",
+                "非那雄胺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "确定肾结核病变的部位、范围及程度，最好采用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超声波检查",
+                "同位素检查",
+                "IVP或逆行造影",
+                "腹膜后注气造影",
+                "肾动脉造影"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "成熟的精子存储在男性哪个生殖性腺"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "睾丸",
+                "精囊",
+                "附睾",
+                "前列腺",
+                "射精管"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "尿路梗阻时，对肾组织有害的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂淋巴回流",
+                "肾盂静脉回流",
+                "肾盂肾窦回流",
+                "膀胱输尿管回流",
+                "肾盂肾小管回流"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是急性肾盂肾炎的诊断要点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰痛、高热，膀胱刺激症状",
+                "尿液检查有白细胞、红细胞、管型",
+                "尿细菌培养每毫升尿有菌落105以上",
+                "血白细胞计数升高，中性粒细胞增多明显",
+                "恶心呕吐"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "原醛症一般没有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "夜尿增多",
+                "周期性瘫痪",
+                "高血压",
+                "高血钾",
+                "头痛、疲乏、视力模糊"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是肾损伤手术治疗的指征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗休克治疗后血压不能回升或升而复降",
+                "肾血管损伤",
+                "腰部疼痛明显伴有镜下血尿",
+                "开放性肾损伤或伴有腹腔内其他脏器损伤",
+                "尿路造影提示有较大范围肾实质破裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾癌出现血尿时，表明肿瘤已发展到"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "穿入肾盂肾盏",
+                "血行转移",
+                "穿破肾包膜",
+                "已有癌细胞种植于膀胱",
+                "淋巴转移"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不利于上尿路结石形成的因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "饮食结构中肉类过多",
+                "长期卧床不起",
+                "饮食结构中纤维素过少",
+                "尿中枸橼酸增多",
+                "肾小管酸中毒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "良性前列腺增生需与前列腺癌鉴别时，可进行的检查是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病年龄、排尿困难程度",
+                "残余尿量",
+                "有无血尿",
+                "前列腺特异性抗原",
+                "膀胱造影"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是前列腺增生的手术指征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺体积大于40ml",
+                "膀胱残余尿30ml",
+                "最大尿流率16ml/s",
+                "尿动力提示膀胱逼尿肌功能减退",
+                "反复血尿，5α还原酶抑制剂治疗无效"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "原醛症的钾代谢异常是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血钾",
+                "尿钾排出增加",
+                "摄入减少",
+                "低尿钾",
+                "血钾正常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于精液培养菌落数正常值，下列正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "菌落数＜10/ml",
+                "菌落数＜100/ml",
+                "菌落数＜10 3/ml",
+                "菌落数＜104/ml",
+                "菌落数＜105/ml"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列不是急性尿潴留动力性梗阻原因的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "应用阿托品后",
+                "尿道扩张术后",
+                "中枢神经损伤",
+                "肛管直肠术后",
+                "高热患者"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于肾周围炎，下列哪项是罕见的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "畏寒、发热",
+                "腰痛",
+                "髋关节屈曲不能伸展",
+                "X线平片可见脊柱向病侧弯曲",
+                "尿内多量红细胞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于多囊肾的病因及病理，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是一种遗传性疾病，有家庭史",
+                "其外观特征是肾布满大小不等含有浅黄色液体的囊肿",
+                "肾上管与集合管间连接不良，尿液排出受阻，形成肾小管潴留性囊肿",
+                "常伴有肝、脾和胰腺囊肿",
+                "常染色体隐性多囊肾多见，常于40岁左右出现症状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性细菌性膀胱炎不应立即施行的检查有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿常规检查",
+                "尿道扩张",
+                "中段尿培养",
+                "细菌菌落计数",
+                "药物敏感试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪类患者不易通过上行感染的方式导致泌尿道炎症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "妇女新婚期",
+                "妊娠期",
+                "婴幼儿",
+                "尿路梗阻的患者",
+                "年轻男性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，充盈性尿失禁的常见原因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺增生",
+                "下尿路感染",
+                "直肠脱垂",
+                "利尿剂的药物",
+                "输尿管结石"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关膀胱憩室内结石的治疗，最恰当的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经膀胱机械碎石",
+                "中草药排石",
+                "经尿道液电碎石",
+                "耻骨上膀胱切开取石",
+                "体外冲击波碎石"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾可分为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上段、上前段、下段、后段、尖段",
+                "上前段、下段、下前段、后段",
+                "上段、下段、下前段、后段",
+                "上段、上前段、下前段、后段",
+                "上段、上前段、下段、下前段、后段"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "哪种结石易在碱性尿中形成"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿酸结石",
+                "磷酸盐结石",
+                "草酸盐结石",
+                "胱氨酸结石",
+                "黄嘌呤结石"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项疾病不会通过血行感染导致泌尿系感染"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疖痈",
+                "中耳炎",
+                "扁桃体炎",
+                "龋齿",
+                "接触性皮炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "球部尿道损伤后，最具特征性的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "初始血尿",
+                "终末血尿",
+                "全程血尿",
+                "尿道溢血",
+                "会阴部肿痛"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "原发性醛固酮增多症患者出现肌无力的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持续性高血压",
+                "血钠潴留过多",
+                "持久尿量过多",
+                "尿钾排出增多",
+                "血钾浓度降低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "泌尿系最常用的辅助检查为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IVP",
+                "CT",
+                "KUB",
+                "B超",
+                "MRI"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于肾损伤时出现血尿，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾损伤患者大多有血尿",
+                "血尿与损伤程度一致",
+                "肾挫伤时可出现少量血尿",
+                "严重肾裂伤一般呈大量肉眼血尿",
+                "肾蒂血管断裂可以无血尿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最常用于了解肾功能的影像学诊断手段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B超检查",
+                "排泄性尿路造影",
+                "逆行肾盂造影",
+                "DSA检查",
+                "CT检查"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性肾盂肾炎的临床表现不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发热",
+                "腰痛",
+                "膀胱刺激症状",
+                "血尿",
+                "血压升高"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "最常见的鞘膜积液是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "睾丸鞘膜积液",
+                "交通性鞘膜积液",
+                "精索鞘膜积液",
+                "继发性鞘膜积液",
+                "原发性鞘膜积液"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "测定膀胱残余尿量最准确的方法是用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "导尿法",
+                "耻骨上穿刺法",
+                "叩诊法",
+                "超声波探测法",
+                "排泄性尿路造影"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "导致尿路感染最常见的致病菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "金黄色葡萄球菌",
+                "大肠埃希菌",
+                "变形杆菌",
+                "粪链球菌",
+                "沙雷杆菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "精索静脉曲张伴精子异常的不育者，最佳治疗为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "补充维生素",
+                "精索静脉高位结扎术",
+                "中药治疗",
+                "人工授精",
+                "观察等待"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于急性细菌性膀胱炎的临床表现，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一般全身症状不明显，体温正常或仅有低热",
+                "在女性常与经期、性交有关",
+                "男性患者如有慢性前列腺炎，可在性交或饮酒后诱发",
+                "尿频、尿急、尿痛",
+                "常有充盈性尿失禁"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "精索内筋膜对应于腹壁的 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "scarpa筋膜",
+                "腹横筋膜",
+                "腹横肌腱膜",
+                "腹内斜肌腱膜",
+                "腹外斜肌腱膜"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "输尿管结石最常见的停留部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下段",
+                "中段",
+                "上段",
+                "肾盂输尿管连接部",
+                "输尿管与各血管交叉处"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "尿道球部损伤的最常见原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿道器械检查",
+                "骑跨伤",
+                "骨盆骨折",
+                "锐器伤",
+                "踢伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "前列腺炎急性炎症期禁忌的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直肠指诊检查",
+                "尿常规",
+                "尿道内器械检查",
+                "尿三杯试验",
+                "尿培养"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "引起输尿管梗阻最常见的病因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "泌尿系感染",
+                "输尿管肿瘤",
+                "肾结核",
+                "肾结石",
+                "先天性狭窄"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，25岁，结婚3个月，反复尿频、尿急、尿痛2个月，应诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肾盂肾炎",
+                "肾结核",
+                "尿道膀胱炎",
+                "膀胱结石",
+                "滴虫性阴道炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于急性细菌性膀胱炎的发病率女性明显高于男性的原因，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿道外口解剖畸形",
+                "女性尿道短而直",
+                "尿道口附近常有感染病灶",
+                "感染常继发于尿结石",
+                "性交时摩擦损伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "BPH的药物治疗不含"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗雄激素类药物",
+                "α受体阻滞剂",
+                "α受体激动剂",
+                "5α还原酶抑制剂",
+                "植物类制剂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "结石引起的肾绞痛，应首先采用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术取石",
+                "中西医排石治疗",
+                "解痉止痛",
+                "给镇静药物",
+                "给抗感染药物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾损伤非手术治疗的要点，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "绝对卧床2～4周，监测生命体征，尿色、腰部肿块变化",
+                "抗休克，维持体液代谢平衡",
+                "应用止血药和抗生素，适当给予止痛和镇静药物",
+                "血尿逐渐转清，嘱患者离床活动",
+                "定期复查血、尿常规，B超和静脉尿路造影"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "为确定尿道损伤的病变类型，最好的检查方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿道镜检查",
+                "尿道探子检查",
+                "试插导尿管",
+                "B超",
+                "尿道造影"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾损伤下列哪种情况可有血尿"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾挫裂伤",
+                "肾血管断裂",
+                "肾盂广泛撕裂",
+                "输尿管断裂",
+                "输尿管血管堵塞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "鞘膜积液的特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "均质实质性肿块",
+                "透光试验阳性",
+                "透光试验阴性",
+                "肿块胀痛可闻及肠鸣音",
+                "平卧时肿块可消失"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "尿培养菌落计数超过105/ml，应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疑诊尿路感染",
+                "泌尿系结核",
+                "尿标本污染，应重复检查",
+                "确诊泌尿系感染",
+                "没有临床意义"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨盆骨折易并发"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精囊损伤",
+                "阴茎海绵体损伤",
+                "膀胱损伤",
+                "后尿道损伤",
+                "输尿管损伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "哪项不是泌尿系统梗阻后常见的并发症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂肾炎",
+                "肾周围炎",
+                "结石形成",
+                "输尿管狭窄",
+                "膀胱炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "良性前列腺增生症最常造成的尿失禁类型"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急迫性尿失禁",
+                "压力性尿失禁",
+                "真性尿失禁",
+                "充盈性尿失禁",
+                "精神性尿失禁"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性尿路感染时，中段尿培养阳性时，菌落计数应在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "104/ml",
+                "105/ml",
+                "106/ml",
+                "107/ml",
+                "培养出致病菌即可诊断"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于急性细菌性前列腺炎的叙述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大多由尿道上行感染所致，如经尿道器械操作",
+                "血行感染来源于疖、痈、扁桃体、龋齿及呼吸道感染病灶",
+                "可有急性膀胱炎、急性尿潴留及淋菌性后尿道炎的尿液逆流引起",
+                "致病菌多为革兰阴性杆菌",
+                "大部分患者演变为前列腺脓肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "透光试验阳性常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精索静脉曲张",
+                "睾丸肿瘤",
+                "睾丸鞘膜积血",
+                "睾丸鞘膜积液",
+                "附睾炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下关于肾周围炎的叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾周围炎是肾周围组织的化脓性炎症",
+                "致病菌以变形杆菌最多见",
+                "多由肾痈、肾表面脓肿直接感染所致",
+                "由于肾周组织脂肪丰富且疏松，感染易蔓延",
+                "可并发腰大肌脓肿、脓胸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "原醛症出现的代谢紊乱是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血钾",
+                "低尿钾",
+                "高血浆肾素",
+                "尿钾排出增加",
+                "血醛固酮水平降低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "尿道炎时尿痛的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "排尿开始时出现疼痛",
+                "排尿终时尿痛加重",
+                "常伴有尿线中断",
+                "伴有耻骨上区疼痛",
+                "伴有终末血尿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于前列腺癌的诊断，下列最准确的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经直肠B超",
+                "MRI",
+                "PSA",
+                "穿刺活检",
+                "CT"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "男性患者长期留置导尿管发生附睾炎，可能是因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血行感染",
+                "输精管蔓延",
+                "淋巴感染",
+                "药物不敏感",
+                "体质虚弱"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "确诊前列腺癌最可靠的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直肠指检",
+                "穿刺活检",
+                "MRI",
+                "核素扫描",
+                "CT"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾皮质多发性脓肿的致病菌多为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大肠埃希菌",
+                "变形杆菌",
+                "金黄色葡萄球菌",
+                "肺炎链球菌",
+                "肺炎克雷白杆菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "膀胱癌血尿多是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全程无痛血尿",
+                "终末血尿",
+                "起始血尿",
+                "镜下血尿",
+                "终末血尿伴尿频"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "骨盆骨折的患者疑有尿道断裂时，最方便的诊断方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直肠指检",
+                "骨盆X线平片",
+                "尿道造影",
+                "试探尿道",
+                "尿道镜检查"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "膀胱分部是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱尖、膀胱体、膀胱颈",
+                "膀胱尖、膀胱体、膀胱底",
+                "膀胱体、膀胱底、膀胱颈",
+                "膀胱尖、膀胱体、膀胱底、膀胱颈",
+                "膀胱尖、膀胱体、膀胱底、膀胱三角"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "隐睾对人体构成的危险是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "造成不育",
+                "睾丸萎缩",
+                "睾丸恶变",
+                "睾丸炎",
+                "睾丸鞘膜积液"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾结核患者最多见的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿",
+                "尿频、尿痛",
+                "脓尿",
+                "肾区疼痛和肿块",
+                "尿失禁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对先天性肾盂输尿管交界处狭窄最具确诊意义的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "核素肾图",
+                "肾动脉造影",
+                "IVP或逆行造影",
+                "B超",
+                "皮肾穿刺造影"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "残余尿量最好的测量方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B超测量",
+                "导尿",
+                "酚红实验",
+                "IVU",
+                "膀胱镜"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于淋菌性尿道炎的诊断要点，说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有典型的临床表现",
+                "尿道分泌物涂片内找到成堆革兰阴性双球菌",
+                "在慢性期，淋球菌潜伏于腺、窦及前列腺等处",
+                "尿三杯试验以第三杯脓尿最明显",
+                "有不洁性交史"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于腔静脉后输尿管，下列描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下腔静脉发育异常导致右侧输尿管上端位置异常",
+                "多数患者在20岁左右开始出现症状",
+                "本病多见于男性，约为女性的4倍",
+                "可合并结石出现肾绞痛",
+                "严重者可触及右上腹囊性肿块"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "输尿管上狭窄位于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "壁内部",
+                "肾盂下5cm处",
+                "与髂血管交叉处",
+                "骨盆出口",
+                "肾盂与输尿管移行处"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "治疗勃起功能障碍药物的选择性5型磷酸二酯酶抑制剂，与下列哪种药物不能合用，否则会发生严重低血压"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺素",
+                "硝酸酯类药物",
+                "α受体阻滞剂",
+                "5-羟色胺",
+                "血管紧张素转化酶抑制剂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾母细胞瘤临床表现的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿",
+                "腹痛",
+                "腹部包块",
+                "发热",
+                "贫血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下尿路梗阻时，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱逼尿肌代偿增生",
+                "小梁小房形成",
+                "真性憩室形成",
+                "后期尿液反流到输尿管",
+                "后期肾功能损害"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于肾下垂，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发生于瘦高体型的女性",
+                "可引起肾绞痛",
+                "一般需手术治疗",
+                "排泄性尿路造影可诊断",
+                "可引起高血压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于淋菌性尿道炎，说法不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由淋球菌引起的尿道感染，常累及泌尿、生殖系的黏膜",
+                "淋球菌为革兰阴性的奈瑟双球菌",
+                "人有易感性，发病后免疫力极低下，可再度感染",
+                "主要由性接触直接传播",
+                "男性患者淋菌性尿道炎较女性少见"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于非淋菌性尿道炎的诊断要点，说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "典型的临床表现",
+                "不洁性行为",
+                "清晨排尿前取尿道分泌物做培养，培养出衣原体或支原体",
+                "尿道分泌物涂片见到10～15个多核白细胞/HP，找到衣原体或支原体的包涵体",
+                "不可能与淋菌性尿道炎并发"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "上尿路结石是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾结石",
+                "输尿管结石",
+                "膀胱结石",
+                "输尿管和膀胱结石",
+                "肾和输尿管结石"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "确诊肾结核，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱内见结核结节",
+                "尿结核菌培养阳性",
+                "尿中找到抗酸杆菌",
+                "X线造影肾内见结核空洞",
+                "动物接种阳性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾结核的血尿最常表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全程血尿",
+                "间歇性无痛血尿",
+                "起始血尿",
+                "终末血尿",
+                "镜下血尿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于上尿路结石，下述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输尿管结石多位于下段输尿管",
+                "绝大多数是单侧性",
+                "感染性结石必须在碱性尿中形成",
+                "结石位于输尿管口时，常伴有膀胱刺激症状",
+                "当输尿管中段梗阻时，疼痛放射至同侧大腿内侧"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "泌尿系B超在泌尿系统结石诊断中的应用，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可以发现2mm以上的尿路结石",
+                "无法发现X线阴性结石",
+                "可了解结石以上尿路扩张程度",
+                "肾绞痛时可作为首选检查手段",
+                "可间接了解肾实质和集合系统情况"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "多饮水不会"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有利于减少尿中晶体形成",
+                "降低尿中行成结石的物质浓度",
+                "有利于微小结石的排出",
+                "促进已形成结石溶解",
+                "减少尿中晶体沉积"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不属于原发性醛固酮增多症特点的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低比重尿",
+                "尿钾减少",
+                "尿钾增多",
+                "碱性尿",
+                "血肾素水平降低"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾脏损伤最严重的类型是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表浅肾皮质裂伤",
+                "肾蒂血管损伤",
+                "肾挫伤",
+                "肾脏横断或下极碎裂伤",
+                "肾实质深度裂伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "鉴别肾上腺皮质腺瘤与异位ACTH综合征最简便的实验室检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血皮质醇测定",
+                "尿17-羟、17-酮测定",
+                "血ACTH测定",
+                "小剂量地塞米松抑制试验",
+                "大剂量地塞米松抑制试验"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "膀胱癌的恶性程度取决于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿的程度",
+                "肿瘤的大小和数目",
+                "组织学等级",
+                "浸润膀胱壁的深度",
+                "患者的年龄"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "Addison病由于醛固酮缺乏可产生下述哪种情况"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低钠低钾血症",
+                "高钠低钾血症",
+                "高钠高钾血症",
+                "低钾低钙血症",
+                "低钠高钾血症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "引起泌尿系感染最常见的细菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "金黄色葡萄球菌",
+                "淋病奈瑟菌",
+                "大肠埃希菌",
+                "粪肠球菌",
+                "白假丝酵母菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于泌尿男性生殖系先天性疾病的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯性肾囊肿",
+                "膀胱输尿管反流",
+                "海绵肾",
+                "尿道下裂",
+                "肾盂输尿管连接处狭窄"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肾上腺皮质肿瘤不会引起"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原醛症",
+                "肥胖小孩伴小生殖器",
+                "Cushing综合征",
+                "对侧肾上腺肥大",
+                "偶发低血糖症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾蒂内的主要结构从上到下依次是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾静脉、肾动脉、肾盂",
+                "肾盂、肾静脉、肾动脉",
+                "肾动脉、肾盂、肾静脉",
+                "肾静脉、肾盂、肾动脉",
+                "肾动脉、肾静脉、肾盂"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "良性前列腺增生的起始部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "移行带",
+                "外周带",
+                "中央带",
+                "全部前列腺组织",
+                "前列腺外科包膜"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "泌尿系感染最常见的病原菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "革兰阳性球菌",
+                "革兰阴性杆菌",
+                "革兰阴性球菌",
+                "革兰阳性杆菌",
+                "真菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "输尿管最狭窄处直径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.2～0.3cm",
+                "0.3～0.4cm",
+                "0.4～0.5cm",
+                "0.5～0.6cm",
+                "0.7～0.8cm"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "经影像学检查未发现睾丸，最可有的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "睾丸缺如",
+                "高位隐睾",
+                "睾丸萎缩",
+                "设备误差",
+                "睾丸坏死"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "KUB上阴性的结石是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "草酸钙结石",
+                "磷酸镁铵结石",
+                "尿酸结石",
+                "胱氨酸结石",
+                "磷酸钙结石"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "隐睾患儿行睾丸下降固定术最佳时间是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "6个月以内",
+                "12个月以内",
+                "6～12个月",
+                "12～24个月",
+                "2岁以后"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列疾病中不会引起尿流中断的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱结石",
+                "膀胱憩室",
+                "膀胱肿瘤",
+                "膀胱异物",
+                "输尿管囊肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于男性性功能症状的描述，下列哪项是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阴茎勃起不坚或不能勃起而不能性交者称为阳痿",
+                "性交时阴茎尚未插入阴道即射精者称为早泄",
+                "阳痿、早泄大多数为功能性",
+                "精液中含有血液为血精",
+                "输精管结扎手术者术后不会发生性功能障碍"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于嗜铬细胞瘤，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "除高血压外，产生多汗、代谢亢进",
+                "只产生去甲肾上腺素，从不产生肾上腺素",
+                "产生类似于原发性高血压的高血压症",
+                "通过苄胺唑啉实验，大多数病理可以确定诊断",
+                "与其他麻醉剂相比，用环丙烷或氯乙烷手术危险性大大增加"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一住院患者CT检查怀疑为早期肾癌，进一步做以下哪项检查对确诊最有帮助"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿瘤细胞检查",
+                "经静脉肾盂造影",
+                "肾动脉造影",
+                "肾图",
+                "逆行性肾盂造影"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "外伤性尿道狭窄早期的最佳治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "服用抗生素",
+                "定期尿道扩张",
+                "理疗",
+                "经尿道冷刀切开",
+                "尿道吻合术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾结核多见的感染途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血行感染",
+                "上行感染",
+                "淋巴感染",
+                "直接扩散",
+                "接触感染"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "经两次成熟分裂后，生成4个精子的细胞是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精原细胞",
+                "初级精母细胞",
+                "次级精母细胞",
+                "精子细胞",
+                "精子"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾损伤密切观察过程中哪项不应手术治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗休克治疗不好转",
+                "观察过程中发现有合并脏器损伤",
+                "血尿愈来愈加重",
+                "血尿仍存在，但血压在上升",
+                "腹部包块愈来愈大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "可行体外震波碎石的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结石远端尿路梗阻",
+                "安置心脏起搏器者",
+                "血肌酐超过265µmol/L",
+                "肾结石",
+                "育龄妇女输尿管下段结石"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种肾损伤不需早期立即手术"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾碎裂伤",
+                "肾横断伤",
+                "肾挫裂伤",
+                "肾蒂损伤",
+                "肾盂撕裂伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断多囊肾首选的辅助检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT平扫",
+                "增强CT",
+                "超声检查",
+                "MRI",
+                "静脉肾盂造影"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾损伤同时有休克，为预防ARF应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尽早使用抗菌药物",
+                "尽早使用利尿剂",
+                "及时清除尿路中血块",
+                "尽早补充血容量",
+                "尽早使用止血剂"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "上尿路结石的主要临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无痛性血尿",
+                "镜下血尿",
+                "肉眼血尿",
+                "肾绞痛",
+                "与活动有关的血尿和疼痛"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "阴茎癌的主要淋巴转移部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹股沟淋巴结",
+                "盆腔淋巴结",
+                "腹主动脉旁淋巴结",
+                "会阴部淋巴结",
+                "髂血管旁淋巴结"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于输尿管结石的临床表现，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱刺激症状",
+                "急性尿潴留",
+                "肾绞痛",
+                "与活动有关的血尿",
+                "恶心、呕吐"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "尿石症时做排泄性尿路造影，最主要了解"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结石的大小",
+                "结石的成分",
+                "形成结石的全身原因",
+                "肾脏感染的情况",
+                "肾脏结构改变，肾功能情况"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "膀胱癌的危险因素应除外以下哪项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "长期接触联苯胺等致癌物质",
+                "吸烟",
+                "肥胖",
+                "膀胱慢性炎症",
+                "长期膀胱结石刺激"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "哪种肾肿瘤应做肾、全输尿管、膀胱部分切除"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾癌",
+                "肾盂癌",
+                "肾错构瘤",
+                "肾胚胎瘤",
+                "肾肉瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "膀胱结石的诊断，下列最可靠的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超声检查",
+                "腹部平片",
+                "尿流中断史",
+                "直肠指检",
+                "膀胱镜检查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾脏损伤出现明显血尿，最常发生于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输尿管断裂",
+                "肾实质深度裂伤，破入肾盏、肾盂",
+                "肾盂广泛断裂",
+                "输尿管被血凝块堵塞",
+                "肾血管严重损伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "膀胱刺激症状不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶心呕吐",
+                "尿频",
+                "尿急",
+                "尿痛",
+                "血尿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "上尿路结石形成的相关因素不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "反复尿路感染",
+                "饮食中纤维素过少",
+                "长期卧床",
+                "饮食中脂肪含量过高",
+                "大量饮水"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肾母细胞瘤区别于泌尿系其他肿瘤的要点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "虚弱婴幼儿腹部有巨大包块",
+                "有血尿、尿频、尿痛",
+                "常早期转移至颅骨和肝",
+                "血中肾素活性升高",
+                "血中EPO升高"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "为预防结石复发，需碱化尿液的结石类型是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "草酸钙结石",
+                "尿酸结石",
+                "碳酸钙结石",
+                "黄嘌呤结石",
+                "混合结石"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "前列腺增生梗阻症状主要决定于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺增生的部位",
+                "前列腺体积大小",
+                "患者年龄",
+                "前列腺硬度",
+                "有无并发癌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "初始血尿提示病变部位多在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输尿管上段",
+                "后尿道及膀胱顶部",
+                "尿道及膀胱颈部",
+                "肾脏",
+                "输尿管下段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下不属于慢性细菌性前列腺炎诱发病因的有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "性生活无规律",
+                "饮水量少",
+                "勃起而不射精",
+                "过量饮酒及辛辣食物",
+                "长途骑车，长时间坐位工作"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "膀胱癌浸润至膀胱肌层，其分期不可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T1",
+                "T2",
+                "T3",
+                "T4",
+                "T5"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "第12肋斜过"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肾后面上部",
+                "右肾后面中部",
+                "右肾后面下部",
+                "右肾后面上部",
+                "左肾后面下部"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "ESWL的适应证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "妊娠",
+                "急性尿路感染",
+                "输尿管上段结石",
+                "出血性疾病",
+                "严重心脑血管疾病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾盂肾炎最常见的感染途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上行感染",
+                "血行感染",
+                "淋巴道感染",
+                "外伤直接感染",
+                "肾周围器官感染蔓延"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关前列腺增生，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "残余尿量与梗阻程度呈正比",
+                "男性老年患者如无排尿困难即可排除前列腺增生",
+                "根据前列腺大小，即可判断梗阻程度",
+                "凡前列腺增生者，直肠指诊都可以触及增大的前列腺",
+                "都需要手术治疗"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "血尿最多见的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "泌尿系感染",
+                "肿瘤",
+                "结核",
+                "损伤",
+                "泌尿生殖畸形"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于重复肾盂、输尿管畸形，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "指一个肾有两套肾盂和输尿管",
+                "大多发生于一侧，也见于两侧",
+                "两套肾盂和输尿管各自有单独的包膜",
+                "重复输尿管可开口于膀胱以外的器官",
+                "无症状的重复肾患者无需特殊治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "避孕套（阴茎套）避孕方法具有的优点，下列不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "方法简便",
+                "适用于轻度早泄者",
+                "可预防性传播性疾病",
+                "女性对配偶精液过敏者",
+                "若正确而持续使用，第1年意外妊娠率为0"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "右肾下盏结石直径1.5cm，左输尿管中段结石直径1.2cm，选择治疗时应优先考虑的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右肾下极切除取石",
+                "右肾盂切开取石",
+                "左输尿管切开取石",
+                "左输尿管震波碎石（ESWL）",
+                "右肾震波碎石"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨盆骨折合并尿道损伤时，易损伤尿道的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺部",
+                "膜部",
+                "尿道外口",
+                "球部",
+                "尿道内口"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下面哪种畸形属于遗传性疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "马蹄肾",
+                "多囊肾",
+                "隐睾",
+                "尿道下裂",
+                "包茎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于成人型多囊肾，下列哪一项说法是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是一种常染色体隐性遗传病",
+                "患者多在40岁开始出现症状",
+                "肝囊肿是最常见的肾外表现",
+                "症状主要包括高血压、肾衰竭，患者后期往往需要透析治疗",
+                "超过半数患者将逐渐进展至肾衰竭"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某青年长跑后发生腰部绞痛，继而出现肉眼血尿，最大可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾肿瘤",
+                "输尿管肿瘤",
+                "膀胱肿瘤",
+                "上尿路结石",
+                "下尿路结石"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "诊断肾肿块最好的检查方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B超",
+                "CT",
+                "IVU",
+                "腹平片",
+                "肾图"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是淋菌性尿道炎的传播途径"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "性接触传播",
+                "飞沫传播",
+                "母婴传播",
+                "带淋球菌的衣裤、毛巾和手的间接传播",
+                "解除尿道分泌物传播"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关先天性肾盂输尿管交界处梗阻的原因，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "先天性狭窄",
+                "异位血管压迫",
+                "纤维束压迫",
+                "动力性梗阻",
+                "输尿管息肉梗阻"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于精液中的白细胞计数正常值，下列正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "＜0.1×106/ml",
+                "＜0.5×106/ml",
+                "＜1×106/ml",
+                "＜2×106/ml",
+                "＜3×106/ml"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "怀疑尿路结石，应做"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿细菌培养＋药敏",
+                "肾功能检查",
+                "CT检查",
+                "KUB＋IVP",
+                "放射性核素肾图"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "确定尿石症治疗的方案是根据"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿轻重",
+                "致病原因",
+                "尿路梗阻或感染情况",
+                "肾功能情况",
+                "疼痛程度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "鉴别腹膜内型和腹膜外型的膀胱破裂，最好的方法是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱造影",
+                "排泄性尿路造影",
+                "CT",
+                "膀胱镜检查",
+                "B超"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于阴茎癌的转移途径，下列不常见的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常浸润尿道海绵体，影响排尿",
+                "经血行扩散，转移到肺",
+                "经血行扩散，转移到肝",
+                "经血行扩散，转移到骨",
+                "常经淋巴转移到腹股沟、髂淋巴结"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在泌尿生殖系统器官发育过程中完全退化的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "生肾组织",
+                "泄殖腔",
+                "前肾",
+                "中肾",
+                "后肾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列可能与输精管结扎术失败有关的主要因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血肿",
+                "精囊炎",
+                "输精管炎",
+                "先天性重复输精管被忽略",
+                "输精管瘘"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "最常见的肾盂肾炎病菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "葡萄球菌",
+                "粪肠球菌",
+                "大肠杆菌",
+                "变形杆菌",
+                "白色念珠菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾区的位置是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "竖脊肌内缘与第11肋的夹角",
+                "竖脊肌外缘与第11肋的夹角",
+                "竖脊肌内缘与第12肋的夹角",
+                "竖脊肌外缘与第12肋的夹角",
+                "腰大肌外缘与第12肋的夹角"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "易造成尿道球部损伤的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骑跨伤",
+                "锐器伤",
+                "耻骨骨折",
+                "膀胱镜检",
+                "尿道探子扩张尿道"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肾结核患者膀胱镜检查，可见下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "充血水肿",
+                "结核结节",
+                "溃疡及瘢痕形成",
+                "输尿管可呈洞穴状",
+                "膀胱内可见乳头状肿物样改变"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "输精管壶腹是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输精管在膀胱底处的膨大",
+                "输精管在精索部的膨大",
+                "输精管在睾丸部的膨大",
+                "输精管在腹环处的膨大",
+                "输精管在腹股沟部的膨大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于肾脏损伤而无血尿的原因，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "合并输尿管断裂",
+                "肾盂断裂",
+                "贯通肾盏、肾盂的肾实质损伤",
+                "肾蒂血管断裂",
+                "输尿管被血块阻塞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不属于肾造瘘术的适应证的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾积脓，患者全身状况差",
+                "输尿管梗阻，其他方式无法解除梗阻",
+                "膀胱恶性肿瘤晚期，双侧输尿管堵塞",
+                "肾结石经皮肾镜碎石取石术术后需二次手术者",
+                "急性肾盂肾炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾癌血尿最主要特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "镜下血尿",
+                "终末血尿",
+                "全程肉眼血尿，终未加重",
+                "绞痛伴血尿",
+                "无痛性，间歇性大量全程血尿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

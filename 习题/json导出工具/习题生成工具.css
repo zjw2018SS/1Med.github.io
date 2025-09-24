@@ -1,0 +1,350 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#download {
+    display: block;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+body.drag_highlight::before {
+    color: #000000;
+    content: "松开鼠标，开始处理";
+    font-size: 100px;
+    display: flex;
+    /* 使用 flex 布局 */
+    justify-content: center;
+    /* 水平居中 */
+    align-items: center;
+    /* 垂直居中 */
+    width: 100%;
+    /* 确保伪类元素的宽度与父元素相同 */
+    height: 100%;
+    /* 确保伪类元素的高度与父元素相同 */
+    position: absolute;
+    /* 使伪类元素相对于父元素定位 */
+    top: 0;
+    left: 0;
+    z-index: 999;
+    /* background-color: #ffffff83; */
+}
+
+body.drag_highlight::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(10px);
+    /* 高斯模糊效果 */
+    -webkit-backdrop-filter: blur(10px);
+    /* 兼容性处理 */
+    background: rgba(255, 255, 255, 0.3);
+    /* 可选：添加半透明背景色 */
+    pointer-events: none;
+    /* 确保伪类元素不影响鼠标事件 */
+}
+
+
+#page1 {
+    position: relative;
+    /* background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); */
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+    /* background-image: linear-gradient(120deg, #d5fc7985 0%, #96e6a1af 100%); */
+    overflow-y: hidden;
+}
+
+#page1 #contain {
+    position: relative;
+    height: fit-content;
+    height: 100vh;
+    width: 100%;
+}
+
+#textarea0 {
+    position: absolute;
+    top: 2vh;
+    left: 2vw;
+    width: 32%;
+    /* 设置文本框的宽度 */
+    height: calc(100vh - 50px);
+    /* 设置文本框的高度 */
+    padding: 10px;
+    /* 设置内边距，使文本内容与边框之间有一定的间距 */
+    font-size: 20px;
+    /* 设置字体大小 */
+    border: 1px solid #ccc;
+    /* 设置边框样式和颜色 */
+    /* background-color: #a9da99; */
+    background-color: #e3ffda67;
+    /* 设置背景颜色 */
+    color: #333;
+    /* 设置文本颜色 */
+    resize: none;
+    /* 防止用户调整文本框的大小 */
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+#textarea0_tools {
+    position: absolute;
+    top: 25px;
+    right: calc(68% - 2vw);
+    display: flex;
+    flex-direction: row;
+}
+
+#textarea0_tools>div {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 30px;
+    z-index: 100;
+}
+
+#textarea0_tools #textarea0_paste:hover::before {
+    content: "粘贴";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+#textarea0_tools #textarea0_empty:hover::before {
+    content: "清空";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+#textarea0_tools #textarea0_copy:hover::before {
+    content: "复制";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    width: fit-content;
+    text-wrap: nowrap;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+
+
+#textarea1 {
+    position: absolute;
+    top: 2vh;
+    left: 36%;
+    width: 34%;
+    /* 设置文本框的宽度 */
+    height: calc(100vh - 50px);
+    /* 设置文本框的高度 */
+    padding: 10px;
+    /* 设置内边距，使文本内容与边框之间有一定的间距 */
+    font-size: 20px;
+    /* 设置字体大小 */
+    border: 1px solid #ccc;
+    /* 设置边框样式和颜色 */
+    background-color: #e3ffda50;
+    /* 设置背景颜色 */
+    color: #333;
+    /* 设置文本颜色 */
+    resize: none;
+    /* 防止用户调整文本框的大小 */
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+#tools {
+    position: absolute;
+    top: 25px;
+    right: 31%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#tools #download_div:hover::before {
+    content: "下载";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+#tools #textarea1_status:hover::before {
+    content: "编辑";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+#tools #textarea1_copy:hover::before {
+    content: "复制";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+}
+
+#tools #textarea1_preview:hover::before {
+    content: "预览";
+    position: absolute;
+    top: 120%;
+    /* left: -50%; */
+    /* transform: translateX(50%); */
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    z-index: 100;
+    width: fit-content;
+    text-wrap: nowrap;
+}
+
+#tools>div {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 0 0 30px;
+    z-index: 100;
+}
+
+#page1_right {
+    position: absolute;
+    top: 2vh;
+    left: 72%;
+    width: 26%;
+    height: calc(100vh - 50px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #333;
+    /* background-color: #fff35153; */
+    letter-spacing: 1px;
+    font-weight: 500;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#page1_right>fieldset {
+    width: 95%;
+    padding: 5px;
+    border: 1px dotted blue;
+    /* overflow: hidden; */
+}
+
+/* TODO  编辑框内容多不换行 */
+.contenteditable {
+    width: 95%;
+    overflow-wrap: break-word;
+    padding: 2px 5px;
+    margin: 5px auto;
+    background-color: #ffffff9a;
+    border-radius: 5px;
+    text-wrap: wrap;
+    white-space: normal;
+    overflow: hidden;
+}
+
+
+#rules_wrap {
+    margin: 7px 0;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    justify-items: center;
+    align-content: space-around;
+}
+
+#rules_wrap button {
+    /* width: fit-content; */
+    margin: 3px auto;
+    flex: 0 0 21%;
+}
+
+
+#head_info .contenteditable,
+#answer_true_row .contenteditable {
+    width: 90%;
+}
+
+
+.head_info_item,
+.answer_true_row_item {
+    /* max-width: 100%; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 5px 0;
+
+}
+
+.answer_true_row_item {
+/*     flex: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0; */
+}
+
+#more {
+    position: absolute;
+    right: 20px;
+    /* bottom: 20px; */
+    display: flex;
+    flex-direction: row;
+}
+
+#more>div {
+    margin-right: 20px;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#warning {
+    color: rgba(255, 0, 0, 0.568);
+}

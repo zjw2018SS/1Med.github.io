@@ -1,0 +1,1704 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（脑外科）A1",
+        "type_all_num": 70,
+        "dev": {
+            "wrap_num": 70,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 70,
+        "time": "25年01月13日11小时35分33秒",
+        "id": "id-m5uhraaf-gk9z9uorl"
+    },
+    "body": [
+        {
+            "questions": [
+                "硬脑膜外血肿最常发生于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颞区",
+                "顶区",
+                "额区",
+                "枕区",
+                "矢状窦附近"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不是先天性肿瘤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅咽管瘤",
+                "畸胎瘤",
+                "肠源性囊肿",
+                "上皮样囊肿",
+                "髓母细胞瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "颈内动脉系统主要供血区域是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基底核区",
+                "小脑和脑干",
+                "眼部和大脑前3/5的脑组织",
+                "大脑各个皮质区",
+                "大脑前3/5脑组织"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于急性硬脑膜下血肿正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大多由对冲性脑挫裂伤所致",
+                "好发于颞部及枕部",
+                "病情一般不重，多不需手术治疗",
+                "有中间清醒期",
+                "CT检查示颅骨内板与脑表面之间出现低密度新月形或半月形影"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "小脑脑桥角综合征时不出现的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "同侧瞳孔散大",
+                "同侧神经性耳聋，局部麻木和周围性面瘫",
+                "同侧肢体麻木，肌力减退，病理征阳性",
+                "同侧肢体共济失调",
+                "吞咽困难"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对于皮质核束的说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组成内囊后脚纤维",
+                "经内囊前脚下行",
+                "支配对侧半身运动",
+                "属于锥体外系",
+                "终于对侧的舌下神经核"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "发生小脑幕切迹疝时，引起患者昏迷的直接原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑缺氧",
+                "颅内供血不足",
+                "呼吸循环障碍",
+                "脑干受压",
+                "脑脊液循环受阻"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "管理面部的感觉神经是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "迷走神经",
+                "三叉神经",
+                "滑车神经",
+                "面神经",
+                "副神经"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最常见的分流后并发症为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分流系统感染",
+                "分流系统断裂",
+                "分流泵失灵",
+                "分流管堵塞",
+                "分流过度"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颅内压增高的典型表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头痛、呕吐、视盘水肿",
+                "头痛、呕吐、癫痫发作",
+                "头痛、呕吐、感觉障碍",
+                "头痛、呕吐、运动障碍",
+                "头痛、呕吐、意识障碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颅裂、脑膜膨出的病因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "产伤",
+                "新生儿窒息",
+                "新生儿头皮下水肿",
+                "新生儿维生素K缺乏",
+                "先天性神经管发育畸形"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "枕骨大孔疝常常是由于下列脑组织的哪一部分疝入枕大孔"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小脑蚓部",
+                "小脑扁桃体",
+                "颞极",
+                "颞叶钩回",
+                "大脑扣带回"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腔隙性脑梗死最常见的临床表现之一为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纯感觉性卒中",
+                "纯运动性偏瘫",
+                "共济失调性轻偏瘫",
+                "感觉运动性卒中",
+                "构音障碍-手笨拙综合征"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "Hunt-Hess分级Ⅱ级的颅内动脉瘤患者可能出现的表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一侧肢体偏瘫",
+                "瞳孔散大",
+                "躁动不安",
+                "去大脑强直",
+                "昏迷"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "单纯闭合性颅盖线型骨折的治疗原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术复位",
+                "手术钢丝固定",
+                "仅做外固定",
+                "不需特殊处理",
+                "清除碎骨"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对海绵窦的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "海绵窦内血液直接注入颈内静脉",
+                "左、右海绵窦垂体前、后方相连通",
+                "面部感染可借一定途径蔓延到海绵窦",
+                "位于蝶鞍两侧，由硬脑膜两层间的腔隙构成",
+                "向后与基底静脉丛相交通"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颅底陷入症与扁平颅底的鉴别要点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有无颅内高压",
+                "有无头颅歪斜",
+                "有无颅内肿瘤",
+                "有无发育畸形",
+                "有无压迫症状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "相对最容易产生一侧小脑幕切迹疝的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颞叶占位性病变",
+                "阻塞性脑积水",
+                "弥漫性颅内压增高",
+                "小脑幕下占位性病变",
+                "顶叶占位性病变"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对小脑幕切迹疝的描述，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "海马旁回、沟可通过此裂孔移至幕切迹下方",
+                "主要使延髓受压",
+                "主要压迫小脑",
+                "枕叶脑回移至切迹下方",
+                "也称为枕骨大孔疝"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脑出血患者CT图像为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起病后即可见低密度异常影",
+                "起病24～48小时后可见异常高密度影",
+                "起病后即可见高密度异常影",
+                "可见中线结构移位",
+                "起病后24小时内无改变"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于颅咽管瘤下列不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "约占颅内肿瘤的5%",
+                "多见于成年人",
+                "男性多于女性",
+                "常发生在鞍上区",
+                "囊性变且包膜钙化多见"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对冲伤最常造成"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑干损伤",
+                "弥漫性轴索损伤",
+                "硬膜下血肿",
+                "颞、额叶挫裂伤",
+                "枕叶损伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颅盖骨折通常诊断依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头颅X线片",
+                "头痛伴呕吐",
+                "脑定位体征",
+                "局部骨擦音",
+                "头部外伤史"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "最常见的颅内神经纤维瘤起源于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "三叉神经",
+                "面神经",
+                "位听神经",
+                "舌咽神经",
+                "副神经"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性硬膜下血肿的来源不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑皮层动脉",
+                "脑皮层静脉",
+                "桥静脉",
+                "脑膜中动脉",
+                "脑内血肿穿破皮层"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "自发性蛛网膜下腔出血脑膜刺激征常在出血后"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "当即出现",
+                "1～2天出现",
+                "1周后出现",
+                "一直出现",
+                "不出现"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑动脉瘤预后的根据为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑动脉瘤的多少",
+                "血压上升程度",
+                "脑动脉瘤的大小",
+                "有无偏瘫",
+                "意识障碍程度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "颅内压增高可引起头颅X线片上的改变常见有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头颅增大，脑回压迹减少",
+                "脑组织移位",
+                "血管钙化，脑回变的扁平，大脑镰钙化",
+                "颅缝变宽，脑回压迹增多，蝶鞍的前后床突及鞍背骨质吸收",
+                "松果体钙化移位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颅内压调节中起主要缓冲作用的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑组织",
+                "脑血流",
+                "脑脊液",
+                "静脉压",
+                "动脉压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "豆纹动脉由（ ）发出"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈内动脉",
+                "大脑前动脉",
+                "大脑中动脉",
+                "大脑后动脉",
+                "基底动脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对额顶枕区的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "皮肤是良好的供皮区",
+                "颅骨外膜在颅缝处结合紧密",
+                "浅部3层紧密结合常称为“头皮”",
+                "浅筋膜内血管损伤易出血",
+                "腱膜下感染不易扩散"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "帽状腱膜下血肿的处理，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "均需用切开引流",
+                "若血肿巨大需用穿刺抽除积血加压包扎",
+                "均需抗生素预防感染",
+                "巨大血肿易引起中线移位，故脱水治疗",
+                "均需静脉输血抢救休克"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患儿呈长头畸形可能为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "额状缝早闭",
+                "冠状缝早闭",
+                "矢状缝早闭",
+                "鳞状缝早闭",
+                "人状缝早闭"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "颅底骨折的诊断主要是依据"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅底X线片",
+                "CT",
+                "MRI",
+                "PET",
+                "临床表现"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "水平侧卧位经腰椎穿刺所测得的压力，在成年人其正常值为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0～100mmHg",
+                "70～200mmHg",
+                "70～120mmHg",
+                "200～300mmHg",
+                "90～150mmHg"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在儿童期最少见的肿瘤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "室管膜瘤",
+                "颅咽管瘤",
+                "星状细胞瘤",
+                "髓母细胞瘤",
+                "胶质母细胞瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "治疗颅底骨折引起的脑脊液漏时，错误的方法为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保持鼻腔和外耳道清洁",
+                "用乙酰唑胺",
+                "使用棉球填塞鼻腔或外耳道",
+                "限制液体入量",
+                "头抬高30°卧向患侧"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "左侧小脑幕切迹疝患者的典型临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "昏迷，右侧瞳孔散大，左侧肢体瘫痪",
+                "昏迷，左侧瞳孔散大，右侧肢体瘫痪",
+                "昏迷，左侧瞳孔散大，左侧肢体瘫痪",
+                "昏迷，右侧瞳孔散大，右侧肢体瘫痪",
+                "昏迷，双侧瞳孔散大，右侧肢体瘫痪"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于颈内动脉海绵窦瘘叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "窦内段颈内动脉因外伤而破裂，多与颅底骨折合并存在",
+                "颈内动脉海绵窦瘘因外伤引起者占3/4",
+                "体检可闻及血管杂音",
+                "眼外肌麻痹以动眼神经损害最多",
+                "颈内动脉海绵窦瘘最重要的检查手段是脑血管造影"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "治疗脑水肿最常用的药物为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地塞米松",
+                "50%葡萄糖",
+                "30%尿素",
+                "20%甘露醇",
+                "25%山梨醇"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "诊断婴幼儿颅内压增高的可靠依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前囟门张力增高或（和）头围增大",
+                "嗜睡与惊厥",
+                "头痛、呕吐、视盘水肿",
+                "躁动不安与呕吐",
+                "意识障碍与躁动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正常成人脑脊液总量为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "40～60ml",
+                "70～90ml",
+                "100～150ml",
+                "160～200ml",
+                "250～300ml"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脑外伤患者伤后意识障碍，对言语无反应，对痛刺激有回避动作，此时意识程度为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "清醒",
+                "模糊",
+                "浅昏迷",
+                "昏迷",
+                "深昏迷"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "颅底异常血管网症又被称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "网状血管病",
+                "颅内血管畸形",
+                "颅底血管畸形",
+                "脑动脉炎",
+                "烟雾病（moyamoya disease）"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性颅内压增高的患者出现血压升高，心跳及脉搏缓慢，呼吸节律紊乱和体温升高等各项生命体征改变是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Wallenberg syndrome",
+                "Brown-Sequard syndrome",
+                "Cushing syndrome",
+                "Weber syndrome",
+                "Locked-in syndrome"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "高血压脑出血急性期处理的最重要环节是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "立即使用止血药",
+                "控制血压下降至正常以下，防止再出血",
+                "警惕严重颅内高压的出现",
+                "用镇静药，防止癫痫发作",
+                "去骨瓣减压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列不是先天性脑积水的病因的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅内出血",
+                "脑膜炎",
+                "肿瘤",
+                "Dandy-Walker畸形",
+                "颅内动静脉畸形"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患儿头呈长头畸形可能为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "冠状缝早闭",
+                "矢状缝早闭",
+                "额骨缝早闭",
+                "鳞状缝早闭",
+                "人字缝早闭"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对第1躯体感觉区的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感觉传导投影上、下完全颠倒",
+                "管理对侧半身的深浅感觉",
+                "含有6层细胞结构",
+                "感觉投影区大小与该部感觉灵敏程度有关",
+                "位于中央后回和中央旁中叶后部"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "枕骨大孔疝受累的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小脑蚓部",
+                "小脑前叶",
+                "绒球",
+                "小脑扁桃体",
+                "海马旁回和钩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "调节颅内压的因素有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑脊液压力",
+                "脑血流，脑组织移位和静脉压",
+                "脑灌注压",
+                "脑组织，脑脊液与血液",
+                "血压"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "自发性蛛网膜下隙出血最常见的病因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动静脉畸形",
+                "血管炎",
+                "先天性动脉瘤",
+                "脑血管肌纤维发育不良",
+                "凝血系统异常"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断颅内压增高，需慎重进行的检查为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT",
+                "MRI",
+                "DSA",
+                "头颅X线摄片",
+                "腰椎穿刺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对面神经核的叙述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "只管理面肌运动",
+                "位于面神经丘深面",
+                "管理同侧面肌运动",
+                "受双侧皮质核束控制",
+                "位于脑桥上部"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "角膜反射的传入神经是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "视神经",
+                "三叉神经",
+                "动眼神经",
+                "面神经",
+                "展神经"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对于怀疑动脉瘤所致的动眼神经麻痹患者，最有价值的辅助检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头颅CT三维血管显影",
+                "数字减影血管造影",
+                "头颅CT",
+                "头颅MRI",
+                "颅骨X线平片"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑脊液的产生部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛛网膜粒",
+                "椎内静脉丛",
+                "硬膜外隙",
+                "上矢状窦",
+                "脉络丛"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与听觉反射有关的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上丘",
+                "顶盖前区",
+                "下丘",
+                "上丘臂",
+                "下丘臂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断慢性颅内压增高常见的临床依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意识障碍与头痛",
+                "头痛，视力早期减退",
+                "意识障碍与呕吐",
+                "头痛、呕吐",
+                "头痛，伴有进行性视力减退"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "小脑幕切迹疝最有意义的临床定位体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患侧肢体活动减少或消失",
+                "对侧腹壁反射消失",
+                "患侧瞳孔散大",
+                "对侧肢体腱反射亢进",
+                "患侧下肢病理反射"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "各种脑肿瘤在颅内分布有其相对特殊性，第三脑室内肿瘤最常见的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经鞘瘤",
+                "多形性胶质母细胞瘤",
+                "胶样囊肿",
+                "室管膜瘤",
+                "髓母细胞瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不属于内脏运动神经核的核团是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "孤束核",
+                "上泌涎核",
+                "下泌涎核",
+                "动眼神经副核",
+                "迷走神经背核"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "头部叩诊听到破壶音是由哪类原因引起的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅内压增高",
+                "头围和头部形态异常",
+                "神经功能障碍",
+                "静止期脑积水",
+                "代偿性脑积水"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一般颅内压增加的临界容积为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.05",
+                "0.1",
+                "0.15",
+                "0.2",
+                "0.25"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颅内压增高的对症治疗中，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "躁动者可给予镇静剂",
+                "抽搐者可给予抗癫痫药物",
+                "发热者可给予物理降温",
+                "剧烈头痛者可给予吗啡镇痛",
+                "频繁呕吐者可给予禁食"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列颅内压增高临床表现中，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头痛早、晚较重",
+                "头痛以颈枕旁向前方放射至眼眶",
+                "头痛剧烈时出现喷射性呕吐",
+                "视神经乳头中央凹陷明显",
+                "颅内压增高得以解除，视力仍恶化或失明"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "出生半月的脑积水患儿，颅内压增高的主要表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头痛",
+                "呕吐",
+                "视盘水肿",
+                "头围明显增大",
+                "呛奶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "属于开放性脑损伤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头皮裂伤，颅骨与外界相通",
+                "头皮裂伤，颅骨骨折，硬脑膜与外界相通",
+                "颅骨凹陷性骨折，骨折片刺破硬脑膜",
+                "颅底骨折合并有脑脊液鼻漏",
+                "颅骨骨折，骨折片刺破头皮暴露于空气中"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不经过颈静脉孔的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "副神经",
+                "面神经",
+                "舌咽神经",
+                "迷走神经",
+                "颈内静脉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "自发性蛛网膜下隙出血伴一侧动眼神经麻痹提示"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小脑幕切迹疝",
+                "后交通动脉瘤",
+                "前交通动脉瘤",
+                "颈动脉海绵窦瘘",
+                "枕骨大孔疝"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

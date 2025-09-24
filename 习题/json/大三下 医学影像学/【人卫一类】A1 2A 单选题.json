@@ -1,0 +1,6624 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "影像学",
+        "source": "未知",
+        "filename": "【人卫一类】 A1 2A",
+        "type_all_num": 275,
+        "dev": {
+            "wrap_num": 275,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 275,
+        "time": "25年01月12日21小时42分39秒",
+        "id": "id-m5to066q-p0o629ct4"
+    },
+    "body": [
+        {
+            "questions": [
+                "脑增强CT扫描，静脉期出现畸形静脉，表现为“伞状”或“水母状”征象的血管畸形，属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动静脉畸形",
+                "静脉型血管畸形",
+                "海绵状血管畸形",
+                "毛细血管扩张症",
+                "烟雾病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腺样体肥大MR的典型表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鼻咽顶壁与后壁软组织对称性增厚",
+                "咽旁间隙模糊不清，与周围组织分界不清",
+                "增强扫描，鼻咽部增厚的软组织不规则环形强化",
+                "颅底较广泛骨质破坏",
+                "增强扫描增厚的软组织呈明显血管样强化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下关于肾动脉狭窄性高血压的介入治疗方法中，常用的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾动脉内药物灌注术",
+                "狭窄肾动脉球囊扩张及内支架置入术",
+                "完全性肾动脉栓塞",
+                "部分性肾动脉栓塞",
+                "完全性肾上腺动脉栓塞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣狭窄的超声心动图表现不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左房、左室扩大",
+                "二尖瓣前后叶增厚，回声增强",
+                "M型超声E、A峰融合，前后叶同向运动",
+                "二尖瓣瓣口舒张期血流速度增快",
+                "肺动脉瓣“a”波消失"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颈椎病发病率最高的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊髓型",
+                "椎动脉型",
+                "交感型",
+                "神经根型",
+                "混合型"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脾脏最常见的原发恶性肿瘤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转移性肿瘤",
+                "恶性淋巴瘤",
+                "网织细胞肉瘤",
+                "纤维肉瘤",
+                "血管肉瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在正位胸部X线片上，老年人右心缘上部是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上腔静脉",
+                "升主动脉",
+                "奇静脉",
+                "无名动脉",
+                "右心房"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "儿童化脓性骨髓炎的脓肿，不易进入关节腔内的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脓肿容易局限和吸收",
+                "关节囊对关节腔有保护作用",
+                "干骺端骺板起屏障作用",
+                "儿童的关节有较强的抵抗力",
+                "新生骨膜起到屏障作用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "彩色多普勒超声心动图红色代表"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "朝向探头的正向血流",
+                "背向探头的负向血流",
+                "动脉血流",
+                "静脉血流",
+                "垂直探头方向的血流"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "腰椎椎弓峡部骨折，哪个体位摄片可显示"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正位像",
+                "侧位像",
+                "斜位像",
+                "过伸侧位像",
+                "过屈侧位像"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于经颈静脉肝内门体分流术，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "经颈静脉肝内门体分流术缩写为TIPS",
+                "是在DSA引导下，于肝实质内，建立肝静脉与门静脉之间的人工分流通道",
+                "其目的是降低门静脉压力，控制食管胃底静脉曲张，促进腹水吸收",
+                "术中通常使用支架维持分流通道通畅",
+                "为了达到治疗目的，分流道直径越大越好"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "冠状动脉左前降支不分布在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下壁心尖段",
+                "前室间隔中段",
+                "前壁中段",
+                "后壁基底段",
+                "侧壁心尖段"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，20岁，小便失禁数年，MRI扫描见椎管内蚯蚓状流空信号，应诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "星形细胞瘤",
+                "椎管内动静脉畸形",
+                "室管膜瘤",
+                "血管网状细胞瘤",
+                "未见异常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣脱垂的特征性表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣CD段吊床样改变",
+                "二尖瓣增厚",
+                "二尖瓣回声增强",
+                "二尖瓣瓣口面积缩小",
+                "左心房增大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "同时出现双室增大的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣狭窄",
+                "心包炎",
+                "室间隔缺损",
+                "主动脉瓣狭窄",
+                "三尖瓣关闭不全"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "MRI对于脊髓空洞症的诊断具有重要价值，下列对小的脊髓空洞病灶诊断最敏感的检查序列是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T1WI序列",
+                "T2WI序列",
+                "STIR序列",
+                "T2水抑制序列",
+                "PDWI序列"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "缩窄性心包炎用二维超声检测心包，可见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心包腔内有积液及心包上有团块状回声",
+                "心包增厚并常有粘连",
+                "心包腔内有大量心包积液的无回声区",
+                "心包腔内积液随体位而移位",
+                "心包变薄"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项是主动脉瓣关闭不全所致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "SAM现象",
+                "弓背样改变",
+                "钻石样改变",
+                "吊床样改变",
+                "二尖瓣前叶高频震颤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "声像图中，形成很强回声，其后方留有声影的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "皮肤",
+                "脂肪",
+                "结石",
+                "纤维组织",
+                "实质脏器"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于髓外硬膜内肿瘤CT表现的描述，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊髓受压移位",
+                "肿瘤同侧上方蛛网膜下腔增宽",
+                "椎管外生长呈“哑铃”状",
+                "骨结构正常",
+                "冠状面或矢状面重建有助于诊断"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "眼眶非特异性炎症的CT表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "眼外肌增厚以肌腹肥厚为著",
+                "泪腺无增大",
+                "眼球壁不增厚",
+                "视神经增粗",
+                "眶脂肪密度低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于单纯性小肠梗阻的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床上较常见",
+                "低位梗阻时，梗阻近端肠管主要存留液体，气体多因呕吐而排出",
+                "蛔虫堵塞所致的肠梗阻可在小肠内显示有大量成团、成束的蛔虫",
+                "对于单纯性小肠梗阻的病因确定，CT检查要较X线平片敏感而准确",
+                "胆石性肠梗阻可在非胆囊区显示阳性结石影，还可显示胆肠瘘所致的肝内胆管积气"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胸片上常不能看到的骨结构有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "锁骨",
+                "肋骨",
+                "肩胛骨",
+                "腰椎",
+                "胸椎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于房间隔，以下哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "其中部浅的凹陷称卵圆窝",
+                "卵圆瓣位于胎儿右房侧",
+                "是左右心房之间的薄层纤维隔膜",
+                "若成人卵圆孔未能闭合称为房间隔缺损",
+                "以继发性房缺最为多见"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列病变特征影像描述，哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "间质性肺水肿：支气管袖口征",
+                "周围型肺癌：血管集束征",
+                "包裹性胸腔积液：胸膜斑",
+                "特发性间质纤维化：胸膜下线",
+                "肺底积液：膈上半月征"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肠梗阻的临床特点的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一般分为机械性、动力性和血运性三类",
+                "单纯性肠梗阻不仅有肠管通过障碍，还有血液循环障碍",
+                "动力性肠梗阻分为麻痹性与痉挛性肠梗阻",
+                "血运性肠梗阻见于肠系膜内血栓形成或栓塞",
+                "机械性肠梗阻分为单纯性与绞窄性两类"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项舒张期正向血流速度最快"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈总动脉",
+                "锁骨下动脉",
+                "颈内动脉",
+                "颈外动脉",
+                "颈静脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "前纵隔最常见的肿瘤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸腺瘤",
+                "畸胎瘤",
+                "胸内甲状腺肿",
+                "淋巴管瘤",
+                "支气管囊肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性化脓性骨髓炎在发病（ ）后可出现X线征象"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2周",
+                "1周",
+                "5天",
+                "3天",
+                "1天"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于正常纵隔解剖，下列概念错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要由心脏、大血管和气管构成",
+                "后前位片，纵隔位于胸部中央",
+                "心脏位于中下纵隔",
+                "肺门位于后下纵隔",
+                "四分法，上纵隔位于胸骨柄下缘与第4胸椎下缘连线以上"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "缩窄性心包炎的声像图改变不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心包增厚",
+                "双房增大",
+                "左室后壁舒张中后期运动平直",
+                "下腔静脉扩张",
+                "左室射血分数下降"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "正常三尖瓣与二尖瓣的血流频谱不同之处在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "三尖瓣血流舒张期速度大于二尖瓣",
+                "三尖瓣频谱缺乏收缩期成分",
+                "三尖瓣血流频谱为负向，二尖瓣为正向",
+                "三尖瓣血流频谱幅度（速度）小于二尖瓣",
+                "三尖瓣血流频谱幅度（速度）明显大于二尖瓣血流"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对诊断上颌窦癌，最有价值的征象为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "窦腔密度高伴骨质破坏",
+                "窦腔密度高伴骨质增生",
+                "窦腔密度高伴骨壁膨胀",
+                "窦腔密度高伴气液面",
+                "窦腔密度高伴同侧鼻腔高密度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "大叶性肺炎的蔓延途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺泡孔",
+                "肺泡腔内的浆液",
+                "肺动脉",
+                "肺泡壁",
+                "肺静脉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下述关于Kerley B线的描述中，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病理基础为肺叶间裂积液",
+                "为盘状肺不张",
+                "常见于二尖瓣狭窄",
+                "常见于慢性支气管炎",
+                "多分布于中上肺野"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项指标不符合慢性肺源性心脏病的诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "ECG检查，RV5＋SV1≥1.05mV",
+                "超声心动图检查，右室流出道内径≥30mm",
+                "X线检查，右下肺动脉干扩张，其横径≥15mm",
+                "X线检查，肺动脉段高度≥3mm",
+                "ECG检查，肺性P波"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "“小泡征”提示"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "周围型肺癌，尤其是支气管肺泡癌",
+                "中心型肺癌",
+                "肺气肿",
+                "肺结核",
+                "肺脓肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种不是三尖瓣闭锁的病理改变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心室肥厚扩大",
+                "右心房扩大肥大",
+                "卵圆孔未闭或房间隔缺损",
+                "三尖瓣口缺如，无可以辨认的三尖瓣组织，有瓣环样结构",
+                "右侧房室之间被大量纤维和脂肪组织填充，无瓣环样结构"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种方法可以减少影像的部分容积效应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "提高扫描条件（kV值，mA值）",
+                "缩短扫描时间",
+                "减小扫描层厚",
+                "改变重建方法",
+                "选择适当的窗宽窗位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于鼻咽癌的MRI诊断，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鼻咽癌占鼻咽部恶性肿瘤的98%以上",
+                "绝大多数浸润性生长为主",
+                "肿瘤可顺肌束、神经血管束及纤维-脂肪组织界面蔓延",
+                "GD-DTPA增强扫描肿瘤呈明显强化",
+                "少数较表浅的鼻咽癌以外生性生长为主，向鼻腔内突出"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "卵巢癌典型的大网膜种植表现为前腹壁下相当于大网膜部位呈"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "饼状软组织肿块",
+                "多发结节状改变",
+                "网状纤维条索",
+                "无一定特征",
+                "以上均不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "主动脉管腔局部扩张直径超过（ ）可以诊断为主动脉瘤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "3cm",
+                "4cm",
+                "3.5cm",
+                "4.5cm",
+                "5cm"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正常二、三尖瓣口血流在心尖四腔位显示的血流信号为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红",
+                "蓝",
+                "绿",
+                "黄",
+                "五彩"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "超声心动图胸骨旁左心长轴切面无法观察到的解剖结构有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣前瓣",
+                "主动脉瓣",
+                "肺动脉瓣",
+                "室间隔",
+                "右心室"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "组成脑动脉环最多见的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前交通动脉，大脑前动脉，大脑后动脉，后交通动脉",
+                "前交通动脉，大脑前动脉，大脑后动脉，后交通动脉，颈内动脉末端",
+                "大脑前动脉，大脑后动脉，后交通动脉，颈内动脉末端",
+                "前交通动脉，大脑前动脉，大脑后动脉，后交通动脉，基底动脉",
+                "前交通动脉，大脑前动脉，大脑后动脉，基底动脉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于肾动脉狭窄支架置入术的禁忌证，下述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "非顺应性病变",
+                "PTA后残留狭窄大于30%",
+                "PTA后血管损伤",
+                "肾小动脉狭窄",
+                "弥漫性肾血管病变"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑梗死好发于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大脑前动脉供血区",
+                "大脑中动脉供血区",
+                "大脑后动脉供血区",
+                "椎动脉供血区",
+                "基底动脉供血区"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "左前斜位片上心脏后缘自上而下依次为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房、左心室",
+                "右心房、右心室",
+                "左心房、右心房",
+                "左心房、右心室",
+                "右心房、左心室"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于脾肿瘤的说法不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脾海绵状血管瘤CT平扫为境界清楚的低密度或等密度肿块，也可含囊性成分",
+                "脾海绵状血管瘤生长缓慢，临床多无症状",
+                "脾脏淋巴瘤CT平扫可见脾内单发或多发稍低密度灶，边界清或不清",
+                "脾脏淋巴瘤增强可见病灶呈轻度不均匀强化，与正常强化脾实质分界清楚",
+                "脾脏海绵状血管瘤CT增强扫描强化方式与肝脏海绵状血管瘤不同"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "马方综合征属于少见病，约（ ）的病例有心血管病史"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.35",
+                "0.4",
+                "0.55",
+                "0.6",
+                "0.75"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "空回肠良性肿瘤中以哪种常见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺瘤",
+                "畸胎瘤",
+                "纤维瘤",
+                "平滑肌瘤",
+                "神经源性肿瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "PACS的临床应用，不包括哪一项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床诊断",
+                "辅助诊断",
+                "远程医疗",
+                "教学和科研",
+                "网络交流"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "构成X线上关节间隙的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨端",
+                "干骺端",
+                "软骨",
+                "骨性关节面",
+                "关节囊"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不符合化脓性脑膜炎CT表现的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基底池密度增高",
+                "增强后脑膜强化",
+                "脑室壁强化",
+                "脑实质内片状低密度区",
+                "脑室扩大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在收缩期，压力最高的腔室是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主动脉",
+                "肺动脉",
+                "左心室",
+                "右心室",
+                "左心房"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下选项中，不是PTCD手术禁忌证的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有明显出血征象",
+                "大量腹水",
+                "肝功能衰竭",
+                "对比剂过敏",
+                "恶性肿瘤侵犯胰腺十二指肠区、压迫胆总管"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肝血管瘤介入治疗的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发热",
+                "脾区痛",
+                "碘过敏",
+                "肠梗阻",
+                "肠穿孔"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列不是主动脉夹层介入治疗的并发症的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑出血",
+                "髂动脉损伤",
+                "内漏",
+                "TEVAR术后综合征",
+                "脊髓缺血"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "腹部透视诊断肠梗阻的主要依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膈下游离气体",
+                "间位结肠",
+                "肠腔气液平",
+                "肠壁钙化",
+                "肠管扩张"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "膈下脓肿引起肺脓肿一般不表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患侧膈肌升高",
+                "运动受限",
+                "肺内含液面空洞",
+                "胸膜肥厚",
+                "分叶状毛刺结节"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "分水岭脑梗死的好发部位一般不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "额顶叶大脑中动脉分布区",
+                "顶外侧部大脑中后动脉分布区",
+                "顶后叶大脑前中后动脉分布区",
+                "小脑上、小脑前下、小脑后下动脉分布区（蚓部，半球）",
+                "中脑和脑桥之间的动脉分布区"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣狭窄患者的声像图改变不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "三尖瓣反流",
+                "肺动脉增宽",
+                "左室增大",
+                "左房增大",
+                "右室增大"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝脏MR增强检查常规使用的对比剂是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "碘海醇",
+                "碘克沙醇",
+                "Gd-DTPA",
+                "碘氟醇",
+                "泛影葡胺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "病灶中央无强化区DWI序列高信号的是以下哪种病变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "转移瘤",
+                "脑脓肿",
+                "胶质母细胞瘤",
+                "脑炎",
+                "颅咽管瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下述二尖瓣型心脏的影像特点，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心腰隆起",
+                "右心缘较突出",
+                "形态近于梨形",
+                "主动脉结影增宽",
+                "常见于二尖瓣病变、房间隔缺损和肺源性心脏病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肥厚型心肌病梗阻性与非梗阻性的主要鉴别点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前者室间隔厚度明显大于后者",
+                "前者左房明显扩大",
+                "后者左室后壁厚度正常，而前者增厚",
+                "前者IVS/LVPW＞1.5，后者IVS/LVPW＞1.3",
+                "前者左室流出道狭窄，后者无左室流出道狭窄"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "彩超检查动脉导管未闭时，能显示导管分流的最佳切面是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸骨旁长轴",
+                "胸骨旁四腔心",
+                "胸骨上窝主动脉弓短轴",
+                "胸骨旁五腔心",
+                "主动脉短轴或胸骨上窝主动脉弓长轴"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "超声心动图检查常用的部位不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸骨左缘的肋间隙",
+                "心尖区的肋间隙",
+                "剑突下区",
+                "锁骨上窝",
+                "胸骨上窝"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脑转移瘤最常见的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大脑灰质",
+                "大脑白质",
+                "灰白质交界",
+                "小脑半球",
+                "脑干和脑膜"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肺动脉高压的诊断要点为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "出现Kerley B线",
+                "肺野透亮度减低",
+                "多继发于左心衰",
+                "肺纹理增粗，结构模糊",
+                "肺动脉段突出，各肺动脉主干增粗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "化脓性骨髓炎的特征性X线表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "软组织充血、水肿",
+                "骨质破坏",
+                "骨质增生",
+                "死骨形成",
+                "骨膜反应"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下面一组图像主要显示 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正常的右侧冠状动脉",
+                "正常的左前降支",
+                "右侧冠状动脉钙化",
+                "左前降支钙化",
+                "左旋支钙化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "细胞毒性脑水肿最常见的病因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎症",
+                "肿瘤",
+                "脑缺血",
+                "外伤",
+                "脑出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述哪种钙化是错构瘤的特征表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "爆米花样",
+                "层状",
+                "靶心状",
+                "均匀一致钙化",
+                "偏心性沙粒样"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对疑有心内黏液瘤的患者，超声诊断主要应用哪种技术确诊"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "频谱多普勒检测心腔与大动脉间有无异常血流",
+                "对心房肿瘤用多普勒技术检测收缩期血流有无异常",
+                "M型超声观察心腔壁的运动",
+                "彩色多普勒观察有无心内分流血流",
+                "二维超声显示肿瘤的部位、大小、活动性与室壁的关系"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "骨质软化不见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲状腺功能亢进",
+                "骨质软化症",
+                "维生素D缺乏病",
+                "肾功能不全",
+                "甲状旁腺功能亢进"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "应力性骨折最好发的部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "第1跖骨",
+                "第2跖骨",
+                "第4跖骨",
+                "第5跖骨",
+                "跟骨"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正常骨髓中呈短T1和中等T2信号的成分主要为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红骨髓",
+                "纤维组织",
+                "矿物质",
+                "黄骨髓",
+                "血管"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于急性硬膜下血肿的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT平扫表现为颅骨内板下发新月形高密度影",
+                "无颅骨骨折或骨折仅位于暴力部位",
+                "血肿范围广泛，不受颅缝限制",
+                "增强扫描可见远离颅骨内板的皮层和静脉强化",
+                "常伴有血肿部位颅骨骨折"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列“少枝胶质细胞瘤”诊断要点，哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于成人",
+                "易出现线条状或团块状钙化",
+                "近脑表面，可有颅骨破坏",
+                "多呈不均匀强化",
+                "多呈明显均匀强化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于子宫的解剖及MRI表现，哪项是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "子宫肌层T1加权像呈低信号，T2加权像呈略高信号",
+                "结合带是肌层的一部分，厚度5～6mm",
+                "肌层厚度为1～3cm",
+                "结合带位于子宫肌层与内膜之间",
+                "结合带T2加权像呈明显高信号"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "诊断右心房增大的主要检查方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸部X线＋超声心动图检查",
+                "胸部X线＋心血管造影检查",
+                "超声心动图＋心血管造影检查",
+                "心血管造影＋心电图检查",
+                "超声心动图＋MRI检查"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于腹部大血管的内容正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹主动脉及其主要分支",
+                "下腔静脉及其主要属支",
+                "门静脉系统（脾静脉、肠系膜上静脉和门静脉）",
+                "A＋B＋C",
+                "A＋B"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于膝关节描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是人体X线片上最大的关节间隙",
+                "股骨和胫骨不在一条轴线上",
+                "腓骨小头位于腓肠肌内侧头肌腱内",
+                "成人膝关节间隙为6～8mm",
+                "由股骨和胫骨端构成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "钙化性病变的胸片表现特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "云絮状浅淡模糊影",
+                "条索状密度增高影",
+                "边缘清楚致密影，密度比肋骨低",
+                "边缘清楚致密影，密度比肋骨高",
+                "肺透亮度增加，局部肺纹理缺如"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颅脑外伤导致颅骨骨折累及鼻窦，出现鼻窦积液，最常见于下列哪个鼻窦"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上颌窦",
+                "筛窦",
+                "额窦",
+                "蝶窦",
+                "额窦及蝶窦"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不是早孕超声观察的内容"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "妊娠囊",
+                "胎芽",
+                "胎心搏动",
+                "胎儿心脏结构",
+                "卵黄囊"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颈动脉粥样硬化斑块最常见于下列哪个部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈总动脉中端",
+                "颈总动脉起始段",
+                "颈外动脉起始处",
+                "颈总动脉分叉处",
+                "颈内动脉起始段"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对于“涎腺肿瘤”临床特点的描述，下列说法哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病理类型单一",
+                "颌下腺肿瘤，良性多见",
+                "腮腺肿瘤，恶性居多",
+                "腮腺肿瘤占70%～80%，其次为颌下腺肿瘤",
+                "CT对腮腺恶性肿瘤定性价值较高"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述关于左心房增大的X线影像表现中，描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "后前位见右心缘“双房影”",
+                "侧位示心后缘上部向后突出",
+                "后前位示主支气管分叉角度增大",
+                "右前斜位示食管受压、后移",
+                "左前斜位示心前间隙缩小甚至消失"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于Chiari畸形的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "后脑先天发育异常",
+                "小脑扁桃体过长、变形，经枕骨大孔伸入椎管内",
+                "延髓及第四脑室亦向下延伸",
+                "常伴发脑积水与脊柱裂",
+                "ChiariⅠ型常伴有脊髓脊膜膨出"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心脏右前斜位片主要观察的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主动脉窗",
+                "左心房、左心室",
+                "右心房、右心室",
+                "右心房、肺动脉干",
+                "左房、肺动脉干、右心室漏斗部"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列颅内出血急性期的描述中，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病时间＜1周",
+                "血肿为均匀高密度，呈类圆形、肾形或不规则形",
+                "有周围水肿",
+                "有占位",
+                "增强扫描为不规则形强化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于三房心（左侧）的二维超声显像所见的叙述，下列哪一项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房内有一隔膜，左心房被分为两部分",
+                "左心房内的隔膜上有孔，左心房两腔互相通连",
+                "肺静脉血只回流到右心房",
+                "左心房内的隔膜把左心房分为两部分",
+                "肺静脉血仍回流到左心房"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "MR检查，哪种扫描方法能充分显示十字韧带"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "矢状位",
+                "冠状位",
+                "横轴位",
+                "膝关节轻度外旋后矢状位",
+                "膝关节轻度内旋后矢状位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在哪个时期，脑血肿与脑梗死的CT表现相仿"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超急性期",
+                "急性期",
+                "亚急性早期",
+                "亚急性晚期",
+                "慢性期"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于髓外硬膜内肿瘤的CT脊髓造影扫描，典型表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊髓位置正常，没有变形",
+                "脊髓移位，没有变形",
+                "脊髓移位，外形变扁，肿瘤呈圆形",
+                "脊髓移位，呈圆或椭圆形，同侧蛛网膜下腔扩大",
+                "脊髓移位，脊髓和肿瘤都接近圆形"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列描述不符合化脓性脑炎（早期）的CT表现的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑实质内低密度灶",
+                "病灶明显强化",
+                "有占位效应",
+                "多发生于颞、额、枕叶",
+                "病灶与水肿界限不清"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "蛛网膜下腔出血检查的首选是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "DSA",
+                "CT",
+                "MRI",
+                "头颅平片",
+                "超声彩色多普勒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "男性生殖系统结核在临床上最常见的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺结核",
+                "精囊结核",
+                "输精管结核",
+                "附睾结核",
+                "以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脑囊虫病的CT表现不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实质内的囊性病灶",
+                "囊内可见小结节",
+                "病变常多发",
+                "实质内环形强化病灶，伴灶周水肿",
+                "实质内强化结节灶，无灶周水肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "哪项叙述不符合早期脑结核瘤的CT表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病灶周围水肿",
+                "多位于幕上",
+                "病灶形态不规则",
+                "平扫不易显示病灶本身",
+                "病灶不强化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "分子影像的成像工具中组织分辨最强的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "PET",
+                "CT",
+                "MRI",
+                "超声成像",
+                "SPECT"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "主动脉瓣狭窄可见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心室增大",
+                "左室向心性肥厚",
+                "室壁非对称性肥厚",
+                "心包积液",
+                "以上都不是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对泌尿系阳性结石，应选的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹部平片",
+                "CT",
+                "腹膜后充气造影",
+                "逆行肾盂造影",
+                "静脉肾盂造影"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于上腔静脉综合征叙述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上腔静脉综合征是上腔静脉狭窄、闭塞，导致头颈部、上肢静脉静脉回流障碍形成的疾病综合征",
+                "上腔静脉综合征是由于心包缩窄导致的上腔静脉回流障碍形成的综合征",
+                "上腔静脉综合征的病因均为良性疾病",
+                "上腔静脉综合征的病因均为恶性疾病",
+                "以上叙述均不正确"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于组织内声衰减程度的一般规律，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血液较肝脏声衰减小",
+                "液体内含蛋白成分的声衰减增加",
+                "肝脾比骨组织衰减程度大",
+                "肌肉组织比肌腱衰减小",
+                "组织中含钙质越多，声衰减越大"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "彩色多普勒技术不用于下列哪项检查"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "表浅器官",
+                "心血管系",
+                "腹水、胸水定位",
+                "腹腔脏器",
+                "外周血管"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "超声检查中常用的切面有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "矢状面",
+                "横切面",
+                "斜切面",
+                "冠状切面",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于心底的描述，哪一项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心底部与大血管相连，位置活动度大",
+                "朝向右后上方，大部分由左心房及小部分右心房组成",
+                "由左、右心室组成",
+                "由左心室组成",
+                "由左、右心房和肺动脉及主动脉组成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑梗死CT水肿高峰发生于发病后"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "12小时",
+                "24小时",
+                "2～5天",
+                "1周",
+                "10天左右"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列心脏影像中，哪项不太重要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "位置",
+                "大小",
+                "形态",
+                "密度",
+                "搏动状态"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于Colles骨折，下列哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "桡骨远侧3cm以内骨折",
+                "骨折远端向背侧移位",
+                "骨折远端向尺侧移位并旋转",
+                "可合并尺骨茎突骨折和下尺桡关节脱位",
+                "手腕呈“勺状”畸形"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "论述关节MRI影像，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "半月板呈低信号",
+                "骨髓腔在T1WI上是低信号",
+                "骨性关节面为低信号影",
+                "关节囊为低信号",
+                "滑液在T1WI呈低信号"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "X线在人体内的透过率从大到小，正确排列顺序为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "气体、液体及软组织、脂肪、骨",
+                "骨、脂肪、液体及软组织、气体",
+                "脂肪、气体、液体及软组织、骨",
+                "骨、液体及软组织、脂肪、气体",
+                "气体、脂肪、液体及软组织、骨"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关肝癌TACE治疗的理论基础，以下说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正常肝组织的血供70%～75%来自于肝动脉",
+                "肝癌的血供95%以上来自肝动脉",
+                "带有化疗药物的碘油可趋向性沉积在肿瘤局部",
+                "TACE能使肝癌组织坏死",
+                "TACE能诱导肿瘤细胞凋亡"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肺静脉高压的病因不包括以下哪一项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣狭窄",
+                "二尖瓣关闭不全",
+                "肺栓塞",
+                "左房黏液瘤",
+                "主动脉狭窄"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腕骨二次骨化中心出现的正常顺序是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头、钩、三角、月",
+                "小、大、钩、头",
+                "豆、月、头、钩",
+                "舟、钩、月、头",
+                "月、豆、头、大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "反映缩窄性心包炎左心室缩窄的X线表现有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上腔静脉扩张、肺淤血、右心房增大",
+                "上腔静脉扩张、肺淤血、左心房增大",
+                "肺淤血、间质性肺水肿、左心房增大",
+                "肺淤血、右心房增大、左心房增大",
+                "上腔静脉扩张、间质性肺水肿、左心房增大"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "阿尔茨海默病脑萎缩，多以哪个部位最明显"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颞叶前部及海马",
+                "额叶",
+                "顶叶",
+                "枕叶",
+                "小脑半球"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪一项不是二尖瓣狭窄的超声所见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "城墙样改变",
+                "气球样改变",
+                "左心耳扩大",
+                "左心房扩大",
+                "左心室扩大"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "乳腺癌最常见的病理类型为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髓样癌",
+                "硬癌",
+                "乳头状癌",
+                "小叶癌",
+                "浸润性导管癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "结合图像，最可能的诊断 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主动脉夹层",
+                "真性动脉瘤",
+                "假性动脉瘤",
+                "囊肿",
+                "主动脉壁间血肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于CT增强扫描的叙述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增强体内需观察物体的对比度",
+                "对比剂可通过不同方式注入",
+                "增强组织的辐射衰减差异",
+                "扫描方式与平扫不同",
+                "提高病变的检出率"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肺动脉瓣血流的多普勒频谱特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "舒张期出现，双峰形状，正向",
+                "收缩中期出现，负向，尖峰形状",
+                "持续全收缩期，负向，正弦波形状",
+                "收缩期正向，双峰，舒张期负向，波峰圆钝",
+                "收缩期为正向，舒张期为负向，尖峰形状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "超声心动图检查哪项结果说明主动脉瓣关闭不全系风湿性"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主动脉瓣根部扩张",
+                "主动脉瓣呈二叶瓣",
+                "主动脉瓣与二尖瓣叶增厚钙化、缩短，二尖瓣口面积＜1.2cm2",
+                "主动脉瓣增厚钙化",
+                "左室乳头肌、腱索反射增强钙化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胸片示气管分叉上移，夹角大于90°，提示下列哪种改变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右心房增大",
+                "左心房增大",
+                "左心室增大",
+                "肺动脉高压",
+                "膈肌上抬"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑梗死脑细胞水肿期，病变区CT影像表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低密度，边界模糊",
+                "低密度",
+                "高密度",
+                "等密度，边界清楚",
+                "等密度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于髓母细胞瘤的描述，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常见于小儿",
+                "小脑蚓部多见",
+                "肿瘤出血较少见",
+                "第四脑室扩张",
+                "周围水肿多较轻"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "主动脉夹层介入治疗的禁忌证包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主动脉最大径大于5cm",
+                "主动脉夹层的迅速增大（大于每6月5mm）",
+                "髂动脉严重迂曲且不能纠正",
+                "合并内脏、下肢严重缺血",
+                "Marfan综合征"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "超声诊断下肢深静脉瓣功能不全的主要标准是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "深静脉瓣游离缘松弛、伸长",
+                "深静脉流速加快",
+                "交通支静脉反流",
+                "浅静脉曲张",
+                "Valsalva试验或挤压远端肢体放松后出现反流且持续时间＞0.5s，症状明显者＞1s"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列M型超声心动图的波群为测量左室内径、室间隔和左室后壁厚度的标准区的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸骨旁左心长轴心底波群",
+                "胸骨旁左心长轴二尖瓣波群",
+                "胸骨旁左心长轴心室波群",
+                "胸骨旁四腔心三尖瓣波群",
+                "胸骨左缘右室流出道长轴肺动脉瓣波群"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脑血肿急性期MR表现，以下哪项描述错误"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呈等T1短T2信号",
+                "主要为含氧血红蛋白",
+                "红细胞内外铁分布不均",
+                "局部磁场不均引起质子去相位",
+                "只影响T2弛豫时间"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "超声心动图能测出心包积液，估计其心包腔内液体量至少为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "300ml",
+                "200ml",
+                "100ml",
+                "50ml",
+                "30ml"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列用于减少CT影像运动伪影的方法，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "检查前训练病人呼吸",
+                "减少或不做吞咽动作",
+                "儿科病人服用镇静剂",
+                "提高扫描速度",
+                "降低X线扫描剂量"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项征象有助于鉴别髓母细胞瘤和室管膜瘤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "密度稍高",
+                "均一增强",
+                "脑积水程度",
+                "沿脑脊液播散种植转移",
+                "第四脑室形态"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述哪项不符合胸膜结核瘤的影像特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多位于外侧胸壁、前胸壁或后胸壁",
+                "可为扁平丘状、半圆形或不规则形态",
+                "多数为2～5cm大小",
+                "肿块密度均匀一致",
+                "多有同侧胸膜炎病史"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "M型的主动脉根部波群不能检查什么解剖结构"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右室流出道",
+                "左室后壁",
+                "主动脉瓣",
+                "主动脉壁",
+                "左房腔"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "超声心动图评价二尖瓣狭窄具有很高特异性，其中不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "明确诊断",
+                "定量评估狭窄程度",
+                "评价心脏功能改变及判断有无并发症",
+                "可评估肺动脉收缩压",
+                "术中监测，术后疗效评价及随访"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关右心室和肺动脉之间的关系，下列描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右心室借右室流出道与肺动脉相连",
+                "肺动脉瓣由3个半月形的瓣叶组成",
+                "肺动脉3个瓣叶分大、中、小三叶",
+                "肺动脉3个瓣叶袋口朝上，每个瓣叶游离缘中央有一半月小结",
+                "右室流出道为一光滑的肌性管状结构"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "法洛四联症的基本畸形不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右室肥厚",
+                "室间隔缺损",
+                "左室肥厚",
+                "肺动脉狭窄",
+                "主动脉骑跨"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "鉴别听神经瘤与三叉神经瘤最重要的征象是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘤体与颅板呈锐角",
+                "强化程度",
+                "合并出血、坏死",
+                "中、颅后窝骑跨生长",
+                "岩骨尖骨质破坏"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "区别主动脉瓣反流与二尖瓣口血流的最佳超声技术为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "M型",
+                "二维超声",
+                "脉冲多普勒",
+                "连续多普勒",
+                "彩色多普勒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "与超声成像相关的超声波物理性质不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "指向性",
+                "反射、折射与散射",
+                "衰减与吸收",
+                "多普勒效应",
+                "电离效应"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "二维超声心动图心尖四腔切面见房间隔十字交叉中心处向两侧伸出"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣前叶与三尖瓣前叶",
+                "二尖瓣前叶与三尖瓣隔叶",
+                "二尖瓣前叶与三尖瓣后叶",
+                "二尖瓣后叶与三尖瓣前叶",
+                "二尖瓣后叶与三尖瓣隔叶"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于下肢深静脉的超声检查，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下肢深静脉与同名动脉伴行，最后由股静脉汇入髂内静脉",
+                "急性血栓，于血栓处管腔增宽，呈无或低回声，管腔不能被压闭",
+                "慢性血栓，管腔回缩，呈中等或高回声，血栓部静脉壁增厚",
+                "多普勒超声显示血栓部位静脉段无血流信号或仅有少量血流信号",
+                "小腿以下深静脉血栓超声诊断的敏感性较低"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "风湿性瓣膜病时，最常受累的两个瓣膜是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣和三尖瓣",
+                "二尖瓣和主动脉瓣",
+                "二尖瓣和肺动脉瓣",
+                "主动脉瓣和肺动脉瓣",
+                "肺动脉瓣和三尖瓣"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "目前临床上最常用的超声仪器是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "A型超声仪",
+                "B型超声仪",
+                "D型超声仪",
+                "M型超声仪",
+                "以上都不是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脱氧血红蛋白出现在脑出血的哪期"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超急性期",
+                "急性期",
+                "亚急性早期",
+                "亚急性晚期",
+                "慢性期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列有关椎管内动静脉畸形错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可发生于各节段，可同时累及髓内外",
+                "钙化；迂曲团状强化，引流静脉及供血动脉显示",
+                "脊髓内外的异常血管团流空信号",
+                "脊髓内出血",
+                "脊髓水肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述哪项是二尖瓣关闭不全的声像图特征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二尖瓣前叶舒张期城墙样改变",
+                "收缩期自左室流入左房的血流信号",
+                "升主动脉内径增宽",
+                "室壁运动减弱",
+                "二尖瓣瓣口面积缩小"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑转移瘤好发于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑髓质",
+                "小脑皮层",
+                "脑皮层",
+                "大脑皮层",
+                "大脑皮层、皮层下区及皮髓质交界区"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项CT表现最支持视神经胶质瘤的CT诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "视神经梭形增强",
+                "受累视神经“双轨征”",
+                "肿瘤增强明显",
+                "视交叉受累",
+                "视神经孔增大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颅脑占位患者CT的间接征象是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑室扩张、脑积水、病灶多发",
+                "病灶增强、形态、中线结构移位",
+                "病灶增强、大小及密度特征",
+                "病灶侧蛛网膜下腔增宽、病灶钙化、囊变",
+                "脑积水、正常结构移位、骨质变薄"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "脑膜瘤的Gd-DTPA增强扫描强化方式错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "明显强化",
+                "均匀性强化",
+                "少数病变可呈轻度强化",
+                "邻近脑膜增厚、强化",
+                "不均匀强化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "股动脉走形于下列哪个部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹股沟韧带浅表前方",
+                "闭孔内肌深面",
+                "腹股沟韧带深面",
+                "腹股沟韧带左侧",
+                "股深动脉的右侧"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述肺脓肿的CT、MRI表现特点，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期病灶CT上呈均匀中等密度",
+                "早期病灶MRI上呈中等信号",
+                "空洞一般为厚壁空洞，内壁不规则",
+                "增强后扫描空洞壁强化",
+                "病灶治愈后，CT和MRI图像上常见钙化影"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "脑梗死“模糊效应期”发生于梗死后"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～2周",
+                "2～3周",
+                "3～4周",
+                "4～5周",
+                "5～6周"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脑出血时，细胞外的正铁血红蛋白在MRI上表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "长T1长T2",
+                "长T1短T2",
+                "等T1等T2",
+                "短T1长T2",
+                "短T1短T2"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "成人型多囊肾的影像学特点，以下错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾脏外形增大，呈多囊状结构",
+                "囊壁可有钙化",
+                "肾盏及漏斗受压变形",
+                "IVP示“奶酪”肾",
+                "无肾功能损害"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下关于儿科影像检查方法的说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "儿童对X线辐射损伤较成人更耐受，因此儿童应该尽量选择X线的影像检查",
+                "儿童对X线辐射损伤修复较成人快，因此儿童应该尽量选择X线的影像检查",
+                "超声检查具有实时、无辐射、安全性高等优势，宜作为儿科疾病的首选影像学检查",
+                "CT检查图像较平片清楚，选用时有条件的应尽量选用CT检查",
+                "MRI检查是儿科疾病理想的影像检查技术，是呼吸系统及胃肠道系统的首选影像检查技术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于气胸，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT检查的目的是发现少量气胸及少见部位的气胸",
+                "所有气胸都有加重发展成张力性气胸的可能",
+                "胸片大多能明确诊断",
+                "少量气胸时，胸部平片不易发现",
+                "气胸不引起纵隔气肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "CT图像上胆囊壁增厚的标准是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "＞3mm",
+                "＞4mm",
+                "＞5mm",
+                "＞6mm",
+                "＞7mm"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下述空泡征知识，哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大小为1mm至数毫米",
+                "病理基础为小空洞",
+                "常见于肺腺癌或细支气管肺泡癌",
+                "胸片上为低密度透光区",
+                "病理基础为残存的正常含气肺泡组织或小支气管"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不是TIPS手术的适应证的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "门脉高压性食管胃底静脉曲张",
+                "内镜治疗后消化道出血复发",
+                "消化道出血内镜治疗失败",
+                "肝性脑病",
+                "大量难治性腹水"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "法洛四联症患儿病理生理改变与临床表现主要取决于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉狭窄程度",
+                "主动脉骑跨与右室肥厚程度",
+                "患儿年龄",
+                "血液黏滞度",
+                "病程长短"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "周围型肺癌所形成的空洞，其X线特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "厚壁，其内有大液平面，外缘模糊",
+                "厚壁，偏心性，内壁凹凸不平，无明显液平面",
+                "薄壁，蜂窝状阴影",
+                "薄壁，周边光整，大小形态可变化",
+                "薄壁，其内有大液平面，边缘清晰"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "发绀型先天性心脏病中最常见的畸形为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "法洛四联症",
+                "右室双出口",
+                "大动脉转位",
+                "单心室",
+                "永存动脉干"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于强直性脊柱炎早期X线征象中，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "椎体上、下缘局限性骨质破坏",
+                "椎体前缘骨质硬化，出现方椎",
+                "椎旁韧带骨化",
+                "脊柱骨质疏松",
+                "关节骨性强直"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列与肺心病不符的X线征象是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺气肿",
+                "右心室增大",
+                "左心室明显增大",
+                "右前斜位见肺动脉圆锥突出",
+                "右下肺动脉直径＞15mm"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "法洛四联症与大室间隔缺损艾森门格综合征的超声表现鉴别要点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "室间隔缺损大小",
+                "主动脉跨度",
+                "肺动脉狭窄程度",
+                "右室大小",
+                "肺动脉狭窄与肺动脉高压"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "门静脉主干正常宽径"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "≤9mm",
+                "≤15mm",
+                "15～20mm",
+                "≥20mm",
+                "≥25mm"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "先天性心脏病中最常见的类型是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "室间隔缺损",
+                "房间隔缺损",
+                "动脉导管未闭",
+                "法洛四联症",
+                "肺动脉瓣狭窄"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肺间质病变的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常规CT增强扫描价值最高",
+                "小叶间隔不均匀增厚",
+                "支气管血管周围间质增厚",
+                "蜂窝状阴影",
+                "网状阴影"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脑萎缩的影像，下列描述哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑沟增宽",
+                "脑室扩大",
+                "侧脑室周围低密度水肿带",
+                "脑回变窄",
+                "健侧脑组织向患侧移位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述肺源性心脏病X线表现，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多有双肺纹理稀疏，纤细表现",
+                "双肺体积增大",
+                "肺动脉段突出",
+                "右下肺动脉直径大于13mm",
+                "右心室增大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胼胝体发育不良的诊断要点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双侧脑室前角及体部间距增宽，三脑室上移",
+                "三脑室扩大",
+                "合并多小脑回",
+                "合并Chiari畸形",
+                "合并Dandy-Walker综合征"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肺气肿的X线表现，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "桶状胸，肋间隙增宽",
+                "肺野透亮度增高",
+                "两侧膈肌升高",
+                "两肺纹理稀疏",
+                "心影呈滴状"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "气管分叉上移，夹角增大，见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房增大",
+                "右心房增大",
+                "左心室增大",
+                "膈肌上移",
+                "肺源性心脏病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "超声在人体中传播遇到空气时，错误的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "反射强烈",
+                "反射多于折射",
+                "能清晰显示空气后方组织",
+                "很难看到空气后方组织",
+                "回波幅度很大，出现亮点或光团"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列肱骨骨折多见于儿童，且为肘部最常见骨折的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱骨外科颈骨折",
+                "肱骨骨干骨折",
+                "肱骨髁上骨折",
+                "肱骨远端全骨骺分离",
+                "肱骨头骨骺分离"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关前室间沟与后室间沟的相关描述，血流哪一项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心的胸肋面有自冠状沟向下至心尖右侧的浅沟，称为前室间沟",
+                "膈面也有自冠状沟向下至心尖右侧的浅沟，称为后室间沟",
+                "后室间沟与冠状沟的交点，称为房室交点",
+                "前后室间沟室左右心室在心表面的分界",
+                "冠状沟是左右心在心脏表面的分界"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "蒙泰贾（Monteggia）骨折是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尺骨上1/3骨折，合并桡骨小头脱位",
+                "第1掌骨基底部骨折，合并掌腕关节脱位",
+                "桡骨远端的骨折，伴远侧断段向背侧倾斜",
+                "桡骨远端的骨折，伴远侧断段向掌侧倾斜",
+                "桡骨下1/3的骨折，合并尺骨小头脱位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脑梗死是按（ ）分布的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑白质",
+                "脑实质",
+                "脑叶",
+                "脑沟",
+                "脑血管分布区"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "大量心包积液（500ml以上）用二维超声如何作半定量测定"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无回声区包绕心室前外后方及心尖部，心室前后方无回声区≥10mm",
+                "心包明显增厚",
+                "只心室前方出现明显无回声区",
+                "只心室后方出现明显无回声区",
+                "心包脏层与壁层间有明显粘连表现"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "需与淋巴结鉴别的腹膜后结构或变异是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝脏",
+                "肾上腺",
+                "双下腔静脉",
+                "肾脏",
+                "脾脏"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "正常肩关节SE序列T1WI"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可分辨二头肌腱",
+                "皮质骨为高信号",
+                "关节盂缘为高信号",
+                "透明软骨为较高信号",
+                "透明软骨为低信号"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "常规心脏扫查过程中，使用率最高的是哪一项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸骨左缘区和心尖区",
+                "胸骨左缘区和剑突下区",
+                "心尖区和剑突下区",
+                "心尖区和胸骨上凹区",
+                "胸骨左缘和胸骨右缘区"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "彩色频谱多普勒检测血流的用途是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精确测定血流宽度",
+                "测定血管壁的厚径",
+                "确定血流方向",
+                "确定是什么脏器的动脉血管",
+                "可单独测定血流量"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "动静脉畸形的最佳检查方法为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT",
+                "MRI",
+                "MRA",
+                "DSA",
+                "增强MRI"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肾筋膜和肾间隙的正确描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾脏前缘和吉氏筋膜前层之间为肾前间隙",
+                "两侧肾周间隙之间没有交通",
+                "左右肾后间隙之间相通",
+                "肾筋膜外为液体",
+                "肾上腺、肾血管位于肾周间隙"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于肺内支气管与肺动脉的下列描述中，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉分支的管径与伴行的支气管管径相近",
+                "正常情况下，肺动脉管径是伴行的支气管管径的1.5倍",
+                "肺外围一般能显示支气管的断面",
+                "肺外围一般不能显示肺动脉分支的断面",
+                "伴行的支气管比相邻肺动脉粗2倍以上才可以诊断为支气管扩张"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "早期脑梗死的脑血管造影的主要征象为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉排空延迟",
+                "循环时间延长",
+                "动静脉短路",
+                "血管闭塞",
+                "动脉血流缓慢"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颅咽管瘤最好发的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鞍内",
+                "鞍上",
+                "大脑半球",
+                "小脑半球",
+                "脑室内"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "右前斜位，心脏前缘自上而下依次为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房、左心室",
+                "右心房、右心室",
+                "右心室、左心室",
+                "左心房、右心室",
+                "左心室、右心房"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述疾病与心脏增大描述不相符的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "法洛四联症——右心室增大",
+                "房间隔缺损——左心房增大",
+                "二尖瓣关闭不全——左心室增大",
+                "肺动脉狭窄——肺动脉段膨隆",
+                "动脉导管未闭——“漏斗”征"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于乳腺癌的X线征象，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿块，呈毛刺状",
+                "成簇的钙化",
+                "皮肤呈橘皮样改变",
+                "乳头凹陷",
+                "肿块边缘光滑，见透明晕"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "前列腺癌发生部位主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "70%发生于后部及周边区",
+                "70%发生于前部和中央部",
+                "90%发生于周边区",
+                "5%发生于前部并突至膀胱",
+                "5%发生于周边部突至直肠前凹"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "M型超声心动图心室波群自前至后，所代表的解剖结构为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸壁、右室前壁、右心室腔、左心室、室间隔、左室后壁",
+                "胸壁、室间隔、左心室、右室前壁、右心室腔、右室后壁",
+                "胸壁、右室前壁、右心室腔、室间隔、左心室、左室后壁",
+                "胸壁、左心室、室间隔、左室后壁、右室前壁、右心室腔",
+                "胸壁、左心室、左室后壁、室间隔、右室前壁、右心室腔"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脑内多发海绵状血管瘤与转移瘤鉴别的主要依据"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤部位",
+                "肿瘤大小",
+                "肿瘤密度",
+                "有钙化",
+                "瘤周旁水肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "超急性期脑梗死在DWI上表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低信号",
+                "稍低信号",
+                "等信号",
+                "稍高信号",
+                "高信号"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于肠结核的描述，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "平片常有“狗耳征”",
+                "肠结核好发于回盲部",
+                "通常分溃疡型、平坦型和增生型",
+                "病变肠段明显增宽、延长",
+                "原发灶以腹腔结核最常见"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最准确的前列腺测量的成像方法为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱造影",
+                "MRI冠状面、矢状面T2WI",
+                "CT",
+                "平片",
+                "盆腔血管造影"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心脏病二尖瓣狭窄舒张期二尖瓣前叶与后叶呈"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "同相运动",
+                "异相运动",
+                "矛盾运动",
+                "不协调运动",
+                "不规则运动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "腰椎侧隐窝的后界是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下关节突",
+                "椎板",
+                "椎体后缘",
+                "椎弓根",
+                "上关节突"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "M型超声心动图常在二维超声心动图哪一切面下进行"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心尖四腔心切面",
+                "胸骨旁四腔心切面",
+                "左心长轴切面",
+                "心底短轴切面",
+                "心尖两腔心切面"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腔隙性脑梗死最常发生下列哪个部位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "枕叶",
+                "基底节区",
+                "脑干",
+                "顶叶",
+                "小脑半球"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于腺样体肥大的CT影像特点，下述哪项不符合"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "密度多均匀",
+                "平扫呈稍高密度",
+                "增强扫描显著强化",
+                "颅底骨质破坏",
+                "与周围邻近结构界线清楚"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "彩色多普勒血流显像的特点，错误的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血流朝向探头，显示红色",
+                "血流背离探头，显示蓝色",
+                "血流朝向或背离探头，流速高均显示亮度大",
+                "动脉血流显示为红色",
+                "高速湍流则以五彩表示"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于Chiari畸形的分型，下列描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Ⅰ型：扁桃体下疝，通常不伴其他脑畸形",
+                "Ⅱ型：常伴神经管闭合不全和幕上畸形",
+                "Ⅲ型：伴颈枕交界部脑膨出",
+                "Ⅳ型：有严重的小脑发育不全",
+                "混合型：同时具有上述四型的表现特点"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于单纯疱疹性脑炎的叙述，下列哪一项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "本病是最常见脑部病毒性感染，可累及任何年龄，但是以成人多见",
+                "本病常首先发生在颞叶",
+                "早期T1WI可见局部脑回肿胀，T2WI病灶呈高信号",
+                "发病1～2周后，增强扫描可见脑回样显著异常强化",
+                "本病病情发展快、死亡率高、后遗症多，早期诊断很重要"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "血源性肺脓肿致病菌主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链球菌",
+                "肺炎双球菌",
+                "大肠杆菌",
+                "金黄色葡萄球菌",
+                "阿米巴原虫"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列“脑内动静脉畸形”诊断要点，哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "青年人脑出血",
+                "斑点样钙化",
+                "脑水肿、占位征象明显",
+                "增强扫描可见到增粗、迂曲血管影",
+                "同一部位反复出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "升主动脉瘤为马方综合征二维超声直接征象，其内径在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "40mm以上",
+                "40mm以下",
+                "42mm以上",
+                "42mm以下",
+                "以上都不对"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项说法与卵巢癌无关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "盆腔、腹腔巨大多发囊实性肿块",
+                "腹水",
+                "腹腔不规则肿块，肠袢边缘不清",
+                "盆腔脂肪增多",
+                "肝周、盆壁、网膜有细小钙化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，32岁。被车撞伤后1小时，结合图像，最可能的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右侧气胸",
+                "右肺不张",
+                "右侧气胸并皮下纵隔气肿",
+                "右侧肺大疱并皮下纵隔气肿",
+                "支气管断裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不属于胆囊癌声像图类型"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蕈伞型",
+                "硬化型",
+                "厚壁型",
+                "混合型",
+                "实块型"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "快速舒张期在血流动力学上的意义是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血液快速从左心室射到主动脉",
+                "血液从主动脉反流至左室流出道",
+                "血液在此期快速、大量从左心房充盈到左心室",
+                "血液从右心房缓慢充盈到右心室",
+                "血液从左心房缓慢地充盈到左心室"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "主动脉夹层动脉瘤Debakey Ⅰ型是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内膜破口位于升主动脉近端，夹层可累及降主动脉",
+                "内膜破口位于升主动脉近端，夹层局限于升主动脉",
+                "内膜破口位于升主动脉近端，夹层可累及主动脉弓、降主动脉、腹主动脉及其分支",
+                "内膜破口位于左锁骨下动脉远端，夹层常向下扩展至胸降主动脉或腹主动脉",
+                "内膜破口位于升主动脉近端，夹层局限于升主动脉及主动脉弓"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下关于乳腺X线影像的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳头顶部可略有凹陷。乳头可因发育变异而稍呈扁平状，甚至出现乳头凹陷。年轻未生育者乳头常较小",
+                "皮下脂肪：呈中等密度，高于空气密度，其内可见致密的静脉及乳房悬韧带阴影",
+                "乳腺实质：是由乳腺小叶及其周围纤维组织融合而成的片状中等密度影，边缘模糊",
+                "乳腺导管碘剂造影可以显示呈树枝状的高密度导管影",
+                "皮下脂肪：呈低密度，高于空气密度，其内可见致密的静脉及乳房悬韧带阴影"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下超声心动图表现不属于动脉导管未闭的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "升主动脉与主肺动脉之间的回声中断",
+                "左心室内径扩大",
+                "室间隔和左室后壁运动幅度增大",
+                "主动脉根部增宽",
+                "降主动脉峡部与左肺动脉之间有异常管样回声"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列关于高血压心脏病的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心尖向左下延长",
+                "主动脉弓迂曲、上移",
+                "晚期可有肺淤血",
+                "晚期有肺水肿",
+                "左心缘反向搏动点不移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关CT检查的临床应用中，以下哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅脑肿瘤的检查首选普通X线，次选CT",
+                "脑梗死的检查首选CT，次选血管造影",
+                "椎间盘突出的检查首选CT，次选脊髓造影",
+                "椎管内肿瘤的检查首选CT，次选脊髓造影",
+                "弥漫性轴索损伤首选CT，次选MRI"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颅脑MRI平扫，下列关于脑脊液信号的描述，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "长T1WI，长T2WI",
+                "T1WI呈高信号",
+                "T2WI呈低信号",
+                "短T1WI，短T2WI",
+                "短T1WI，长T2WI"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下面图像应考虑为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉瓣钙化",
+                "二尖瓣钙化",
+                "三尖瓣钙化",
+                "主动脉瓣钙化",
+                "主动脉壁钙化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "椎体骨折在急性期发生水肿，MR图像上是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T1加权像低信号，T2加权像高信号",
+                "T1加权像低信号，T2加权像低信号",
+                "T1加权像高信号，T2加权像高信号",
+                "T1加权像等信号，T2加权像等信号",
+                "T1加权像等信号，T2加权像低信号"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "二维超声检测左心室用以判断有无冠心病的主要依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心室形状改变",
+                "左心室壁厚径增加",
+                "节段性室壁运动异常",
+                "左心室壁收缩期增厚率减低",
+                "左心室壁收缩运动幅度增大"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于CT成像的基本原理的叙述下列哪项是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "X线束从多个方向对人体检查部位以一定层厚进行扫描",
+                "由探测器接收透过该扫描层面的X射线",
+                "探测器将接收到的X线剂量直接输送计算机进行运算",
+                "图像处理时将扫描层面分成若干体积相同的小立方体，即体素",
+                "计算获得每个体素的X线衰减系数并转换成由黑到白的像素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "化脓性骨髓炎骨包壳的形成来源于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染性肉芽组织的钙化",
+                "脓液的钙化",
+                "软组织内的异位钙化",
+                "骨膜产生的新骨",
+                "未遭破坏的皮质骨"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "纵隔肿瘤定位诊断最佳方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸部正侧位片",
+                "体层",
+                "血管造影",
+                "支气管造影",
+                "CT"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "测量二尖瓣口面积的切面为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心长轴切面",
+                "心底短轴切面",
+                "心室短轴鱼口水平切面",
+                "心室短轴腱索水平切面",
+                "心室四腔切面"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于主动脉瓣关闭不全的诊断要点，下列描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主动脉瓣区舒张期吹风样杂音",
+                "主动脉弓迂曲、延长，搏动增强",
+                "心尖圆钝、上抬",
+                "侧位片示食管和心后下缘间的透亮间隙消失",
+                "心尖向左下方移位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "通常所说的肺内肿块性病灶，直径应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "≥3cm",
+                "≥4cm",
+                "≥6cm",
+                "≥7cm",
+                "≥8cm"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "单纯慢性二尖瓣狭窄的超声心动图可表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左房扩大，右室扩大",
+                "左房扩大，左室扩大",
+                "左房扩大，右室缩小",
+                "左房缩小，左室扩大",
+                "左房缩小，右房扩大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项临床表现对诊断骨髓瘤最有价值"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴细胞增高",
+                "白细胞增高",
+                "尿中出现本周蛋白",
+                "进行性贫血",
+                "血清钙及球蛋白升高"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关脑脓肿的描述，下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "耳源性脑脓肿多位于颞叶及小脑",
+                "血源性脑脓肿好发于额顶叶灰白质交界区",
+                "脓腔内出现气液面提示厌氧菌感染",
+                "厚度均一的环状强化出现于脓肿壁形成早期",
+                "脓肿期水肿最明显"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一般肾囊肿的常见临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿",
+                "肿物",
+                "疼痛",
+                "尿频、尿急",
+                "一般无临床症状"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "检查左心房最佳的X线摄片方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "后前位摄片",
+                "左前斜位摄片",
+                "右前斜位摄片",
+                "右前斜位加食管吞钡摄片",
+                "左前斜位加食管吞钡摄片"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "彩色多普勒技术在心血管系统的临床应用主要包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "检查瓣口的狭窄性射流",
+                "瓣口关闭不全的反流",
+                "心腔间的分流",
+                "心腔与血管间分流",
+                "以上都对"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "出生后没有明显发绀的先天性心脏病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "室间隔缺损",
+                "法洛四联症",
+                "永存动脉干",
+                "肺动脉闭锁",
+                "完全型大血管转位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "老年性和绝经后骨质疏松骨质改变的描述中，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨小梁纤细而清晰",
+                "骨小梁有规律吸收消失",
+                "应力性小梁首先消失",
+                "骨皮质变薄",
+                "皮质骨内可见纵行透亮条纹或虫蚀样透亮区"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "常见的良性结节钙化类型不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中心致密钙巢",
+                "沙粒样钙化",
+                "同心圆状钙化",
+                "爆米花样钙化",
+                "中心弥漫性钙化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣狭窄常见的继发性心脏改变不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房血栓",
+                "房颤",
+                "肺动脉高压",
+                "右心扩大",
+                "心包腔积液"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "室间隔缺损好发部位为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膜部",
+                "肌部",
+                "窦部",
+                "小梁部",
+                "漏斗部"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不符合肥厚型心肌病超声表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心室扩大",
+                "室间隔增厚，常＞15mm",
+                "SAM现象",
+                "左室流出道湍流频谱",
+                "主动脉瓣收缩中期关闭现象"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在椎管内硬膜外肿瘤中，下列哪项最常见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经鞘瘤",
+                "神经纤维瘤",
+                "神经母细胞瘤",
+                "错构瘤",
+                "转移瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下肢动脉闭塞时，常用下列哪条动脉作对照"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱动脉",
+                "颈动脉",
+                "主动脉",
+                "对侧下肢动脉系统",
+                "以上都不对"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "人体最长的静脉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股静脉",
+                "下腔静脉",
+                "髂总静脉",
+                "大隐静脉",
+                "小隐静脉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "PVP治疗椎体转移性肿瘤的适应证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "椎体后缘骨质广泛破坏、较大范围不完整者",
+                "肿瘤破坏椎体引起局部疼痛或并有病理性压缩骨折，椎体后缘大部分完整者",
+                "肿瘤明显压迫脊髓但尚未出现瘫痪者",
+                "成骨型椎体转移",
+                "椎体压缩程度＞75%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "CT增强检查可以不强化的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑膜瘤",
+                "脑脓肿",
+                "胶质母细胞瘤",
+                "脑炎",
+                "转移瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不是关节创伤的并发症和后遗症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不稳定和松弛性关节",
+                "慢性窦道",
+                "关节畸形",
+                "假关节",
+                "化脓性关节炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "正常膝关节的MR表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "后交叉韧带附于股骨外侧髁的内",
+                "前交叉韧带附于股骨内侧髁的外面",
+                "髌韧带位于髌下脂肪垫前方",
+                "膝交叉韧带表现为高信号",
+                "交叉韧带表现为中等信号"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "螺旋CT扫描，动脉增强早期，下列组织结构中，最早出现不均匀斑片状强化的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝脏",
+                "脾脏",
+                "胰腺",
+                "肌肉",
+                "腹主动脉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "股骨颈骨折最易合并"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨感染",
+                "骨不连",
+                "骨梗死",
+                "骨萎缩",
+                "骨缺血性坏死"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列对慢性血栓描述不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "边界不规则的斑块强回声",
+                "与静脉壁混为一体的机化血栓",
+                "血栓处管腔增宽，但程度不同",
+                "静脉瓣膜厚而扭曲，活动硬而固定",
+                "再通局部充满血流信号"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心包脂肪垫阴影的位置是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右心膈角处",
+                "左心膈角处",
+                "心底部",
+                "心腰部",
+                "左心耳处"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列脏器或组织哪个不能于平片摄影中显示"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾脏",
+                "腰大肌",
+                "心脏",
+                "甲状软骨",
+                "胆囊"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "根据所提供的图像，最可能的诊断是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发肝囊肿",
+                "多发肝转移癌",
+                "肝右叶下段肝癌并肝内转移",
+                "多发肝脓肿",
+                "多囊肝"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "先天性颅内动脉瘤最好发于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Willis环及大脑中动脉分叉处",
+                "小脑动脉",
+                "脉络膜前动脉",
+                "胼周动脉",
+                "椎基底动脉"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "HRCT扫描主要优点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "图像边缘模糊",
+                "相对密度分辨率提高",
+                "噪声小",
+                "相对空间分辨率提高",
+                "时间分辨率高"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "扁桃体的恶性肿瘤中以下列哪种较多见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腺癌",
+                "淋巴肉瘤",
+                "网织细胞肉瘤",
+                "血管内皮瘤",
+                "鳞癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在活体内用弥散MRI来测绘出水的微观运动的图像是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "PWI",
+                "DWI",
+                "快速成像技术",
+                "磁共振血管成像",
+                "MRS"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列属于关节基本病变的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎症",
+                "关节脱位",
+                "肿瘤",
+                "损伤",
+                "畸形"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急腹症按病变性质分类，不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脏器扭转性",
+                "肿瘤性",
+                "穿孔性",
+                "炎症性",
+                "损伤性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "疑消化道穿孔，观察膈下游离气体应首选摄影位置为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左侧卧水平投照",
+                "右侧卧水平投照",
+                "仰卧水平投照",
+                "仰卧后前位",
+                "站立后前位"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在胸片上，无广泛线状、索条状、网状及蜂窝状阴影的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发性肺癌",
+                "石棉肺",
+                "肺纤维化",
+                "支气管扩张",
+                "恶性淋巴管炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脑脊液鼻漏，常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "筛骨骨折",
+                "额骨骨折",
+                "蝶骨骨折",
+                "颞骨骨折",
+                "鼻骨骨折"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "碘对比剂可发生过敏反应，除哪项外属于轻度反应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶心、呕吐",
+                "气喘、呼吸困难",
+                "面色潮红",
+                "头晕、头痛",
+                "轻度荨麻疹"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "局限性阻塞性肺气肿，最常见的病因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "支气管肺癌",
+                "慢性支气管炎",
+                "支气管扩张",
+                "支气管哮喘",
+                "小叶性肺炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "超声造影检测外周血管异常，下列哪一项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉血栓形成造成狭窄处产生湍流",
+                "静脉血栓形成使血流充盈缺损",
+                "动脉扩张时血流明显加速",
+                "动脉狭窄时血流变细，流速加快",
+                "动脉闭塞导致无血流"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列组织T1值最短的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "水",
+                "皮质骨",
+                "肌肉",
+                "脂肪",
+                "脑白质"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "少量蛛网膜下腔出血常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "侧裂池和脚间池",
+                "脚间池和纵裂池",
+                "大脑凸面脑沟",
+                "纵裂池和侧裂池",
+                "大脑大静脉池和环池"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下述肺间质病变CT表现，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小叶间隔增厚",
+                "肺内长线状影",
+                "胸膜下线",
+                "网状阴影",
+                "肺内致密结节影"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "颅内动静脉畸形CT平扫，一般可为高、等、低三种密度。等密度是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胶质增生",
+                "尚未钙化的血栓",
+                "梗死区及脑萎缩的脑脊液充填区",
+                "脑血管钙化",
+                "周围水肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于扩张性心肌病超声表现的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全心扩大",
+                "室壁活动弥漫性减弱",
+                "二尖瓣面积相对变小",
+                "左室壁相对变薄",
+                "室间隔增厚"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文件列表</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        h2 {
+            color: #555;
+            margin-top: 30px;
+        }
+
+        h3,
+        h4,
+        h5 h6 {
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+
+        #file-list {
+            width: fit-content;
+            max-width: 80%;
+            /* 限制文件列表宽度 */
+            margin: 0 auto;
+            /* 居中文件列表 */
+        }
+
+        li {
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            width: 100%;
+            gap: 15px;
+        }
+
+        .file-name {
+            flex-grow: 1;
+            word-wrap: break-word;
+        }
+
+        a {
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .text-file {
+            color: #1e90ff;
+            background-color: #e0f7ff;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        .image-file {
+            color: #28a745;
+            background-color: #d4edda;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        .pdf-file {
+            color: #dc3545;
+            background-color: #f8d7da;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        .audio-file {
+            color: #fd7e14;
+            background-color: #fff3cd;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        .default-file {
+            color: #6c757d;
+            background-color: #f8f9fa;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .file-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-start;
+        }
+
+        .file-actions button:first-child {
+            display: block;
+        }
+
+        .file-actions button {
+            padding: 5px 10px;
+            cursor: pointer;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            white-space: nowrap;
+        }
+
+        .file-actions button:hover {
+            background-color: #0056b3;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            flex-direction: column;
+        }
+
+        /* 手机端适配 */
+        @media (max-width: 600px) {
+            .file-actions {
+                justify-content: flex-start;
+                width: 100%;
+            }
+
+            .file-actions button {
+                flex: 1 1 100%;
+                margin-bottom: 10px;
+            }
+
+            ul {
+                width: 100%;
+            }
+
+            li {
+                width: 90%;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>资料&文件列表</h1>
+    <!-- <h6>手机浏览器需要自行设置权限才能使用"复制地址"按钮</h6> -->
+    <h3>收集于网络。（南华大学医学生群：259023994）</h3>
+    <h4>预览调用微软的接口，可能抽风不能用，pdf预览好像不能用。</h4>
+
+    <!-- <h3>各文件收集自网络。感谢“<a href="https://www.xdocin.com/" target="_blank">XDOC文档软件云服务</a>”文件预览功能！</h3> -->
+    <div id="file-list-container" class="container">
+        <!-- 文件列表容器 -->
+        <ul id="file-list"></ul>
+    </div>
+
+    <script src="/node_modules/sweetalert2/dist/sweetalert2.all.min.js"></script>
+
+    <script>
+        const jsonFilePath = './filtered_files.json';
+        const fileTypeStyles = {
+            'txt': 'text-file',
+            'doc': 'text-file',
+            'docx': 'text-file',
+            'pdf': 'pdf-file',
+            'png': 'image-file',
+            'jpg': 'image-file',
+            'jpeg': 'image-file',
+            'gif': 'image-file',
+            'mp3': 'audio-file',
+            'wav': 'audio-file',
+            'default': 'default-file'
+        };
+
+        // 加载 JSON 文件并生成文件列表
+        fetch(jsonFilePath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("无法加载 JSON 文件");
+                }
+                return response.json();
+            })
+            .then(files => {
+                const fileListContainer = document.getElementById('file-list');
+                fileListContainer.innerHTML = '';
+
+                if (files.length === 0) {
+                    fileListContainer.innerHTML = '<p>没有可用文件。</p>';
+                    return;
+                }
+
+                // 生成文件列表
+                files.forEach(file => {
+                    const extension = file.split('.').pop().toLowerCase();
+                    const fileStyleClass = fileTypeStyles[extension] || fileTypeStyles['default'];
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a');
+                    link.href = '#';
+                    link.textContent = file;
+                    link.className = fileStyleClass;
+
+                    // 点击文件名时预览文件
+                    link.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        <!-- previewFile(file, extension); -->
+                        e.preventDefault();
+                        const a = document.createElement('a');
+                        a.href = file;
+                        a.download = file;
+                        a.click();
+                    });
+
+                    const actionsDiv = document.createElement('div');
+                    actionsDiv.className = 'file-actions';
+
+                    const previewButton = document.createElement('button');
+                    previewButton.textContent = '预览';
+                    previewButton.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        previewFile(file, extension);
+                    });
+
+                    const downloadButton = document.createElement('button');
+                    downloadButton.textContent = '下载';
+                    downloadButton.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        const a = document.createElement('a');
+                        a.href = file;
+                        a.download = file;
+                        a.click();
+                    });
+
+                    const copyButton = document.createElement('button');
+                    copyButton.textContent = '复制地址';
+                    copyButton.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        copyFileURL(file);
+                    });
+
+                    actionsDiv.appendChild(previewButton);
+                    actionsDiv.appendChild(downloadButton);
+                    actionsDiv.appendChild(copyButton);
+
+                    listItem.appendChild(link);
+                    listItem.appendChild(actionsDiv);
+
+                    fileListContainer.appendChild(listItem);
+                });
+            })
+            .catch(error => {
+                const fileListContainer = document.getElementById('file-list');
+                fileListContainer.innerHTML = `<p>加载文件失败：${error.message}</p>`;
+            });
+
+        function previewFile(file, extension) {
+
+            const path = window.location.pathname;
+            const directory = path.substring(0, path.lastIndexOf('/')); // 获取当前目录
+            const fileURL = window.location.origin + directory + '/' + file; // 拼接完整URL地址
+            // window.open("https://view.xdocin.com/view?src=" + encodeURIComponent(fileURL));
+            window.open("https://view.officeapps.live.com/op/view.aspx?src=" + encodeURIComponent(fileURL));
+
+            //return
+
+            const previewContainer = document.createElement('div');
+            previewContainer.style.position = 'fixed';
+            previewContainer.style.top = '0';
+            previewContainer.style.left = '0';
+            previewContainer.style.width = '100%';
+            previewContainer.style.height = '100%';
+            previewContainer.style.backgroundColor = 'rgba(0, 0, 0, 0.8)';
+            previewContainer.style.display = 'flex';
+            previewContainer.style.justifyContent = 'center';
+            previewContainer.style.alignItems = 'center';
+            previewContainer.style.zIndex = '9999';
+            previewContainer.style.cursor = 'pointer';
+
+            let previewContent = null;
+
+            if (['png', 'jpg', 'jpeg', 'gif'].includes(extension)) {
+                previewContent = document.createElement('img');
+                previewContent.src = file;
+                previewContent.style.maxWidth = '90%';
+                previewContent.style.maxHeight = '90%';
+            } else if (extension === 'pdf') {
+                previewContent = document.createElement('embed');
+                previewContent.src = file;
+                previewContent.type = 'application/pdf';
+                previewContent.style.width = '80%';
+                previewContent.style.height = '80%';
+            } else if (extension === 'txt') {
+                fetch(file)
+                    .then(response => response.text())
+                    .then(text => {
+                        previewContent = document.createElement('pre');
+                        previewContent.textContent = text;
+                        previewContent.style.color = '#fff';
+                        previewContent.style.whiteSpace = 'pre-wrap';
+                        previewContent.style.maxWidth = '80%';
+                    });
+            }
+
+            previewContainer.appendChild(previewContent);
+            document.body.appendChild(previewContainer);
+
+            previewContainer.addEventListener('click', () => {
+                previewContainer.remove();
+            });
+        }
+
+        // 复制文件URL地址的函数
+        function copyFileURL(file) {
+            // 获取当前页面的目录路径
+            const path = window.location.pathname;
+            const directory = path.substring(0, path.lastIndexOf('/')); // 获取当前目录
+            const fileURL = window.location.origin + directory + '/' + file; // 拼接完整URL地址
+
+            Swal.fire({
+                title: "文件地址",
+                icon: "info",
+                html: `
+                <div id="fileURL">
+                    ${fileURL}
+                </div>
+                
+                `,
+                footer: "请手动复制上面的网址",
+            })
+            selectText("fileURL")
+            // 将文件URL复制到剪贴板
+            navigator.clipboard.writeText(fileURL)
+                .then(() => {
+
+                    swal_toast("文件URL已复制到剪贴板", "", fileURL)
+                })
+                .catch(err => {
+                    console.error('复制失败', err);
+                    swal_toast("复制失败", "error", err)
+                });
+        }
+        function swal_toast(title, icon = "success", text) {
+            const Toast = Swal.mixin({
+                toast: true,
+                position: "top-end",
+                showConfirmButton: false,
+                timer: 4000,
+                timerProgressBar: true,
+                didOpen: (toast) => {
+                    toast.onmouseenter = Swal.stopTimer;
+                    toast.onmouseleave = Swal.resumeTimer;
+                }
+            });
+            Toast.fire({
+                icon: icon,
+                title: title,
+                text: text,
+            });
+        }
+        function selectText(elementId) {
+            // 获取指定的元素
+            const element = document.getElementById(elementId);
+            if (!element) {
+                console.error("Element not found");
+                return;
+            }
+
+            // 获取元素内的文本内容范围
+            const range = document.createRange();
+            range.selectNodeContents(element);
+
+            // 获取当前的选择对象
+            const selection = window.getSelection();
+            selection.removeAllRanges(); // 清除之前的选中内容
+            selection.addRange(range);  // 添加新的选中范围
+        }
+
+    </script>
+</body>
+
+</html>

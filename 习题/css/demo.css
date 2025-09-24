@@ -1,0 +1,65 @@
+        * {
+            border: 0;
+            margin: 0;
+            padding: 0;
+        }
+
+        @media screen and (max-width:767px) {
+            #box {
+                --box_width: -webkit-calc(100vw - 32px);
+                --box_width: -moz-calc(100vw - 32px);
+                --box_width: calc(100vw - 32px);
+                margin: 18px auto 36px;
+            }
+        }
+
+        @media screen and (min-width:768px) and (max-width:1199px) {
+            #box {
+                --box_width: 80vw;
+                margin: 24px auto;
+            }
+        }
+
+        @media screen and (min-width:1200px) {
+            #box {
+                --box_width: 60vw;
+                margin: 36px auto;
+            }
+        }
+
+        #box {
+            position: relative;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                    flex-wrap: wrap;
+            -webkit-box-align: center;
+            -webkit-align-items: center;
+               -moz-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            -webkit-box-pack: center;
+            -webkit-justify-content: center;
+               -moz-box-pack: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
+            width: var(--box_width);
+
+        }
+
+        video,
+        img {
+            width: var(--box_width);
+        }
+
+
+        #box p {
+            display: block;
+        }
+
+
+        /* https: //www.runoob.com/w3cnote/javascript-lightbox.html */

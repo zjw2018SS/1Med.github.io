@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="在医鸣惊人完成题目，同时体验各种实用工具，包括显示优化，数据管理等，你所需要的都在医鸣惊人">
+    <title>南华医学网欢迎您</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+
+    <div id="nav">
+        <div id="home">
+            <a target="_self" href="./"></a>
+            <svg id="home_svg" t="1714065488132" class="icon" viewBox="0 0 1024 1024" version="1.1"
+                xmlns="http://www.w3.org/2000/svg" p-id="4189">
+                <path
+                    d="M828.509091 1000.727273h-186.181818c-27.927273 0-46.545455-18.618182-46.545455-46.545455v-223.418182c0-13.963636-9.309091-23.272727-23.272727-23.272727H451.490909c-13.963636 0-23.272727 9.309091-23.272727 23.272727v223.418182c0 27.927273-18.618182 46.545455-46.545455 46.545455h-186.181818c-51.2 0-93.090909-41.890909-93.090909-93.090909v-400.290909c0-27.927273 18.618182-46.545455 46.545455-46.545455s46.545455 18.618182 46.545454 46.545455v353.745454c0 27.927273 18.618182 46.545455 46.545455 46.545455h93.090909v-246.690909c0-27.927273 18.618182-46.545455 46.545454-46.545455h260.654546c27.927273 0 46.545455 18.618182 46.545454 46.545455v246.690909h93.090909c27.927273 0 46.545455-18.618182 46.545455-46.545455v-353.745454c0-27.927273 18.618182-46.545455 46.545454-46.545455s46.545455 18.618182 46.545455 46.545455v400.290909c0 51.2-41.890909 93.090909-93.090909 93.090909zM567.854545 41.890909c-32.581818-27.927273-83.781818-27.927273-116.363636 0l-418.909091 335.127273c-37.236364 27.927273-18.618182 83.781818 27.927273 83.781818 9.309091 0 18.618182-4.654545 27.927273-9.309091L512 111.709091l428.218182 339.781818c9.309091 4.654545 18.618182 9.309091 27.927273 9.309091 46.545455 0 65.163636-55.854545 27.927272-83.781818L567.854545 41.890909z"
+                    fill="#31394C" p-id="4190"></path>
+            </svg>
+        </div>
+        <div id="search">
+            <div id="search_svg" onclick="find()">
+                <svg t="1719691510083" class="icon" viewBox="0 0 1024 1024" version="1.1"
+                    xmlns="http://www.w3.org/2000/svg" p-id="2795">
+                    <path
+                        d="M 1014.65 967.259 L 708.256 660.86 a 400.522 400.522 0 1 0 -47.395 47.395 l 305.731 305.731 a 33.3768 33.3768 0 0 0 47.395 -47.395 Z M 164.881 638.832 a 333.768 333.768 0 1 1 473.95 0 a 333.768 333.768 0 0 1 -473.95 0 Z"
+                        fill="#666666" p-id="2796"></path>
+                </svg>
+            </div>
+            <input id="search_input" placeholder="输入课程或章节名称以检索，例如：马原，大二下，第一章。">
+            <div id="del" onclick="unfind()">
+                <svg t="1716301398670" class="icon" viewBox="0 0 1024 1024" version="1.1"
+                    xmlns="http://www.w3.org/2000/svg" p-id="3200">
+                    <path
+                        d="M162.181567 327.67055h97.332564v695.916023H162.181567zM374.919368 394.409505h97.332564v463.333718H374.919368zM59.53351 247.465682V150.133118h904.93298V247.465682z"
+                        fill="#666666" p-id="3201"></path>
+                    <path
+                        d="M162.181567 1024V926.667436h735.605029v97.332564zM587.657169 394.409505h97.332565v463.333718H587.657169z"
+                        fill="#666666" p-id="3202"></path>
+                    <path
+                        d="M800.394971 327.67055h97.332564v695.916023h-97.332564zM528.123659 61.305341a93.788903 93.788903 0 0 1 93.788903 93.729842h61.305341a155.094244 155.094244 0 0 0-310.129427 0h61.305341a93.788903 93.788903 0 0 1 93.729842-93.729842z"
+                        fill="#666666" p-id="3203"></path>
+                </svg>
+            </div>
+
+        </div>
+    </div>
+    <div id="nav-holder"></div>
+
+    <div id="fast_search">
+
+        <div id="school_year">
+            <div id="school_year_text">学年</div>
+            <div id="school_year_wrap">
+                <div class="fast_search_wrap_item">全部</div>
+                <div class="fast_search_wrap_item">一</div>
+                <div class="fast_search_wrap_item">二</div>
+                <div class="fast_search_wrap_item">三</div>
+                <div class="fast_search_wrap_item">四</div>
+                <!-- <div>五</div> -->
+
+            </div>
+        </div>
+
+        <div id="term">
+            <div id="term_wrap" _wrap>
+                <div class="fast_search_wrap_item">上</div>
+                <div class="fast_search_wrap_item">下</div>
+                <div class="fast_search_wrap_item">全部</div>
+            </div>
+            <div id="term_text">学期</div>
+        </div>
+    </div>
+    <div id="message">
+        通过油猴插件重做学习通已经做过的作业题目: <a
+            href="https://greasyfork.org/zh-CN/scripts/518327-%E5%AD%A6%E4%B9%A0%E9%80%9Aredo-%E5%BE%AEdo"
+            target="_blank">脚本地址 </a>
+    </div>
+
+    <div id="container">
+    </div>
+    <div id="bookshelf">
+    </div>
+
+
+    <script type="text/javascript" src="./node_modules/sweetalert/dist/sweetalert.min.js"></script>
+    <!-- <script type="text/javascript" src="./node_modules/notie-master/dist/notie.min.js"></script> -->
+    <!-- <link rel="stylesheet" href="./node_modules/notie-master/dist/notie.min.css"> -->
+    <script type="text/javascript" src="./js/index.js"></script>
+    <div id="info">
+        <div class="info_item">
+            <a href='./static/md/introduce.html' target='_blank'>查看教程</a>
+        </div>
+        <div class="info_item">
+            <a href='course.html' target='_blank'>课程学分</a>
+        </div>
+        <div class="info_item">
+            <a href='dream.html' target='_blank'>到梦学分</a>
+        </div>
+        <div class="info_item">
+            <a href='https://f.wps.cn/g/zMpvWD5Q' target='_blank'>问题反馈</a>
+        </div>
+    </div>
+</body>
+
+
+</html>

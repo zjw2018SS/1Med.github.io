@@ -1,0 +1,191 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "临床基本技能学（外科基本技能）",
+        "filename": "离体肠吻合",
+        "type_all_num": 7,
+        "dev": {
+            "wrap_num": 7,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 7,
+        "time": "24年11月09日22小时14分21秒",
+        "id": "id-m3a8yf8r-kju9gepv0"
+    },
+    "body": [
+        {
+            "questions": [
+                "小肠端端吻合边距和针距分别是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 2-3mm，5-10mm",
+                " 1-2mm，5-10mm",
+                " 3-5mm，3-5mm",
+                " 3-5mm, 5-10mm"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "小肠的肠壁结构分几层？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 2层",
+                " 3层",
+                " 1层",
+                " 4层"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "离体肠端-端吻合内层后壁的单纯连续缝合属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 浆肌层缝合",
+                " 全层缝合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "离体肠端-端吻合外侧加固的伦伯特缝合属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 浆肌层缝合",
+                " 全层缝合"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肠端端吻合术选用哪种缝针？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 圆针",
+                " 三角针"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肠线打结剪线后，留下线头长度一般为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 5mm以上",
+                " 3-4mm",
+                " 1-2mm",
+                " 4-5mm",
+                " 2-3mm"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "离体肠端-端吻合内层前壁的康奈尔缝合属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 浆肌层缝合",
+                " 全层缝合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

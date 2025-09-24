@@ -1,0 +1,252 @@
+#setting {
+    --light_color: #ffffff;
+    --font_color: #181818;
+    --bg_color: #f0f0f0;
+    --color: rgb(5, 141, 255);
+}
+
+#setting.dark {
+    --light_color: #ffffff;
+    --font_color: #f0f0f0;
+    --bg_color: #181818;
+    --color: rgb(5, 43, 255);
+}
+
+#setting {
+    position: fixed;
+    top: 72px;
+    left: 72px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    font: initial;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    z-index: 100000
+}
+
+#setting_icon_div {
+    position: absolute;
+    top: 0;
+    left: -48px;
+    width: 48px;
+    height: 48px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    cursor: move
+}
+
+#setting_icon_div:before {
+    -webkit-box-shadow: 0;
+    box-shadow: 0;
+    border-radius: 84.5px;
+    background: #fff;
+    position: absolute;
+    margin-left: -36px;
+    margin-top: -36px;
+    opacity: .2;
+    height: 72px;
+    width: 72px;
+    left: 50%;
+    top: 50%
+}
+
+#setting_icon_div {
+    background-color: var(--light_color);
+    border-radius: 50%;
+    -webkit-box-shadow: 0 10px 15px -4px rgb(122 165 159 / 65%), inset 0 -3px 4px -1px rgb(185 220 221 / 0), 0 -10px 15px -1px rgb(238 254 255 / 0), inset 0 3px 4px -1px rgb(114 145 152 / 27%), inset 0 0 5px 1px rgb(136 178 173 / 40%), inset 0 20px 30px 0 rgb(182 244 237 / 36%);
+    box-shadow: 0 10px 15px -4px rgb(122 165 159 / 65%), inset 0 -3px 4px -1px rgb(185 220 221 / 0), 0 -10px 15px -1px rgb(238 254 255 / 0), inset 0 3px 4px -1px rgb(114 145 152 / 27%), inset 0 0 5px 1px rgb(136 178 173 / 40%), inset 0 20px 30px 0 rgb(182 244 237 / 36%)
+}
+
+#setting_icon_div:active {
+    -webkit-filter: blur(0.5px);
+    filter: blur(0.5px);
+    -webkit-box-shadow: inset 0 -8px 30px 1px rgb(153 255 247 / 0), 0 -10px 15px -1px rgb(174 218 228 / 48%), inset 0 8px 25px 0 rgb(121 156 157 / 73%), inset 0 0 10px 1px rgb(14 53 57 / 49%);
+    box-shadow: inset 0 -8px 30px 1px rgb(153 255 247 / 0), 0 -10px 15px -1px rgb(174 218 228 / 48%), inset 0 8px 25px 0 rgb(121 156 157 / 73%), inset 0 0 10px 1px rgb(14 53 57 / 49%)
+}
+
+#setting_div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 350px;
+    padding: 15px;
+    border-radius: 5%;
+    background-color: var(--bg_color);
+    -webkit-box-shadow: 1px 1px 9px 0 rgb(116 174 227 / 45%), -1px -1px 9px 0 rgb(157 214 245 / 40%);
+    box-shadow: 1px 1px 9px 0 rgb(116 174 227 / 45%), -1px -1px 9px 0 rgb(157 214 245 / 40%);
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    -webkit-transition: .3s ease-out;
+    -o-transition: .3s ease-out;
+    -moz-transition: .3s ease-out;
+    transition: .3s ease-out;
+    -webkit-transform-origin: 0 24px;
+    -moz-transform-origin: 0 24px;
+    -ms-transform-origin: 0 24px;
+    -o-transform-origin: 0 24px;
+    transform-origin: 0 24px;
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0)
+}
+
+
+
+
+
+
+
+.toggle_switches_div {
+    position: relative;
+    margin: 5px 0 0 20px
+}
+
+.switch {
+    float: right;
+    font-size: 17px;
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 20px
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    -webkit-transition: .4s;
+    -o-transition: .4s;
+    -moz-transition: .4s;
+    transition: .4s;
+    border-radius: 30px;
+    border: 1px solid #ccc
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    border-radius: 16px;
+    left: 1px;
+    top: -1px;
+    bottom: 0;
+    background-color: white;
+    -webkit-box-shadow: 0 2px 5px #999;
+    box-shadow: 0 2px 5px #999;
+    -webkit-transition: .4s;
+    -o-transition: .4s;
+    -moz-transition: .4s;
+    transition: .4s
+}
+
+input:checked+.slider {
+    background-color: #5fdd54;
+    border: 1px solid transparent
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(29px);
+    -moz-transform: translateX(29px);
+    -ms-transform: translateX(29px);
+    -o-transform: translateX(29px);
+    transform: translateX(29px)
+}
+
+#output {
+    position: relative;
+    margin: 5px 0 0 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#output>div {
+    margin-right: 10px;
+}
+
+#single_output,
+#single_download,
+#preview {
+    /* background-color: #f0eded; */
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 0 3px;
+    cursor: pointer;
+}
+
+/* 自定义方法的样式 */
+.colorGreen.marginRight40.fl {
+    font-size: 26px;
+
+}
+
+.colorGreen.marginRight40.fl.hide {
+    filter: blur(10px);
+}
+
+.colorGreen.marginRight40.fl.hide:hover {
+    filter: blur(0px);
+}
+
+.mark_table.padTop60.ans-cc.fontLabel {
+    --optionRightDisplay: 1;
+    --optionRightDisplay_: none;
+}
+
+.option_right::before {
+    position: absolute;
+    /* top: 14px; */
+    left: 10px;
+    content: "√";
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 30px;
+    color: #00B86E;
+    opacity: var(--optionRightDisplay);
+    display: var(--optionRightDisplay_);
+}
+
+.marBom60.questionLi.singleQuesId:has(.colorGreen.marginRight40.fl.hide:hover) .option_right::before {
+    display: var(--optionRightDisplay_);
+}
+
+.marBom60.questionLi.singleQuesId:has(.colorGreen.marginRight40.fl.hide) .option_right::before {
+    display: none;
+}
+
+.marBom60.questionLi.singleQuesId:has(.colorGreen.marginRight40.fl) .option_right::before {
+    display: var(--optionRightDisplay_);
+}

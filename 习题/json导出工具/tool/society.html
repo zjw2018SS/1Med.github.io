@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>南华医学网</title>
+    <link rel="stylesheet" href="./society.css">
+</head>
+
+<body>
+    <div class="nav-bar">
+        <div id="verify">
+            <svg t="1722393700995" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3460"
+                >
+                <path
+                    d="M407.04 739.008L195.904 528a29.824 29.824 0 0 0-30.976-8 29.76 29.76 0 0 0-22.528 22.528 32.128 32.128 0 0 0 8.512 31.488l256 256 512-512a32.448 32.448 0 0 0-1.536-45.504 30.272 30.272 0 0 0-21.952-9.536 32.832 32.832 0 0 0-22.528 8.96l-465.92 467.072z"
+                    fill="#2c2c2c" p-id="3461"></path>
+            </svg>
+        </div>
+        <div id="current_num">
+            0/n个
+        </div>
+        <div id="up" onclick="paste_json_up_fun()">
+            <svg t="1722329009090" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                p-id="7244">
+                <path
+                    d="M927.78 896.04a53.84 53.84 0 0 0 21.76-4.666667 52.666667 52.666667 0 0 0 31.793333-48.793333V181.406667A53.333333 53.333333 0 0 0 892.066667 142l-362.666667 330.6a53.333333 53.333333 0 0 0 0 78.826667l362.666667 330.6a52.833333 52.833333 0 0 0 35.713333 14.013333z m0-725.333333a11.333333 11.333333 0 0 1 4.493333 0.966666 10.346667 10.346667 0 0 1 6.36 9.76v661.186667a10.666667 10.666667 0 0 1-17.853333 7.886667l-362.666667-330.6a10.666667 10.666667 0 0 1 0-15.76l362.666667-330.6a10.16 10.16 0 0 1 7.033333-2.88z m-469.366667 725.333333a53.84 53.84 0 0 0 21.76-4.666667 52.666667 52.666667 0 0 0 31.826667-48.78V181.406667A53.333333 53.333333 0 0 0 422.74 142l-362.666667 330.6a53.333333 53.333333 0 0 0 0 78.826667l362.666667 330.6a52.833333 52.833333 0 0 0 35.706667 14.013333z m0.033334-725.333333a11.333333 11.333333 0 0 1 4.493333 0.966666 10.346667 10.346667 0 0 1 6.393333 9.733334v661.186666a10.666667 10.666667 0 0 1-17.853333 7.886667l-362.666667-330.6a10.666667 10.666667 0 0 1 0-15.76l362.666667-330.6a10.16 10.16 0 0 1 7-2.853333z"
+                    fill="#2c2c2c" p-id="7245"></path>
+            </svg>
+        </div>
+        <button type="button" id="paste_json" onclick="paste_json_fun()">
+            <div>
+                粘贴json
+            </div>
+            <svg t="1715505785140" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                p-id="7005">
+                <path
+                    d="M664.380952 146.285714l-121.904762 0L542.47619 85.333333c0-33.52381-27.452952-60.952381-60.952381-60.952381l-121.904762 0c-33.52381 0-60.952381 27.428571-60.952381 60.952381L298.666667 146.285714l-121.904762 0 0 138.849524 487.619048 0L664.380952 146.285714 664.380952 146.285714zM481.52381 146.285714l-121.904762 0L359.619048 85.455238c0.024381-0.024381 0.048762-0.048762 0.121905-0.121905l121.685333 0c0.048762 0.024381 0.097524 0.048762 0.121905 0.121905L481.52381 146.285714zM786.285714 382.927238 786.285714 176.761905C786.285714 160.01219 772.583619 146.285714 755.809524 146.285714l-60.952381 0 0 60.952381 30.47619 0 0 175.689143L376.246857 382.927238l0 473.6L115.809524 856.527238 115.809524 207.238095 146.285714 207.238095 146.285714 146.285714 85.333333 146.285714C68.583619 146.285714 54.857143 160.01219 54.857143 176.761905l0 710.241524c0 16.774095 13.726476 30.47619 30.47619 30.47619l290.913524 0L376.246857 999.619048l415.573333 0 177.322667-168.17981L969.142857 382.927238 786.285714 382.927238zM792.81981 913.432381l0-79.725714 90.136381 0L792.81981 913.432381zM908.190476 772.754286l-176.347429 0L731.843048 938.666667 437.199238 938.666667 437.199238 443.879619 908.190476 443.879619 908.190476 772.754286 908.190476 772.754286z"
+                    fill="#272636" p-id="7006"></path>
+            </svg>
+        </button>
+        <div id="down" onclick="paste_json_down_fun()">
+            <svg t="1722329037572" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                p-id="7458">
+                <path
+                    d="M96.22 896.04a53.84 53.84 0 0 1-21.76-4.666667A52.666667 52.666667 0 0 1 42.666667 842.593333V181.406667A53.333333 53.333333 0 0 1 131.933333 142l362.666667 330.6a53.333333 53.333333 0 0 1 0 78.826667L131.933333 882a52.833333 52.833333 0 0 1-35.713333 14.04z m-0.033333-725.333333a11.333333 11.333333 0 0 0-4.493334 0.966666 10.346667 10.346667 0 0 0-6.36 9.733334v661.186666a10.666667 10.666667 0 0 0 17.853334 7.886667l362.666666-330.6a10.666667 10.666667 0 0 0 0-15.76l-362.666666-330.6a10.16 10.16 0 0 0-7-2.853333z m469.366666 725.333333a53.84 53.84 0 0 1-21.76-4.666667 52.666667 52.666667 0 0 1-31.793333-48.78V181.406667A53.333333 53.333333 0 0 1 601.26 142l362.666667 330.6a53.333333 53.333333 0 0 1 0 78.826667L601.266667 882a52.833333 52.833333 0 0 1-35.713334 14.04z m-0.033333-725.333333a11.333333 11.333333 0 0 0-4.493333 0.966666 10.346667 10.346667 0 0 0-6.36 9.733334v661.186666a10.666667 10.666667 0 0 0 17.853333 7.886667l362.666667-330.6a10.666667 10.666667 0 0 0 0-15.76l-362.666667-330.6a10.16 10.16 0 0 0-7-2.853333z"
+                    fill="#2c2c2c" p-id="7459"></path>
+            </svg>
+        </div>
+        <button type="button" id="paste" onclick="paste_fun()">
+            <div>
+                粘贴文字
+            </div>
+            <svg t="1715505785140" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+                p-id="7005">
+                <path
+                    d="M664.380952 146.285714l-121.904762 0L542.47619 85.333333c0-33.52381-27.452952-60.952381-60.952381-60.952381l-121.904762 0c-33.52381 0-60.952381 27.428571-60.952381 60.952381L298.666667 146.285714l-121.904762 0 0 138.849524 487.619048 0L664.380952 146.285714 664.380952 146.285714zM481.52381 146.285714l-121.904762 0L359.619048 85.455238c0.024381-0.024381 0.048762-0.048762 0.121905-0.121905l121.685333 0c0.048762 0.024381 0.097524 0.048762 0.121905 0.121905L481.52381 146.285714zM786.285714 382.927238 786.285714 176.761905C786.285714 160.01219 772.583619 146.285714 755.809524 146.285714l-60.952381 0 0 60.952381 30.47619 0 0 175.689143L376.246857 382.927238l0 473.6L115.809524 856.527238 115.809524 207.238095 146.285714 207.238095 146.285714 146.285714 85.333333 146.285714C68.583619 146.285714 54.857143 160.01219 54.857143 176.761905l0 710.241524c0 16.774095 13.726476 30.47619 30.47619 30.47619l290.913524 0L376.246857 999.619048l415.573333 0 177.322667-168.17981L969.142857 382.927238 786.285714 382.927238zM792.81981 913.432381l0-79.725714 90.136381 0L792.81981 913.432381zM908.190476 772.754286l-176.347429 0L731.843048 938.666667 437.199238 938.666667 437.199238 443.879619 908.190476 443.879619 908.190476 772.754286 908.190476 772.754286z"
+                    fill="#272636" p-id="7006"></path>
+            </svg>
+        </button>
+        <input id="c"></input>
+        <button id="c-clear" onclick="c_clear()">
+            <?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 48 48" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 11L4 24L14 37H44V11H14Z" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path d="M21 19L31 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M31 19L21 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+        <button id="c-b" onclick="c_b()">
+            <?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 48 48" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M24.0605 10L24.0239 38" stroke="#333" stroke-width="4" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path d="M10 24L38 24" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+        <button id="c-all" onclick="c_all()">
+            <?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 48 48" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M42 8V24" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M6 24L6 40" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+                <path
+                    d="M42 24C42 14.0589 33.9411 6 24 6C18.9145 6 14.3216 8.10896 11.0481 11.5M6 24C6 33.9411 14.0589 42 24 42C28.8556 42 33.2622 40.0774 36.5 36.9519"
+                    stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+        <button id="c-choice" onclick="c_choice()">
+            <div>选项</div>
+            <?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 48 48" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 11L4 24L14 37H44V11H14Z" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path d="M21 19L31 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M31 19L21 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+        <button id="c-rate" onclick="c_rate()">
+            <div>百分率</div>
+            <?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 48 48" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 11L4 24L14 37H44V11H14Z" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path d="M21 19L31 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M31 19L21 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+        <button id="c-ans" onclick="c_ans()">
+            <div>全部</div>
+            <?xml version="1.0" encoding="UTF-8"?><svg viewBox="0 0 48 48" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M14 11L4 24L14 37H44V11H14Z" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path d="M21 19L31 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M31 19L21 29" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </button>
+    </div>
+
+    <div id="sheet">
+
+    </div>
+
+    <div id="centre">
+        <div id="ran-e-wrap">
+            <div id="ran-span">
+                <div>
+                    <div id="random-wrap">
+                        浮动：
+                        <input id="floor" value="7">
+                        %,小数点
+                        <input id="dot-floor" value="2">
+                        位，
+                        <button id="random" onclick="random()">全部</button>
+                    </div>
+                    <div>
+                        <button id="random-blank" onclick="random_blank()">空白</button>
+                    </div>
+                    <div style="display: none;">
+                        <button id="count" onclick="count()">
+                            <?xml version="1.0" encoding="UTF-8"?><svg width="20" height="20" viewBox="0 0 48 48"
+                                fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M28 32.5H42" stroke="#333" stroke-width="4" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                                <path d="M28 41.5H42" stroke="#333" stroke-width="4" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                                <path d="M6 13H22" stroke="#333" stroke-width="4" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                                <path d="M14 5L14 21" stroke="#333" stroke-width="4" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                                <path d="M42 5L6 41" stroke="#333" stroke-width="4" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div id="sum-wrap">
+                    <div>
+                        输入总和：
+                        <input value="100" id="sum-input">%
+                    </div>
+
+                    <div id="sum-div">
+
+                        <button id="sum-button" onclick="sum_button()">输出总和</button>
+                        <div id="count-result">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div id="e">
+                <div>
+                    模板字符串
+                    <button id="back-ex" onclick="back_ex()">默认</button>
+                </div>
+                <div class="ex-span">
+                    问题模板：
+                    <input id="ex" type="text" value="关于“${q}”问题的回答：">
+                    </input>
+                </div>
+                <div class="ex-span">
+                    选项和百分率模板：
+                    <input id="ex-c" type="text" value="${r}%的人选择${c}">
+                    <!-- ${c}的选择率为${r}% -->
+                    </input>
+                </div>
+
+
+            </div>
+        </div>
+        <div class="main">
+            <div id="q-and-a">
+                <div id="q-div">
+
+                </div>
+                <div id="a-div">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="r">
+        <div>
+            <span>输出结果</span>
+            <span id="result-button">
+                <span>
+                    <input type="submit" onclick="text()" value="输出">
+                </span>
+
+                <span>
+                    <button id="copy" onclick="copy_text()">
+                        复制</button>
+                </span>
+                <span>
+                    <input type="submit" onclick="text_all()" value="输出全部">
+                </span>
+                
+                <span>
+                    <button id="copy_text_all" onclick="copy_text_all()">
+                        复制全部</button>
+                </span>
+
+            </span>
+        </div>
+        <p id="result">
+
+        </p>
+    </div>
+
+
+    <script src="./society.js"></script>
+    <script src="../node_modules/sweetalert/dist/sweetalert.min.js"></script>
+
+
+</body>
+
+</html>

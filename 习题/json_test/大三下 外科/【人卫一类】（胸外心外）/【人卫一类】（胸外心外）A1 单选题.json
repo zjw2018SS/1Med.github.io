@@ -1,0 +1,1704 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（胸外心外）A1",
+        "type_all_num": 70,
+        "dev": {
+            "wrap_num": 70,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 70,
+        "time": "25年01月13日11小时33分12秒",
+        "id": "id-m5uho96j-kwcowwo5n"
+    },
+    "body": [
+        {
+            "questions": [
+                "第4～7肋骨容易被折断的主要解剖学原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "此处肋骨是胸部的显露位置",
+                "此处肋骨不是浮肋",
+                "缺少肌肉的保护",
+                "肋骨长而薄",
+                "前端与胸骨成弓形连接，弹性较大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项为胸腔损伤时行闭式胸膜腔引流术的指征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸壁反常呼吸",
+                "多根多处肋骨骨折",
+                "胸内异物存留",
+                "血气胸经穿刺抽吸无效",
+                "肺广泛挫伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颈部及上胸部段食管癌多采用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术切除",
+                "放疗",
+                "术前放疗＋手术治疗",
+                "手术治疗＋术后放疗",
+                "联合化学药物治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是法洛四联症的解剖畸形"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉瓣狭窄",
+                "主动脉骑跨",
+                "室间隔缺损",
+                "左心室肥大",
+                "右心室肥大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列叙述与胸腺瘤相关的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可压迫脊髓致截瘫",
+                "均为恶性",
+                "以中纵隔多见",
+                "可出现重症肌无力",
+                "治疗以放疗为主"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "原发性胸壁肿瘤的治疗原则，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "密切观察",
+                "内科保守治疗",
+                "预防性使用抗生素",
+                "尽快手术治疗",
+                "良性肿物不需要手术治疗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心包压塞的重要病理生理变化是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "失血性休克",
+                "急性循环衰竭",
+                "急性呼吸衰竭",
+                "心肌损害",
+                "水电解质和酸碱平衡紊乱"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "慢性脓胸的首选治疗原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "积极抗感染治疗",
+                "消除病因闭合脓腔",
+                "反复穿刺抽脓",
+                "有效的支持疗法",
+                "单纯胸腔闭式引流"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下不符合二尖瓣狭窄的体征的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心尖区第一心音亢进",
+                "肺动脉瓣区第二心音增强",
+                "心尖区舒张中期隆隆样杂音",
+                "胸骨左缘第3～4肋间听到收缩期喷射样杂音",
+                "胸骨左缘第3～4肋间可听到二尖瓣开瓣音"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于慢性缩窄性心包炎的诊断，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床检查可存在奇脉",
+                "脉压增大",
+                "心电图示ST段压低，T波低平",
+                "常合并心房纤颤",
+                "超声心动图有助于确诊"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是食管癌的最早期症状"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "进行性吞咽困难",
+                "进食后呕吐",
+                "进食时胸骨后痛，烧灼感，异物感",
+                "体重减轻，衰弱",
+                "进食后呛咳"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期食管癌患者治疗，首选是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化学疗法",
+                "放射疗法",
+                "激光疗法",
+                "手术疗法",
+                "免疫疗法"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "动脉导管未闭的心脏杂音，需要鉴别的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉导管未闭、主动脉-肺动脉间隔缺损、法氏窦瘤破裂、冠状动脉-心腔瘘",
+                "冠状动静脉瘘、室间隔缺损合并主动脉瓣关闭不全",
+                "二尖瓣狭窄、主动脉瓣关闭不全、缩窄性心包炎、胸主动脉瘤",
+                "动脉导管未闭、主动脉-肺动脉间隔缺损、法氏窦瘤破裂、冠状动脉-心腔瘘、冠状动静脉瘘、室间隔缺损合并主动脉瓣关闭不全、二尖瓣狭窄、主动脉瓣关闭不全、缩窄性心包炎、胸主动脉瘤",
+                "动脉导管未闭、主动脉-肺动脉间隔缺损、法氏窦瘤破裂、冠状动脉-心腔瘘、冠状动静脉瘘、室间隔缺损合并主动脉瓣关闭不全"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "食管癌患者行食管部分切除后，最常用下列哪项作为食管替代物"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃",
+                "小肠",
+                "皮管",
+                "结肠",
+                "人工食管"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "先天性心脏病肺动脉口狭窄，造成的病理生理改变主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉压力升高",
+                "左向右分流",
+                "左室肥大",
+                "右室压力升高",
+                "肺淤血"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "中央型肺癌中最常见的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "反复大咯血",
+                "发烧",
+                "刺激性咳嗽",
+                "气短",
+                "胸痛"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列胸骨左缘第2～3肋间听诊体征中，哪项最符合肺动脉口狭窄"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "收缩期杂音，P2弱",
+                "连续性杂音，P2无",
+                "收缩期杂音，P2亢",
+                "收缩期杂音，P2正常",
+                "双期杂音，P2无"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "胸部损伤后胸部X线检查对下列意义不大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "判定有无肋骨骨折，骨折部位和性质",
+                "确定胸膜腔内有无积气和肺萎陷",
+                "确定胸膜腔内有无积血和容量",
+                "判定有无合并损伤及病变",
+                "确定剖胸手术探察的指征"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "弥漫性恶性胸膜间皮瘤，下面描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶性程度较高",
+                "好发于中年",
+                "与接触石棉无关",
+                "IV期仍可手术切除",
+                "患者，女，多于男性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "中等量血胸的定义是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "＜500ml",
+                "500～1000ml",
+                "＞1000ml",
+                "800～1000ml",
+                "500～800ml"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "气胸欲行胸腔闭式引流术的最佳引流位置是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腋前线第6肋间",
+                "锁骨中线6肋间",
+                "腋中线第6肋间",
+                "锁骨中线第2肋间",
+                "锁骨中线第3肋间"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "食管炎与早期食管癌的鉴别，主要方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸骨灼痛",
+                "食管钡透黏膜紊乱",
+                "脱落细胞检查",
+                "免疫诊断方法",
+                "试验治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "缩窄性心包炎的临床治疗原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗结核药物治疗",
+                "强心利尿",
+                "尽早施行手术治疗",
+                "心包穿刺或胸腔穿刺",
+                "全身支持治疗，不需手术治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列表现提示主动脉狭窄的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心室肥厚",
+                "颈动脉搏动明显",
+                "上肢血压明显高于下肢血压",
+                "心前区喷射性杂音",
+                "间歇性跛行"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者胸部损伤后，随呼吸运动有气体进出胸壁伤口。下述哪项诊断是最正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "进行性血胸",
+                "开放性气胸",
+                "肺爆震伤",
+                "创伤性窒息",
+                "张力性气胸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "闭合性肋骨骨折，提示可能合并张力性气胸是出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伤侧肺呼吸音减弱",
+                "伤侧肺有啰音",
+                "伤侧胸部剧痛",
+                "伤侧皮下气肿",
+                "伤侧胸腔积液"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "进行性血胸的诊断依据不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脉搏快，血压持续下降",
+                "胸腔引流连续3个小时总量300ml",
+                "Hb、RBC反复测定呈持续下降",
+                "胸膜腔穿刺抽不出血，但X线示胸内阴影增大",
+                "经输血补液后血压不回升逐渐下降"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于脓胸渗出期的病理变化，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脏层胸膜充血",
+                "渗出液稀薄",
+                "细胞成分少",
+                "胸穿抽脓较易",
+                "排出渗液后肺不易复张"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列符合进行性血胸的表现的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输血补液后血压可以维持",
+                "血红蛋白，红细胞计数和血细胞比容变化不大",
+                "脉搏增快，血压正常",
+                "胸膜腔引流量1小时超过200ml",
+                "胸穿刺抽不出血液，X线检查显示胸膜腔阴影继续增大"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在肺癌中较早即可发生远处转移的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鳞癌",
+                "腺癌",
+                "肺泡细胞癌",
+                "大细胞癌",
+                "小细胞癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项胸部损伤需急诊剖胸探查"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发肋骨骨折，严重反常呼吸",
+                "闭合性胸部损伤伴血气胸",
+                "心肌挫伤，心源性休克",
+                "张力性气胸",
+                "左侧血胸，纵隔阴影增宽，疑主动脉破裂"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪型食管癌最早出现进食哽噎"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "缩窄型",
+                "蕈伞型",
+                "溃疡型",
+                "髓质型",
+                "无明显区别可用"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列胸部创伤，不符合立即开胸探查指征的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "食管裂伤",
+                "胸内异物存留，严重咯血",
+                "进行性血胸",
+                "创伤性窒息",
+                "气管支气管断裂"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "哪一类来源的血胸多可自行停止"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心房破裂",
+                "主动脉破裂",
+                "肋间动脉破裂",
+                "肺组织裂伤出血",
+                "右心室破裂"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "风湿性心脏病二尖瓣狭窄出现急性肺水肿，最可能因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺泡与毛细血管之间组织增厚",
+                "肺毛细血管压力超过正常血浆渗透压（30mmHg）",
+                "肺小动脉痉挛",
+                "肺血管阻力增高",
+                "右心衰竭"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中心型肺癌最常见的早期症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸困难",
+                "胸痛",
+                "声嘶",
+                "发热",
+                "刺激性咳嗽"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胸外伤是常见病，由于伤因不同，损伤程度不同，其症状亦不一，但胸部损伤的最主要的症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸困难",
+                "胸痛",
+                "休克",
+                "咳嗽",
+                "咯血"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是晚期肺癌临床表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "同侧膈肌麻痹",
+                "声音嘶哑",
+                "左肺不张合并高热",
+                "患侧胸腔积液",
+                "压迫食管引起吞咽困难"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胸外伤反常呼吸最根本的病理生理紊乱是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吸气时伤区下陷",
+                "呼气时伤区膨出",
+                "回心血量减少",
+                "缺O2和CO2潴留",
+                "胸腔内高压"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "外伤性心包填塞最可靠最合理的诊断办法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸部X线片",
+                "心脏计波摄影",
+                "超声检查",
+                "静脉压测定",
+                "心包穿刺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "脓胸致病菌最常见的来源下列哪项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膈下脓肿",
+                "肺内感染灶",
+                "全身脓毒败血症",
+                "外伤污染胸腔",
+                "肝脓肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "决定冠状动脉搭桥术，依赖的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "冠状动脉造影",
+                "心脏磁共振成像",
+                "心脏CT",
+                "心脏彩色超声心动图",
+                "心电图"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列肺结核手术前后处理措施中，哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前应作系统抗结核治疗，有耐药性的患者应选用新的抗结核药",
+                "痰菌阳性者应作支气管镜检查，明确有无支气管内膜结核",
+                "有内膜结核者应继续抗结核治疗，直到控制稳定",
+                "术后应继续抗结核治疗1个月",
+                "肺切除后有胸内残腔且余肺有残留病灶者，可同期或分期加作胸廓成形术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是闭式胸腔引流术的适应证"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血胸",
+                "气胸",
+                "血气胸",
+                "切开胸膜腔者",
+                "结核性胸膜炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胸部开放性损伤，下述哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸部创口裂开深达肋间肌",
+                "伤侧肋骨骨折断端外露",
+                "损伤后气胸，伤侧肺压缩60%",
+                "伤侧皮下气肿并血气胸",
+                "壁层胸膜穿通，空气经伤口出入胸膜腔"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心尖区听到舒张期隆隆样杂音，除考虑二尖瓣狭窄的诊断外，还有可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左心房黏液瘤",
+                "二尖瓣关闭不全",
+                "三尖瓣关闭不全",
+                "主动脉瓣关闭不全",
+                "肺动脉瓣关闭不全"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "漏斗胸心脏X线检查和心电图常有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心脏向左移位和顺时针方向旋转",
+                "心脏向右移位和顺时针方向旋转",
+                "心脏向左移位和逆时针方向旋转",
+                "心脏向右移位和逆时针方向旋转",
+                "心脏向左移位和向后旋转"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "创伤性窒息的临床特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双侧呼吸音减弱或消失",
+                "皮下及纵隔气肿",
+                "头、颈、上肢毛细血管出血",
+                "双侧湿啰音及血痰",
+                "呼吸困难"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胸主动脉瘤不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "真性动脉瘤",
+                "假性动脉瘤",
+                "夹层动脉瘤",
+                "心脏黏液瘤和法氏窦动脉瘤",
+                "真性动脉瘤、假性动脉瘤和夹层动脉瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一前胸部受重物撞击的患者，主诉心悸、气促，ECG示ST段抬高和室性期前收缩，需考虑的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心脏裂伤、心脏压塞",
+                "外伤性室间隔破裂",
+                "心脏挫伤",
+                "胸骨骨折",
+                "创伤性窒息"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "食管癌的治疗与预后同下列因素关系密切，除了"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病程的长短",
+                "病变的长度",
+                "吞咽困难的程度",
+                "有无远处转移",
+                "肿瘤侵犯的深度及有无局部淋巴结转移"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于开放性胸外伤的概念，下述哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脏层胸膜损伤，胸膜腔经脏层胸膜与外界相通",
+                "胸壁有开放创口，深达肌层",
+                "壁层胸膜有创口，皮肤完整",
+                "壁层胸膜损伤，胸膜腔经胸壁与外界相通",
+                "肺有裂口"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肺癌常见的肺外体征有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "指趾端发绀",
+                "杵状指（趾）",
+                "心率增快",
+                "心动过缓",
+                "桶状胸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "进行性吞咽困难患者，突然出现吞咽困难改善或消失，多提示"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "食管癌穿孔",
+                "食管痉挛缓解",
+                "水肿及炎症消退",
+                "癌肿组织细胞坏死",
+                "部分癌肿细胞脱落"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺炎在治疗过程中突然体温升高，胸疼剧烈，最大可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺炎并发急性脓胸",
+                "并发肺脓肿",
+                "并发纵隔炎",
+                "炎症波及胸壁",
+                "并发膈下感染"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性脓胸可通过下列哪项检查确诊"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体检发现患侧语颤减弱，叩诊浊音",
+                "胸部X线片示患侧呈大片浓密阴影",
+                "胸穿抽得脓液",
+                "胸片示液平面",
+                "胸部B超提示患侧胸腔积液"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肺癌中最早可发生远处转移的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鳞癌",
+                "腺癌",
+                "肺泡细胞癌",
+                "未分化大细胞癌",
+                "未分化小细胞癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "张力性气胸患者呼吸困难，最重要的治疗措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吸氧",
+                "呼吸机辅助",
+                "气管插管或切开",
+                "开胸手术",
+                "胸腔穿刺抽气减压"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胸部损伤的最主要症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸困难",
+                "咯血",
+                "胸痛",
+                "咳嗽",
+                "发绀"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胸部损伤后产生连枷胸的常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "两根以上肋骨骨折",
+                "多根多处肋骨骨折",
+                "胸骨骨折",
+                "反常呼吸",
+                "纵隔扑动"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "缩窄性心包炎最常见的临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "微热、盗汗",
+                "胸前疼痛、干咳",
+                "心界扩大明显",
+                "呼吸困难、胸水",
+                "颈静脉怒张、肝大、腹水"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于急性脓胸的治疗措施，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "根据药敏选用抗生素",
+                "全身支持疗法",
+                "脓胸开放引流术",
+                "闭式胸膜腔引流术",
+                "反复胸膜腔穿刺抽脓"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "周围性肺癌早期最常见的表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸痛",
+                "无症状",
+                "咳血丝痰",
+                "干咳",
+                "发热"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胸壁结核的临床表现，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常合并明显全身症状",
+                "局部病变常无红、肿、热、痛表现",
+                "合并细菌感染局部可出现红、肿、热、痛",
+                "穿刺常为无臭或干酪样物质",
+                "可有骨质破坏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于脓胸的正确定义是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸膜受致病菌感染",
+                "胸膜腔内脏器感染，胸膜腔积液",
+                "肺内炎症并胸膜腔积液",
+                "胸膜炎的进一步发展",
+                "胸膜腔受致病菌感染，产生脓性渗出液积聚于胸膜腔内"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于肺棘球蚴病的诊断依据的各项，哪一项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者有绦虫病史",
+                "X线胸片可见肺内有密度均匀、边界清楚的圆形阴影",
+                "超声显示肺内有囊性病变",
+                "Casoni试验阳性",
+                "有牧羊犬接触史"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列疾病中，哪一种不会发展为艾森门格综合征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动脉导管未闭",
+                "心房间隔缺损",
+                "心室间隔缺损",
+                "右室流出道狭窄",
+                "部分型房室通道"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述哪一项不是急性脓胸感染原因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结核",
+                "肺部感染",
+                "血性感染",
+                "膈下脓肿",
+                "支气管胸膜痿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列临床检查发现对慢性缩窄性心包炎的诊断意义重大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心脏超声示心包膜回声增强",
+                "心脏超声示心包膜增厚",
+                "心电图示ST段下移，T波低平",
+                "胸片示心脏外形怪异",
+                "CT示心包有蛋壳样钙化"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "二尖瓣瓣口面积小于（ ）cm2即可产生临床症状"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1",
+                "1.5",
+                "2.5",
+                "3",
+                "4"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

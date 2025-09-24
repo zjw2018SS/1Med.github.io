@@ -1,0 +1,4488 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "药理",
+        "source": "人卫一类",
+        "filename": "药理3A_A1",
+        "type_all_num": 186,
+        "dev": {
+            "wrap_num": 186,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 186,
+        "time": "25年01月05日18小时20分05秒",
+        "id": "id-m5jgop2q-psxnnlbrm"
+    },
+    "body": [
+        {
+            "questions": [
+                "红霉素是下列哪种细菌感染的首选药"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溶血链球菌",
+                "金黄色葡萄球菌",
+                "军团菌",
+                "沙眼衣原体",
+                "大肠杆菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "他汀类药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胆碱酯酶抑制药",
+                "碳酸酐酶抑制药",
+                "HMG-CoA还原酶抑制药",
+                "Na＋、K＋-ATP酶抑制药",
+                "磷酸二酯酶抑制药"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列何药用于治疗鳞状上皮癌疗效最好"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "6-MP",
+                "5-FU",
+                "VCR",
+                "BLM",
+                "CTX"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胺碘酮在分类上属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钠通道阻滞药",
+                "促钾外流药",
+                "延长动作电位时程药",
+                "β受体阻断药",
+                "钙通道阻滞药"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "硝酸甘油抗心绞痛的主要作用原理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "收缩冠状动脉，降低心肌自身负荷",
+                "减慢心率，降低心肌耗氧量",
+                "减少NO对心肌的损伤",
+                "扩张外周血管，降低心脏负荷和心肌耗氧量",
+                "降低血压，反射性兴奋交感神经改善心肌供血"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "强心苷引起心脏毒性的原理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制心肌细胞膜Na＋-K＋-ATP酶",
+                "兴奋心肌细胞膜Na＋-K＋-ATP酶",
+                "增加心肌细胞内K＋",
+                "增加心肌细胞内Ca2＋",
+                "增加心肌抑制因子的形成和释放"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "苯二氮卓受体阻断剂是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氟马西尼",
+                "阿托品",
+                "三唑仑",
+                "硫喷妥钠",
+                "甲丙氨酯"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "氯丙嗪过量引起血压下降时，应选用的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾上腺素",
+                "去甲肾上腺素",
+                "阿托品",
+                "多巴胺",
+                "异丙肾上腺素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "维拉帕米首选治疗的心律失常是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "房室传导阻滞",
+                "阵发性室上性心动过速",
+                "室性心动过速",
+                "室性期前收缩",
+                "强心苷中毒所致心律失常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "氨苯喋啶的利尿作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制K＋-Na＋-2Cl－共同转运系统",
+                "抑制Na＋-K＋转运系统",
+                "拮抗醛固酮",
+                "抑制碳酸酐酶",
+                "抑制远曲小管及集合管对NaCl的重吸收"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "钙通道阻滞药的药理作用不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管平滑肌松弛，血压下降",
+                "冠脉血管扩张",
+                "抗动脉粥样硬化",
+                "加快房室传导",
+                "明显增加肾血流"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "氨基糖苷类抗生素的抗菌作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制细胞壁的合成",
+                "影响细菌胞浆膜通透性",
+                "抗叶酸代谢",
+                "抑制细菌蛋白质的合成",
+                "抑制核酸代谢"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "与血浆蛋白结合力较强的两种药物同时应用时，应注意"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结合型药物增加，药理作用下降",
+                "游离型药物增加，药理活性增加",
+                "结合型药物减少，药理活性下降",
+                "游离型药物减少，药理活性下降",
+                "结合型药物增加，药理活性下降"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "糖皮质激素引起的负氮平衡可选用的治疗药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "雌激素",
+                "雄激素",
+                "甲状腺素",
+                "胰岛素",
+                "ACTH"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可用于解救低分子量肝素应用过量所致出血的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维生素K",
+                "鱼精蛋白",
+                "垂体后叶素",
+                "氨甲苯酸",
+                "氯化钙"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于糖皮质激素的禁忌证"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "曾患严重精神病",
+                "新近胃肠吻合术",
+                "水痘",
+                "非特异性角膜炎",
+                "严重糖尿病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "利福平的抗菌机制"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制DNA螺旋霉",
+                "抑制二氢叶酸还原酶",
+                "抑制DNA依赖的RNA多聚酶",
+                "抑制细菌分枝菌酸合成",
+                "抑制细菌蛋白质合成"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有机磷酸酯类中毒，必须马上用胆碱酯酶复活药抢救，是因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胆碱酯酶不易复活",
+                "胆碱酯酶复活药起效慢",
+                "被抑制的胆碱酯酶很快“老化”",
+                "需要立即对抗乙酰胆碱作用",
+                "该药药效持续时间短，需迅速注射"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列抗高血压药物中，对心脏有明显的抑制作用的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维拉帕米",
+                "卡托普利",
+                "尼莫地平",
+                "硝苯地平",
+                "氯沙坦"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抗铜绿假单胞菌感染时，下列无效药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "羧苄西林",
+                "头孢哌酮",
+                "头孢呋辛",
+                "庆大霉素",
+                "头孢他啶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "小剂量氯丙嗪镇吐作用部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "延脑呕吐中枢",
+                "内耳前庭",
+                "胃黏膜感受器",
+                "延脑催吐化学感受区",
+                "胃肠道"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "化疗指数是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "ED95/LD5",
+                "LD95/ED5",
+                "LD50/ED50",
+                "LD50＝ED50",
+                "ED5＝LD95"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "药物的血浆半衰期（t1/2）是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "稳态血浆药物浓度下降一半的时间",
+                "有效血浆药物浓度下降一半的时间",
+                "血浆药物浓度下降一半的时间",
+                "药物被肝脏转化一半的时间",
+                "药物从肾脏排泄一半的时间"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "无中枢抑制作用的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "苯海拉明",
+                "异丙嗪",
+                "特非那定",
+                "曲吡那敏",
+                "氯苯那敏"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对低分子量肝素的叙述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗Ⅹ因子活性强",
+                "对Ⅱ因子影响较小",
+                "出血副作用小",
+                "抗血栓作用较肝素弱",
+                "过量出血可用鱼精蛋白解救"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "抑制血管紧张素转化酶的抗高血压药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "卡托普利",
+                "可乐定",
+                "普萘洛尔",
+                "拉贝洛尔",
+                "肼屈嗪"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "治疗心梗所致室性期前收缩的首选药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普萘洛尔",
+                "胺碘酮",
+                "维拉帕米",
+                "利多卡因",
+                "苯妥英钠"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "吗啡镇咳的主要作用部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑室及导水管周围灰质",
+                "脑干网状结构",
+                "延脑孤束核",
+                "中脑盖前核",
+                "大脑皮层"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "巨幼红细胞性贫血患者合并神经症状时需应用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "亚叶酸钙",
+                "维生素B12",
+                "红细胞生成素",
+                "硫酸亚铁",
+                "叶酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "呋塞米的不良反应不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃肠道反应",
+                "电解质紊乱（低钾等）",
+                "恶心、呕吐",
+                "耳毒性",
+                "坏死性胰腺炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中脑血管扩张性偏头痛宜选用的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硝苯地平",
+                "尼群地平",
+                "非洛地平",
+                "尼索地平",
+                "尼莫地平"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "强心苷疗效最好的适应证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺源性心脏病引起的心衰",
+                "严重二尖瓣病引起的心衰",
+                "严重贫血引起的心衰",
+                "甲状腺功能亢进引起的心衰",
+                "高血压性心衰伴有房颤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "去甲肾上腺素扩张冠脉的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "激动α2受体",
+                "阻断α1受体",
+                "激动β2受体",
+                "兴奋心脏，使心肌代谢产物增加",
+                "激动M受体"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不具有肾毒性的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头孢唑啉",
+                "磺胺嘧啶",
+                "庆大霉素",
+                "多黏菌素",
+                "青霉素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列药物哪种是中枢多巴胺受体拮抗药"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿托品",
+                "安定",
+                "尼可刹米",
+                "氯丙嗪",
+                "哌替啶"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阿司匹林解热作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制环氧酶，减少PG合成",
+                "抑制下丘脑体温调节中枢",
+                "抑制致炎因子的合成",
+                "杀菌作用",
+                "中和内毒素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "诱发甲状腺功能紊乱的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲硫氧嘧啶",
+                "碘化物",
+                "三碘甲状腺原氨酸",
+                "卡比马唑",
+                "普萘洛尔"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "影响半衰期长短的主要因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "剂量",
+                "吸收速度",
+                "原血浆浓度",
+                "消除速度",
+                "给药时间"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下药物对胃的刺激性较大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地西泮",
+                "水合氯醛",
+                "苯巴比妥",
+                "甲丙氨酯",
+                "硫喷妥钠"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可用于治疗肝性脑病的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "丙环定",
+                "溴隐亭",
+                "苯海索",
+                "卡比多巴",
+                "左旋多巴"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "铁剂治疗缺铁性贫血，说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口服1周，血中网织红细胞即可上升",
+                "2～4周后，血红蛋白明显增加",
+                "血红蛋白达正常值约需4～8周",
+                "血红蛋白正常后，应继续服用2～3个月",
+                "肌内注射吸收率高于口服吸收率"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心房纤颤伴甲亢应选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维拉帕米",
+                "奎尼丁",
+                "胺碘酮",
+                "普萘洛尔",
+                "地高辛"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "硝酸甘油与普萘洛尔联合应用治疗心绞痛，药理作用相同的因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心率",
+                "心室容积",
+                "心肌耗氧量",
+                "射血时间",
+                "心肌收缩力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "后遗效应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血药浓度已降至阈浓度以下时残存的药理效应",
+                "血药浓度过高引起的不良反应",
+                "血浆蛋白结合率过高引起的不良反应",
+                "短期内残存的药理效应",
+                "机体产生依赖性引起"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "具有对抗醛固酮而引起利尿作用的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呋塞米",
+                "氢氯噻嗪",
+                "螺内酯",
+                "氢苯蝶啶",
+                "乙酰唑胺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "贝特类降低VLDL的机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增加脂蛋白脂酶活性",
+                "抑制脂肪分解",
+                "抑制肝脏TG酯化",
+                "使肝脏合成apoB增加",
+                "减少apoA的基因表达"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不属于呋塞米的不良反应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低K＋血症",
+                "低Mg2＋血症",
+                "耳毒性",
+                "低氯性碱血症",
+                "灰婴综合征"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "增加左旋多巴抗帕金森病疗效，减少不良反应的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "卡比多巴",
+                "维生素B6",
+                "利舍平",
+                "苯乙肼",
+                "丙胺太林"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "解热镇痛药的解热特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可降低正常体温",
+                "可降低直接注入PG引起的发热",
+                "仅降低致热原引起的发热",
+                "解热作用受环境温度影响",
+                "外界温度高可升高体温"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "能补充纹状体中多巴胺的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多巴胺",
+                "卡比多巴",
+                "左旋多巴",
+                "苯海索",
+                "金刚烷胺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "维拉帕米的抗心律失常作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "促进K＋外流",
+                "促进Na＋内流",
+                "促进Cl－内流",
+                "抑制Ca2＋内流",
+                "抑制K＋外流"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列平喘药中属于M胆碱受体阻断药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "特布他林",
+                "丙酸倍氯米松",
+                "酮替芬",
+                "异丙托溴铵",
+                "克伦特罗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "氯丙嗪抗精神病作用的主要机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻断黑质-纹状体系统D2受体",
+                "阻断中脑-边缘系统和中脑-皮层系统的D2样受体",
+                "阻断结节-漏斗系统D2受体",
+                "阻断肾上腺素α受体",
+                "阻断M胆碱受体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "硝酸甘油最常用的给药途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "贴皮",
+                "静脉注射",
+                "口服",
+                "舌下给药",
+                "吸入"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "治疗手术后腹胀及尿潴留可用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乙酰胆碱",
+                "毛果芸香碱",
+                "毒扁豆碱",
+                "新斯的明",
+                "加兰他敏"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有机磷酸农药中毒后，碘解磷定解救无效的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内吸磷",
+                "马拉硫磷",
+                "对硫磷",
+                "敌百虫",
+                "乐果"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "影响胆固醇吸收的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普罗布考",
+                "考来烯胺",
+                "洛伐他汀",
+                "烟酸",
+                "苯扎贝特"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "异烟肼不具备的优点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疗效高",
+                "穿透力强",
+                "易透入细胞内，作用于被吞噬的结核杆菌",
+                "无肝毒性",
+                "口服吸收快而完全"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "治疗白喉杆菌感染的首选药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "青霉素",
+                "红霉素",
+                "四环素",
+                "氯霉素",
+                "庆大霉素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "易引起二重感染的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "青霉素",
+                "链霉素",
+                "红霉素",
+                "四环素",
+                "异烟肼"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "氢氯噻嗪可引起的不良反应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低血糖",
+                "水和电解质紊乱",
+                "高钾血症",
+                "低血脂",
+                "耳聋"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "格列本脲降血糖作用的主要机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增强胰岛素的作用",
+                "促进葡萄糖分解",
+                "刺激胰岛B细胞释放胰岛素",
+                "使细胞内cAMP减少",
+                "抑制胰高血糖素作用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "支气管哮喘的患者应慎用或禁用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "沙丁胺醇",
+                "异丙肾上腺素",
+                "普萘洛尔",
+                "糖皮质激素",
+                "氨茶碱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "作浸润麻醉时，对普鲁卡因过敏者可选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "丁卡因",
+                "利多卡因",
+                "溴丙胺太林",
+                "普鲁卡因胺",
+                "对氨基苯甲酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个药物是单纯疱疹病毒感染的首选药物"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "齐多夫定",
+                "拉米夫定",
+                "糖皮质激素",
+                "阿昔洛韦",
+                "阿糖腺苷"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "药物的首过消除是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾脏对体内药物的首次排泄",
+                "肠黏膜及肝脏对药物的转化",
+                "药物与血浆蛋白的牢固结合",
+                "胃酸对药物化学结构的破坏",
+                "皮肤给药后药物的吸收作用"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可兼治脑血管病的抗高血压药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维拉帕米",
+                "尼莫地平",
+                "尼群地平",
+                "硝苯地平",
+                "地尔硫卓"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "药物在肝脏生物转化，不属于第一步反应的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氧化",
+                "还原",
+                "水解",
+                "结合",
+                "去硫"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "糖皮质激素诱发和加重感染的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "选择激素不恰当",
+                "用量不足",
+                "疗程短",
+                "激素抑制免疫功能降低机体抵抗力",
+                "糖皮质激素降低抗菌药物活性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "最易引起心律失常的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "去甲肾上腺素",
+                "间羟胺",
+                "肾上腺素",
+                "麻黄碱",
+                "多巴胺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "糖皮质激素抗毒作用机理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对抗细菌外毒素",
+                "中和细菌内毒素",
+                "提高机体对细菌内毒素的耐受力",
+                "加速细菌内毒素的排泄",
+                "加速机体对细菌外毒素的代谢"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "全身麻醉前给予阿托品的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "镇静",
+                "增强麻醉药的作用",
+                "减少患者对术中的不良刺激的记忆",
+                "减少呼吸道腺体分泌",
+                "松弛骨骼肌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胆道平滑肌痉挛引起的胆绞痛应选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "哌替啶＋美沙酮",
+                "阿托品＋纳洛酮",
+                "吗啡＋纳洛酮",
+                "吗啡＋哌替啶",
+                "阿托品＋哌替啶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "异烟肼抗结核杆菌的机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制细菌细胞壁的合成",
+                "影响细菌胞质膜的通透性",
+                "抑制细胞核酸代谢",
+                "抑制细菌分枝菌酸合成",
+                "抑制DNA螺旋霉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "解磷定对有机磷中毒症状作用最明显的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大小便失禁",
+                "视物不清",
+                "骨骼肌震颤及麻痹",
+                "血压下降",
+                "中枢神经兴奋"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "糖尿病患者合并重度感染时宜选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "罗格列酮",
+                "磺酰脲类",
+                "双胍类",
+                "胰岛素",
+                "α-葡萄糖苷酶抑制药"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "氯丙嗪翻转肾上腺素升压效应是因为它"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻断DA受体",
+                "阻断M受体",
+                "阻断α受体",
+                "阻断β受体",
+                "阻断N受体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "Vaughan Williams分类法中的Ⅲ类抗心律失常药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钠通道阻滞药",
+                "β受体阻滞药",
+                "钙通道阻滞药",
+                "延长动作电位时程药",
+                "腺苷"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "糖皮质激素类药物对中枢神经具有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "镇静作用",
+                "安定作用",
+                "兴奋作用",
+                "抗抑郁作用",
+                "催眠作用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "治疗敏感菌引起的急慢性骨及关节感染，宜选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红霉素",
+                "乙酰螺旋霉素",
+                "麦白霉素",
+                "林可霉素",
+                "万古霉素"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胺碘酮少见的不良反应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "窦性心动过缓",
+                "眼角膜微粒沉淀",
+                "房室传导阻滞",
+                "肺纤维化",
+                "低血压"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "临床上药物的治疗指数是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "ED50/LD50",
+                "LD50/ED50",
+                "LD5/ED95",
+                "ED95/LD5",
+                "LD1/ED95"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可引起血钾增高的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氢氯噻嗪",
+                "呋塞米",
+                "依他尼酸",
+                "吲哒帕胺",
+                "氨苯蝶啶"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "阿托品不会引起的不良反应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恶心、呕吐",
+                "视力模糊",
+                "口干",
+                "排尿困难",
+                "心悸"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抗铜绿假单胞菌作用最强的头孢菌素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头孢克洛",
+                "头孢他定",
+                "头孢孟多",
+                "头孢噻吩",
+                "头孢氨苄"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "吗啡的适应证是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心源性哮喘",
+                "支气管哮喘",
+                "诊断未明的急腹症",
+                "颅内压增高",
+                "分娩止痛"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "丙硫氧嘧啶的作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制甲状腺激素的合成",
+                "抑制甲状腺激素的释放",
+                "抑制甲状腺激素的利用",
+                "抑制甲状腺激素的摄取",
+                "增加外周组织中T3水平"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "支原体肺炎首选药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "青霉素",
+                "红霉素",
+                "氯霉素",
+                "多黏菌素",
+                "利福平"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "与丙磺舒竞争肾小管分泌的抗生素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链霉素",
+                "青霉素",
+                "多黏菌素B",
+                "异烟肼",
+                "氯霉素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "子痫所致的惊厥可用下列哪种药物"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氯丙嗪",
+                "硝西泮",
+                "硫酸镁",
+                "地西泮",
+                "苯巴比妥"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "磺胺类药物的作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "与PABA竞争二氢蝶酸合酶，阻止细菌二氢叶酸合成",
+                "抑制二氢叶酸还原酶",
+                "与PBP结合，抑制细菌细胞壁合成",
+                "抑制细菌蛋白质合成",
+                "抑制细菌DNA回旋酶"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "阵发性室上性心动过速并发变异型心绞痛，宜采用的治疗药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维拉帕米",
+                "利多卡因",
+                "普鲁卡因胺",
+                "奎尼丁",
+                "普萘洛尔"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "可引起高血钾的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氨苯蝶啶",
+                "氢氯噻嗪",
+                "布美他尼",
+                "依他尼酸",
+                "乙酰唑胺"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "治疗流行性脑脊髓膜炎的首选药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链霉素",
+                "四环素",
+                "磺胺嘧啶",
+                "红霉素",
+                "环丙沙星"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "吗啡与哌替啶比较，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吗啡的镇咳作用较哌替啶强",
+                "吗啡的呼吸抑制作用与哌替啶相似",
+                "两药对平滑肌张力的影响基本相似",
+                "分娩止痛可用哌替啶，而不能用吗啡",
+                "吗啡的成瘾性比哌替啶强"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "去甲肾上腺素减慢心率是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "降低外周阻力",
+                "抑制心脏传导",
+                "直接的负性频率作用",
+                "抑制心血管中枢的调节",
+                "血压升高引起的继发性效应"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "甲氧苄啶长期大量服用会引起人体叶酸缺乏症，原因是人体的哪种酶被抑制"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "二氢叶酸还原酶",
+                "四氢叶酸还原酶",
+                "二氢蝶酸合成酶",
+                "一碳单位转移酶",
+                "葡萄糖-6-磷酸脱氢酶"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "抗铜绿假单胞菌作用最强的头孢菌素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头孢克洛",
+                "头孢他啶",
+                "头孢孟多",
+                "头孢噻吩",
+                "头孢氨苄"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "给动物静注某药可引起血压升高。如预先给予酚妥拉明，再静注该药时，引起血压明显下降；但是如预先给予普萘洛尔，再静注该药，则引起血压上升。此药可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿托品",
+                "异丙肾上腺素",
+                "肾上腺素",
+                "东莨菪碱",
+                "去甲肾上腺素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "斑疹伤寒首选哪种抗生素治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "四环素",
+                "红霉素",
+                "庆大霉素",
+                "氯霉素",
+                "头孢拉定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "轻度抑制心肌细胞Na＋通道，主要作用于心室肌的抗心律失常药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "奎尼丁",
+                "利多卡因",
+                "普鲁卡因胺",
+                "胺碘酮",
+                "维拉帕米"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "利多卡因降低心肌自律性的机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制Na＋内流",
+                "促进Na＋内流",
+                "抑制K＋外流",
+                "抑制Ca2＋内流",
+                "促进Ca2＋内流"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物不是镇静催眠药"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "卡马西平",
+                "奥沙西泮",
+                "水合氯醛",
+                "甲丙氨酯",
+                "三唑仑"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "新斯的明最显著的药理作用是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "减慢心率",
+                "促进腺体分泌",
+                "兴奋骨骼肌",
+                "兴奋中枢",
+                "降低眼内压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物为治疗心绞痛的钙拮抗药"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硝苯地平",
+                "普萘洛尔",
+                "硝酸甘油",
+                "硝酸异山梨酯",
+                "特拉唑嗪"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "普萘洛尔的禁忌证不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "严重左室心功能不全",
+                "窦性心动过缓",
+                "支气管哮喘",
+                "重度房室传导阻滞",
+                "稳定型心绞痛"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "钙拮抗药对心脏的作用是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加快心率",
+                "加快传导",
+                "减弱心肌收缩力",
+                "扩张血管",
+                "抑制血小板聚集"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "氯丙嗪抗精神病作用机制是阻断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中枢α肾上腺素受体",
+                "中枢β肾上腺素受体",
+                "中脑边缘叶及中脑皮质通路中DA受体",
+                "黑质纹状体通路中的5-HT1受体",
+                "中枢M1受体"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中对支原体肺炎首选药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红霉素",
+                "利福平",
+                "磺胺嘧啶",
+                "链霉素",
+                "青霉素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "与阿托品阻断M受体无关的药理作用是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "扩大瞳孔",
+                "松弛内脏平滑肌",
+                "加快心率",
+                "扩张血管",
+                "抑制腺体分泌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "绝对口服生物利用度等于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "（静脉注射定量药物后AUC/口服等量药物后AUC）×100%",
+                "（口服等量药物后AUC/静脉注射定量药物后AUC）×100%",
+                "（口服定量药物后AUC/静脉注射定量药物后AUC）×100%",
+                "（口服一定药物后AUC/静脉注射定量药物后AUC）×100%",
+                "（静脉注射等量药物后AUC/口服定量药物后AUC）×100%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于吗啡描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "强而持久的镇痛作用",
+                "镇静作用",
+                "呼吸抑制",
+                "降低胃肠平滑肌张力",
+                "引起体位性低血压"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "产生副反应的剂量是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "半数致死量",
+                "治疗量",
+                "极量",
+                "中毒量",
+                "无效量"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "慢性钝痛时，不宜用吗啡的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对钝痛效果差",
+                "治疗量即抑制呼吸",
+                "可致便秘",
+                "易成瘾",
+                "易引起体位性低血压"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "甲氨蝶呤抗代谢作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻止嘧啶核苷酸合成",
+                "抑制DA多聚酶",
+                "抑制二氢叶酸还原酶",
+                "抑制核苷酸还原酶",
+                "抑制拓扑异构酶"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "长期用异烟肼引起的周围神经炎可合用下列何种药物防治"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "维生素B2",
+                "维生素B6",
+                "维生素K",
+                "维生素C",
+                "维生素B12"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "维拉帕米不能用于治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心绞痛",
+                "慢性心功能不全",
+                "高血压",
+                "室上性心动过速",
+                "心房纤颤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "促进胰岛素分泌的口服降糖药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲苯磺丁脲",
+                "二甲双胍",
+                "吡格列酮",
+                "阿卡波糖",
+                "罗格列酮"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "与局麻药合用，可延长局麻药作用时间的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾上腺素",
+                "酚妥拉明",
+                "麻黄碱",
+                "多巴胺",
+                "异丙肾上腺素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "叶酸在体内的活性形式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "四氢叶酸",
+                "5-甲基四氢叶酸",
+                "叶酸",
+                "二氢叶酸",
+                "5,10-甲烯四氢叶酸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "药物达到一定效应时所需要的相对剂量，称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "效价强度",
+                "效能",
+                "阈剂量",
+                "治疗量",
+                "极量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "四环素口服吸收后，分布于（ ）的药物浓度比血液内的药物浓度高"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑脊液",
+                "胆汁",
+                "前列腺",
+                "唾液腺",
+                "细胞外液"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "阿片受体拮抗药为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "苯佐那酯",
+                "吗啡",
+                "喷他佐辛",
+                "喷托维林",
+                "纳洛酮"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "呋塞米的临床应用不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "治疗水肿",
+                "加速毒物排出",
+                "预防急慢性肾衰竭",
+                "治疗尿崩症",
+                "治疗高钙血症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以DNA回旋酶作为抗菌靶点的抗菌药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "磺胺类",
+                "甲氧苄啶",
+                "喹诺酮类",
+                "大环内酯类",
+                "甲硝唑"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "小剂量的多巴胺即能增加肾血流量的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "兴奋β1受体",
+                "兴奋β2受体",
+                "兴奋多巴胺受体",
+                "阻断α受体",
+                "直接松弛肾血管平滑肌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "常用于抗心律失常的局麻药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普罗帕酮",
+                "罗哌卡因",
+                "利多卡因",
+                "丁卡因",
+                "丁哌卡因"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列具有内在拟交感活性的非选择性β受体阻断药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吲哚洛尔",
+                "噻吗洛尔",
+                "醋丁洛尔",
+                "普萘洛尔",
+                "纳多洛尔"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "治疗月经痛可选用药"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对乙酰氨基酚",
+                "吗啡",
+                "哌替啶",
+                "阿托品",
+                "可待因"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列有关于抗贫血药铁剂的描述，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Fe2＋易于吸收",
+                "铁剂和维生素C同服不利于吸收",
+                "鞣质不利于铁剂的吸收",
+                "铁剂和牛奶同服不利于吸收",
+                "四环素会影响铁剂的吸收"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "阿托品作用于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "烟碱受体",
+                "α受体",
+                "β受体",
+                "突触前M受体",
+                "各类型M受体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "应做皮肤过敏试验的局麻药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "利多卡因",
+                "丁卡因",
+                "普鲁卡因",
+                "丁哌卡因",
+                "罗哌卡困"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对脑水肿病人静注50%高渗葡萄糖的主要目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "补充能量",
+                "使脑组织脱水",
+                "增加血容量，防止休克",
+                "渗透性利尿",
+                "保护脑细胞，减慢脑死亡"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "氯丙嗪引起的口干、便秘和视力模糊是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻断M胆碱受体",
+                "阻断α肾上腺素受体",
+                "阻断组胺受体",
+                "阻断β肾上腺素受体",
+                "阻断DA受体"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "选择性低的药物，在治疗量下表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毒性较大",
+                "副作用较多",
+                "过敏反应剧烈",
+                "容易成瘾",
+                "容易耐药"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "乙胺丁醇可致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "球后视神经炎",
+                "外周神经炎",
+                "耳神经损害",
+                "中毒性脑病",
+                "粒细胞减少症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对青霉素G不敏感的细菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溶血性链球菌",
+                "脑膜炎球菌",
+                "肠球菌",
+                "炭疽杆菌",
+                "破伤风杆菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "氨基糖苷类药物的不良反应，不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "耳毒性",
+                "肾毒性",
+                "再生障碍性贫血",
+                "神经肌肉麻痹",
+                "过敏反应"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肾绞痛时宜选用的治疗药物组合是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿托品和新斯的明合用",
+                "东莨菪碱和毒扁豆碱合用",
+                "哌替啶和吗啡合用",
+                "阿托品和哌替啶合用",
+                "东莨菪碱和哌替啶合用"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "酚妥拉明不用于治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "顽固性充血性心力衰竭",
+                "休克",
+                "胃十二指肠溃疡",
+                "肾上腺嗜铬细胞瘤",
+                "外周血管痉挛性疾病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "解热镇痛药的共同作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制脑内γ-氨基丁酸（GABA）合成",
+                "抑制多巴胺合成",
+                "直接抑制中枢神经系统",
+                "减少炎症部位刺激因子合成",
+                "抑制前列腺素（PG）的合成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "治疗全身性深部真菌感染的首选药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "灰黄霉素",
+                "制霉菌素",
+                "两性霉素B",
+                "克霉唑",
+                "咪康唑"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "能降低眼内压用于治疗青光眼的利尿药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呋塞米",
+                "氢氯噻嗪",
+                "螺内酯",
+                "氨苯喋啶",
+                "乙酰唑胺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "糖皮质激素治疗哪种休克效果最佳"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染中毒性休克",
+                "低血容量性休克",
+                "过敏性休克",
+                "心源性休克",
+                "疼痛性休克"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某药在体内按一级动力学消除，在其吸收达高峰后抽血两次，测其血浆浓度分别为150μg/ml及18.75μg/ml，两次抽血间隔9小时，该药的血浆半衰期是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1小时",
+                "1.5小时",
+                "2小时",
+                "3小时",
+                "4小时"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列二氢吡啶类钙拮抗药中半衰期最长的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硝苯地平",
+                "尼莫地平",
+                "氨氯地平",
+                "尼群地平",
+                "尼索地平"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "与口服给药相比，直肠给药的最主要优点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "适用于昏迷、抽搐等不能口服的病人",
+                "在一定程度上避免首过消除",
+                "吸收缓慢",
+                "适用于对胃刺激引起呕吐的药物",
+                "作用持久"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "治疗立克次体感染所致斑疹伤寒首选"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "四环素",
+                "庆大霉素",
+                "青霉素",
+                "链霉素",
+                "多黏菌素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "麻黄碱的用途中，描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可用于房室传导阻滞的治疗",
+                "可用于轻症哮喘的治疗",
+                "缓解荨麻疹的皮肤黏膜症状",
+                "治疗鼻黏膜充血引起的鼻塞",
+                "防治硬膜外麻醉和蛛网膜下腔麻醉引起的低血压"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "哪一种情况下可以适用吗啡"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅脑损伤，颅压升高",
+                "急性心源性哮喘",
+                "支气管哮喘呼吸困难",
+                "肺心病呼吸困难",
+                "分娩过程止痛"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "耳、肾毒性最小的氨基糖苷药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链霉素",
+                "卡那霉素",
+                "庆大霉素",
+                "新霉素",
+                "奈替米星"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "红霉素、克林霉素合用可"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "扩大抗菌谱",
+                "由于竞争结合部位产生拮抗作用",
+                "增强抗菌活性",
+                "降低毒性",
+                "增加毒性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列药物中，预防或治疗脑血管痉挛效果好的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普萘洛尔",
+                "硝苯地平",
+                "氟桂利嗪",
+                "维拉帕米",
+                "地高辛"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "强心苷的临床应用有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "窦性心动过缓",
+                "心房扑动",
+                "传导阻滞",
+                "室性心动过速",
+                "室颤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关哌替啶的叙述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "镇咳作用与可待因相似",
+                "镇痛作用比吗啡弱",
+                "成瘾性较吗啡轻",
+                "无止泻作用",
+                "治疗剂量能引起体位性低血压"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "药物在肝脏内代谢转化后都会"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "毒性减小或消失",
+                "经胆汁排泄",
+                "极性增高",
+                "脂/水分布系数增大",
+                "分子量减小"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "能与林可霉素竞争同一结合部位，呈拮抗作用的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链霉素",
+                "万古霉素",
+                "青霉素",
+                "红霉素",
+                "替考拉宁"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关哌替啶的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可以用于心源性哮喘",
+                "镇痛效价强度比吗啡弱",
+                "有止泻作用",
+                "有呼吸抑制作用",
+                "有成瘾性"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "首过消除主要发生在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口服给药",
+                "肌肉注射",
+                "静脉注射",
+                "直肠给药",
+                "吸入给药"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "青霉素对下列何种疾病基本无效"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梅毒",
+                "非典型性肺炎",
+                "破伤风",
+                "猩红热",
+                "大叶性肺炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "阿托品可用于治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心房扑动",
+                "心房纤颤",
+                "窦性心动过缓",
+                "室上性心动过速",
+                "室性心动过速"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列情况慎用碘制剂的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "孕妇",
+                "甲亢患者术前准备",
+                "单纯性甲状腺肿",
+                "甲状腺危象",
+                "白细胞减少"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "治疗钩端螺旋体病首选下列哪种药物"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氯霉素",
+                "红霉素",
+                "四环素",
+                "庆大霉素",
+                "青霉素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "按一级动力学消除的药物，其血浆半衰期的计算公式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "K/1.44",
+                "1.44/K",
+                "0.693/K",
+                "K/0.693",
+                "2D/K"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "药物肝肠循环影响了药物在体内的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起效快慢",
+                "代谢快慢",
+                "分布速度",
+                "给药途径",
+                "与血浆蛋白结合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于α受体阻断药体内过程的描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "酚妥拉明生物利用度高",
+                "酚妥拉明肌内注射作用维持时间长达数小时",
+                "酚苄明脂溶性高，作用持久",
+                "酚苄明常作肌内注射或皮下注射",
+                "妥拉唑林以口服给药为主"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "毛果芸香碱用于虹膜炎的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "消除炎症",
+                "防止穿孔",
+                "防止虹膜与晶状体的粘连",
+                "促进虹膜损伤的愈合",
+                "抗微生物感染"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "皮肤癣菌临床感染常选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "灰黄霉素",
+                "两性霉素B",
+                "制霉菌素",
+                "林可霉素",
+                "青霉素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "长期应用糖皮质激素可引起"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血钙",
+                "高血钾",
+                "高血镁",
+                "高血磷",
+                "低血钾"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾功能不全应避免或慎用的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氯霉素",
+                "利福平",
+                "氨基糖苷类",
+                "氨苄西林",
+                "甘露醇"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "噻嗪类利尿药的利尿作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增加肾小球滤过率",
+                "抑制近曲小管碳酸酐酶，减少H＋-Na＋交换",
+                "抑制髓袢升支粗段髓质部Na＋-K＋-Cl－共转运子",
+                "抑制远曲小管近端Na＋-Cl－共转运子",
+                "抑制远曲小管K＋-Na＋交换"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "口服后药物在皮肤、毛发及指（趾）甲等处含量较高的抗真菌药有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "两性霉素B",
+                "制霉菌素",
+                "水杨酸",
+                "灰黄霉素",
+                "特比萘芬"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不具有抗铜绿假单胞菌的抗生素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "头孢呋辛",
+                "羧苄西林",
+                "头孢哌酮",
+                "庆大霉素",
+                "头孢他定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "无明显中枢副作用的H1受体阻断药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "苯海拉明",
+                "异丙嗪",
+                "美克洛嗪",
+                "氯苯那敏",
+                "阿司咪唑"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "第三代头孢菌素的特点不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对革兰阳性菌作用比第一、二代强",
+                "对革兰阴性菌包括肠杆菌属和铜绿假单胞菌及厌氧菌有较强的作用",
+                "t1/2较长，体内分布广",
+                "对肾脏基本无毒性",
+                "对β-内酰胺酶有较高稳定性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "出现青霉素所致的过敏性休克时，应立即选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾上腺素",
+                "糖皮质激素",
+                "青霉素",
+                "苯海拉明",
+                "苯巴比妥"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "糖皮质激素治疗过敏性支气管哮喘的主要作用机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直接扩张支气管平滑肌",
+                "兴奋β2受体",
+                "稳定肥大细胞膜，抑制炎性介质释放",
+                "使细胞内cAMP增加",
+                "抑制补体参与免疫反应"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "促进胰岛释放胰岛素的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "格列苯脲",
+                "二甲双胍",
+                "阿卡波糖",
+                "罗格列酮",
+                "苯乙双胍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对变异型心绞痛疗效最好的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硝酸甘油",
+                "普萘洛尔",
+                "硝苯地平",
+                "单硝酸异山梨酯",
+                "维拉帕米"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "治疗癫痫小发作的首选药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乙琥胺",
+                "丙戊酸钠",
+                "苯妥英钠",
+                "扑米酮",
+                "卡马西平"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性肾衰竭时，与利尿剂配伍增加尿量的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多巴胺",
+                "麻黄碱",
+                "去甲肾上腺素",
+                "异丙肾上腺素",
+                "肾上腺素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "第三代头孢菌素的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "广谱及对铜绿假单胞菌、厌氧菌有效",
+                "对肾脏基本无毒性",
+                "耐药性产生快",
+                "广谱及对铜绿假单胞菌、厌氧菌有效，对肾脏基本无毒性",
+                "广谱及对铜绿假单胞菌、厌氧菌有效，耐药性产生快"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "治疗甲氨蝶呤所致巨幼红细胞贫血，宜选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "铁剂",
+                "维生素B12",
+                "叶酸",
+                "双香豆素",
+                "亚叶酸钙"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "长期大量应用易导致人体叶酸缺乏的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "TMP",
+                "红霉素",
+                "四环素",
+                "链霉素",
+                "青霉素G"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "硝苯地平常见的不良反应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心率减慢",
+                "降低心肌耗氧量",
+                "面红、头痛",
+                "皮疹",
+                "失眠"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "pKa＜4的弱酸性药物如地西泮，在胃肠道pH范围内基本都是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "离子型，吸收快而完全",
+                "非离子型，吸收快而完全",
+                "离子型，吸收慢而不完全",
+                "非离子型，吸收慢而不完全",
+                "离子型和非离子型相等"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

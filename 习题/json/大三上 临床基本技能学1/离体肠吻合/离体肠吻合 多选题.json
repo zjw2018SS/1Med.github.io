@@ -1,0 +1,50 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "临床基本技能学（外科基本技能）",
+        "filename": "离体肠吻合",
+        "type_all_num": 1,
+        "dev": {
+            "wrap_num": 1,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_2_num": 1,
+        "time": "24年11月09日22小时14分24秒",
+        "id": "id-m3a8yh5r-a7ihyjs37"
+    },
+    "body": [
+        {
+            "questions": [
+                "关于肠吻合的说法，以下正确的有？"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 肠吻合的基本方式有：端端吻合法、侧侧吻合法",
+                " 肠管吻合时选择有齿镊操作",
+                " 术后常规检查吻合口通畅情况",
+                " 肠吻合时要注意对合一致，不扭曲"
+            ],
+            "answers": [
+                "CD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                2,
+                3
+            ]
+        }
+    ]
+}

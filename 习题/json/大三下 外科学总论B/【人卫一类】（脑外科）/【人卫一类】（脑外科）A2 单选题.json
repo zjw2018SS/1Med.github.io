@@ -1,0 +1,624 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（脑外科）A2",
+        "type_all_num": 25,
+        "dev": {
+            "wrap_num": 25,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 25,
+        "time": "25年01月13日11小时36分59秒",
+        "id": "id-m5uht4j5-eurhzzb6j"
+    },
+    "body": [
+        {
+            "questions": [
+                "患者的病史约3年，初起时曾有发热，后渐出现上背部和腰部疼痛，咳嗽时加重并向右下肢放射，病情时轻时重，于2年半前出现双下肢无力并进行性加重：检查胸1-3水平痛温度觉减退，腰1水平以下痛温度觉消失，左腿较对侧细，无括约肌功能障碍。此患者可定性诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊髓肿瘤",
+                "慢性硬脊膜外脓肿",
+                "脊髓蛛网膜炎",
+                "脊椎关节病",
+                "多发性椎间盘脱出"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，37岁。视力模糊，部分视野缺失，伴有头痛、恶心数月，MRI检查如图，最可能的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅咽管瘤",
+                "脑膜瘤",
+                "蛛网膜囊肿",
+                "垂体瘤",
+                "表皮样囊肿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，43岁。9小时前被汽车撞倒，右枕着地，昏迷20分钟，醒后头痛，头晕，恶心呕吐，右顶可触及皮下血肿同时可见一2.5cm头皮裂伤。CT颅内未见异常，未见颅骨骨折。该患者最恰当的治疗措施为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "12小时内局部清创缝合，抗炎对症治疗",
+                "24小时内局部清创缝合，抗炎对症治疗",
+                "48小时内局部清创缝合，抗炎对症治疗",
+                "抽吸头皮血肿，24小时内局部清创缝合",
+                "抽吸头皮血肿，48小时内局部清创缝合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患儿，女，5岁，头痛1月余，结合影像图像，最可能的诊断是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "松果体肿瘤",
+                "室管膜瘤",
+                "脑膜炎",
+                "脑转移瘤",
+                "胶样囊肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，33岁，4个月前无明显诱因出现腰痛，为持续性钝痛，之后出现双下肢麻木，逐渐左下肢不能动。查体：左下肢肌力Ⅱ级，双下肢腱反射亢进，L1以下深浅感觉障碍，胸正侧位片示T11-12间隙增宽"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T11-T12硬脊膜外占位病",
+                "T11-T12硬脊膜内髓外占位病",
+                "T11-T12髓内占位病",
+                "L1硬脊膜外占位病",
+                "L1硬脊膜内髓外占位病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，27岁。头痛、眼球震颤、走路不稳半年余，近1周出现呕吐，MRI检查如图，最可能的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑膜瘤",
+                "转移瘤",
+                "髓母细胞瘤",
+                "血管网状细胞瘤",
+                "皮样囊肿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "从高空坠落右枕部着地，患者伤后进行性意识障碍，左侧瞳孔逐渐散大，诊断应首先考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左侧枕部急性硬脑膜外血肿",
+                "右侧枕部急性硬脑膜下血肿",
+                "右侧额颞挫裂伤伴急性硬脑膜下血肿",
+                "左侧额颞极挫伤伴急性硬脑膜下血肿",
+                "右侧后颅窝小脑血肿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患儿，5个月，诊断为狭颅症，常合并下列畸形，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊柱裂",
+                "眼裂",
+                "腭裂",
+                "唇裂",
+                "并指"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，34岁。4个月内抽搐痉挛5次，发作后不能用语言表达自己的意思，但能听懂别人的语言。CT及MRI显示左额叶占位病均匀一致强化，周围硬脑膜有强化。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胶质瘤",
+                "脑膜瘤",
+                "海绵状血管瘤",
+                "转移瘤",
+                "颅内淋巴瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患儿，3岁，因脑积水行脑室-腹腔分流术后3天，出现头痛，头胀，以直立性头痛明显，考虑该患儿头痛的原因可能为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑内血肿",
+                "分流管梗阻",
+                "分流管移位",
+                "过度引流",
+                "裂隙脑室综合征"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患儿，女，3岁。出生后头围逐渐增大，伴有头皮静脉怒张，落日眼，智力发育低于同龄儿童，头颅CT检查提示三脑室以上对称性扩大。不适合的治疗方法为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑室-腹腔分流术",
+                "Toykildson手术",
+                "脑室-心房分流术",
+                "脑室-上矢状窦分流术",
+                "腰大池腹腔分流术"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，30岁。在3楼擦窗户时不慎自楼上坠下，当即昏迷。送医院就诊，1小时后即清醒，头痛，呕吐，右上肢肌力2级，脑脊液检查有红细胞，CT示左颞顶叶低密度灶，其中有散在点状高密度影。应考虑为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑震荡",
+                "弥漫性轴索损伤",
+                "脑挫裂伤",
+                "脑内血肿",
+                "脑干损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患儿，男，1岁。3天前无明显诱因出现斜视伴复视，查体头围较正常同龄婴儿增大，前囟膨隆。该患儿最有可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲亢",
+                "先天性脑积水",
+                "畸形",
+                "颅裂",
+                "脑水肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患儿，女，1岁，诊断为先天性脑积水。7天前行脑室-腹腔分流术，术后第1天复查CT脑室较术前缩小。现患儿突发恶心呕吐，意识状态恶化，急查CT示脑室扩张。目前考虑患儿一般情况恶化的原因最可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑内血肿",
+                "分流管梗阻",
+                "分流管移位",
+                "过度引流",
+                "脑水肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，58岁，突然头疼呕吐，伴意识丧失30分钟。查体：神志清楚，颈部抵抗，克氏征阳性。右侧眼睑下垂，右侧瞳孔4mm，对光反射消失。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑梗死",
+                "蛛网膜下腔出血",
+                "高血压脑出血",
+                "颅内动静脉畸形出血",
+                "颅脑肿瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患儿，1岁，诊断为狭颅症，该患儿眼部可能出现下列症状，除了"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "眼球突出",
+                "眼球内陷",
+                "闭目不能",
+                "斜视",
+                "眼距异常"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，30岁。跑步时突然剧烈头痛、呕吐，一过性意识不清，醒后颈枕部疼痛，右眼睑下垂、瞳孔大，颈项强直，克氏征（＋）。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑出血合并脑疝",
+                "脑干出血",
+                "小脑出血",
+                "SAH",
+                "急性脑膜炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，43岁，右眼睑下垂、复视2个月。查体：神志清，右眼睑下垂，右眼球外斜，右侧瞳孔散大，对光反应和调节反应消失，双侧视盘边界清，色淡。既往有蛛网膜下隙出血史。CT扫描增强后发现鞍旁右侧一小圆形高密度影，周围无脑水肿。首先考虑的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右颈内动脉后交通动脉动脉瘤",
+                "右侧颞叶动静脉畸形",
+                "右侧脊索瘤",
+                "右侧鞍旁脑膜瘤",
+                "右侧小脑幕切迹疝"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，21岁。2天前骑自行车摔伤枕部，今日出现右耳部皮下淤斑，应首先考虑为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "耳后软组织损伤",
+                "头皮血肿",
+                "颅后窝骨折",
+                "颅中窝骨折",
+                "脑震荡"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "成年男性，外伤后1小时，CT检查如图，最可能的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑出血",
+                "脑膜瘤",
+                "脑转移瘤",
+                "脑挫裂伤",
+                "脑胶质瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，18岁，体检X片提示：枢椎齿突高于正常水平，查体见：颈项粗短，面颊耳廓不对称，该患者最有可能的诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "狭颅症",
+                "先天性脑积水",
+                "颅底陷入症",
+                "颅裂",
+                "脊柱裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，76岁，糖尿病史7年。中午睡觉醒来后发现右侧肢体无力，次日症状加重。查体：血压140/90mmHg，右鼻唇沟变浅，伸舌偏右，右上肢肌力3级，右下肢肌力4级，右侧上肢和面部感觉减退。心电图示房性期前收缩。该患者最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑出血",
+                "脑血栓形成",
+                "脑栓塞",
+                "颅内硬膜外血肿",
+                "脑炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患儿，男，3个月。出生后一直喂养困难，头围较正常同龄婴儿增大。查体：前囟膨隆，叩诊Macewen征（＋），该患儿最有可能诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲亢",
+                "先天性脑积水",
+                "巨人症",
+                "颅裂",
+                "脑水肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，44岁。车祸伤及右侧眉弓和头部，当时右眼上、下睑青紫淤血。半月后右眼球结膜高度水肿视力下降，右眼球突出，CT检查如图，最可能的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "眶内静脉曲张",
+                "颈内动脉海绵窦段动脉瘤",
+                "海绵窦动静脉瘘",
+                "颅内动静脉畸形",
+                "硬脑膜动静脉瘘"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "女婴，20天，出生时发现枕部包块，直径约1cm，实质感，透光实验（－），啼哭时张力不变，该患儿最有可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "先天性脑积水",
+                "颅裂",
+                "脑水肿",
+                "狭颅症",
+                "脑膜瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1019 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "医学伦理学",
+        "filename": "2024春季学期医学伦理学B.docx",
+        "type_all_num": 39,
+        "dev": {
+            "wrap_num": 39,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 39,
+        "time": "24年11月17日16小时04分12秒",
+        "id": "id-m3lb97v6-oewjjb9da"
+    },
+    "body": [
+        {
+            "questions": [
+                "“天覆地盖，万物悉备，莫贵于人。”出自         \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 《黄帝内经》",
+                "《本草纲目》",
+                "《千金要方》",
+                "  《劝医论》"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "                通过对人类伦理行为的善恶价值分析，研究道德的起源、本质和发展规律等，建构人类道德规范体系，达到完善社会、完善人类自身的目的。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "规范伦理学",
+                " 美德伦理学",
+                " 元伦理学",
+                " 描述伦理学"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "1903年摩尔发表了《伦理学原理》，标志着               的诞生\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 规范伦理学",
+                " 美德伦理学",
+                " 描述伦理学",
+                " 元伦理学"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "医学伦理学的研究对象是               。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 伦理",
+                " 医德品质",
+                "道德",
+                " 医学道德现象及发展规律"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "将伤害降到最低程度符合：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 行善原则",
+                " 不伤害原则",
+                " 公平原则",
+                " 最优化原则"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断及治疗的伦理原则应除以下哪项外\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  尊重患者的原则",
+                " 创新至上的原则",
+                " 保守秘密的原则",
+                " 知情同意的原则"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "医学伦理学的有利原则不包括\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 把患者的利益看得高于一切",
+                " 选择受益最大，伤害最小的行动方案",
+                " 努力使患者受益",
+                " 关心患者的客观利益和主观利益"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "医务人员的根本义务是\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 把对病人应尽的义务和对社会应尽的义务统一起来",
+                " 救死扶伤、防病治病",
+                " 救死扶伤，防病治病，全心全意为人民健康服务",
+                " 全心全意为人民服务"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "哪项不是我国的公共卫生伦理原则  \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 互助协调原则",
+                " 尊重科学原则",
+                " 社会公正原则",
+                " 全社会参与原则"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "祖国医学很早就提出了对疾病预防的观点，（       ）中就有“圣人不治已病而治未病”之说。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大医精诚",
+                " 本草纲目",
+                " 希波克拉底誓词",
+                " 黄帝内经"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对甲类传染病患者实施强制隔离措施时，应当遵循的公共卫生伦理原则是\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 病人为中心原则",
+                " 全社会参与原则",
+                " 社会公正原则 ",
+                " 互助协同原则"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于传染病防控工作伦理要求的是  \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 采取走访患者家庭以预防医患冲突",
+                " 开展传染病的预防宣传教育",
+                " 尊重传染病患者的人格和权利",
+                " 做好传染病的监测和报告"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某医生的熟人找他看性病后，医生的正确做法 （       ）\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 因为是熟人，所以不填写性病疫情报告 ",
+                "打电话给该患者的家人，主动介绍病情与预防方法",
+                " 在朋友集会时聊起这件事 ",
+                " 告诉患者正确的治疗与预防方法，请其避免传染给配偶 "
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列处理医际关系的原则不正确的是（         ）。 作业\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 彼此信任、互相协作和监督",
+                " 彼此协作、力争最大经济收益",
+                " 彼此独立、互相支持和帮助  ",
+                " 彼此平等、互相尊重  "
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对于一个具有一定医学知识的长期慢性病成年患者，所适用的医患关系模式是（        ）。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 主动-被动模式",
+                " 指导-合作模式",
+                " 纯技术模式　",
+                " 共同参与模式"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "医生必须详细的向病人说明，解释诊治手段，在病人愿意时才能进行。这属于病人的（         ）\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 知情同意权",
+                "  平等医疗权  ",
+                " 社会责任权",
+                " 疾病认知权"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "最能反映医患关系性质的表述是一种 （          ）   \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 信托关系",
+                " 私人关系",
+                " 商品关系",
+                " 主从关系"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "医疗实践中，审慎至关重要，它并不意味着（    ）。 \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 周密细致   ",
+                " 行为过程中的谨慎认真",
+                " 反复思考，不能做出果断的决定",
+                " 医务人员的高度责任心和事业心",
+                " 行为之前的周密思考"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在辅助检查中,医生应遵循的道德要求不包括(    )。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 严格掌握适应证",
+                " 要恪守操作规程",
+                " 尽量通过辅助检查确定诊断",
+                " 严肃认真、一丝不苟",
+                " 合理地、有针对性地使用辅助检查设备"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在下列各项中,良好的服务态度不包括(    )。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 医疗作风廉洁正派",
+                " 全面的专业知识和技能",
+                " 忠于医学事业、热爱本职工作",
+                " 能满足病人的任何要求,使病人满意",
+                " 对病人高度负责,诊疗中态度严肃、严格操作"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "治疗要获得病人的知情同意，其实质是（     ）。\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 尊重患者自主性",
+                " 患者提出的要求总是合理的",
+                " 患者不会做出错误决定   ",
+                " 尊重患者人格尊严",
+                " 尊重患者社会地位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "病人对大夫说：“大夫，我头痛。”医生回答说：“吃片去痛药片吧。”病人拿了去痛药就走了。上述对话被认为缺乏医患之间的沟通，原因是：（  )\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 采用了“封闭式”谈话方式",
+                " 医生没有处理好谈话中的沉默",
+                " 医生对病人谈话不够认真",
+                " 医生不重视病人的信息反馈",
+                " 以上都不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "人类辅助生殖技术的目的是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 控制人口数量",
+                " 预防性优生",
+                " 商业化",
+                " 演进性优生",
+                " 有利于未婚男女生儿育女"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "运用现代医学技术，不通过两性结合，而进行高等动物(包括人)生殖的技术是\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体外受精",
+                " 同源人工授精",
+                " 克隆技术",
+                "代孕技术",
+                " 异源人工授精"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不属于生殖技术的伦理问题的是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 谁应该是孩子的父母",
+                " 导致人类伦理关系的混乱",
+                " 影响人类基因的纯洁性",
+                " 影响后代的健康成长",
+                " 商品化问题"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于生殖技术，不合乎道德的是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 只要受术者本人知情同意便可",
+                " 医务人员不得对单身妇女实施辅助生育技术",
+                " 应该限制供精者和供卵者的捐献次数",
+                " 医疗机构和医务人员须对赠者和受者的有关信息保密",
+                " 所生子女与婚生子女权利平等"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "人类辅助生殖技术带来的伦理问题应除外：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 精子、卵子、胚胎可否商品化",
+                " 非婚单身女性可否使用相应技术生育孩子",
+                " 人类辅助生殖技术所生的孩子，其众多父母如何定位",
+                " 代孕技术可否允许使用",
+                " 有严重遗传病的新生儿可否实施安乐死"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "积极安乐死和消极安乐死的最根本区别在于：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前者的死亡过程短，后者的死亡过程长",
+                " 前者争论大，后者争论小",
+                " 前者不人道，后者人道",
+                " 前者采取人工的方式结束生命，后者不采取人工手段干预生命",
+                " 在道德上前者不易被接受，后者易被接受"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "针对器官短缺现象，器官来源最值得提倡的途径是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 自愿捐献  ",
+                " 尸体捐赠  ",
+                " 胎儿器官 ",
+                " 克隆器官   ",
+                " 器官买卖"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列各点是支持安乐死，是符合医学人道主义的，但有一点例外：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人类追求无痛苦的,尊严死亡的愿望,是社会进步和人类文明的标志",
+                " 人有生的权利,也应有选择死亡方式的权利",
+                " 主动结束必然要死亡的生命,不仅可以免除病人死之前的痛苦挣扎,而且减轻了亲属的精神和经济负担",
+                " 人类最大的愿望是生活得好,追求生命的质量,当病人已濒临死亡,而且不可逆转、极为痛苦,其生命质量低劣,可用安乐死帮助病人结束生命",
+                " 终止无希望挽救的生命,可以避免卫生资源的浪费"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于人体器官捐献正确的是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 人体器官捐献应当遵循自愿、无偿的原则",
+                " 只能接受有血缘关系者的捐献",
+                " 公民捐献其器官应当有书面形式的捐献意愿，在表明意愿后，无权予以撤销",
+                " 捐献人体器官的公民应具有完全民事行为能力，若未满18岁应取得父母同意",
+                "公民生前表示不同意捐献其人体器官的，该公民死亡后，其配偶、成年子女、父母可以以书面形式共同表示同意捐献该公民人体器官的意愿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脑死亡标准取代传统的死亡标准，其直接的伦理意义和效果是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有利于社会文明",
+                " 有利于节约卫生资源",
+                " 有利于科学确定死亡，维护了人的生命和尊严",
+                " 有利于减轻家庭负担",
+                " 有利于器官移植"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "器官移植中，确定受者的首要原则是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 供者的意愿",
+                " 社会标准",
+                " 年龄标准 ",
+                " 医学标准",
+                " 支付能力"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下说法中不符合微观卫生资源分配原则的是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 根据社会地位分配卫生资源",
+                " 对微观卫生资源的分配，不仅要满足形式上的公正，更要体现内容上的公正",
+                " 在分配稀有卫生资源时，要首先根据医学标准，然后再根据社会价值原则进行分配",
+                " 坚持基本权利人人平等"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列表述不是进行活体器官移植时需遵循的伦理准则是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 风险与收益成比例,得大于失",
+                " 在技术上保证供者健康",
+                " 供者自愿",
+                " 供者不能残废或丧生",
+                " 保证受者不能丧生"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 临床医学科研的创造性要体现道德价值，必须符合的条件中不包括： \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 风险较小",
+                " 方法科学",
+                " 以上都不是",
+                " 途径简便  ",
+                " 目的端正"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在人体实验中，医务人员应遵循的道德原则不包括： \t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 以大量、充分、可靠的动物实验为基础",
+                " 以受试者知情同意为前提",
+                " 以维护和增进人类的健康为目的",
+                " 必须经有关部门或伦理委员会批准才能启动",
+                " 实验中未给受试者带来危害的情况下，受试者不能退出实验"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "基因诊断及治疗的伦理原则应除去：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 有益于患者的原则",
+                " 尊重患者的原则",
+                " 创新至上的原则",
+                " 保守秘密的原则",
+                "知情同意的原则"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在临床医学研究中，对待受试者的正确做法是：\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对受试者的负担和利益要公平分配",
+                " 需要特别关照参加试验的重点人群的利益",
+                " 对受试者的利益要放在首要位置考虑",
+                "对参加试验的弱势人群的权益可以不必太考虑",
+                " 对受试者的负担不可以过分强调"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

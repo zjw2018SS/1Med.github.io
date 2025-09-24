@@ -1,0 +1,506 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "诊断期末实验考试",
+        "filename": "诊断期末实验考试",
+        "type_all_num": 15,
+        "dev": {
+            "wrap_num": 15,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_2_num": 15,
+        "time": "24年12月09日01小时29分02秒",
+        "id": "id-m4fvohbw-vhvaxwgnw"
+    },
+    "body": [
+        {
+            "questions": [
+                " 对骨髓穿刺术,正确的操作有:( )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 以穿刺点为中心进行局部消毒,消毒范围宜大。",
+                " 抽吸骨髓液不宜过多,以少于0.2ml 为宜。",
+                " 操作者用右手持穿刺针与穿刺部位呈垂直角度缓缓钻刺而入,达骨髓腔时可有空脱感。",
+                " 局麻时皮肤表面和骨膜推注量应多,皮下脂肪组织不推注或推注量应少。",
+                " 穿刺时需先固定穿刺针的长度。"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 完全性右束支传导阻滞的心电图特征有(? )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " QRS时间≥O.12秒",
+                " V5、V6 导联S波宽大",
+                " 继发性ST-T改变",
+                " 室上性激动",
+                " v1、v2导联呈现rSR’型"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 白细胞计数的实验课中说法正确的是："
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 嗜碱性粒细胞含蓝黑色颗粒,大小不等,分布不匀",
+                " 分类计数时不可只在某一局部,而应按规定方向推动血涂片来进行观察,因胞体较大的白细胞如嗜酸性粒细胞、单核细胞、中性粒细胞于涂片的涂片中心地带多见。而胞体较小的如淋巴细胞则以玻片上下边缘处为多。",
+                "",
+                " 染色时间的长短,视染液性能而定,以低倍镜观察其染色良好为度",
+                " 分类时要用油浸镜观察,以便同时观察白细胞有无形态学改变及红细胞有无形态变化"
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 窦性心律的心电图特征包括(? )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " Ⅱ导联P波直立",
+                " AVR导联P波倒置",
+                " P波频率60~100次/min",
+                " P-R间期≥O12秒",
+                " P波规律性出现"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 胸膜腔穿刺应准备的器械有:( )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 缝合针",
+                " 棉签、局麻药",
+                " 络合碘、胶布 ",
+                " 胸穿包、装物盆",
+                " 无菌手套、血压计"
+            ],
+            "answers": [
+                "BCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 下述腰椎穿刺的那项表述是正确的?"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 腰椎穿刺可用于诊断和治疗",
+                " 颅内压增高症病人腰穿应慎重",
+                " 腰穿可用于后颅窝肿瘤的诊断",
+                " 颅内压增高患者不宜做压颈试验",
+                " 穿刺局部感染或腰椎结核时禁忌"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 疑右心室病变应加做哪些导联(? )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " V8",
+                " V5R",
+                " V4R",
+                " V7",
+                " V3R"
+            ],
+            "answers": [
+                "BCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 三度房室传导阻滞的心电图特点是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " P波频率大于QRS波群频率",
+                " P波与QRS波群无固定关系",
+                " QRS波群形态取决于心室起搏点位置的高低",
+                " P-R间期延长",
+                " P-R间期固定"
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 能引起脑脊液黄变的疾病有:( )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 蛛网膜下腔出血",
+                " 黄疸",
+                " 急性脊髓炎",
+                " 脊髓肿瘤",
+                " 多发性硬化"
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 白细胞计数实验中属于实验器材和试剂的有哪些？"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 一次性酒精棉片及消毒干棉球",
+                " 一次性20μl微量采血吸管",
+                " 计数板与盖玻片；",
+                " 0.5ml刻度吸管",
+                " 白细胞稀释液"
+            ],
+            "answers": [
+                "ABCE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 右胸导联高大R波可见于(? )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 后壁心肌梗死",
+                " 右心室肥大",
+                " 右束支传导阻滞",
+                " 左侧旁路预激综合征",
+                " 急性心包炎"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 白细胞分类计数实验中，显微镜下看到的下图中，很可能属于异常外周血象的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " ",
+                "",
+                " ",
+                "",
+                " ",
+                "",
+                " ",
+                "",
+                " ",
+                ""
+            ],
+            "answers": [
+                "ACDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 左心房肥大的心电图表现有"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " P波时间>O11秒",
+                " -P波电压>025mV",
+                " p波峰距>O04秒",
+                " P波形态高尖",
+                " v1Ptf<-O04mms"
+            ],
+            "answers": [
+                "ACE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 腹腔穿刺术可以采取的体位是:( )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 半坐位;",
+                " 平卧位;",
+                " 俯卧位;",
+                " 侧卧位;",
+                " 坐位;"
+            ],
+            "answers": [
+                "ABDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "questions": [
+                " 正常的脑脊液是:( )"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                " 糖2.5-4.4mmol/L",
+                " 蛋白质0.15-0.45g/L",
+                " 无色透明液体",
+                " 白细胞数0-5*106/L",
+                " 氯化物120-130mmol/L"
+            ],
+            "answers": [
+                "ABCDE"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}

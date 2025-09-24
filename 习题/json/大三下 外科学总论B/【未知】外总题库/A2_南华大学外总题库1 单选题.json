@@ -1,0 +1,5315 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科总论B",
+        "source": "ZY",
+        "filename": "A2_南华大学外总题库1",
+        "type_all_num": 205,
+        "dev": {
+            "wrap_num": 205,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 205,
+        "time": "25年04月25日21小时12分34秒",
+        "id": "id-m9wta7yx-9ivftatwz"
+    },
+    "body": [
+        {
+            "questions": [
+                "一烧伤患者，体重 50kg，行暴露疗法后诉口渴，查体见：唇舌较干，皮肤弹性差，眼窝凹陷，则其当天需补给液体"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1500ml",
+                "2500ml",
+                "3000ml",
+                "4000ml",
+                "4500ml"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一肝癌患者，术中输血几毫升后，突然咳嗽，面色潮红，腹泻，疑发生了变态反应和过敏反应，其处理宜"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "立即减慢输血速度 + 肌肉注射异丙嗪",
+                "立即停止输血、半坐位、吸氧",
+                "四肢轮流扎止血带",
+                "停止输血 + 口服阿斯匹林",
+                "立刻中止输血并保持静脉输液畅通 + 抗过敏药物"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一患者，男，43 岁，因胃溃疡行胃大部切除术，术后切口血肿，但尚未化脓，则该病人的切口为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "I 类切口 / 丙级愈合",
+                "Ⅱ类切口 / 乙级愈合",
+                "Ⅱ类切口 / 丙级愈合",
+                "Ⅲ类切口 / 乙级愈合",
+                "Ⅲ类切口 / 丙级愈合"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一民工在工地干活，踩到一生锈铁钉，刺破右足，来院就诊。见伤口血已自止，边缘略肿胀，伤处及周围泥土等污物，宜进行的处理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "清洁去污并清理伤口，行一期缝合",
+                "注射破伤风抗毒素",
+                "选用抗生素",
+                "减少活动、抬高患肢",
+                "以上各项均正确"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一小儿，8 岁，因倒开水时不慎摔倒，双上肢被烧伤，创面渗出明显，创底肿胀发红，摸之温度较高，有疼痛，则对该病人烧伤面积和深度的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "9%, I°烧伤",
+                "10%, 深Ⅱ°烧伤",
+                "10%, 浅Ⅱ°烧伤",
+                "18%, 浅Ⅱ°烧伤",
+                "18%, 深Ⅱ°烧伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一成年男子，在锅炉爆炸中被烧伤，被烧伤部位有面部、颈部、双手、双前臂、双足及双小腿，则该病人烧伤面积为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "24%",
+                "30%",
+                "40%",
+                "37%",
+                "47%"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "女，65 岁，背部有一 4×3cm 大小肿块，质软，呈分叶状，边界不太清楚，活动度较小，无压痛，表面皮肤无红肿，未见静脉扩张，最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "皮肤癌",
+                "平滑肌瘤",
+                "神经纤维瘤",
+                "皮脂腺囊肿",
+                "脂肪瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾调节酸碱平衡的机制不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Na⁺-H⁺交换",
+                "K⁺-H⁺交换",
+                "HCO₃⁻重吸收",
+                "产生 NH₃并与 H⁺结合成 NH₄⁺排出",
+                "尿的酸化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "婴幼儿皮肤消毒不能用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2% 碘酊",
+                "络合碘",
+                "0.1% 新洁尔灭",
+                "0.1% 氯已定",
+                "以上都不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于冷沉淀，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是 FP 在 4℃融解时不融的沉淀物",
+                "含纤维蛋白原",
+                "含 FVIII",
+                "含血管性假血友病因子",
+                "主要用于血友病甲、先天或获得性纤维蛋白缺乏症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于输血发生过敏反应，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多发生在输血数分钟后",
+                "表现为皮肤局限性或全身性瘙痒或荨麻疹",
+                "重者可出现支气管痉挛、血管神经性水肿、会厌水肿",
+                "当病人表现为皮肤局限性瘙痒或荨麻疹时，应立即停止输血",
+                "合并呼吸困难者应立即气管切开，以防窒息"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项与烧伤休克期无关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口渴烦躁",
+                "手足湿冷",
+                "高热谵妄",
+                "尿少，并可有血红蛋白尿",
+                "心率增快"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "无菌术的内容不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "灭菌",
+                "消毒法",
+                "抗菌药的应用",
+                "操作规则",
+                "管理制度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "止血带缚扎的部位不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大腿中 1/3",
+                "大腿下 1/3",
+                "上臂上 1/3",
+                "上臂中 1/3",
+                "上臂下 1/3"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "术前访视病人除哪项外均应着重了解"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婚姻史",
+                "过去史",
+                "既往麻醉史",
+                "治疗用药史",
+                "既往手术史"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于急性肾衰竭描述不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心脏收缩功能不良以及肾血管病变可引起少尿",
+                "梗阻时间过久可引起肾性急性肾衰竭",
+                "急性肾小管坏死是肾实质性损害的主要形式",
+                "大部分急性肾衰竭与创伤及手术相关",
+                "当平均动脉压下降至 60mmHg，GFR 开始下降"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于输血发生发热反应，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是最常见的早期输血并发症之一",
+                "多发生在输血开始后 15 分钟 - 2 小时内",
+                "症状持续 30 分钟 - 2 小时后逐渐缓解",
+                "全身麻醉时很少出现",
+                "血压多升高"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于 MODS 以下哪个是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "凡有两个或两个以上的重要器官功能衰竭即是 MODS",
+                "肝脏损害往往是首发器官",
+                "全身性炎症反应 (SIRS) 只表现在感染而与损伤无关",
+                "肠道细菌 / 内毒素移位可触发 (SIRS)，但不会导致 MODS",
+                "以上都是错的"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于 MODS 以下叙述哪个是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "当病人出现创伤、休克、严重脓毒症时，应警惕有可能并发 MODS",
+                "对病人的救治必须有整体观念",
+                "急性创伤时，只要出现呼吸困难，就可以诊断为 ARDS",
+                "病因治疗是防治 MODS 的首要措施",
+                "防治感染是预防 MODS 极为重要的措施"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种吸入麻醉药可引起痉挛性脑电图改变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "安氟醚",
+                "异氟醚",
+                "氟烷",
+                "七氟醚",
+                "地氟醚"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种吸入麻醉后禁忌与肾上腺素配伍"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "安氟醚",
+                "异氟醚",
+                "氟烷",
+                "七氟醚",
+                "地氟醚"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "硫喷妥钠的叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "属于苯二氮卓类药物",
+                "起效快，维持时间短",
+                "具有抗惊厥作用",
+                "对循环有明显抑制作用",
+                "能抑制交感神经使迷走神经作用相对增强"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关硫喷妥钠的临床应用下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全麻诱导",
+                "麻醉维持",
+                "短小手术",
+                "控制惊厥",
+                "小儿基础麻醉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关硫喷妥钠的作用特点下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "降低颅内压",
+                "直接抑制心脏扩张血管",
+                "扩张支气管",
+                "高脂溶性，具有再分布特点",
+                "使喉头敏感性增强"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是氯胺酮的作用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "降低颅内压",
+                "升高血压",
+                "增加眼内压",
+                "心率增快",
+                "唾液分泌增加"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物可出现精神症状"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫喷妥钠",
+                "氯胺酮",
+                "依托咪酯",
+                "羟丁酸钠",
+                "普鲁泊福（异丙酚）"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物作为麻醉诱导时对循环影响最小"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫喷妥钠",
+                "氯胺酮",
+                "依托咪酯",
+                "羟丁酸钠",
+                "普鲁泊福（异丙酚）"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是氯胺酮麻醉的特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起效快，维持时间短",
+                "镇痛作用强，镇静作用相对弱",
+                "兴奋交感神经",
+                "使用途径只适于深部肌内注射",
+                "可扩张支气管"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关依托咪酯的叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可降低颅内压",
+                "可降低脑代谢",
+                "对血压和心排出量影响小",
+                "可产生注射后疼痛",
+                "作为麻醉维持用药"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物可抑制肾上腺皮质功能"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普鲁泊福（异丙酚）",
+                "氧化亚氮",
+                "硫喷妥钠",
+                "依托咪酯",
+                "安氟醚"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物的镇痛效能最强"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫喷妥钠",
+                "氯胺酮",
+                "依托咪酯",
+                "羟丁酸钠",
+                "普鲁泊福（异丙酚）"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物最适合于门诊手术"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫喷妥钠",
+                "氯胺酮",
+                "依托咪酯",
+                "羟丁酸钠",
+                "普鲁泊福（异丙酚）"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某冠心病患者择期手术麻醉诱导药物宜选择"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫喷妥钠",
+                "氯胺酮",
+                "依托咪酯",
+                "羟丁酸钠",
+                "普鲁泊福"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种不是琥珀胆碱的副作用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心动过缓",
+                "血钾升高",
+                "血压升高",
+                "术后肌疼",
+                "眼压升高"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "严重创伤病人不宜使用下列哪种肌松药物"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "琥珀胆碱",
+                "泮库溴铵",
+                "维库溴铵",
+                "筒箭毒碱",
+                "阿曲库铵"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "经过霍夫曼（Hofmann）消除的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "琥珀胆碱",
+                "泮库溴铵",
+                "维库溴钠",
+                "筒箭毒碱",
+                "阿曲库胺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不能经抗胆碱酯酶药拮抗的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "琥珀胆碱",
+                "泮库溴铵",
+                "维库溴铵",
+                "筒箭毒碱",
+                "阿曲库胺"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种是去极化肌肉松弛剂"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "琥珀胆碱",
+                "泮库溴铵",
+                "维库溴铵",
+                "筒箭毒碱",
+                "阿曲库胺"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "使用肌肉松弛剂时应注意，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保持呼吸道通畅应行气管插管控制呼吸",
+                "肌松药可单独应用于手术病人",
+                "琥珀胆碱有升高血钾、眼压和颅内压作用",
+                "重症肌无力患者对肌松药异常敏感",
+                "部分肌松药有阻胺释放作用"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况是去极化肌松药的禁忌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "严重创伤",
+                "大面积烧伤",
+                "高位截瘫",
+                "青光眼",
+                "以上都是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某严重创伤病人使用琥珀胆碱后发生心跳骤停最可能的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低血压",
+                "高钾",
+                "低钠",
+                "酸中毒",
+                "颅内压升高"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "循环紧闭式呼吸环路系统特点，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "便于病人的呼吸管理，可行辅助呼吸和控制呼吸",
+                "呼出气体中麻醉药可再利用",
+                "不能保持吸入气体的温度和湿度接近生理状态",
+                "结构复杂，呼吸道阻力大",
+                "呼吸环路中必须设有 CO₂ 吸收器"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "气管插管适应症哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在全身麻醉时对难以保证病人呼吸道通畅者",
+                "全麻药对呼吸有明显抑制或应用肌松药者",
+                "呼吸衰竭需要呼吸支持治疗者",
+                "急救复苏者",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是全身麻醉并发症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局麻药中毒",
+                "反流误吸",
+                "通气量不足",
+                "缺氧和二氧化碳蓄积",
+                "呼吸道梗阻"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "目前复合全身麻醉判断麻醉深浅最常用的指标是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "诱发电位",
+                "瞳孔",
+                "呼吸",
+                "血压心率",
+                "血药浓度"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某病人全麻行剖腹探查术，切皮时病人血压升高，心率增快其最可能的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原有高血压",
+                "麻醉偏浅",
+                "CO₂ 蓄积早期",
+                "氯胺酮副作用",
+                "神经反射"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "气管插管即时并发症，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心血管反应",
+                "软组织损伤",
+                "误入食道",
+                "插入一侧支气管",
+                "氧中毒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某病人全身麻醉恢复期拔除气管插管后呼吸有鼾声可明确诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "喉痉挛",
+                "咽喉部呼吸道分泌物聚集",
+                "舌后坠",
+                "下呼吸道梗阻",
+                "杓状软骨脱位"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "全身麻醉中病人常可发生高血压其常见原因下列哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "麻醉偏浅",
+                "CO₂ 蓄积早期",
+                "病人并存疾病",
+                "部分麻醉药的不良反应",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是引起局麻药中毒的原因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前有高血压",
+                "一次用量超过最大剂量",
+                "误注入血管",
+                "作用部位血运丰富未减量",
+                "病人低蛋白血症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是预防局麻药中毒的措施"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上氧",
+                "局麻药皮试",
+                "术前使用阿托品",
+                "术前使用镇静药",
+                "局麻药复合应用"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是预防局麻药中毒的措施"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前使用镇静药",
+                "上氧",
+                "局麻药内加适量肾上腺素",
+                "术前提高患者血浆蛋白浓度",
+                "局麻药剂量个体化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种局麻药剂量是 50kg 体重病人局部麻醉时一次最大量"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "利多卡因 150mg",
+                "普鲁卡因 800mg",
+                "利多卡因 350mg",
+                "布比卡因 100mg",
+                "丁卡因 100mg"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物适合于做表面麻醉剂"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普鲁卡因",
+                "罗哌卡因",
+                "利多卡因",
+                "布比卡因",
+                "匹罗卡因"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关局麻药中毒的预防下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一次用量不超过最大剂量",
+                "注药前先回抽无血再注药",
+                "根据病人的具体情况或用药部位酌情减量",
+                "术前使用适当的镇静催眠药",
+                "趾指末梢血管粘膜处药液内加入少量肾上腺素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "麻药的全身效应以哪个系统最敏感"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心血管系统",
+                "中枢神经系统",
+                "呼吸系统",
+                "泌尿系统",
+                "消化系统"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对轻度局麻药中毒的病人下列措施哪项不恰当"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "立即停止使用局麻药",
+                "静脉使用阿托品",
+                "静脉使用苯二氮卓类药物",
+                "上氧",
+                "保持呼吸道通畅"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "局部麻醉药吸收的影响因素下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "药物剂量",
+                "作用部位",
+                "局麻药性能",
+                "血管收缩药使用",
+                "术前用药"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物中毒时对心脏的毒性最大"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "罗哌卡因",
+                "利多卡因",
+                "丁卡因",
+                "普鲁卡因",
+                "布比卡因"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种局麻药物的效能最低"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "罗哌卡因",
+                "利多卡因",
+                "丁卡因",
+                "普鲁卡因",
+                "布比卡因"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物有运动感觉分离作用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "罗哌卡因",
+                "利多卡因",
+                "丁卡因",
+                "普鲁卡因",
+                "布比卡因"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某患者椎管内麻醉时给予 2% 利多卡因 2ml（含 1:20 万肾上腺素）后立即感心悸，烦躁不安，其诊断最有可能的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾上腺素反应",
+                "局麻药毒性反应",
+                "过敏反应",
+                "全脊麻",
+                "以上都不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某 50kg 病人拟行面部手术，用 1% 利多卡因局部浸润麻醉 35ml 后，病人烦躁恐惧，面部肌肉抽搐，请分析最可能的诊断是什么"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局麻药的不良反应",
+                "局麻药中毒反应",
+                "过敏反应",
+                "高敏反应",
+                "肾上腺素反应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某 50kg 病人拟行面部手术，用 1% 利多卡因局部浸润麻醉 35ml 后，病人烦躁恐惧，面部肌肉抽搐，请分析出现这些反应最可能的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "面部血运丰富没减量",
+                "没有使用肾上腺素",
+                "超过一次最大剂量",
+                "直接注入血管",
+                "病人低蛋白血症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个部位施行局部麻醉时麻醉药可加肾上腺素"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血压病人椎管内麻醉",
+                "疝气修补，局部浸润麻醉",
+                "阴茎神经阻滞",
+                "指间神经阻滞",
+                "气管内粘膜麻醉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "局麻药内加肾上腺素的主要目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增强麻醉药的效能",
+                "加快药物的吸收代谢",
+                "预防过敏反应",
+                "局部血管收缩，延缓药物吸收",
+                "对抗局麻药的副作用"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "椎管内麻醉对生理的影响下列叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻断阻滞区域交感神经使动脉舒张、静脉扩张，使心血量减少",
+                "低血压的发生率与麻醉平面有关",
+                "高平面麻醉可使心率减慢",
+                "休克病人宜选用椎管内麻醉",
+                "高血压病人不是椎管内麻醉的禁忌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关腰麻下列叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "穿刺部位在脊髓终止以下部位",
+                "小儿脊髓终止位置较低，新生儿在 L3 下缘",
+                "成人脊髓终止在 L1 椎体下缘或 L2 椎体上缘",
+                "成人穿刺位置可在 L2—L3 以下",
+                "L3—L4 穿刺可避免损伤脊髓和马尾"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关腰麻特点哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起效快",
+                "作用时间相对稳定",
+                "阻滞平面有上界和下界",
+                "适用于下腹部以下部位的手术",
+                "药物比重和体位对平面调节有很大作用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关腰麻适宜症下列哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上腹部手术",
+                "下肢 2-3 小时以内手术",
+                "下腹部以下冗长的手术",
+                "脊椎畸形的下肢手术",
+                "不合作患者的下肢短小手术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关腰麻并发症下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿潴留",
+                "头痛",
+                "马尾神经损伤",
+                "感染",
+                "全脊麻"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是腰麻禁忌症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中枢神经系统疾患",
+                "休克",
+                "剖宫产",
+                "败血症",
+                "急性心衰"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关腰麻后头疼的机制与处理的叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰麻后头痛属低压性头痛",
+                "腰麻后应去枕平卧 6 小时",
+                "腰麻后头痛一般发生在术后第一次抬头时开始",
+                "积极输入 10% 葡萄糖是治疗的方法之一",
+                "对症治疗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "硬脊膜外麻醉平面的调节的主要因素下列哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局麻药容积",
+                "穿刺间隙",
+                "导管方向",
+                "注药方式",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "硬膜外麻醉时使用试验剂量的主要目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "判断是否有过敏",
+                "判断病人对局麻药的耐受情况",
+                "判断药物是在硬膜外还是在蛛网膜下腔",
+                "判断是否误入血管",
+                "判断硬膜外腔用药量"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "预防硬脊膜外腔麻醉时发生全脊椎麻醉最有效的措施"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "穿刺顺利",
+                "未见异常液体外滴",
+                "回抽无脑脊液",
+                "预防性给予麻黄素",
+                "正确使用试验剂量"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "连续硬脊膜外麻醉的特点，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "适应范围比腰麻广",
+                "不受手术时间限制",
+                "血压下降比腰麻晚",
+                "用药量是腰麻的 3-5 倍",
+                "也易发生麻醉后头痛"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况不是硬脊膜外腔麻醉的禁忌症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "穿刺点皮肤感染",
+                "凝血机制障碍",
+                "休克",
+                "脊柱结核或严重畸形",
+                "高血压 I 期"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是连续硬膜外麻醉的适应症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸壁浅表手术",
+                "剖胸手术",
+                "上腹部手术",
+                "下腹部手术",
+                "腰部手术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关连续硬脊膜外麻醉术中并发症下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全脊椎麻醉",
+                "局麻药中毒反应",
+                "血压下降",
+                "恶心呕吐",
+                "神经损伤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关连续硬脊膜外麻醉的术后并发症下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经损伤",
+                "硬膜外血肿",
+                "硬膜外脓肿",
+                "脊髓前动脉综合症",
+                "延迟性呼吸抑制"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某患者在硬膜外麻醉下行子宫全切术，手术开始前测有麻醉平面，术中切皮时效果不满意，30 分钟内反复硬膜外腔注射 1% 利多卡因，0.2% 地卡因复合液 20ml, 2% 利多卡因 10ml, 病人开始诉伤口痛，逐渐转为神态淡薄，然后呼之不应，心跳骤停其最可能原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低血压",
+                "全脊椎麻醉",
+                "局麻药中毒",
+                "药物对心肌抑制",
+                "牵拉反射"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某 60 岁患者在硬膜外麻醉下行下腰部手术，硬膜外置管后即给予 1% 利多卡因，0.2% 地卡因混合液（含肾）8ml, 数分钟病人发生心跳呼吸骤停，最可能原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全脊椎麻醉",
+                "局麻药误入血管中毒反应",
+                "迷走反射",
+                "局麻药对心脏的毒性",
+                "心肌梗塞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某病人在表麻下行气管镜检查时发生呼吸困难，明显三凹征吸气有鸡鸣声，最可能的诊断是什么？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "舌后坠",
+                "喉痉挛",
+                "支气管痉挛",
+                "咽喉有分泌物",
+                "呼吸道有异物"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某病人在麻醉恢复期，发生支气管痉挛，最常用哪种药物？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "利多卡因",
+                "司可林",
+                "氨茶碱",
+                "异丙肾上腺素",
+                "地塞米松"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "支气管痉挛时心率加快，哪种药物禁用？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿托品",
+                "氨茶碱",
+                "氯胺酮",
+                "地塞米松",
+                "氨酰心胺"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肌间沟法神经阻滞，最常见阻滞不全的神经是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "挠神经",
+                "尺神经",
+                "正中神经",
+                "中正神经和尺神经",
+                "中正神经和桡神经"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腋路法行臂丛神经阻滞出现阻滞不全哪项多见"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "挠神经",
+                "尺神经",
+                "正中神经",
+                "中正神经和尺神经",
+                "中正神经和桡神经"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "星状神经节阻滞的标志是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "霍纳氏征",
+                "眼睑下垂",
+                "Bell 征",
+                "声嘶",
+                "瞳孔扩大"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "颈丛阻滞和星状神经节阻滞术病人偶尔出现声音嘶哑，最可能的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "喉返神经阻滞",
+                "喉上神经阻滞",
+                "舌咽神经阻滞",
+                "颈交感神经阻滞",
+                "膈神经阻滞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关控制性降压原则，下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保证组织、器官的血流灌注量，满足机体的需要",
+                "降压时间以满足手术需要为准",
+                "血压降低程度为基础血压的 30% 为标准",
+                "当平均压以下降低于 60mmHg, 可致脑供血不足",
+                "收缩压低于 80mmHg, 肾小球滤过率可能降低"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列控制性降压的方法哪项不正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜铬细胞瘤摘除术，宜用氟烷降压",
+                "氟烷、异氟醚、安氟醚通过加深麻醉而达到降压效果",
+                "控制性降压药物宜选用起效快，维持时间短，可控性好的药物",
+                "硝普钠主要通过松驰平滑肌，扩张血管，对心肌无直接抑制作用",
+                "硝酸甘油是常用的控制性降压的药物"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况不是控制性降压的禁忌症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心脏病",
+                "高血压病",
+                "脑供血不足及肝，肾功能障碍",
+                "酸碱平衡失调",
+                "肾上腺嗜铬细胞瘤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "臂丛阻滞麻醉并发症除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "气胸",
+                "局麻药中毒",
+                "神经损伤",
+                "膈神经阻滞",
+                "以上都不是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "颈丛神经阻滞并发症不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "气胸",
+                "局麻药中毒",
+                "星状神经节阻滞",
+                "喉返神经麻痹",
+                "膈神经麻痹"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某患者 30 岁，拟行甲状腺瘤切除术，行双侧颈浅丛神经阻滞用药为 0.375% 罗哌卡因 20ml，麻醉后 10 分钟病人出现声音嘶哑，最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "星状神经节阻滞",
+                "膈神经阻滞",
+                "喉返神经阻滞",
+                "局麻药过敏",
+                "局麻药中毒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于多器官功能不全综合征 (MODS) 以下哪个是错误的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "MODS 常指急性疾病过程中发生的两个或两个以上主要器官功能不全",
+                "其特点之一是急性",
+                "死亡率高",
+                "凡是两个或两个以上的主要器官功能不全就是 MODS",
+                "MODS 最好的治疗是预防"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于急性肾衰竭 (ARF) 以下哪个是正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾前性肾功能不全，尿比重通常小于 1.010",
+                "急性肾衰一定伴有少尿",
+                "血液滤过是治疗严重酸中毒的最佳方法",
+                "严重创伤并发 ARF 时要严格控制蛋白质摄入",
+                "以上都正确"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性肾衰竭时以下哪个是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "机体代谢产生的固定酸需通过肾排出体外，因此，ARF 经常会导致酸中毒",
+                "因磷排泄减少，导致钙吸收减少，出现低钙血症",
+                "病人易出现负氮平衡，因此，补氮量愈多愈好",
+                "血液透析的优点是能快速清除过多的水分、电解质和代谢产物",
+                "高血钾时见效最快的方法是静脉内注入钙离子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "ARF 少尿期治疗以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "限制水份，防治高血钾",
+                "血液滤过是治疗严重酸中毒的最佳方法",
+                "腹膜透析治疗适于所有的病人且效果最佳",
+                "严格控制感染",
+                "维持营养，补充适量热卡和蛋白质"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "ARF 病人出现高钾血症时其治疗以下哪项是不正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血钾超过 6.5 mmol/L 立即进行血液透析",
+                "10% 葡萄糖酸钙静脉推注",
+                "5% 碳酸氢钠 100 ml 静脉滴注",
+                "葡萄糖 - 胰岛素混合液静脉滴注",
+                "口服钠离子或钙离子交换树脂"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "治疗 ARF 以下哪项是不正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有效的治疗基于正确的诊断。不同原因所致 ARF 需要不同的治疗方法",
+                "对于肾前性 ARF，简单而有效的方法就是补充血容量",
+                "尿路梗阻患者必须解除梗阻",
+                "在对 ARF 的保守治疗中，纠正水电解质酸平衡紊乱十分重要",
+                "一旦确认急性肾衰竭，立即行血液透析治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "治疗急性呼吸窘迫综合征以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要支持呼吸的方法用呼吸机进行呼末正压通气",
+                "因正压在通气使回心血量减少，所以要大量快速输液",
+                "防治感染是重要措施",
+                "可选用改善肺循环的药物",
+                "纠正低氧的同时，应兼顾其它主要器官功能的支持治疗，防止 MODS"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关 ARDS 的诊断以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有诱发 ARDS 的基础病因，如严重创伤、脓毒症等",
+                "急性呼吸困难，节律频速",
+                "胸片示双肺有弥漫性浸润病灶",
+                "一般的氧疗其低氧难以纠正",
+                "动脉血气分析是正常的"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于 ARDS 以下哪种说法最正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有明显的呼吸困难",
+                "呼吸频率增快",
+                "有发绀征象，并有烦躁不安",
+                "是急性呼吸衰竭的一种类型",
+                "动脉血气检查异常"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心肺复苏成功与否的关键是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有气管插管",
+                "在医院",
+                "时间的早晚",
+                "是否给药",
+                "是否除颤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "最简单、快捷适于现场复苏的人工呼吸方法是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸机控制呼吸",
+                "徒手人工呼吸",
+                "面罩人工呼吸法",
+                "食道堵塞通气法",
+                "喉罩人工通气法"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "采用吹入呼气的人工呼吸法时，成人呼出气中氧含量在下列数值中哪个是正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5%",
+                "16%",
+                "20.9%",
+                "32%",
+                "47%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于心跳骤停的诊断，下列哪项是最正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病人桡动脉搏动摸不到",
+                "无自主呼吸",
+                "病人心音听不到，称为心搏停止",
+                "颈总动脉搏动消失",
+                "神志消失"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "常温下心脏停搏导致脑细胞不可逆损伤的脑细胞耐受缺血缺氧时间大约是多少分钟？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "8-10 分钟",
+                "4-6 分钟",
+                "10-20 分钟",
+                "4-5 秒钟",
+                "15-20 分钟"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有效的心脏按压，双手应放在病人的什么部位？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸骨的上段",
+                "胸骨上 2/3 与下 1/3 交接处",
+                "剑突",
+                "胸骨中、上 1/3 交界处",
+                "心前区"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心跳骤停，最迅速、重要的抢救措施是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口对口人工呼吸",
+                "拖起下颌",
+                "心前区除颤",
+                "胸外心脏按压",
+                "气管插管"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心肺复苏中处理室颤最有效的措施是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉注射肾上腺素",
+                "静脉注射利多卡因",
+                "同步电击除颤",
+                "非同步电击除颤",
+                "立即安装心脏起搏器"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "CPR 时，用于提高心、脑血流灌注的药物是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿托品",
+                "肾上腺素",
+                "去甲肾上腺素",
+                "氯化钙",
+                "利多卡因"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "低温在脑复苏中的应用以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CPR 时，头部应是重点降温",
+                "体温每降低 1℃可使代谢率下降 5%-6%",
+                "在降温过程中应防止寒战抽搐",
+                "复温应使体温缓慢回升",
+                "凡是心脏停搏者都必须降温"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关 CPR 以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑复苏的成功与否取决于早期有效的心肺复苏",
+                "脑缺血缺氧性损害主要是在脑再灌注后",
+                "脑再灌注后损伤的主要病理生理改变是脑水肿和颅内压升高",
+                "只要采取了脑复苏措施，病人就一定会苏醒",
+                "脱水、低温和肾上腺皮质激素是防治心停后急性脑水肿的主要措施"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于复苏后的治疗以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心肺复苏后应保持呼吸和循环功能良好和稳定",
+                "预防应激性溃疡",
+                "防治肾功能衰竭",
+                "对中枢神经系统功能加以判断和评估预后",
+                "为了不影响神志，病人寒战抽搐应禁止用镇静止惊药"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "电除颤在 CPR 时应用以下哪项是正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "室细颤、粗颤，电除颤效果都好",
+                "除颤是治疗室颤的唯一有效方法",
+                "除颤的电能愈大愈好，所以首次即用 360J",
+                "首次除颤未成功，紧接着反复除颤",
+                "交流电除颤优于直流电除颤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高钾引起的心脏骤停，钙剂是绝对适应症",
+                "异丙肾上腺素在 CPR 时是常规用药",
+                "心肺复苏过程中，应重视低血容量的纠正",
+                "CPR 时，最好以血气结果指导碱性药物的应用",
+                "反射性心脏骤停（如胆心反射），应立即静注阿托品"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关 CPR 以下哪项是正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病人突然神志消失应立即胸外心脏按压",
+                "对口人工呼吸效果优于简易呼吸囊辅助呼吸",
+                "判断病人是否心停应即刻行 ECG 监测",
+                "要具备开胸条件，应随时准备开胸心脏按压",
+                "以上都对"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "术前禁食的最主要目的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "避免术后腹胀",
+                "促进术后肛门排气",
+                "避免胃肠道膨胀影响手术",
+                "减少肠麻痹的发生",
+                "防止术中、术后误吸和呕吐"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "结肠手术术前准备哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前会阴部备皮",
+                "术前 1~2 天进流质饮食",
+                "术前清洁灌肠",
+                "术前 1～2 天静脉应用抗生素",
+                "术前插胃管"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况为择期手术？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲亢服碘 10 天",
+                "胆囊结石嵌顿",
+                "黄疸、胆总管结石并感染",
+                "胃癌",
+                "十二指肠溃疡"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况只作重点必要的准备即需紧急手术："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "被膜下脾破裂",
+                "阑尾炎穿孔脓肿形成",
+                "溃疡病空腹穿孔",
+                "绞窄性肠梗阻",
+                "疝修补术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况不需预防性应用抗生素？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结肠手术",
+                "胃癌根治术",
+                "慢性阑尾炎阑尾切除术",
+                "髂内动脉瘤手术",
+                "胰十二指肠切除术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有心脏合并症的患者手术耐受力的估计中，哪种最差？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "冠心病",
+                "急性心肌炎",
+                "高血压心脏病",
+                "风湿性心脏病",
+                "先心病室间隔缺损"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪类心脏病人的手术耐受力最好："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "先心病房间隔缺损",
+                "心力衰竭",
+                "冠心病多发室性早搏",
+                "Ⅲ度房室传导阻滞",
+                "急性心肌梗塞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于心脏病人术前准备以下哪项错误："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前纠正水、电失衡",
+                "纠正贫血",
+                "房颤伴心室率快者不必特殊处理",
+                "偶发室性早搏者不必特殊处理",
+                "冠心病心动过缓者应进行有效内科治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "呼吸功能障碍者的术前准备，下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前停止吸烟 2 周",
+                "对阻塞性肺功能不全者应给予支气管扩张剂",
+                "常发哮喘者，可口服地塞米松",
+                "麻醉前用药可按一般患者要求进行",
+                "有肺部感染者，需积极控制感染"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于呼吸功能障碍病人术前准备哪项错误："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可用蒸气吸入或口服药液使痰液稀薄，易于咳出",
+                "麻醉前给药要适量，以免抑制呼吸",
+                "急性呼吸道感染者，如系急症手术，可采用吸入麻醉",
+                "哮喘患者可用支气管扩张剂或激素",
+                "多练习深呼吸、咳嗽，增加肺活量，排出分泌物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "尚可耐受中型手术的轻度肺功能不全，其最大通气量是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "90%～100%",
+                "75%～90%",
+                "60%～70%",
+                "40%～60%",
+                "小于 40%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肺功能正常时氧分压 (kPa) 应为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5.5 以上",
+                "6.6 以上",
+                "7.5 以上",
+                "9.3 以上",
+                "15 以上"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肺功能正常者血氧饱和度 (%) 应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "100%",
+                "大于 90%",
+                "大于 80%",
+                "大于 70%",
+                "大于 60%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肺功能正常者二氧化碳分压 (PaCO₂: kPa) 应为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小于 5.2",
+                "小于 4.0",
+                "小于 6.4",
+                "小于 7.1",
+                "小于 8.5"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项属轻度肺功能不全："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氧分压：9.5 kPa",
+                "血氧饱和度：96%",
+                "二氧化碳分压：6.4 kPa",
+                "最大通气量 80%",
+                "最大通气量 85%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项属重度肺功能不全："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血氧饱和度：90%",
+                "氧分压：8.9 kPa",
+                "氧分压：9.4 kPa",
+                "二氧化碳分压：5.5 kPa",
+                "最大通气量：40%"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "长期应用皮质激素者需紧急手术，患者应作："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继续用药至应激期过后",
+                "停用激素",
+                "根据病情决定是否给予",
+                "减量给予",
+                "术前给，术后不需给"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下叙述哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "凡有肾病者术前均应进行肾功能检查",
+                "麻醉、手术不影响肾功能",
+                "术前准备要点是最大限度改善肾功能",
+                "肾功能损害越重，手术耐受力越差",
+                "重度损害者，需有效透析后才能实施手术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肾功能不全者需行胃癌根治术，术前准备下列哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肌苷、尿素氮必须在正常范围才能手术",
+                "避免使用对肾脏有损伤的药物",
+                "尽量避免使用血管收缩药",
+                "纠正水、电解质及酸碱失衡",
+                "补足血容量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "术前特殊准备中，下列哪项是不对的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血压患者血压为 158/95 mmHg，可不必特殊处理",
+                "偶发室性早搏者不需特殊准备",
+                "凡有肝病者，应增加肝糖原储备",
+                "6 个月内用皮质激素不超过 2~3 周者，可不必特殊准备",
+                "大手术前，血糖为 10 mmol/L，尿糖 (+)，可不必特殊准备"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于糖尿病人术前准备，以下哪项错误："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "糖尿病人手术耐受力差，术前应控制血糖",
+                "尿糖应为阴性",
+                "纠正酸中毒",
+                "有感染者使用抗生素控制感染",
+                "术中监测血糖"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物手术前应停止使用："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "类风湿病应用的皮质激素",
+                "冠心病应用的阿司匹林",
+                "糖尿病人应用的达美康",
+                "高血压病人应用的尼群地平",
+                "结肠手术前应用的抗生素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于术后病人的卧位，以下哪项错误："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全麻尚未清醒者，应平卧，头偏向一侧",
+                "颅脑手术采取头高脚低斜坡卧位",
+                "硬膜外腔麻醉者术后去枕平卧 12 小时防术后头痛",
+                "腹部手术采取低半坐卧位",
+                "臀部手术采取俯卧位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "术后尿潴留较多见于："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肛管直肠手术",
+                "胆囊切除术",
+                "胃大部分切除术",
+                "包皮环切术",
+                "斜疝修补术"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于非腹部手术术后进食时间的叙述哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一般体表或肢体的手术，全身反应轻者，术后即可进食",
+                "手术范围大，全身反应明显者，需 2~4 日后才可进食",
+                "局麻下施行小手术，术后即可进食",
+                "硬膜外麻醉者，术后 3 日方可进食",
+                "全麻者完全清醒，恶心呕吐消失后方可进食"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下叙述哪项错误："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝功能轻度损害者，不影响手术耐受力",
+                "肝功能损害越重，手术耐受力越差",
+                "急性肝炎病人不影响手术期限",
+                "肝功能明显受损者，多不宜施行手术",
+                "有明显营养不良、腹水者术前应经较长时间准备才可施行择期手术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腹部手术后，患者进食的一般标志是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "麻醉已苏醒，且麻醉反应小",
+                "患者要求进食",
+                "患者已下床活动",
+                "肛门已排气",
+                "可闻及肠鸣音"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "手术后并发症的原因，下列哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术中止血不完善是造成术后出血的原因",
+                "I、Ⅱ类切口感染的主要原因是未用抗生素",
+                "低蛋白血症是术后伤口裂开的主要原因之一",
+                "有急、慢性呼吸道感染者易发生肺不张",
+                "术后恶心呕吐的常见原因是麻醉反应"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "糖尿病人术前血糖以控制在哪一水平较适宜"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5.6～11.2 mmol/L",
+                "4.5～6 mmol/L",
+                "11.4～12.5 mmol/L",
+                "12～15 mmol/L",
+                "15～20 mmol/L"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，40 岁，有肝炎病史，需行胆囊切除术。肝功能 SGPT 38u，总蛋白 65g/L，白蛋白 37g/L，血胆红素 15μmol/L，1 分钟胆红素 6.8μmol/L，下列哪项错误："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "此患者不必特殊处理，可行手术",
+                "可给维生素 B、维生素 C、维生素 K 等",
+                "术前可给激化液",
+                "可增加肝糖原储备",
+                "此患者的手术耐受力不良"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者男，58 岁，胃癌根治术后，恢复普通饮食，一般应在术后第几天："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术后第 1 天",
+                "术后 2~3 天",
+                "术后 4~5 天",
+                "术后 6~7 外",
+                "术后 7~9 天"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "女，35 岁，双侧甲状腺囊肿，拟在颈丛麻醉下行甲状腺次全切除术，术后如发生并发症，哪项可能性大："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸困难",
+                "伤口裂开",
+                "伤口感染",
+                "肺不张",
+                "腹胀"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "女，27 岁，右侧甲状腺瘤在颈浅丛麻醉下行甲状腺瘤摘除术，术后饮食时间应为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术后 1~2 天",
+                "术后 3~4 天",
+                "肛门排气后",
+                "术后即可进食",
+                "术后 5~6 天"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脾破裂患者行脾切除术后伤口愈合良好，无瘢痕，该切口分类及愈合记录为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Ⅲ/甲",
+                "I/甲",
+                "Ⅱ/甲",
+                "I/乙",
+                "Ⅱ/丙"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脾破裂患者行脾切除术后伤口裂开，再次缝合后瘢痕愈合，该类切口分类及愈合记录为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "I/甲",
+                "Ⅱ/甲",
+                "Ⅱ/乙",
+                "I/乙",
+                "Ⅱ/丙"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝破裂患者术后 4 天高热 39.8℃，切口局部红肿，应采取的措施为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加大抗生素剂量",
+                "理疗",
+                "退热处理",
+                "拆除缝线引流",
+                "继续观察伤口变化"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "手术后试行离床活动的时间是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术后 1~2 天",
+                "术后 2~3 天",
+                "术后 3~4 天",
+                "术后第 4~5 天",
+                "术后第 5~6 天"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种属急症手术："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃癌根治术",
+                "胃十二指肠溃疡的胃大部切除术",
+                "腹股沟疝修补术",
+                "甲状腺次全切除术",
+                "气管异物呼吸困难"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "当前的营养支持方式有："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠内营养",
+                "肠外营养",
+                "肠外营养及肠内营养",
+                "混合营养"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "从营养治疗角度，最重要的方面是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪代谢",
+                "蛋白质代谢",
+                "蛋白质代谢及能量代谢",
+                "糖代谢"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实际静息能量消耗为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "基础能量消耗的 10%",
+                "基础能量消耗加 10%",
+                "基础能量消耗扣去 10%",
+                "即代谢仪测得的基础能量消耗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下述属于肠内营养适应症的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小肠广泛切除后",
+                "短肠综合征",
+                "小于 3 个月的婴儿",
+                "上消化道出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "体重 60 公斤，血钠值为 120 mol/L，肠外营养支持应补充：[补钠量 = (正常血钠值 140 - 实际血钠值) × 20% × 重 / 17]"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "12 g 氯化钠",
+                "14 g 氯化钠",
+                "13 g 氯化钠",
+                "16 g 氯化钠"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "低镁血症的重要表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经肌肉应激性增加",
+                "胃肠道反应",
+                "反应迟钝",
+                "嗜睡"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下述不是肠外营养适应症的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大面积烧伤",
+                "急性坏死性胰腺炎",
+                "消化道瘘",
+                "长期饥饿病人"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肠外营养的输入途径，错误的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "周围静脉",
+                "中心静脉导管",
+                "周围静脉与中心静脉同时采用",
+                "肌肉注射"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不属于低磷血症的病因的有："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "甲旁亢",
+                "严重烧伤或感染",
+                "大量葡萄糖及胰岛素的输注",
+                "急性肾衰"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肠外营养时微量元素缺乏最多见的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "锌",
+                "铜",
+                "铬",
+                "不一定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肠外营养的感染性并发症主要是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺部感染",
+                "肠道菌群失调",
+                "导管性脓毒症",
+                "皮肤感染"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肠内营养时出现腹泻，最可能的原因："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "溶液浓度高",
+                "输注太快",
+                "总量太大",
+                "肠道感染"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "糖代谢紊乱的并发症不包括："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血糖",
+                "低血糖",
+                "脂肪肝",
+                "胆泥淤积"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "病人肠外营养 10 天后出现皮肤干燥、脱发、伤口愈合缓慢，应考虑："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "液体补充不足",
+                "脂肪酸缺乏",
+                "微量元素缺乏",
+                "水电解质紊乱"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                " 小肠粘膜的主要能源物质是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "谷氨酰胺",
+                "精氨酸",
+                "葡萄糖",
+                "生长激素"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "不属于营养评定的重要指标的蛋白是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血清清蛋白",
+                "转铁蛋白",
+                "前白蛋白",
+                "脂蛋白"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "长时饥饿时机体的主要能源是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛋白分解",
+                "糖酵解",
+                "脂肪分解",
+                "糖异生"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肠外营养的氮源是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "复方氨基酸溶液",
+                "机体蛋白质的分解",
+                "内分泌调节减少消耗",
+                "其他"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "实施肠内营养，临床上最常用的途径是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "空肠造瘘管",
+                "鼻胃管",
+                "鼻十二指肠管",
+                "胃造瘘管"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "临床实践证明，有效及合理的用药静脉滴注在："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前 2 小时",
+                "术前 2 天",
+                "术前 1 小时或麻醉开始时",
+                "手术结束时"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "气性坏疽应用抗生素首选："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红霉素",
+                "氨基糖苷类",
+                "青霉素",
+                "甲硝唑"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "破伤风的最初症状是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "角弓反张",
+                "四肢抽搐",
+                "张口困难",
+                "呼吸急促"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "联合应用抗生素的目的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "避免切开引流",
+                "弥补手术操作的不足",
+                "预防术后切口感染",
+                "主要是控制混合感染"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "疖是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一个毛囊及其附属皮脂腺的急性化脓性感染",
+                "多个相邻毛囊及其皮脂腺或汗腺急性化脓性感染",
+                "是单个毛囊及其周围组织的急性化脓性感染",
+                "毛囊及其附属腺急性化脓性并有全身性症状者"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "真菌性脓毒症的常见致病菌为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白色念珠菌",
+                "曲霉菌",
+                "新型隐球菌",
+                "表皮葡萄球菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列不是脓毒症的表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "寒战高热或低温",
+                "头痛呕吐、出冷汗",
+                "脉搏细速、呼吸急促",
+                "细菌培养均可发现病原菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "创伤后并发气性坏疽的时间为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伤后 1～4 天",
+                "伤后 1 周",
+                "伤后 2 小时",
+                "12～24 小时"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "气性坏疽无下述表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "烦躁、唇白、出汗",
+                "脉搏细速、体温升高",
+                "呼吸深快",
+                "黄疸及血红蛋白尿"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抗菌药的最佳疗效在："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染的潜伏期",
+                "感染早期",
+                "感染的头 24 小时",
+                "感染的稳定期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "脓液有甜腥味，细菌可能为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "链球菌",
+                "葡萄球菌",
+                "绿脓杆菌",
+                "大肠杆菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脓液有粪臭味，细菌可能为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "念珠菌",
+                "厌氧菌",
+                "葡萄球菌",
+                "克氏孢子菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "变形杆菌感染，首选："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "青霉素",
+                "庆大霉素",
+                "万古霉素",
+                "甲硝唑"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某患者检查时，右腿有一 5 cm 的伤口，深浅不清，皮下有捻发音，应考虑："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "厌氧性链球菌感染",
+                "大肠杆菌感染",
+                "气性坏疽",
+                "组织自动积气"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "破伤风的病人，用冬眠 1 号合剂静脉缓慢滴入，目的在于："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "降温",
+                "让病人休息，使体力恢复",
+                "通过镇静、解痉，减少痉挛和痛苦",
+                "防止呼吸抑制"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于破伤风，下列错误的说法是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "破伤风诊断主要靠临床表现",
+                "需与化脓性脑膜炎、狂犬病、癔病等鉴别",
+                "脑脊液检查可发现典型的革兰氏阳性菌",
+                "伤口厌氧菌培养很难发现该菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不属于全身性外科感染的原因的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "致病菌数量多",
+                "毒力强",
+                "机体抗感染能力低下",
+                "细菌的种类"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脓性指头炎剧烈疼痛、肿胀、全身畏寒、发热、乏力，需做的处理是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "红外线理疗",
+                "金黄散外敷",
+                "切开引流",
+                "加强抗感染"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "指头炎作切开引流的切口："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在末节指侧面作纵切口",
+                "根据有波动点选择切口",
+                "常规对穿引流",
+                "在指腹作纵切口，近端不超过指节横纹"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "化脓性腱鞘炎切开引流时，切口应："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纵行切开手指侧面",
+                "沿指掌面中线切开",
+                "指掌面中线旁开约 0.2 cm",
+                "纵行切开中、近两指节侧面"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某村民柴刀砍伤左腿，8 小时后送医院急诊，检查左大腿有 5 cm 长的伤口，尚整齐，内粘较多泥土，宜处："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "冲洗消毒后缝合",
+                "清创后一期缝合",
+                "清创后延期缝合",
+                "清创后不予缝合",
+                "伤口换药"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某工地塌方，对重伤病员的处理首先是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗休克",
+                "骨折固定",
+                "治疗窒息",
+                "镇静止痛",
+                "止血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "成年女性的双足被烫伤，烧伤面积为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5%",
+                "6%",
+                "7%",
+                "3%",
+                "3.5%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某成年人面部、双手被烫伤，烧伤面积为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5%",
+                "3%",
+                "9%",
+                "7%",
+                "8%"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某成年人左面部、左侧手和前臂被烧伤，烧伤面积为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "8.5%",
+                "14%",
+                "7%",
+                "10%",
+                "8%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某成年人腰部以下坠入石灰水池被烫伤，烧伤面积约："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "50%",
+                "40%",
+                "60%",
+                "30%",
+                "70%"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                " 小腿部骨髓炎后残余窦道，多年不愈，边缘隆起，易出血，为明确诊断最好采用："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切除活检",
+                "穿刺活检",
+                "脱落细胞学检查",
+                "切取活检",
+                "以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当机体在各种致病因素作用下，下列哪一条是肿瘤正确的概念："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组织细胞增生所形成的肿块",
+                "组织发育异常",
+                "器官发育不全",
+                "组织细胞增生与异常分化所形成的新生物",
+                "器官组织细胞增生形成的新生物"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

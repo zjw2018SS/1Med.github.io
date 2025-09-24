@@ -1,0 +1,595 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "汇总",
+        "filename": "诊断血液学检查作业汇总",
+        "type_all_num": 43,
+        "dev": {
+            "wrap_num": 43,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 43,
+        "time": "24年12月01日19小时31分06秒",
+        "id": "id-m45it7ud-rfhyh4dnc"
+    },
+    "body": [
+        {
+            "questions": [
+                "影响红细胞沉降的因素是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血沉增快的关键是红细胞间排斥减少而导致的缗钱状聚集",
+                "白蛋白、卵磷脂有促缗钱状聚集的作用",
+                "纤维蛋白原具有抑制缗钱状聚集的作用",
+                "球形红细胞易形成缗钱状，可使血沉加快",
+                "椭圆形红细胞增多，容易形成缗钱状，可使血沉增快"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "重度贫血的血红蛋白含量为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " <80g/L",
+                " <70g/L",
+                " <60g/L",
+                " <50g/L",
+                " <40g/L"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项属高色素性贫血?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 缺铁性贫血",
+                " 海洋性贫血",
+                " 溶血性贫血",
+                " 急性失血性贫血",
+                " 巨幼红细胞性贫血"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不符合严重感染的是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 白细胞总数量增加",
+                " 中性粒细胞核左移",
+                " 淋巴细胞相对减少",
+                " 嗜酸性粒细胞常增加",
+                " 中性粒细胞出现毒性变"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种疾病可引起中性粒细胞减少?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 尿毒症",
+                " 骨髓纤维化病",
+                " 脾功能亢进",
+                " 肺吸虫病",
+                " 慢性粒细胞性白血病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "异型淋巴细胞增多主要见于哪类疾病?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 细菌感染",
+                " 病毒感染",
+                " 贫血",
+                " 白血病",
+                " 免疫缺陷病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "再生障碍性贫血属于哪种类型的贫血•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 大细胞性贫血",
+                " 正常细胞性贫血",
+                " 低色素性贫血",
+                " 单纯小细胞贫血",
+                " 小细胞性低色素贫血"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "缗钱状红细胞常见于•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 缺铁性贫血",
+                " 巨幼细胞性贫血",
+                " 多发性骨髓瘤",
+                " 溶血性贫血",
+                " 再生障碍性贫血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种疾病不引起白细胞总数增多?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 流行性出血热",
+                " 伤寒",
+                " 狂犬病",
+                " 百日咳",
+                " 急性心肌梗死"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在疾病进展期出现中性粒细胞核右移常提示•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 机体抵抗力强",
+                " 骨髓造血功能旺盛",
+                " 白细胞总数增高",
+                " 预后良好",
+                " 预后不良"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对凝血时间最有影响的因素是：•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 血小板数量",
+                " 血小板功能",
+                " 血浆凝血因子",
+                " 血管壁的完整性",
+                "  血管壁的收缩功能"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "中毒性颗粒可见于•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 淋巴细胞",
+                " 异型淋巴细胞",
+                " 中性粒细胞",
+                " 单核细胞",
+                " 嗜酸性粒细胞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "网织红细胞减少主要见于•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 缺铁性贫血",
+                " 溶血性贫血",
+                " 失血性贫血",
+                " 巨幼细胞性贫血",
+                " 再生障碍性贫血"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于网织红细胞(Ret)的叙述，下列哪项是最合适的?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是幼稚的红细胞",
+                "是晚幼红细胞脱核后所处阶段的红细胞，胞质内残存核糖体等物质，外周血象呈现嗜多色性 ",
+                "是尚未完全成熟的细胞",
+                "是介于中幼红细胞与晚幼红细胞之间的红细胞",
+                "是晚幼红细胞到成熟红细胞之间未完全成熟的细胞，外周血象中不能染色"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "点彩红细胞常为哪种疾病的重要诊断指标之一?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 海洋性贫血",
+                " 酒精中毒",
+                " 铅中毒",
+                " 血吸虫病",
+                " 巨幼红细胞贫血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "成人外周血中出现有核红细胞最常见于•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 失血性贫血",
+                " 溶血性贫血",
+                " 缺铁性贫血",
+                " 再生障碍性贫血",
+                " 真性红细胞增多症"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中性粒细胞增多最常见的原因是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 急性感染或炎症",
+                " 大面积烧伤",
+                " 急性溶血",
+                " 急性中毒",
+                " 恶性肿瘤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "病理性血沉增快,下列哪项不正确?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心绞痛",
+                " 心肌梗死",
+                " 恶性肿瘤",
+                " 大手术后",
+                " 活动性肺结核"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于血栓调节素的叙述，下列哪项是错误的?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 对凝血酶有极强的亲和力",
+                " 能和Xa结合，使Xa失去作用而抑制凝血",
+                "  闭塞性脉管炎、深部静脉血管血栓形成等伴有血管损伤时，TM增高",
+                " 与凝血酶形成复合物，能促进蛋白C激活",
+                " 是抗血栓物质，是血管内皮细胞受到损伤的标志物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于网织红细胞(Ret)的叙述，下列哪项是最合适的?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是幼稚的红细胞",
+                "是晚幼红细胞脱核后所处阶段的红细胞，胞质内残存核糖体等物质，外周血象呈现嗜多色性 ",
+                "是尚未完全成熟的细胞",
+                "是介于中幼红细胞与晚幼红细胞之间的红细胞",
+                "是晚幼红细胞到成熟红细胞之间未完全成熟的细胞，外周血象中不能染色"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于溶血性贫血,下列哪项正确?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 红细胞DNA合成障碍",
+                " 红细胞生成时间缩短",
+                " 缺乏促红细胞生成素",
+                " 骨髓造血功能障碍",
+                " 造血组织容量减少"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "与DIC不符合的实验结果是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " FDP升高",
+                " D-Dimer升高",
+                "3P试验阳性",
+                "AT-Ⅲ升高",
+                "Fibrinogen降低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

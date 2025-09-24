@@ -1,0 +1,4824 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（骨科）A1",
+        "type_all_num": 200,
+        "dev": {
+            "wrap_num": 200,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 200,
+        "time": "25年01月13日11小时41分42秒",
+        "id": "id-m5uhz6vr-itqbatj6i"
+    },
+    "body": [
+        {
+            "questions": [
+                "诊断骨肿瘤性质极其重要的依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化验检查",
+                "分层穿刺",
+                "X线检查",
+                "CT检查",
+                "病理切片"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "类风湿性关节炎患者的手部最常见的异常体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伸腕功能障碍",
+                "伸拇功能障碍",
+                "屈拇功能障碍",
+                "屈腕功能障碍",
+                "伸指功能障碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于脊髓栓系综合征，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "终丝变粗",
+                "脊髓低位",
+                "大小便失禁",
+                "下肢感觉障碍",
+                "下肢肌肉一般为痉挛性瘫痪"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "膝关节有扭伤及交锁史，最可能的损伤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膝关节外侧副韧带损伤",
+                "胫骨平台骨折",
+                "半月板损伤",
+                "内侧副韧带撕裂",
+                "前十字韧带撕裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "颈椎病的鉴别诊断中，肩周炎不可能出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "三角肌萎缩",
+                "斜方肌痉挛",
+                "肩痛及上臂痛",
+                "前臂和手疼痛",
+                "大范围活动时，疼痛加剧"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于锁骨正确的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "外侧1/3凸向前",
+                "内侧端扁平",
+                "呈横向“S”形",
+                "内侧2/3凸向后",
+                "内侧端与胸骨颈静脉切迹构成胸锁关节"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脊柱外伤造成脊髓休克，是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "因脊髓受血肿等压迫",
+                "骨折片刺入脊髓",
+                "脊髓神经细胞遭受震荡，产生暂时性功能抑制，发生传导障碍",
+                "外伤后脊髓神经细胞遭到破坏",
+                "脊髓上、下行传导束断裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在开放性骨折的清创术中，下列步骤不适当的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常规应用止血带",
+                "切除1～2mm的污染皮缘",
+                "切除失去活力的组织",
+                "任何神经均应尽量保留",
+                "与周围组织仍有联系的碎骨片应予保留"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "损伤腓总神经不可能出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "足尖向下",
+                "不能伸趾",
+                "足背感觉障碍",
+                "足底感觉障碍",
+                "足内翻"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，27岁，摔伤左上臂，致左肱骨近端（肱骨外科颈下）骨折，骨折端的自然移位方向应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "近侧端外展，远侧端内收及上移",
+                "近侧端内收，远侧端外展及下移",
+                "近侧端内旋，远侧端外展及上移",
+                "近侧端外旋，远侧端内收及下移",
+                "近侧端内收，远侧端外展及上移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘突出症引起有关描述中，哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "突出髓核压迫神经根致无菌性炎症",
+                "自身免疫反应使神经根发生炎症",
+                "破裂的椎间盘组织产生化学性物质的刺激",
+                "突出髓核牵张已有炎症的神经根，使其静脉回流受阻",
+                "神经根水肿的增加，使疼痛加重"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "骨折愈合过程中，血肿肌化演进期约需"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1周",
+                "2周",
+                "4周",
+                "2个月",
+                "3个月"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "伤后下肢处于短缩、外展、极度外旋位，可能的诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股骨颈骨折",
+                "股骨粗隆间骨折",
+                "股骨上1/3骨折",
+                "股骨上中段骨折",
+                "股骨髁上骨折"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于黄韧带的描述，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为相邻两椎弓板之间的弹性结缔组织膜",
+                "硬膜外麻醉不需穿经此韧带",
+                "厚2～3mm，呈节段性",
+                "腰段黄韧带常增厚压迫马尾引起腰腿痛",
+                "参与围成椎管的后外侧壁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肩关节周围炎的说法，哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于青少年",
+                "晚间疼痛减轻",
+                "肩关节外展受限",
+                "可见典型疼痛",
+                "发病急，病程约数周"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "股骨颈骨折，X线表现为外展型骨折，则Pauwels角应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "50°～60°",
+                "40°～50°",
+                "30°～40°",
+                "＜30°",
+                "＞60°"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列转移性骨肿瘤中，血清酸性磷酸酶中高的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乳腺癌",
+                "胃癌",
+                "肺癌",
+                "前列腺癌",
+                "肝癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨肉瘤单纯使用根治性切除手术治疗，5年存活率不高，其主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期髓腔内广泛蔓延",
+                "早期血液中发现瘤细胞",
+                "早期淋巴管内瘤栓形成",
+                "早期广泛侵犯软组织",
+                "多见于年轻人"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肱骨中下1/3骨折，最易损伤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尺神经",
+                "桡神经",
+                "正中神经",
+                "肱动脉",
+                "肱二头肌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "临床诊断脊柱结核，下列哪项最有价值"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局部疼痛",
+                "X线检查",
+                "穿刺液送结核菌培养",
+                "消瘦、贫血、盗汗、食欲缺乏",
+                "结核菌素试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘突出症最重要的体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "棘突间压痛",
+                "椎旁压痛",
+                "直腿抬高试验（＋），加强试验（＋）",
+                "腰椎侧凸畸形",
+                "跛行"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对后纵韧带的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "位于椎管内椎体的后面",
+                "比前纵韧带薄且窄",
+                "有限制脊柱过度前屈的作用",
+                "与椎体的上、下缘和椎间盘紧密相连",
+                "上自枕骨大孔后缘，下达尾骨"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关天肱骨外上髁炎，下列哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "易发生于职业网球运动员",
+                "是屈腕屈指肌腱止点处的慢性损伤性炎症",
+                "症状为肘外侧痛，且向前臂外侧放射",
+                "伸腕抗阻力试验阳性",
+                "封闭治疗常常有效"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，56岁，左桡骨下端粉碎骨折，因骨折不稳定畸形愈合，后期出现伸拇活动障碍，可能的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "创伤性关节炎",
+                "拇长伸肌腱断裂",
+                "下尺桡关节脱位",
+                "损伤性骨化",
+                "损伤性肌挛缩"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性化脓性骨髓炎最常见的致病菌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "金葡菌",
+                "链球菌",
+                "流感杆菌",
+                "大肠杆菌",
+                "产气荚膜杆菌"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于脊柱的叙述，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "从第1颈椎到第2骶椎，从上至下逐渐加宽",
+                "大部分胸椎棘突细长，斜向后下方，呈叠瓦状",
+                "从侧面观，颈椎、腰椎凸向前，胸椎、骶椎凸向后",
+                "脊柱所承担重力从骶髂关节传至下肢",
+                "脊柱可做屈、伸、侧屈、旋转和环转运动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，50岁，颈肩痛伴左手麻木，咳嗽加重。查体：颈部活动受限，左手内在肌萎缩，左拇指及前臂桡侧感觉减退，病理征阴性，双下肢检查未见异常。其治疗哪项最恰当"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈围领护颈",
+                "颈牵引治疗",
+                "颈部封闭",
+                "休息",
+                "以上均正确"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列股骨颈骨折最易发生股骨头坏死的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股骨头下骨折",
+                "经颈股骨颈骨折",
+                "经基底部股骨颈骨折",
+                "不完全移位的股骨颈骨折",
+                "稳定型股骨颈骨折"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "一青年男性，腰椎间盘突出症，一侧小腿外侧及足背内侧痛觉减退，拇趾背伸肌力减弱，突出的椎间盘定位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰2～3间隙",
+                "腰3～4间隙",
+                "腰4～5间隙",
+                "腰5～骶1间隙",
+                "骶1～2间隙"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一个椎间盘突出能使跟腱反射改变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "L2～L3",
+                "L3～L4",
+                "L4～L5",
+                "L5～S1",
+                "S1～S2"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于手的休息位，下列不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腕关节背伸20°～25°",
+                "手处于自然静止状态",
+                "掌指关节和指间关节半屈曲位",
+                "腕关节背伸10°～15°",
+                "各指尖指向腕舟骨结节"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于脊柱区肌层的描述中，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由浅到深大致可分为3层",
+                "其中最长的为斜方肌",
+                "第2层有前锯肌、上后锯肌、下后锯肌、夹肌、菱形肌",
+                "第1层有斜方肌、背阔肌",
+                "第3层有竖脊肌、肩胛提肌、腹内斜肌后部"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胸神经共有（ ）对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "11",
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一神经不是臂丛神经终末支"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肌皮神经",
+                "正中神经",
+                "桡神经",
+                "副神经",
+                "尺神经"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于强直性脊柱炎的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "属结缔组织的血清阳性反应疾病",
+                "早期常累及双侧骶髂关节",
+                "HLA-B27阳性率高",
+                "可累及椎间关节，导致关节僵直",
+                "可累及髋关节，导致关节僵直"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "椎动脉型颈椎病的主要诊断依据为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "痛温觉分离，肌萎缩",
+                "四肢麻木，出现病理反射",
+                "出现四肢瘫，有脊髓腔梗阻现象",
+                "头痛、头晕、颈后伸或侧弯时眩晕加重，甚至猝倒",
+                "颈肩痛反复发作，手部有放射性痛，牵拉试验阳性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脊柱骨折和脱位最基本的辅助检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "MRI检查",
+                "CT检查",
+                "X线检查",
+                "B超",
+                "椎管造影"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脊髓型颈椎病的诊断主要依据"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈肩痛、手麻",
+                "一侧或双侧上肢麻，持物不稳",
+                "头痛、眼痛、吞咽困难、面部出汗异常",
+                "四肢麻或四肢瘫，病理反射，颈段MRI",
+                "痛觉、触觉、温度觉分离，肌萎缩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "慢性骨髓炎死骨摘除的指征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性骨髓炎急性发作",
+                "不易自行吸收的死骨",
+                "经久不愈的窦道",
+                "死骨已分离，包壳已充分形成",
+                "不能自行修复的无效腔"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于胸椎的描述，下列哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有肋凹和横突肋凹",
+                "棘突呈板状并水平后伸",
+                "横突上有横突孔",
+                "上、下关节突呈矢状位",
+                "椎体横断面呈椭圆形"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "处理开放性骨折时，哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "用毛刷洗刷污染的骨质",
+                "失去活动的大块肌肉组织可部分保留",
+                "大块的碎骨块可在清洁消毒后放回原处",
+                "不能切除创口边缘",
+                "已污染的骨膜应完全切除"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肱骨外上髁炎（如图）最敏感的压痛点在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱骨外上髁上方",
+                "肱骨外上髁至桡骨颈之间",
+                "肱骨外上髁后方",
+                "肱骨外上髁内侧",
+                "桡骨中段"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肱骨外上髁炎的治疗措施中，不妥的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "理疗",
+                "伸肌总腱起点剥离松解术",
+                "压痛点醋酸泼尼松注射",
+                "加强腕关节背伸抗阻运动练习",
+                "伸肌总腱起点神经血管束切除结扎术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "慢性骨髓炎的手术指征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有骨膜反应",
+                "有死骨",
+                "病变骨变粗，密度增高",
+                "局部红肿",
+                "反复发热，局部疼痛"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于半月板损伤的治疗，下列哪项错误"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性损伤可用石膏托固定膝部",
+                "如伴有关节血肿，应抽尽积血加压包扎",
+                "确诊后，均应行常规半月板全切除术",
+                "关节镜检查后，根据损伤范围，切除其损伤部分",
+                "如边缘撕裂，可行缝合术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肱骨外上髁炎首选的治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "加强功能锻炼",
+                "局部封闭",
+                "肘关节制动",
+                "抗生素消炎",
+                "手术治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "能明确脊椎压缩性骨折的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "X线检查",
+                "压痛",
+                "淤斑",
+                "功能障碍",
+                "反常活动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "属于尺骨的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尺神经沟",
+                "鹰嘴窝",
+                "冠突窝",
+                "三角肌粗隆",
+                "桡切迹"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列在股骨颈骨折最可能的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "动静脉损伤",
+                "缺血性肌挛缩",
+                "损伤性骨化",
+                "缺血性骨坏死",
+                "周围神经损伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关节结核有窦道形成伴化脓感染，与慢性化脓性关节炎窦道经久不愈，鉴别诊断的主要依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细菌培养",
+                "X线检查",
+                "血白细胞计数及分类与血沉",
+                "详细的病史询问",
+                "局部体征"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "对于高龄股骨头坏死的患者，分期Ⅲ或Ⅳ期的患者，较为适用的治疗方式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人工关节置换术",
+                "非手术保守治疗",
+                "股骨头钻孔及植骨术",
+                "经转子间旋转截骨术",
+                "带血供髂骨移植术"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下骨折中不易并发神经损伤的有"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱骨髁上伸直型骨折",
+                "肱骨干骨折",
+                "桡骨远端骨折",
+                "锁骨骨折",
+                "尺骨上1/3骨折"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "髋关节脱位最多见的类型是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "后脱位",
+                "前脱位",
+                "中心型脱位",
+                "合并股骨头骨折的脱位",
+                "合并髋臼骨折的脱位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘最常见的突出部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "L3～L4、L4～L5",
+                "L4～L5、L5～S1",
+                "L2～L3、L3～L4",
+                "L3～L4、L5～S1",
+                "L2～L3、L4～L5"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最易合并肱动脉损伤的骨折是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱骨外科颈骨折",
+                "肱骨干骨折",
+                "肱骨髁间骨折",
+                "伸直型肱骨髁上骨折",
+                "屈曲型肱骨髁上骨折"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨折的临床表现，下列哪项描述是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨折的特有体征包括畸形、反常活动及骨擦音或骨擦感",
+                "检查可疑骨折患者时，应尽量诱发骨擦音或骨擦感的出现，以明确诊断",
+                "骨折时可以没有骨擦音或骨擦感",
+                "临床未见有骨折专有体征时，也可能有骨折",
+                "只要发现骨折专有体征的其中一项，即可作出骨折的明确诊断"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "股骨颈骨折后，下列哪一体征最不可能出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髋部叩击痛",
+                "Bryant三角底边缩短",
+                "患肢外展、体旋、缩短畸形",
+                "Shoemaker线相交于脐下",
+                "患肢略长于健肢"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列中不是股骨头坏死病因的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股骨颈骨折",
+                "没有骨折的髋关节损伤",
+                "减压病",
+                "长期应用肾上腺皮质激素",
+                "行髋关节置换手术"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "直腿抬高试验阳性表明"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Schmorl结节",
+                "马尾神经损伤",
+                "慢性腰肌劳损",
+                "腰3～4椎间盘膨出",
+                "腰4～5或腰5～骶1椎间盘突出症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "中央型腰椎间盘突出症压迫马尾神经，出现大小便障碍，治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "卧床休息",
+                "推拿按摩",
+                "手术治疗",
+                "骨盆牵引",
+                "腰背肌锻炼"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "采用非手术治疗颈椎病，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自我保健疗法",
+                "颈托和颈围以限制颈椎过度活动",
+                "理疗可加速炎性水肿消退、松弛肌肉",
+                "颈枕带牵引适用于各型颈椎病",
+                "药物治疗，有固定较小痛点时可局部注射皮质类固醇制剂"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一胫骨下段骨折的患者，经X线照片为粉碎折，无血管，神经损伤，骨折对位尚好。医生决定行外固定治疗。医生向患者说明有可能骨折延迟愈合或不愈合最主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "该处骨折最易固定不牢",
+                "该处骨折不好复位",
+                "该骨折为粉碎性",
+                "该处骨折血运最差",
+                "该骨折部位皮肤薄"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是切开复位的优点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有效的内固定可使患者提前下床活动",
+                "方便护理，减少并发症",
+                "使手法复位不能复位的骨折达到解剖复位",
+                "损伤小，不减少骨折部位的血液供应",
+                "早期功能练习，防止关节僵硬，减少肌肉萎缩"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列中，骨盆骨折最严重的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹膜后血肿",
+                "尿道或膀胱损伤",
+                "直肠损伤",
+                "神经损伤",
+                "骶髂关节分离"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在脊柱骨折中，下列叙述不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "绝大多数由间接暴力引起",
+                "胸腰段交界处脊柱活动较多，最不常受伤",
+                "屈曲型脊柱骨折最常见",
+                "伸直型脊柱骨折极少见",
+                "脊柱骨折可导致脊髓损伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "颈椎骨折脱位合并颈髓损伤，早期出现的严重并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃肠功能减弱",
+                "心力衰竭",
+                "呼吸衰竭",
+                "肢体肌肉萎缩",
+                "四肢关节挛缩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者患腰椎间盘突出症2年，逐年加重，已严重影响生活及工作，且出现尿便障碍，其治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "理疗",
+                "按摩",
+                "牵引",
+                "用药",
+                "手术"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关肱骨下端的正常解剖关系，应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱骨下端的前倾角为40°～60°，前臂完全旋后时，前臂与上臂之间提携角为20°～30°",
+                "肱骨下端的前倾角为10°～20°，前臂完全旋后时，前臂与上臂之间提携角为25°～30°",
+                "肱骨下端的前倾角为30°～50°，前臂完全旋后时，前臂与上臂之间提携角为10°～20°",
+                "肱骨下端的前倾角为15°～25°，前臂完全旋后时，前臂与上臂之间提携角为0°～10°",
+                "肱骨下端的前倾角为20°～25°，前臂完全旋后时，前臂与上臂之间提携角为5°～10°"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，60岁。半年来双下肢沉重感，走路无力，右腿明显，无头晕头痛。查体：颈部无明显压痛。臂丛牵抗试验阳性。双膝踝反射亢进，右膝髌阵挛阳性。右侧巴氏征阳性。应考虑的治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颏枕吊带牵引",
+                "注射激素",
+                "按摩",
+                "手术",
+                "围领和颈托"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "Dugas征阳性见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肘关节脱位",
+                "桡骨头半脱位",
+                "肩关节脱位",
+                "髋关节后脱位",
+                "膝关节脱位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "Hippocrates法适用于哪种脱位的复位"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肩关节前脱位",
+                "肩关节后脱位",
+                "髋关节前脱位",
+                "髋关节后脱位",
+                "髋关节半脱位"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肘关节脱位的叙述中，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可分为前脱位、后脱位、内外侧方脱位",
+                "以后脱位多见",
+                "重症后脱位可伴有正中神经、尺神经损伤",
+                "多伴有跌倒手撑地外伤史",
+                "治疗以长臂石膏固定肘关节屈曲90°位，三角巾悬吊胸前3～4周"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "全关节结核是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关节软骨、骨端及滑膜均受累",
+                "骨组织破坏严重",
+                "关节的全部滑膜组织有结核病变",
+                "关节胫内积液增多并混浊",
+                "关节软骨受累"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脊柱外伤时，关节交锁是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关节突完全骨折",
+                "关节突不完全脱位",
+                "上关节突位于下一椎体下关节突的前方",
+                "下关节突位于下一椎体上关节突的前方",
+                "关节突骨折伴脱位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于肩周炎下列哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "系肩周软组织之无菌性炎症",
+                "易发生于重体力劳动者",
+                "特征为肩痛，活动受限，肌肉萎缩",
+                "封闭，理疗，常有效",
+                "本症能自愈"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，55岁。近半年来颈肩部不适，头向后仰时有左上肢疼痛，伴左拇指、食指麻木。查：颈僵，第5颈椎叩痛，食指感觉减退。X线示：颈5～6钩椎关节增生。首选处理为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "围领保护",
+                "超短波理疗",
+                "吊带牵引",
+                "按摩",
+                "痛点封闭"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 2岁小儿外伤致股骨干骨折，较为适宜的治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切开复位内固定",
+                "闭合复位外固定支架固定",
+                "悬吊牵引",
+                "骨牵引",
+                "手法复位，石膏外固定"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "股骨颈骨折导致股骨头缺血性坏死的主要因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股圆韧带的小凹动脉的损伤",
+                "股骨干滋养动脉升支的损伤",
+                "旋股内侧动脉的损伤",
+                "旋股外侧动脉的损伤",
+                "股深动脉降支损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "老年人粗隆间骨折常见的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股骨头缺血性坏死",
+                "不愈合",
+                "髋内翻",
+                "骨折延迟愈合",
+                "髋关节僵硬"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肱骨外上髁炎时，下列试验可能阳性的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经干叩击试验（Tinel征）",
+                "搭肩试验（Dugas征）",
+                "握拳尺偏试验（Finkelstein征）",
+                "伸肌腱牵拉试验（Mills征）",
+                "屈腕试验"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "中央型腰椎间盘脱出症与马尾神经瘤最有意义的鉴别方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "马鞍区麻痹",
+                "括约肌功能障碍",
+                "腰部压痛体征及放散痛",
+                "X线检查",
+                "CT或MRI（磁共振）"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "化脓性关节炎最常发生于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髋关节和膝关节",
+                "肩关节和肘关节",
+                "膝关节和踝关节",
+                "肘关节和腕关节",
+                "踝关节和髋关节"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "侧面呈银叉样畸形，正面呈枪刺样畸形的骨折见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Monteggia骨折",
+                "Colles骨折",
+                "Smith骨折",
+                "Galeazzi骨折",
+                "Bennett骨折"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "确诊膝关节结核，下列哪项最可靠"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "滑膜活检",
+                "X线示膝关节有骨质疏松",
+                "低热、盗汗、食欲缺乏",
+                "血沉加快",
+                "MRI"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "骨与关节结核大多为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发性",
+                "继发于肺结核",
+                "继发于肠结核",
+                "继发于胸膜结核",
+                "继发于淋巴结核"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列治疗方法对骨折愈合的影响因素中，哪种说法是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一次手法复位未达到解剖复位，则必须行再次复位",
+                "切开复位，对骨折愈合不利，有时可导致骨折延迟愈合甚至不愈合",
+                "开放性损伤清除过多的碎骨片，可影响骨折愈合",
+                "恰当的功能锻炼可促进骨折愈合",
+                "牵引过度可影响愈合"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "脱位时X线检查必须与健侧对比的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肩关节脱位",
+                "肘关节脱位",
+                "肩锁关节脱位",
+                "桡骨头半脱位",
+                "髋关节脱位"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "前臂双骨折、桡骨远端1/2段骨折，远端屈曲旋后畸形的主要原因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱三头肌牵拉",
+                "肱二头肌牵拉",
+                "旋后肌牵拉",
+                "旋前圆肌牵拉",
+                "肱二头肌、旋后肌牵拉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "桡神经管内的结构是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腋神经",
+                "肱深血管",
+                "尺神经",
+                "尺血管",
+                "肱动脉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腰椎结核时寒性脓肿流注的部位，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰大肌",
+                "髂窝",
+                "腰三角",
+                "季肋部",
+                "腹股沟"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，58岁，颈肩痛，左上肢麻木。经拍片检查，第5、6、7颈椎有明显唇样增生。颈6神经根受累的主要表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱二头肌反射减弱",
+                "肱三头肌反射减弱",
+                "小指感觉减退",
+                "中指感觉减退",
+                "Hoffman氏症阴性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肱骨髁上骨折伸直型骨折的最严重并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正中神经损伤",
+                "畸形愈合形成肘内翻",
+                "前臂肌肉缺血性挛缩",
+                "骨化性肌炎",
+                "关节僵硬"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断Colles骨折最有意义的体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局部肿胀、淤斑",
+                "反常活动",
+                "典型畸形",
+                "骨擦音和骨擦感",
+                "局部压痛"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一学生跌倒右肘着地后肿、痛、不敢活动。区别肘关节脱位与肱骨髁上骨折的主要体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肘部畸形",
+                "肿胀程度",
+                "肘后三角变化",
+                "疼痛程度",
+                "肘部功能障碍程度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列踝部骨折的治疗方法中，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坚强内固定",
+                "踝穴不宜过大或过小",
+                "骨折解剖对位",
+                "反复整复，争取闭合复位，避免手术",
+                "早期功能锻炼"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，34岁，3天前突发腰痛，半天后出现右腿痛，咳嗽加重。查体：腰骶压痛，放射至小腿，右直腿抬高40°阳性，加强试验阳性，小腿前侧和足内侧痛觉迟钝，（足母）背伸力弱。请判断哪一神经根受累"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰2",
+                "腰3",
+                "腰4",
+                "腰5",
+                "骶1"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于股骨头坏死的病理改变，可以分为5层。以下不属于这5层的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关节软骨",
+                "坏死骨及骨髓",
+                "纤维组织",
+                "肥厚型新生骨",
+                "滑膜组织"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于腰椎间盘突出症的临床表现，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "L5神经根受累者，感觉改变在小腿的前侧和足的内侧",
+                "S1神经根受累者，感觉改变在外踝和足的外侧",
+                "慢性和复发性是本病特点之一",
+                "发病年龄50岁以上者，常自诉有创伤史",
+                "中央型突出者，可有马鞍区感觉障碍"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨与关节结核最常见的发病部位为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髋关节",
+                "膝关节",
+                "肩关节",
+                "肘关节",
+                "脊柱"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "股骨颈骨折最易并发"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关节僵硬",
+                "缺血性骨坏死",
+                "坐骨神经损伤",
+                "畸形愈合",
+                "脂肪栓塞"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "原发性恶性骨肿瘤的主要转移方式是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "通过血液循环",
+                "通过种植转移",
+                "通过淋巴管",
+                "沿神经干传播",
+                "直接局部蔓延"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，30岁，抬重物后感腰部不适，数天后症状加重并出现右下肢放射性痛，从起病到看门诊为期半个月。经有关检查，拟诊为腰椎间盘突出症。错误的治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髓核摘除术",
+                "完全卧床休息",
+                "骨盆牵引",
+                "推拿按摩",
+                "针灸"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肱骨外上髁炎的病因主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "风湿",
+                "结核",
+                "类风湿",
+                "慢性损伤",
+                "急性化脓性感染"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "颈椎病颌枕吊带牵引，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "牵引重量为2～6kg",
+                "可使小关节内的滑膜皱襞复位",
+                "适用于除交感神经型外的各型颈椎病",
+                "牵引时头前屈15°",
+                "可解除肌痉挛"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "臂丛外侧束发出的神经是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胸外侧神经",
+                "尺神经",
+                "胸内侧神经",
+                "胸背神经",
+                "肩胛下神经"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "第4颈椎骨折脱位，完全性截瘫，伤后早期突然死亡的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "窒息",
+                "肺炎或肺不张",
+                "褥疮发生感染",
+                "泌尿系感染",
+                "尿潴留"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "胫骨中下1/3段骨折愈合较慢的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "易损伤附近的主要血管",
+                "易损伤附近的周围神经",
+                "骨折远端血液供应减少",
+                "骨折远端完全丧失血液供应",
+                "两骨折段血液供应减少"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "开放性骨折最常见的并发症和影响因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血管损伤",
+                "神经损伤",
+                "创口感染",
+                "软组织损伤",
+                "皮肤胶套伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断不稳定骨盆骨折，无意义的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨盆挤压，分离引起骨折处痛",
+                "骨盆上升时测髂前上棘至内踝距离患侧缩短",
+                "一侧髂后上棘也可向右、向上、向中线移位",
+                "外伤后下肢移动痛加重",
+                "双侧髂前上棘与脐失去等边三角形"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "颈椎病其颈6神经根受压时，下列哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "拇指感觉减退",
+                "中指感觉减退",
+                "肱二头肌腱反射消失",
+                "肱三头肌腱反射消失或减弱",
+                "小指感觉减退"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列关于强直性脊柱炎的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病一般在15岁以后，男性多于女性",
+                "早期骶髂关节及下腰部痛，休息时减轻，活动时加重；后期腰部僵硬，活动受限，逐渐向上发展",
+                "病变可遍及全身各关节，并出现关节僵硬和强直",
+                "X线片示两侧骶髂关节密度增高，椎间小关节硬化，脊柱呈竹节样改变",
+                "是属结缔组织的血清阴性反应疾病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "外伤后骨折段移位，最常见的类型为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "成角移位",
+                "分离移位",
+                "侧方移位",
+                "缩短移位",
+                "几种移位同时存在"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于关节结核的表现，下列哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一般早期无明显全身症状",
+                "局部皮肤红肿痛热",
+                "红细胞沉降率加速",
+                "X线检查早期无明显异常",
+                "需和类风湿性关节炎鉴别"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关锁骨骨折，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "好发于青少年，多为间接暴力引起",
+                "锁骨中段多发，近端常向上后移位，远端常向前、下移位",
+                "儿童青枝骨折及成人的无移位骨折可不作特殊治疗",
+                "锁骨外端骨折合并喙锁韧带撕裂可采用手法复位横形8字韧带固定",
+                "有时可合并臂丛神经损伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "狭窄性腱鞘炎治疗首选"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局部按摩",
+                "理疗",
+                "针灸",
+                "局部封闭",
+                "手术治疗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "跟腱断裂的诊断依据中，不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患足单独站立，足跟不能离开地面",
+                "患足不能主动跖屈",
+                "跟腱部可扪及凹陷",
+                "患足背屈范围超过健侧",
+                "在跑跳过程中，突感跟后部剧痛"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列属于闭合性骨折的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "耻骨骨折伴膀胱或尿道破裂",
+                "尾骨骨折致直肠破裂",
+                "腰椎压缩骨折伴腹膜后血肿形成",
+                "刀砍伤致左尺骨骨折",
+                "枪伤致股骨干骨折"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于肩周炎，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "本病是肩关节周围多种软组织的慢性炎症",
+                "特征是肩关节疼痛，活动受限和肌肉萎缩",
+                "病变结果为关节外软组织粘连",
+                "前屈受限最严重",
+                "本病有自愈倾向"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨软骨瘤的临床表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤生长迅速",
+                "局部红肿，疼痛",
+                "多数无症状，无意中发现骨性肿块",
+                "X片显示骨破坏，膨胀改变",
+                "常见部位是手或足的管状骨"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，60岁。搬运工人，因间歇性跛行1年、加重1个月来就诊。无烟酒嗜好，亦无外伤史。体格检查最可能发现的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直腿抬高试验阳性",
+                "足背动脉搏动明显减弱",
+                "口唇发绀",
+                "腰腿部无明显阳性体征",
+                "腰臀部明显压痛点"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "引起腰腿痛病因很多，最常见为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "非化脓性炎症",
+                "感染",
+                "肿瘤",
+                "退行性变",
+                "结构性缺陷"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肱骨外髁炎可出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Mills征（＋）",
+                "Finkelstein征（＋）",
+                "Phalen征（＋）",
+                "Tinel征（＋）",
+                "Hoffmann征（＋）"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于骨巨细胞瘤，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于年轻成人",
+                "病灶在骨端，局部有骨破坏",
+                "骨端膨胀，骨皮质破坏，侵入软组织",
+                "常用手术方法是局部刮除，不易复发",
+                "若有恶变应截肢"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，40岁，车工。反复发作腰腿痛5年，近4个月加重。查体：左直腿抬高30°（＋），加强试验（＋），左小腿外侧针刺觉减退鞍区感觉正常，左拇背伸力弱，膝跟腱反射正常。腰椎X线片未见异常。下列治疗哪项最重要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "卧床休息",
+                "骨盆牵引治疗",
+                "理疗",
+                "按摩治疗",
+                "手术治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "颈椎骨折脱位合并截瘫的严重并发症不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呼吸道感染",
+                "心血管系统紊乱",
+                "泌尿系感染和结石",
+                "压疮",
+                "高热"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列与神经修复关系最密切的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "施万细胞",
+                "巨噬细胞",
+                "中性粒细胞",
+                "淋巴细胞",
+                "红细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "股骨头骨软骨病多见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～12岁",
+                "青少年",
+                "中年",
+                "股骨颈骨折后",
+                "股骨粗隆骨折后"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "桡神经损伤多见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱骨上段骨折",
+                "肱骨中下1/3段骨折",
+                "肱骨下段骨折",
+                "尺桡骨上段骨折",
+                "桡骨头骨折"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "骨与关节结核的治疗，应特别强调"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术治疗",
+                "局部治疗",
+                "卧床休息",
+                "石膏制动",
+                "全身治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "伤后有垂腕表现，可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肌损伤",
+                "正中神经损伤",
+                "桡神经损伤",
+                "尺神经损伤",
+                "缺血性肌挛缩"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "股骨颈的颈干角平均角度为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "15°",
+                "20°",
+                "55°",
+                "90°",
+                "127°"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "骨盆骨折的并发症不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "坐骨神经损伤",
+                "尿道损伤",
+                "直肠损伤",
+                "脊髓损伤",
+                "腹膜后血肿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "影响神经恢复的因素，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无创技术",
+                "无张力缝合",
+                "损伤平面越低，修复效果越差",
+                "时间越长，效果越差",
+                "年龄越小，恢复越快"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脊髓震荡是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊髓受压",
+                "脊髓挫伤",
+                "脊髓裂伤",
+                "脊髓血运障碍",
+                "脊髓暂时性功能抑制"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性血源性骨髓炎最早发生的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "短管骨干骺端",
+                "扁平骨",
+                "关节骨骺",
+                "长管骨干骺端",
+                "长管骨骨干"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胫骨Pilon骨折时受到的暴力类型为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "重物直接砸伤",
+                "垂直压缩",
+                "纵向牵拉",
+                "剪切力",
+                "直接碾挫"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列肿瘤的临床表现错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨肿瘤的发现往往在损伤之后",
+                "肿瘤近关节，活动功能将受限制",
+                "局部肿胀是另一个重要症状",
+                "疼痛剧烈持久时，需考虑肿瘤是恶性",
+                "脊柱肿瘤可压迫脊髓而瘫痪"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "股骨下1/3段骨折后，骨折远端向后倾斜移位，主要是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "半膜肌的牵拉",
+                "缝匠肌的牵拉",
+                "股四头肌的牵拉",
+                "腓肠肌的牵拉",
+                "臀中肌的牵拉"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于腰椎间盘突出的手术治疗，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "初发的椎间盘突出的患者",
+                "严格非手术治疗而无效者",
+                "腰腿痛反复发作者",
+                "椎间盘中央型突出者",
+                "椎间盘中央型脱出者"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性化脓性骨髓炎手术的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "引流脓液，减少脓毒症症状，阻止急性骨髓炎转变为慢性",
+                "减轻疼痛",
+                "减轻症状",
+                "防止全身症状加重",
+                "减少抗生素用量"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在急性化脓性骨髓炎中，下列哪项选择错误"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脓肿可进入骨膜下",
+                "脓肿可进入软组织中",
+                "脓肿可进入关节",
+                "脓肿一定不进入关节",
+                "脓肿进入骨髓腔"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘突出症的分型不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膨出型",
+                "突出型",
+                "脱出型",
+                "Schmorl结节及经骨突出型",
+                "脱离型"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于臂丛神经正确的描述是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "位于腋窝内的是臂丛锁骨上部",
+                "下、中干的后股合成后束",
+                "上、中干的前股合成外侧束",
+                "下、中干的前股合成内侧束",
+                "3个束先位于腋动脉的第1段的外侧"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，60岁，颈肩痛10年，半年来双下肢沉重感，行走无力，右腿明显，无头晕头痛。查体：颈部无明显压痛，臂丛牵拉试验阴性，双膝踝反射亢进，右膝髌阵挛阳性，右侧巴氏征阳性。应考虑的治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颏枕吊带牵引",
+                "注射激素",
+                "按摩",
+                "手术",
+                "围领和颈托"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘突出症的典型症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰背痛",
+                "下肢无力",
+                "腰痛伴坐骨神经痛",
+                "坐骨神经痛",
+                "腰部活动受限"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "如有小腿及足外侧麻木，足趾跖屈力及跟腱反射弱，病变的节段应考虑是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰1～2",
+                "腰2～3",
+                "腰3～4",
+                "腰4～5",
+                "腰5～骶1"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列不属于不稳定型脊柱骨折的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "椎体粉碎骨折",
+                "第1颈椎半脱位",
+                "椎体骨折脱位",
+                "腰椎板、关节突骨折",
+                "两侧腰及横突骨折"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列髋关节后脱位的畸形特点，除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "屈曲",
+                "内收",
+                "内旋",
+                "短缩",
+                "外旋"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "小腿胫前扭伤后6个月不愈合，有死骨排出，最可能的诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨结核",
+                "局限性骨脓肿",
+                "骨巨细胞瘤",
+                "慢性骨髓炎",
+                "软骨瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "骨关节结核患者，体质虚弱，寒性脓肿混合感染，脓液黏稠。对脓肿最好的处理方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯非手术治疗",
+                "穿刺抽脓，注入抗结核药物",
+                "小切口引流",
+                "彻底的病灶清除术",
+                "脊椎融合手术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，49岁，腰腿痛10年。查体：腰5骶1间压痛，并放射至小腿外侧，左侧直腿抬高试验阳性，加强试验阳性。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "棘上韧带炎",
+                "棘突炎",
+                "棘间韧带炎",
+                "椎间盘突出症",
+                "腰椎管狭窄症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "全身抗结核加关节穿刺抽脓注射药物治疗，适用于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "儿童膝关节单纯滑膜结核",
+                "膝关节全关节结核",
+                "儿童髋关节单纯滑膜结核",
+                "髋关节全关节结核",
+                "脊柱结核伴截瘫"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，35岁。半年前弯腰提物时突然腰痛，并向左侧臀部放射。查体：腰椎凸向左侧，腰活动困难，左侧腰骶部压痛，直腿抬高30°阳性。X线片示腰椎向左侧弯曲。可诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "棘间韧带损伤",
+                "急性腰肌损伤",
+                "腰椎类风湿关节炎",
+                "腰椎间盘突出",
+                "腰椎管狭窄"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘突出症出现踝反射减弱或消失，则突出的间盘为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "L4～L5",
+                "L5～S1",
+                "L3～L4",
+                "L2～L3",
+                "L1～L2"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "如图所示，下列对股神经的描述，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起自腰丛",
+                "在肌三角内位于股动、静脉之间",
+                "沿髂筋膜深面经肌腔隙入股三角",
+                "皮支分布于股前区皮肤",
+                "肌支支配股四头肌、耻骨肌、缝匠肌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列征象最支持骨盆骨折的诊断的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下肢外旋，短缩",
+                "骨盆分离挤压试验阳性",
+                "局部肿胀，皮下淤斑",
+                "直腿抬高试验阳性",
+                "髂部屈曲，内收，内旋畸形"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于关节突关节的描述中，下列哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "参与构成椎间孔的前壁",
+                "前方有黄韧带",
+                "后方与椎动脉相邻",
+                "由脊神经前分支支配",
+                "由上位椎骨的上关节突和下位椎骨的下关节突构成，颈部松弛易脱位"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "骨盆骨折常并发"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "缺血性肌弯缩",
+                "褥疮",
+                "膀胱尿道损伤",
+                "周围神经损伤",
+                "缺血性骨坏死"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关骨与关节结核的说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "好发于儿童与青少年",
+                "病人常没有肺结核病史或家庭结核病史",
+                "原发病灶为肺结核和消化道结核",
+                "骨关节结核多发生于原发病已经静止，甚至痊愈多年以后",
+                "病变部位疼痛常于活动后加剧"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于股骨头坏死，首选的辅助检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "X线检查",
+                "CT检查",
+                "MRI检查",
+                "超声检查",
+                "骨扫描检查"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "最易出现腕下垂的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "锁骨骨折",
+                "肩关节脱位",
+                "肱骨颈骨折",
+                "肱骨干骨折",
+                "肱骨髁上骨折"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "桡神经支配的肌肉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肱二头肌",
+                "肱肌",
+                "三角肌",
+                "肱三头肌",
+                "旋前圆肌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于股骨头的血供，下列哪条血管对股骨头的血供最重要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "股骨头圆韧带动脉",
+                "股骨干滋养动脉",
+                "旋股内侧动脉",
+                "旋股外侧动脉",
+                "支持带动脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腰痛并向下肢放射至小腿，（足母）趾背伸力减弱最常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梨状肌综合征",
+                "腰椎间盘脱出症",
+                "小关节紊乱症",
+                "腰肌劳损",
+                "坐骨神经炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "造成骨折不愈合的因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高龄",
+                "糖尿病",
+                "骨折部位血肿",
+                "骨折间有软组织嵌入",
+                "畸形位置固定"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "早期狭窄性腱鞘炎，最好的治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腱鞘切开，松解肌腱",
+                "石膏固定休息",
+                "醋酸泼尼松龙封闭",
+                "加强手指屈伸活动",
+                "鞘内注射抗生素"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "髋关节后脱位时，患肢呈现的典型畸形是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患肢缩短，髋关节呈屈曲、内收、内旋畸形",
+                "患肢缩短，髋关节呈屈曲、外展、外旋畸形",
+                "患肢增长，髋关节呈外展、外旋畸形",
+                "患肢增长，髋关节呈过伸畸形",
+                "髋关节呈过屈畸形"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，24岁，右大腿被汽车撞伤10分钟而入院。伤后患腿肿胀疼痛，不能活动，下列体征哪一项不属于骨折的专有体征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "畸形",
+                "反常活动",
+                "骨擦音",
+                "骨擦感",
+                "肿胀"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胸椎骨折脱位，脊髓半横断损伤，损伤平面以下的改变是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "两侧肢体运动消失，感觉正常",
+                "两侧肢体感觉消失，活动正常",
+                "同侧肢体运动障碍，对侧感觉正常",
+                "对侧肢体感觉障碍，同侧感觉正常",
+                "同侧肢体深感觉和运动障碍，对侧痛觉、温觉障碍"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性腰扭伤与腰椎间盘突出症均可有坐骨神经支配区疼痛，其鉴别主要依靠"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "外伤史",
+                "X线照射",
+                "股神经牵拉试验",
+                "直腿抬高试验",
+                "局部痛点普鲁卡因封闭"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "走行于肱骨肌管内的神经是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腋神经",
+                "桡神经",
+                "尺神经",
+                "胸背神经",
+                "正中神经"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，37岁，腰腿痛半年。请结合图像，选择最佳诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "L5～S1椎间盘变性",
+                "L5～S1椎间盘向后突出",
+                "L5～S1椎间盘变性并向后突出",
+                "L5～S1椎间盘膨出",
+                "L4～L5椎间盘向后突出"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘最常见的突出和退变间隙依次排列为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "L3～L4，L5～S1，L4～L5",
+                "L3～L4，L4～L5，L5～S1",
+                "L5～S1，L4～L5，L3～L4",
+                "L4～L5，L5～S1，L3～L4",
+                "L4～L5，L3～L4，L5～S1"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "描述马尾神经损伤的临床表现，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发生于第2腰椎以下的骨折脱位",
+                "表现是受伤平面以下的周围性瘫痪",
+                "2～4周后不会演变成痉挛性瘫痪",
+                "马尾神经完全断裂者少见",
+                "下肢出现病理性锥体束征"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "儿童膝关节全关节结核的治疗，应选择"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关节穿刺抽脓注入抗结核药物",
+                "单纯病灶清除术",
+                "膝关节滑膜切除术",
+                "石膏管型固定关节于功能位",
+                "病灶清除术＋膝关节加压融合术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于股骨头坏死，最早出现的临床症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "髋关节或膝关节疼痛，在髋部又以内收肌痛出现较早",
+                "跛行，行走困难，甚至拄拐行走",
+                "髋关节活动受限，以内旋及外展活动受限最为明显",
+                "髋关节肿胀，可见窦道形成",
+                "下肢外旋外展畸形"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下肢牵涉痛是由哪部分神经组织受刺激所致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "交感神经",
+                "脊神经前支",
+                "脊神经后支",
+                "脊神经前根",
+                "脊神经后根"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "手外伤的术后处理不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抬高患肢防止肿胀",
+                "注射破伤风抗毒血清",
+                "将桡茎突部的敷料剪开",
+                "术后用石膏托将手固定于伸直位",
+                "包扎时用纱布隔开手指同时露出指尖"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "早期狭窄性腱鞘炎的初始治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腱鞘切开松解肌腱",
+                "保守治疗，夹板固定，使用NSAID药物",
+                "局部注射醋酸泼尼松",
+                "针灸及理疗",
+                "使用抗生素治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "可导致马尾神经损伤的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "第10胸椎骨折脱位",
+                "第11胸椎骨折脱位",
+                "第12胸椎骨折脱位",
+                "第1腰椎骨折脱位",
+                "第2腰椎骨折脱位"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "棘上韧带损伤多见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈段",
+                "颈胸段",
+                "中胸段",
+                "胸腰段",
+                "腰段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "伸直型的肱骨髁上骨折骨折线的方向是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "从外下方斜向内上方",
+                "从后下方斜向前上方",
+                "从后上方斜向前下方",
+                "从前下方斜向内上方",
+                "从前下方斜向后上方"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于粘连性肩关节囊炎，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是关节周围多种软组织的慢性炎症",
+                "临床上为肩痛，关节活动受限",
+                "外展外旋后伸受限明显",
+                "自愈后不会遗留功能障碍",
+                "具有自限性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于腕管综合征，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为正中神经在腕管内受压",
+                "发病男多于女，常为单侧",
+                "常见病因为滑膜炎和肌腱炎",
+                "临床上屈腕试验诊断价值最大",
+                "白天疼痛轻，夜间疼痛重"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对截瘫患者应积极处理，防止并发症褥疮发生，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "每2小时翻身1次，夜间可适当减少次数，保证患者休息",
+                "床褥平软，及时料理，保持皮肤清洁干燥",
+                "对骨隆突部位用软垫或气枕垫好，并用25%～50%酒精擦洗，滑石粉按摩",
+                "对已发生深的褥疮要及时剪去坏死组织，用920油膏和中药粉治疗",
+                "待炎症控制，肉芽新鲜时，作转移皮瓣缝合"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于动脉危象，下列不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "皮色苍白",
+                "皮温降低",
+                "毛细血管回流加快",
+                "毛细血管回流缓慢或消失",
+                "指腹瘪陷"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者蹲着工作时，背部受暴力，膝跪地面，此时最可能出现的损伤是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腰椎压缩骨折",
+                "髋关节后脱位",
+                "半月板损伤",
+                "背部软组织挫伤",
+                "跟腱断裂"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腰椎结核临床常见的体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "拾物试验（＋）",
+                "“4”字试验（＋）",
+                "Thomas征试验（＋）",
+                "Trendelenburg征（＋）",
+                "直腿抬高试验（＋）"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种类型颈椎病发病率最高"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经根型",
+                "脊髓型",
+                "交感神经型",
+                "椎动脉型",
+                "食管型"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种类型的脊髓损伤预后最好"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊髓挫伤",
+                "脊髓震荡",
+                "脊髓和神经根损伤",
+                "脊髓裂伤",
+                "马尾损伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "髋关节全关节结核合并冷脓肿形成，诊断确定后最好应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "立即进行切开引流",
+                "立即进行病灶消除",
+                "应用抗结核药物2～4周后行病灶清除术",
+                "应用抗结核药物2～4周后行脓肿搔刮术",
+                "髋人字形石膏固定，并应用抗结核药物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "骨折后出现哪项体征，临床即可确诊"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疼痛与压痛",
+                "局部肿胀与淤斑",
+                "骨擦音和骨擦感",
+                "功能障碍",
+                "关节盂空虚"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "正中神经的描述中正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在臂部与肱动脉伴行，支配肱肌",
+                "起自臂丛内侧束",
+                "在腕管内侧进入手掌",
+                "支配鱼际肌",
+                "在前臂位于指浅、深屈肌之间"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "腰椎间盘突出症多见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "20～50岁",
+                "40岁以下",
+                "30～40岁",
+                "20～30岁",
+                "50岁以上"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在尺神经损伤的临床表现中，下列正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "桡侧皮肤感觉迟钝",
+                "拇背伸功能障碍",
+                "猿手畸形",
+                "手的第二蚓状肌麻痹",
+                "第三、四蚓状肌及骨间掌、背侧肌麻痹"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "颈椎病颈6神经根受压时，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "拇指的感觉减退",
+                "中指感觉减退",
+                "肱二头肌腱反射消失",
+                "肱三头肌腱反射消失或减弱",
+                "Hoffmann征阳性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "臂丛内侧束发出的神经是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "正中神经",
+                "胸内侧神经",
+                "腋神经",
+                "肌皮神经",
+                "桡神经"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正中神经支配的肌肉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "桡侧腕长伸肌",
+                "骨间掌侧肌",
+                "指浅屈肌",
+                "桡侧腕短伸肌",
+                "尺侧腕伸肌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脊柱结核易发生于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颈椎",
+                "胸椎",
+                "腰椎",
+                "骶尾骨",
+                "胸腰椎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种情况的骨关节结核不适于手术治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有明显死骨，较大脓肿",
+                "经久不愈的窦道",
+                "脊柱结核合并截瘫",
+                "单纯滑膜结核经药物治疗效果不佳",
+                "有混合性感染，体温高，中毒症状明显"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

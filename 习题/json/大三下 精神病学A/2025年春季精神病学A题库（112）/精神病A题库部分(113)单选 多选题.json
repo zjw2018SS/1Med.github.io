@@ -1,0 +1,676 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "精神病A",
+        "source": "未知",
+        "filename": "精神病A题库部分(113)单选",
+        "type_all_num": 22,
+        "dev": {
+            "wrap_num": 22,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_2_num": 22,
+        "time": "25年05月16日03小时20分26秒",
+        "id": "id-mapr8bz5-2w81fowzl"
+    },
+    "body": [
+        {
+            "questions": [
+                "在判定某一精神活动是否异常时，一般从以下几个方面考虑"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "纵向比较 ",
+                "横向比较 ",
+                "结合当事人的心理背景进行分析 ",
+                "结合当事人的具体环境进行具体分析和判断 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪些属于思维形式障碍"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "思维奔逸 ",
+                "超价观念 ",
+                "思维散漫 ",
+                "词语杂拌 "
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "记忆的过程包括"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "识记 ",
+                "保持 ",
+                "回忆 ",
+                "再认 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下面属于知觉障碍的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "错觉 ",
+                "感觉过敏 ",
+                "妄想 ",
+                "幻觉 "
+            ],
+            "answers": [
+                "AD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于强制性思维和强迫性思维，不正确的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "强制性思维是自己的思想 ",
+                "强迫思维往往同一内容的思维反复持续出现 ",
+                "强迫思维是外力强加的不属于自己的思想 ",
+                "两者均常见于强迫症 "
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "情感障碍中属于情感性质改变的有"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "情绪不稳 ",
+                "恐惧 ",
+                "情感高涨 ",
+                "情绪低落 "
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "精神分裂症患者常见的前驱期症状包括"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "行为改变 ",
+                "情绪改变 ",
+                "认知改变 ",
+                "躯体改变 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪些症状对诊断精神分裂症有重要价值"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "思维插入 ",
+                "思维被夺 ",
+                "思维被广播 ",
+                "联想松弛 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对精神分裂症患者的神经生化机制中，比较有意义的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "多巴胺(DA)活动过度假说 ",
+                "谷氨酸生化假说 ",
+                "5羟色胺（5-HT） ",
+                "去甲肾上腺素（NE）通路功能障碍假说 "
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "广泛性焦虑障碍的症状可有"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "过度担忧 ",
+                "不能静坐 ",
+                "心悸 ",
+                "出汗 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "失眠障碍的表现有"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "早醒 ",
+                "睡眠不深 ",
+                "梦魇 ",
+                "睡眠节律紊乱 "
+            ],
+            "answers": [
+                "AB"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于神经性贪食的临床表现，以下正确的是（ ）"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "其主要特征为发作性暴食 ",
+                "暴食后患者因恐惧体重增加而自己诱发呕吐，严重者边吃边诱吐，可持续数小时 ",
+                "患者常采取多种手段，如引吐、导泄、服减肥药等以避免体重增加 ",
+                "多数患者体重明显增加 "
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "抑郁障碍的病人常常会出现"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "思维迟缓，反应迟钝 ",
+                "自觉不如他人 ",
+                "意志活动减退 ",
+                "思维贫乏 "
+            ],
+            "answers": [
+                "ABC"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "questions": [
+                "双相情感障碍可选择的治疗药物有"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "碳酸锂 ",
+                "丙戊酸钠 ",
+                "丁螺环酮 ",
+                "奥氮平 "
+            ],
+            "answers": [
+                "ABD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下关于谵妄的说法，正确的是 "
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "意识障碍有昼轻夜重的特点 ",
+                "可有人格改变 ",
+                "可伴有错觉、幻觉 ",
+                "有的谵妄病人出现冲动行为 "
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于抑郁障碍的表现正确的说法是（ ）"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "抑郁障碍的核心症状是情绪低落 ",
+                "抑郁患者较容易出现自杀行为 ",
+                "抑郁障碍患者往往思维活动减慢 ",
+                "抑郁患者多伴有焦虑，紧张等症状 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于真性幻觉及假性幻觉的说法，不正确的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "真性幻觉来自于外部客观空间 ",
+                "真性幻觉不是通过感官获得的 ",
+                "真性幻觉常常被患者描述为亲耳听到或者亲眼看到的 ",
+                "假性幻觉就像感知外界真实事物一样形象、鲜明 "
+            ],
+            "answers": [
+                "BD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于惊恐障碍的描述，正确的是（ ）"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "是一种突如其来的惊恐体验 ",
+                "发作过后，常担心下次再发 ",
+                "发作中伴濒死感或失控制感以及严重的自主神经功能紊乱症状 ",
+                "多数患者因担心发病时得不到帮助而产生回避行为 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于精神障碍的素质因素，下列说法正确的是（ ）"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "素质主要包括心理素质及躯体素质两个方面 ",
+                "心理素质与人脑的结构无关 ",
+                "心理素质本身不是致病因素 ",
+                "躯体素质与机体的代谢类型及遗传素质相关 "
+            ],
+            "answers": [
+                "ACD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "双相情感障碍发病的形式有"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "抑郁发作 ",
+                "躁狂发作 ",
+                "轻躁狂发作 ",
+                "混合发作 "
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于Ganser综合征的说法，正确的是"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "属于痴呆",
+                "属于假性痴呆",
+                "对简单的问题给与近似而错误的回答",
+                "对某些复杂问题可以自己解决",
+                "预后较差"
+            ],
+            "answers": [
+                "BCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "questions": [
+                "震颤谵妄的治疗包括"
+            ],
+            "type": [
+                "多选题"
+            ],
+            "type_code": "2",
+            "options": [
+                "预防各种感染",
+                "控制精神症状",
+                "对症处理",
+                "保持安静的环境",
+                "首选氟哌啶醇治疗"
+            ],
+            "answers": [
+                "ABCD"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%",
+                "100%",
+                "100%",
+                "100%"
+            ],
+            "answers_matching_index": [
+                0,
+                1,
+                2,
+                3
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1704 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（泌尿外科）A2",
+        "type_all_num": 70,
+        "dev": {
+            "wrap_num": 70,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 70,
+        "time": "25年01月13日11小时39分31秒",
+        "id": "id-m5uhwdn7-ujs4r2fh0"
+    },
+    "body": [
+        {
+            "questions": [
+                "患者，男，31岁，主诉酒后发烧，并伴尿频、尿急、尿痛、排尿费力1天，无咽痛咳嗽，肛门内痔。体检一般情况好，T39.1℃，P108次/min，血WBC21×109/L，尿常规检查有少量WBC。为明确诊断，下列哪项体检是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双肾触诊及肾区叩击痛",
+                "尿道口检查，了解有无分泌物",
+                "阴囊检查，了解睾丸及附睾情况",
+                "检查耻骨上区，了解有无尿潴留",
+                "按摩前列腺，取前列腺液检查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，45岁，肢体软弱无力、夜尿多2年余，今晨起双下肢不能活动。查体：血压170/100mmHg，均匀性轻度肥胖，双下肢松弛性瘫痪，血钾2.4mmol/L。最可能的诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发性高血压",
+                "嗜铬细胞瘤",
+                "肾性高血压",
+                "原发性醛固酮增多症",
+                "库欣病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，26岁，近一年来时有右下腹疼痛伴膀胱刺激症状。查体：腹软，右下腹深压痛，右腰部轻叩痛。尿常规：红细胞＋＋/HP，白细胞＋/HP。肾图检查：右侧呈梗阻型曲线。应考虑为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性膀胱炎",
+                "急性阑尾炎",
+                "慢性附件炎",
+                "急性肾盂肾炎",
+                "右侧输尿管下段结石"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，36岁，右侧腰痛，伴发热5天，最高达39.8℃，有轻度贫血，尿常规正常。下列情况中可能性最小的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血沉快",
+                "白细胞高",
+                "CT可能显示有占位病变",
+                "可能与大肠杆菌感染有关",
+                "可能与葡萄球菌感染有关"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，67岁，无痛性肉眼血尿3个月，尿细胞学检查发现癌细胞。由此可以除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盏癌",
+                "肾盂癌",
+                "输尿管癌",
+                "膀胱癌",
+                "前列腺癌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，70岁。诊断为前列腺增生症，下列哪项不是手术治疗的指征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "非手术治疗无效",
+                "反复出现急性尿潴留，及肉眼血尿",
+                "反复泌尿系感染且合并膀胱结石",
+                "慢性尿潴留合并肾功能损害",
+                "排尿困难，且前列腺大小为5cm×5cm×6cm"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，24岁，左侧腰酸胀1年余。B超示左肾积水明显，左肾区有一1cm×1.5cm大小的强回声，KUB＋IVP左肾结石，左肾积水，左肾输尿管交界线显影较细小。诊断最应考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂输尿管连接部狭窄",
+                "结石梗阻",
+                "迷走血管压迫",
+                "炎性狭窄",
+                "肾盂输尿管连接部狭窄＋继发结石"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某男，69岁，排尿困难2年，饮酒后不能排尿6小时，下腹憋胀难忍。检查：耻骨上膨隆，叩诊呈实音。以下检查不是必要的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直肠指检",
+                "腹部平片",
+                "PSA",
+                "前列腺B超",
+                "尿流动力学"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，65岁，间歇性全程无痛肉眼血尿4个月，伴血块。膀胱镜检查膀胱黏膜光滑，未见新生物，可见右输尿管口喷血。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾癌",
+                "输尿管末端囊肿",
+                "肾结石",
+                "肾盂癌",
+                "输尿管狭窄"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，65岁。尿频伴进行性排尿困难2年余，3小时前突然不能排尿，伴下腹部胀痛。查体：下腹部膨隆，叩诊浊音。处理首先应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急症手术",
+                "留置导尿管",
+                "口服雌激素",
+                "口服酚苄明",
+                "留观察室观察"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，56岁。全程肉眼血尿1周来诊，膀胱镜见膀胱后壁1.1cm直径大小乳头状肿瘤，有蒂。尿细胞学检查：移行上皮癌Ⅰ～Ⅱ级。其最佳治疗方案是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱内灌注噻替哌",
+                "膀胱部分切除术",
+                "经尿道膀胱肿瘤切除术",
+                "膀胱全切除术",
+                "膀胱切开肿瘤切除术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患儿，男，11岁，发现右腹部渐膨隆1年。查体：右中上腹部隆起，可扪及肿块巨大，有波动感。B超检查：右肾巨大积水，肾皮质菲薄。IVP：右肾不显影，左肾显影正常。逆行肾盂造影：右输尿管肾盂交界处狭窄。应考虑下列哪项治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾切除术",
+                "肾造瘘术",
+                "输尿管狭窄段切除＋肾盂成形术",
+                "输尿管造瘘术",
+                "逆行输尿管肾盂插管引流"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，40岁，以膀胱肿瘤于1周前行膀胱部分切除术，其预后主要决定于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤的分化程度及浸润深度",
+                "肿瘤的组织类型",
+                "肿瘤的生长方式",
+                "肿瘤的大小",
+                "肿瘤的数目"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，43岁，左侧腰部不适2年余，结合图像，最可能的诊断是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肾髓样脂肪瘤",
+                "左肾盏憩室",
+                "左肾囊肿",
+                "左肾积水",
+                "左肾错构瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，20岁，3小时前从6米高处跌下。腰疼、肉眼血尿，检查神清合作。Bp75/45mmHg（10/6kPa），P120次/min，左腰擦皮伤，局部稍隆，触痛（＋），右上腹可触及包块，轻度肌紧张。B超：左肾周见3cm×3cm×2cm液性暗区，肝、脾被膜完整，腹腔穿刺阴性。最重要的处理应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗生素应用",
+                "止血药应用",
+                "止痛药应用",
+                "输血补液",
+                "立即手术探查"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一名30岁工人，从5米高处跌下后腰部着地，腰痛排血尿。检查BP 16/10kPa（120/75mmHg）心肺正常，右腰部饱满压痛，尿检查镜下RBC满视野、肾CT提示右肾实质裂伤。下列处理哪一项是不对的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期使用抗生素",
+                "给予止血剂及镇痛药",
+                "密切注意血压脉搏及尿色变化",
+                "卧床休息至少1周",
+                "积极补充血容量"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，36岁。右肾疼痛3天。尿常规：红细胞充满/HP，白细胞2～3/HP。尿路平片可见右下段输尿管走行区高密度阴影0.6cm。IVU可见右输尿管下段结石，其上输尿管轻度扩张，右肾轻度积水。患者中西药物治疗和大量饮水及活动后绞痛解除，突然出现尿流中断及排尿终末痛，原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性前列腺炎",
+                "结石在输尿管间壁段",
+                "结石到膀胱",
+                "结石到尿道",
+                "尿道炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，50岁，3次分娩史。半年来，咳嗽、下楼梯时常出现尿失禁症状。该患者尿失禁为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "真性尿失禁",
+                "压力性尿失禁",
+                "充盈性尿失禁",
+                "急迫性尿失禁",
+                "容量性尿失禁"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，55岁，请根据所示图像，选择最可能诊断 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾癌",
+                "肾结石",
+                "肾错构瘤",
+                "肾盂癌",
+                "单纯性肾囊肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，31岁，结婚5年不育。查体：右侧阴囊下垂明显，右侧睾丸较左侧明显偏小，右侧精索可触及团状肿块，增加腹压后肿块增大，平卧后肿块缩小不明显。该患者诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右侧精索静脉曲张Ⅲ度",
+                "右侧精索静脉曲张Ⅱ度",
+                "右侧精索静脉曲张Ⅰ度",
+                "右侧附睾炎",
+                "右侧睾丸鞘膜积液"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，35岁，左侧结核性脓肾，右侧肾积水，膀胱挛缩，BUN21mmol/L，Hb80g/L，最适宜的处理为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肾切除术",
+                "抗结核药物治疗",
+                "膀胱扩张术",
+                "中药治疗",
+                "抗结核治疗同时行右肾造瘘术"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，30岁。不慎被车撞伤右腰部，伤后右腰疼痛，尿红色。首先要做的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "IVP",
+                "CT",
+                "B超",
+                "MRI",
+                "尿常规"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，61岁。6天前发现尿色发红，无膀胱刺激症状，无发热，无腰痛，体检未发现阳性体征。尿常规检查：红细胞10～20/HP。为明确诊断，下列处理最适宜的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口服抗生素并行KUB检查",
+                "减少活动，1周后复查尿常规",
+                "行双肾、输尿管、及膀胱的B超检查",
+                "尿找结核菌",
+                "腹部CT检查，了解泌尿系统情况"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，39岁，反复发作阴茎包皮炎1年余，不能自解小便1天。查体：膀胱胀大于脐下2指，阴茎包皮过长，包茎，包皮口针眼状。当前对该患者最合适的处理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "包皮环切",
+                "导尿",
+                "包皮口切开",
+                "前列腺切除",
+                "膀胱造瘘"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，46岁。高处坠落臀部着地2小时。查体：脉细弱，血压70/50mmHg。面色苍白，腹平软无压痛，左腰部膨隆，触痛明显，安置导尿管导出150ml淡黄色透明尿液。快速输血800ml病情无好转。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脾破裂",
+                "脾蒂损伤",
+                "肾挫伤",
+                "肾挫裂伤",
+                "肾蒂损伤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，36岁。施工时不慎跌落，骑跨于水泥墙上。排尿困难3小时。首要的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "导尿",
+                "尿道探条检查",
+                "尿道膀胱镜检查",
+                "输尿管镜检查",
+                "尿流动力学检查"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，55岁，右侧腰、腹部偶尔不适1年余，CT影像如图所示，其最可能的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右肾癌",
+                "右肾囊肿",
+                "右肾积水",
+                "右肾盂旁囊肿",
+                "右肾脓肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，30岁。从高处跌下，左腰部着地，伤后腰痛并有肉眼全程血尿，有小血块。查体：P100次/min，BP110/70mmHg，左腰部青紫压痛，腹部无压痛反跳痛。可初步诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱损伤",
+                "输尿管损伤",
+                "脾损伤并肾损伤",
+                "肾损伤",
+                "肾挫伤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，53岁，夜尿频1年，无尿潴留史。直肠指诊：前列腺略大，质韧，中央沟变浅。B超残余尿量10ml。适宜的治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺摘除术",
+                "前列腺尿道支架",
+                "经尿道前列腺电切术",
+                "应用α受体阻滞剂改善排尿症状",
+                "膀胱造瘘术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "一女性40岁，体检拍片发现右肾钙化，肾影较小，IVP造影右肾无功能，以下哪项病史与右肾病情关系最密切"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "15年前被自行车撞击右腰部后休息1周",
+                "反复膀胱炎2年",
+                "6年前曾排出过泌尿结石数枚",
+                "2年前曾因卵巢恶性肿瘤手术治疗",
+                "5年前曾因甲状旁腺功能亢进手术治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，32岁。右肾绞痛后无尿1天，腹部平片可见双侧输尿管中部各有结石一枚，约1cm大小，左肾内还有鹿角形结石。急诊处理应先采用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "服中药排石",
+                "中西结合解痉排石",
+                "膀胱镜下输尿管插管缓解肾功能引流尿液",
+                "利尿药物应用",
+                "立即手术输尿管切开取石"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，25岁。尿频、尿急、尿痛3个月，一般抗炎治疗无效，目前每次尿量30ml。IVP：右肾未显影。为早期确诊，还应给予哪项检查"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿沉渣查抗酸杆菌",
+                "尿结核杆菌培养",
+                "尿动物接种",
+                "膀胱镜检查",
+                "同位素肾图"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，45岁。2天前突然起病，尿频，尿痛，伴有明显的肉眼血尿，排尿次数每日多达数十次，体温36.4℃。尿液镜检发现红细胞充满视野，且可见到较多的白细胞。中段尿细菌培养：菌落计数为15000/ml。最应该考虑为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肾盂肾炎",
+                "膀胱肿瘤",
+                "急性膀胱炎",
+                "疑为尿路结石",
+                "尿液被污染"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，40岁。尿频尿急尿痛症状明显，用抗生素后症状无明显改善。偶有脓尿，反复多次尿培养阴性，尿抗酸杆菌涂片（＋）。考虑诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱炎",
+                "泌尿系结核",
+                "泌尿系结石",
+                "肾盂肾炎",
+                "膀胱异物"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，45岁。左侧输尿管内有一1.0cm×1.5cm的密度增高影，右肾盂内有大小分别为2.0cm×2.2cm、1.5cm×1.7cm的密度增高影。如果决定手术治疗，应先行"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左输尿管套石术",
+                "左输尿管切开取石术",
+                "右肾部分切除术",
+                "右肾盂切开取石术",
+                "右肾实质切开取石术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男。10年前左肾因外伤被切除，近2～3年经常右腰酸痛，时伴发热。尿培养（－），B超发现右肾中度积水，尿路平片和排泄性造影提示右输尿管下段结石直径为1cm。血BUN 8mmol/L，Cr 105µmol/L。目前最妥当的处理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继续抗菌治疗",
+                "手术摘除右输尿管结石",
+                "右输尿管逆行插管引流肾盂尿",
+                "中药排石治疗",
+                "右肾造瘘术"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一男子用打气筒给自行车充气，不慎被反弹打气筒柄击伤会阴部，虽能排尿，但尿道口滴血。来急诊查体：膀胱区不胀，会阴部无血肿，对此患者最恰当的处置是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "留置导尿管并会阴部加压止血",
+                "经会阴切开行尿道修补术",
+                "膀胱造瘘＋会阴加压止血",
+                "注水试验判明情况后再做决定",
+                "尿道造影判明情况后再做决定"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，60岁，左侧阴囊肿大1年余，体检示阴囊肿大呈卵圆形，表面光滑无压痛，囊性感，睾丸触及不清，透光实验阳性。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "睾丸肿瘤",
+                "附睾结核",
+                "睾丸鞘膜积液",
+                "腹股沟斜疝",
+                "睾丸炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，46岁，无痛性全程肉眼血尿，间断出现1年，一般状态较差，2个月前曾因心梗住过院。下列检查应首选"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉肾盂造影",
+                "膀胱镜逆行造影",
+                "输尿管镜",
+                "B超",
+                "肾图"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，68岁。2年前开始出现尿频，夜间明显，随后出现排尿费力，逐渐加重。近半年来尿频明显，并有尿急，排尿痛，肉眼血尿，有时有尿流中断现象。应首先考虑为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱肿瘤",
+                "尿道狭窄合并肾结核",
+                "前列腺增生",
+                "慢性细菌性膀胱炎合并膀胱结石",
+                "前列腺增生合并膀胱结石"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，50岁，3月前出现间歇性肉眼血尿，IVP见左肾盂内有不规则充盈缺损，膀胱镜检见左侧输尿管口喷血，应首先考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾肿瘤",
+                "膀胱肿瘤",
+                "肾囊肿",
+                "肾盂肿瘤",
+                "肾结石"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，16岁，无诱因反复大量肉眼血尿，近半月低热。查体：右肾可触及，轻叩痛。KUB右肾影大，有壳状钙化影，IVP右肾上盏缺如，中盏有弧形压迹，中下盏会聚。血沉40mm/h，血RBC8.30×1012/L。最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾癌",
+                "肾盂癌",
+                "肾结核",
+                "输尿管肿瘤",
+                "肾挫伤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，50岁。2个月来间歇性无痛性全程血尿，近3天来加重伴有血块。B型超声双肾正常，膀胱内有1.5cm×2.0cm×1.0cm新生物，有蒂。为明确诊断，最重要的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿常规",
+                "尿脱落细胞检查",
+                "膀胱镜检",
+                "静脉尿路造影",
+                "CT"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，60岁。体检前列腺体积增大，血PSA 45ng/ml。应首先采取的治疗方式为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "导尿治疗",
+                "前列腺根治性切除术",
+                "经直肠前列腺穿刺活检术",
+                "双睾丸切除术",
+                "内分泌治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，63岁，间歇无痛全程肉眼血尿1个月。查体：左肾下极可及，B超提示左肾占位病变，IVP肾盂肾盏受压，尿细胞学（－），膀胱镜检查可见左输尿管口喷血，最可能诊断的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肾癌",
+                "左肾结石",
+                "左肾盂肿瘤",
+                "左肾母细胞瘤",
+                "左肾囊肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，56岁，腹部包块伴高血压。CT扫描如图所示，下列说法错误的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双肾体积明显增大",
+                "双肾内可见多个大小不等的囊性病灶，呈蜂窝状改变",
+                "肝内可见多个大小不等的囊性病灶",
+                "考虑为多囊肾、多囊肝",
+                "考虑为双肾多发单纯性囊肿"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，50岁，反复出现肾绞痛3年，经常尿出小结石。来门诊请医生指导预防措施，问促进上尿路结石形成的因素，哪一项是无关的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "饮食结构中肉类过多",
+                "长期卧床不起",
+                "饮食结构中纤维素过少",
+                "尿中枸橼酸增多",
+                "肾小管酸中毒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，58岁，主诉近半年多来排尿费力，且症状逐渐加重，近1个月出现腰骶部疼痛。为明确诊断首选检查为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膀胱镜检及活组织检查",
+                "尿常规检查",
+                "尿液检查癌细胞",
+                "肛门指诊及穿刺活组织检查",
+                "脊柱、骨盆CT检查"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，46岁，右腰部外伤后疼痛伴肉眼血尿4小时。查体：血压150/75mmHg，脉搏100次/min，尿常规红细胞满视野。可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾盂广泛裂伤",
+                "肾挫裂伤合并输尿管断裂",
+                "肾挫裂伤",
+                "肾被膜下损伤合并肾周血肿",
+                "肾血管断裂"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，75岁。右侧胸痛伴咯血3个月余，胸部CT提示右侧中央型肺癌，结合图像，作出的诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右侧肾上腺囊肿",
+                "右侧肾上腺转移瘤",
+                "右侧肾上腺腺瘤",
+                "右侧肾上腺癌",
+                "右侧肾上腺嗜铬细胞瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，21岁。骑自行车摔伤右腰部，伤后腰部疼痛，无肉眼血尿。查体：右腰部叩击痛明显，血压85/50mmHg，心率115次/min。可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "轻度肾损伤",
+                "肾蒂损伤",
+                "中度肾损伤",
+                "肾挫裂伤",
+                "输尿管损伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，23岁。发现肉眼血尿2天。每次排尿初始为血尿，以后尿液颜色逐渐转为正常，初步判断病变位于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前尿道",
+                "膀胱底部",
+                "肾、输尿管",
+                "膀胱颈及三角区",
+                "前列腺部"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，33岁，反复尿频、尿急及尿痛4年。尿检：大量红细胞及白细胞。IVP发现左肾下盏有破坏灶，形成空腔。可能的诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾癌",
+                "肾积水",
+                "肾母细胞瘤",
+                "肾结核",
+                "肾盂肾炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "根据所示图像，最可能的诊断是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肾恶性肿瘤",
+                "左肾盂恶性肿瘤",
+                "左肾囊肿",
+                "左肾盂旁囊肿",
+                "左肾脓肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，30岁，一般状态良好。尿中RBC 8～10/HP，WBC 0～1/HP，B超右肾区见0.8cm强光团，其后伴声影。下述哪一病史与此患最相关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "绞痛伴血尿",
+                "尿频尿痛终末血尿",
+                "无痛性全程肉眼血尿",
+                "尿线中断伴血尿",
+                "肾区包块时大时小"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，24岁，尿频、尿急、尿痛5天，腰痛伴发热1天，最高体温39℃。查体：双肾区叩击痛（＋）。血常规：WBC13×109/L，N85.6%。可能的诊断为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性膀胱炎",
+                "急性肾小球肾炎",
+                "慢性膀胱炎",
+                "急性肾盂肾炎",
+                "慢性肾盂肾炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，25岁。诊断左肾结核，右输尿管结石，直径0.8cm。静脉肾盂造影：左肾未显示，右肾轻度积水，结石下输尿管显示正常。肾功检查正常。宜先行哪种治疗"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切除左肾",
+                "引流右肾积水",
+                "急行右输尿管切开取石",
+                "抗结核治疗，等待结石自然排出",
+                "抗结核治疗，输尿管结石体外震波碎石治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，26岁。尿频，尿道有异物感及排白色黏液伴阴部不适，早泄，失眠近1年。怀疑为慢性前列腺炎，应作哪项检查确诊"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿常规",
+                "前列腺液常规",
+                "尿培养",
+                "尿液涂片找细菌",
+                "前列腺液培养"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，35岁，尿频尿急尿痛1年。有米汤样尿，尿常规白细胞满视野，IVP左肾实质内有数个大小不等异常充盈区，肾盂充盈不佳，右肾盂肾盏显示有轻度积水。治疗方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肾部分切除",
+                "左肾病灶清除术",
+                "右肾造瘘术",
+                "左肾切除术",
+                "抗结核药物治疗"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，34岁，右侧腰部剧痛1天，尿常规提示 RBC＋＋＋，B超提示右肾积水。肾积水最可能的原因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右肾结核",
+                "右输尿管结石",
+                "右肾肿瘤",
+                "右肾输尿管连接部狭窄",
+                "右输尿管肿瘤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一患者，47岁，男性，高热，怀疑右肾周围炎，住院期间用了大量抗生素，因菌种失调，发生严重腹泻数日，并出现肢体无力，急性尿潴留。引起急性尿潴留的最可能原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前列腺增生症",
+                "腹泻",
+                "右肾周围炎",
+                "补充钙剂",
+                "药物过敏"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，21岁。骑自行车摔在右腰部，伤后腰部痛，无肉眼血尿。查体：血压、脉搏正常，右腰部无包块但有叩击痛。尿常规：红细胞充满/HP。诊断哪种损伤确切"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "重度肾损伤",
+                "肾挫伤",
+                "中度肾损伤",
+                "肾血管损伤",
+                "输尿管损伤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，54岁。尿色发红1周，无膀胱刺激症状，无发热，无腰痛。不必要的措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹部CT",
+                "尿找结核菌",
+                "双肾、输尿管及膀胱B超检查",
+                "减少活动，1周后复查尿常规",
+                "口服抗生素并行KUB检查"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，23岁，因反复肾绞痛住院，体检肾区明显叩痛，尿中有许多RBC，B超示双肾多发性结石，KUB（－），IVP示双肾轻度积水，血尿酸及尿尿酸均明显增高。患者尿酸增高的主要原因可能为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "吃含尿酸类食物过多",
+                "长期尿路感染，尿PH升高",
+                "体内嘌呤代谢异常",
+                "甲状旁腺功能亢进",
+                "可能由于某种药物引起"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一30岁患者，半年来尿频、尿痛、尿血及脓尿，抗生素治疗效果不佳，尿普通细菌培养（－）。为明确诊断，最重要的检查方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尿路平片",
+                "B超",
+                "CT",
+                "排泄性或逆行性肾盂造影",
+                "肾动脉造影"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，33岁，无尿1天，1年来有过3次腰部阵发剧痛。为明确尿闭原因，可作为首选的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾血管造影",
+                "逆行性肾盂造影",
+                "双肾CT",
+                "IVP",
+                "泌尿系超声检查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，38岁。间歇性四肢乏力3年，测血压165/90mmHg，血钾3mmol/L，血浆肾素水平明显降低，可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嗜铬细胞瘤",
+                "原发性醛固酮增多症",
+                "原发性高血压",
+                "肾小球肾炎",
+                "肾盂肾炎"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者一侧肾结核，对侧肾积水，挛缩膀胱。入院前2天尿量开始减少，每天为400ml，肾积水侧腰部胀痛，血BUN、Cr轻度升高。在抗结核治疗的同时，首要的处理为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "结核肾切除术",
+                "血液透析",
+                "积水肾造瘘术",
+                "插尿管持续导尿",
+                "膀胱扩大术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，35岁，上腹部隐痛不适伴消瘦1月。胃镜提示胃癌。CT扫描如图所示：右侧肾上腺区可见一占位性病灶。应诊断为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右肾上腺腺瘤",
+                "右肾上腺腺癌",
+                "右肾上腺转移瘤",
+                "右肾上腺嗜铬细胞瘤",
+                "右肾上腺错构瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，27岁。突发上腹痛，伴恶心、呕吐，急查尿常规红细胞满视野，白细胞5～10/HP，血常规正常。考虑右输尿管结石，最适当的急诊处理方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大量饮水",
+                "口服抗菌药物",
+                "消炎，解痉，止痛",
+                "ESWL",
+                "手术探查"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        }
+    ]
+}

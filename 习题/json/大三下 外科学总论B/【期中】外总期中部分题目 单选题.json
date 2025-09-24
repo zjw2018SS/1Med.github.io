@@ -1,0 +1,965 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科学总论B",
+        "source": "学习通期中考试",
+        "filename": "外总期中部分题目",
+        "type_all_num": 48,
+        "dev": {
+            "wrap_num": 48,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 48,
+        "time": "25年04月16日01小时48分15秒",
+        "id": "id-m9isq86i-u5grmtv8x"
+    },
+    "body": [
+        {
+            "questions": [
+                " 男性，20岁，食用鱼胆后间断恶心，呕吐3天，少尿2天。入院查体血压120/80mmHg，脉搏91次/分，该患者可能出现的最危险的变化是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "水中毒",
+                "高钾血症",
+                "少尿",
+                "代谢性酸中毒",
+                "氮质血症"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 一成年女子，熬汤时不小心烫伤，被烧伤部位有左手、左前臂、双足及双小腿，则该病人烧伤面积为",
+                "5%",
+                "5%"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "25.5%",
+                "31%",
+                "26%",
+                "25%",
+                "24.5%"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 幽门梗阻病人的持续性呕吐可造成"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低氯高钾性碱中毒",
+                "低氯高钾性酸中毒",
+                "低氯低钾性碱中毒",
+                "高氯低钾性碱中毒",
+                "低氯低钾性酸中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 发现溶血反应时错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "减慢输血速度",
+                "血浆置换治疗",
+                "应用甘露醇",
+                "应用糖皮质激素"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 因幽门梗阻而长期行胃肠减压，可造成（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低氯高钾性碱中毒",
+                "低氯低钾性酸中毒",
+                "低氯低钾性碱中毒",
+                "高氯高钾性酸中毒",
+                "低氯高钾性酸中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 女性，32岁，肠梗阻3天，无力，脱水征明显，BP80/50mmHg，P120次/分，Na+120mmol/L，K+3.0mmol/L，CO2CP18mmol/L，其补液首先应是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纠正低钠",
+                "纠正低钾",
+                "纠正酸中毒",
+                "补充血容量",
+                "补充水"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 女性，44岁，体重45kg。烧伤头颈部和双下肢。头颈部呈红斑状、表面干燥，有烧灼感。双下肢创面红润，疼痛明显。第一个24小时补晶体液的总量是",
+                "5ml",
+                "5ml"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5712.5ml",
+                "3105ml",
+                "2070ml",
+                "3712.5ml",
+                "5105ml"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 静脉补充钾盐时输入钾量的速度应控制在（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "<10mmol/h",
+                "<15mmol/h",
+                "<20mmol/h",
+                "<25mmol/h",
+                "<30mmol/h"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 补液试验为取等渗盐水250ml，一般于多少分钟内经静脉注入（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5～10分钟",
+                "<5分钟",
+                "30分钟",
+                "60分钟",
+                "45分钟"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 患者，男，60岁，作业时引起火灾造成前躯干III度烧伤面积达10%，伤后7天，出现寒战高热，体温达39.5℃，创面溶痂，有脓性分泌物，创面分泌物细菌培养为金黄色葡萄球菌。这个时候应采取的最佳治疗是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "半暴露疗法，局部敏感抗生素湿敷",
+                "包扎疗法，局部应用敏感抗生素",
+                "切痂，去除坏死组织，全身应用抗感染治疗",
+                "包扎疗法，同时全身应用敏感抗生素",
+                "暴露疗法"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 最有可能导致急性肾功能衰竭的损伤是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脊柱骨折伴截瘫",
+                "广泛I度烧伤",
+                "挤压综合征",
+                "股骨骨折",
+                "尺桡骨骨折"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 高钾血症的常见病因中，下列错误的是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾衰竭，导致少尿或无尿",
+                "大量组织破坏使细胞内的钾外移",
+                "大量输入保存期较久的库存血",
+                "输入钾盐过多，过快",
+                "代谢性碱中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 脑复苏的低温治疗何时解除"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "72小时",
+                "36小时",
+                "24小时",
+                "听觉恢复时",
+                "48小时"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 下列哪项与烧伤休克期无关？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口渴烦躁",
+                "手足湿冷",
+                "尿少，并可能有血红蛋白尿",
+                "心率增快",
+                "高热、谵妄"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 手术中输血过程发现手术野渗血不止和低血压最可能的并发症是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "过敏性休克",
+                "感染性休克",
+                "出血倾向",
+                "溶血反应",
+                "以上都不是"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 急性肾衰竭少尿期造成病人死亡的常见电解质失衡"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高磷血症和低钙血症",
+                "低钠血症",
+                "低氯血症",
+                "高镁血症",
+                "高钾血症"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 治疗高钾血症最有效的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "静脉输注葡萄糖",
+                "静脉输注葡萄糖+胰岛素溶液",
+                "血液透析",
+                "静脉输注苏打(NaHCO3)",
+                "口服阳离子交换树脂"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 男性，33岁，体重70kg，矿工，瓦斯爆炸烧伤，面颈（头部除外）、双上肢、双下肢（臀部除外）深度烧伤，伤后2小时送至医院。除外体表烧伤，还应首先考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "骨折",
+                "脑外伤",
+                "吸入性损伤",
+                "脾破裂",
+                "CO中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 女性，48岁，心搏骤停，脑复苏时，降低颅内压的措施，下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低温",
+                "肾上腺皮质激素",
+                "脱水以减少细胞外液",
+                "维持正常偏高水平的血容量",
+                "维持正常偏高水平的血浆胶体渗透压"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 休克的本质是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血压低",
+                "中心静脉压高",
+                "尿量少",
+                "酸中毒",
+                "组织细胞缺氧"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 下列哪项不是回收式自体输血的适应证？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹主动脉瘤破裂失血",
+                "外伤性肝破裂",
+                "门静脉高压症手术时的失血",
+                "外伤性脾破裂",
+                "宫外孕破裂腹腔大出血"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 关于烧伤，下列说法不正确的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "因感染所导致的肾功能不全多为少尿型",
+                "严重烧伤早期可出现“休克心”",
+                "肺部并发症居烧伤后各类并发症之首",
+                "脑水肿多在输液已达一定量或休克逐渐平稳时发生"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 目前最多采用的CVP插管途径是（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大隐静脉",
+                "颈外静脉",
+                "锁骨下静脉或颈内静脉",
+                "股静脉",
+                "贵要静脉"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 下列说法正确的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全血在保存过程中发生了保存损害，丧失了一些有用成分，如血小板、粒细胞、不稳定的凝血因子",
+                "急性大量患者需要输注红细胞时，应首选的品种是浓缩红细胞",
+                "去除白细胞和血小板、肝炎病毒和抗A、抗B抗体的红细胞属于冰冻红细胞",
+                "对于存在凝血功能障碍的肝病患者，应给予输注白蛋白"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 根据中国新九分法，下列错误的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "双大腿双小腿双足双臀46%",
+                "躯干26%",
+                "双手5%",
+                "双上肢18%",
+                "头面颈各3%"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 等渗性缺水的主要病理基础是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞内液低渗",
+                "细胞内液高渗",
+                "细胞外液低渗",
+                "细胞外液高渗",
+                "细胞外液量骤减"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 男性，消防员，25岁，60Kg，救火时被火焰烧伤全身多处，烧伤总面积45%，其中III度烧伤面积25%，伤后无尿，下列哪项措施应首选？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "紧急输血",
+                "切痂或削痂",
+                "气管插管",
+                "静脉切开或静脉穿刺插管",
+                "植皮"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 患者，女，222岁，因食用烧烤出现频繁呕吐、腹泻伴发热3天，送到医院时口渴不安，尿少，皮肤弹性减低，尿比重1.033，符合："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低渗性中度缺水",
+                "高渗性重度缺水",
+                "高渗性中度缺水",
+                "等渗性重度缺水"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 休克监测中最常用的项目是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺动脉楔压",
+                "心排出量",
+                "心脏指数",
+                "中心静脉压",
+                "血气分析"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 患者，男，48岁，失血性休克，抢救后CVP17cmH2O，BP80/50mmHg，此时应选用",
+                "4mg缓慢静脉注射"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新福林5mg肌肉注射",
+                "西地兰0.4mg缓慢静脉注射",
+                "异丙肾上腺素1 mg静脉滴注",
+                "去甲肾上腺素5 mg静脉滴注",
+                "去甲肾上腺素10mg静脉滴注"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 最严重的输血反应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "出血倾向",
+                "溶血反应",
+                "枸橡酸中毒",
+                "发热反应",
+                "过敏反应"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 下列说法正确的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脑组织代谢率高，氧耗大，能量储备大",
+                "体温每下降2℃，可使脑代谢率下降5%-6%",
+                "心搏骤停不超过3-4分钟者，其神经系统功能可自行恢复，不必低温治疗",
+                "人脑组织的重量占体重的5%"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 有关休克的分类方法很多，一般按病因将其分为5类，但不包括（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低血容量性休克",
+                "感染／脓毒性休克",
+                "过敏性休克和心源性休克",
+                "血液异常分布性休克和阻塞性休克",
+                "神经性休克"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 病人男性，50岁，因胰十二指肠切除而并发肠瘘，每日消化液丢失约1000ml。近日病人出现腹胀、恶心和呕吐，四肢无力。腱反射消失，肠鸣音减弱，该病人是以下哪种情况"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低钾血症",
+                "高钙血症",
+                "低渗性缺水",
+                "等渗性缺水",
+                "水中毒"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 2人以上进行成人心肺复苏时胸外按压实施者交换按压操作的时间间隔为（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1分钟",
+                "2分钟",
+                "3分钟",
+                "5分钟",
+                "10分钟"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 急性肾功能衰竭少尿期高分解状态，最适合的营养治疗是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "优质低蛋白饮食",
+                "高热量、低蛋白饮食",
+                "高蛋白、高热量、低盐饮食",
+                "补充必需氨基酸",
+                "全静脉营养疗法"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 心肺复苏的首要目标是（2分）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "意识恢复",
+                "心跳恢复",
+                "自主呼吸恢复",
+                "听觉恢复",
+                "肢体运动功能改善"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 正常血清钾离子浓度为？",
+                "5-4.5mmol/L",
+                "0-5.0mmol/L",
+                "0-5.5mmol/L",
+                "5-5.5mmol/L"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "3.5-4.5mmol/L",
+                "3.0-5.0mmol/L",
+                "3.0-5.5mmol/L",
+                "3.5-5.5mmol/L"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 造成肾后性急性肾衰的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "广泛烧伤",
+                "严重挤压伤",
+                "双输尿管结石",
+                "脱水",
+                "感染性休克"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 水中毒的病因中不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胰岛素分泌过多",
+                "机体摄入水分过多",
+                "静脉输液过多",
+                "抗利尿激素分泌过多"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 患者，男，25岁，与人斗殴时全身多处受木棒反复打击，近两日尿量为400ml，救时哪项离子检查至关重要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "K⁺",
+                "Na⁺",
+                "Cl⁻",
+                "Ca²⁺",
+                "Mg²⁺"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 女性，65岁，上消化道出血呕血800ml。查体，血压80/50mmHg，脉搏130次/分，呼吸30次/分，目前的首要处理是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "给予强心药物",
+                "给予升压药",
+                "胃镜检查",
+                "止血，抗休克治疗",
+                "胃肠道血管造影"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 临床上器官移植术后最主要的抗急性排斥的药物是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫唑嘌呤",
+                "环孢素A",
+                "单克隆抗体",
+                "环磷酰胺",
+                "长春新碱"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 关于烧伤，以下说法正确的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "烧伤休克的主要原因是患者烧伤时体液蒸发",
+                "大面积烧伤采用暴露疗法，常引起等渗性缺水",
+                "在烧伤全身感染的防治中，感染症状控制后，应及时停用抗生素，不能留待体温平稳",
+                "烧伤的临床分期有体液渗出期、急性感染期和创面修复期。",
+                "深Ⅱ度烧伤一般不留瘢痕"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 下列不属于细胞移植的是（）。"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脾细胞移植",
+                "输血",
+                "胰岛细胞移植",
+                "血管移植",
+                "骨髓与造血干细胞移植"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 下列说法正确的是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "儿童的心搏骤停往往是呼吸原因导致的，需要强调通气的意义。",
+                "心搏骤停最常见的心率失常是房颤。",
+                "复苏时，可经气管给予碳酸氢钠、氯化钙等药物。",
+                "除颤仪除颤时，双向波功率200J，单项波400J。"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        },
+        {
+            "questions": [
+                " 心肺脑复苏时最常用最有效的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "利多卡因",
+                "肾上腺素",
+                "阿托品",
+                "胺碘酮",
+                "碳酸氢钠"
+            ],
+            "answers": [],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": []
+        }
+    ]
+}

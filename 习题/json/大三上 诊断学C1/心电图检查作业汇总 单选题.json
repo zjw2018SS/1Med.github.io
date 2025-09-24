@@ -1,0 +1,4234 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "心电图检查作业汇总",
+        "type_all_num": 257,
+        "dev": {
+            "wrap_num": 257,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 257,
+        "time": "24年12月01日19小时45分00秒",
+        "id": "id-m45jb393-fsykhdnj0"
+    },
+    "body": [
+        {
+            "questions": [
+                "轻度高血钾时,心电图主要表现为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波电压降低",
+                " P波消失",
+                " R波降低,S波加深",
+                " P-R间期延长",
+                " T波高尖,基底部变窄"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在心电图上P波反映的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 窦房结除极",
+                " 窦房结复极",
+                " 心房除极",
+                " 心房复极",
+                " 房室结除极"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "整个心脏除极与复极过程中实际存在的各瞬间综合心电向量称为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心电向量环",
+                " P环",
+                " QRS环",
+                " T环",
+                " 立体心电向量"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪组导联出现坏死波是前壁心肌梗死的特征心电图改变:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1-V3导联",
+                " V3-V5导联",
+                " V1-V5导联",
+                " ⅠavL导联",
+                " Ⅱ,Ⅲ,avF导联"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心电图上P波与QRS波无关,心室率38次/分,律齐,该患者最可能的诊断为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 窦性心动过缓",
+                " 二度Ⅱ型房室传导阻滞",
+                " 交界性心律",
+                " 三度房室传导阻滞",
+                " 高度房室传导阻滞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "正常Q-T间期•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0.32~0.40秒",
+                " 0.33~0.42秒",
+                " 0.32~0.44秒",
+                " 0.32~0.50秒",
+                " 0.33~0.50秒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肺心病的心电图诊断的主要依据为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肺性P波",
+                " 左房肥大",
+                " 左室肥大",
+                " QRS波呈RS型",
+                " 窦性心律不齐"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "前间壁心肌梗死在心电图上主要表现在下列哪些导联上:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅰ,avL",
+                " Ⅱ,Ⅲ,avF",
+                " V1-V3",
+                " V4-V6",
+                " V7-V8"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "探查电极置于左锁骨中线第五肋间的导联为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1",
+                " V2",
+                " V3",
+                " V4",
+                " V5"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "完全性右束支传导阻滞最有诊断价值的是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波心电轴左偏",
+                " Vl、V2导联呈QS或rS型",
+                " 室上性节律,QRS波时限≥0.12秒,Vl、V2导联呈rSR’或M型",
+                " QRS波时限 < 0.12秒",
+                " P-R间期 > 0.10秒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心室率每分钟40次,律齐,P波与QRS波群无关,该患者应考虑为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅱ度房室传导阻滞",
+                " Ⅲ度房室传导阻滞",
+                " 窦性心动过缓",
+                " 窦性心动过速",
+                " 交界性心律"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某患者，心电图表现为：V1、V2导联QRS波群呈rS型，V5、V6导联呈R型，且顶峰有明显切迹，QRS时间0.11s，应考虑为：•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 完全性左束支传导阻滞",
+                " 完全性右束支传导阻滞",
+                " 左前分支传导阻滞",
+                " 左后分支传导阻滞",
+                " 不完全性左束支传导阻滞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于ST段的阐述,下列哪一项不正确:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段是自QRS波群的终点至T波起点间的线段",
+                " ST段表示心室除极刚结束尚处在缓慢复极的段一短暂时间",
+                " 任何导联ST段下移应< 0.05mV",
+                " V1、V2导联ST段抬高应< 0.3mV",
+                " V5、V6导联ST段抬高应< 0.5mV"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心房纤颤的心电图表现,下列错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 正常P波消失,代之以大小不同,形状各异的颤动波",
+                " 颤动波的频率为250~350次/分",
+                " 心室律绝对不规则,QRS波群一般不增宽",
+                " 是临床上很常见的心律失常",
+                " 许多心脏疾病发展到程度都有出现心房颤动的可能,多与心房扩大和心房肌受损有关."
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "V2与V4连接的中点是哪个导联安放的位置?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸导联V1",
+                " 胸导联V2",
+                " 胸导联V3",
+                " 胸导联V4",
+                " 胸导联V5"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "整个QRS波群全部向下称为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Q 型",
+                " Rs型",
+                " Qr型",
+                " qS型",
+                " QS型"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "QT间期的意义是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房除极及复极全过程",
+                " 心室除极过程",
+                " 心室缓慢复极过程",
+                " 心室快速复极过程",
+                " 心室除极及复极全过程"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在QRS波群中第一个向上的波称为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Q 波",
+                " R波",
+                " S 波",
+                " R'波",
+                " S'波"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有一病人的心电图中,Ⅱ导联的P波时间为0.12s,其顶端有切迹呈双峰型,峰间距为0.05s,应诊断为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 肺型P波",
+                " 二尖瓣型P波",
+                " 逆行P波",
+                " 右房肥大",
+                " 右室肥大"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心电图中,T波的振幅不应低于同导联R波的:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1/2",
+                " 1/4",
+                " 1/6",
+                " 1/8",
+                " 1/10"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "正在复极的心肌细胞,尚未复极的部位膜外应为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 正电荷",
+                " 负电荷",
+                " 零电位",
+                " 正电位",
+                " 无电荷"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正常心电图中P波的宽度:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " < 0.04s",
+                " < 0.08s",
+                " < 0.12s",
+                " < 0.11s",
+                " < 0.13s"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "除极后的心肌细胞,细胞膜内外的电荷是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 内正外负",
+                " 内负外正",
+                " 内外均正",
+                " 内外均负",
+                " 内为零电位"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "代表心室快速复极的电位变化是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波",
+                " QRS波",
+                " P-R间期",
+                " T波",
+                " ST段"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心肌损伤性心电图改变为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波双向",
+                " T波改变",
+                " QRS波畸形",
+                " ST段偏移",
+                " P-R间期延长"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心肌梗塞的\"损伤型\"心电图改变主要表现在:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " R波电压降低",
+                " 异常Q波",
+                " T波直立高耸",
+                " ST段抬高",
+                " T波对称性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于室壁激动(R峰)时间正确的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 自R波顶峰起至QRS波的时间",
+                " 自QRS波起始部起至R波顶峰所作垂线间的时间",
+                " QRS波时间的总和",
+                " 自QRS波的起始部至T波开始之间的一段时间",
+                " 自R波顶峰起作垂线至T波开始之间的一段时间"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正在除极的心肌细胞,尚未除极的部位膜外应为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 正电荷",
+                " 负电荷",
+                " 零电位",
+                " 负电位",
+                " 无电荷"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是右心室肥厚的表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1的R波与S波之比为1:1",
+                " V1的R 波+V5的S波=1.3 mV",
+                " avR的R波=0.8 mv",
+                " V5的R波+V1的S波=3.2 mv",
+                " 电轴右偏+110°"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是室性期前收缩的心电图特征:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 提前出现QRS-T,其前无提早出现的P波",
+                " QRS与正常窦性者相同",
+                " 提前出现的QRS-T中的T波与QRS主波方向相反",
+                " 代偿间歇完全",
+                " 室早的QRS可落在前面的T波上"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "正常P波时间为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " <0.12s",
+                " 0.04~0.10s",
+                " <0.20s",
+                " <0.13s",
+                " <0.05s"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是诊断窦性心律最主要依据:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心率在100次/分以下",
+                " 心率在60次/分以上",
+                " P波宽度不超过0.12秒",
+                " P波电压不大于0.25毫伏",
+                " Ⅱ,ⅢavF的P波直立,avR的P波倒置,P-R间期>0.12秒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是诊断室性期前收缩最主要的依据•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 提前出现的QRS波群宽大畸形",
+                " 早搏的QRS波群前方无P波",
+                " T 与QRS主波方向相反",
+                " 早搏后有完全的代偿间歇",
+                " 早搏后有P波"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "指出下列哪项不是右心室肥大的特征?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 额面心电轴 一300",
+                " V1导联R/S≥1",
+                " RV1十SV5>1.05mV",
+                " 有的病例可见V1呈QS、QR型",
+                " 右胸前导联STT改变"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是标准Ⅱ导联的联接方式:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左上肢为阳极,右上肢为阴极",
+                " 左上肢为阴极,左下肢为阳极",
+                " 右上肢为阴极,右下肢为阳极",
+                " 右上肢为阳极,左下肢为阴极",
+                " 左下肢为阳极,右上肢为阴极"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于心电图波形的含义,下列哪项是错误的:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波为心房除极波",
+                " QRS波为心室除极波",
+                " PR段反映心房复极",
+                " T波为心室复极波",
+                " P-R间期为心房除极终点至心室除极开始的时间"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心电图中的J点是指:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " R波终末处",
+                " Q 波终末处",
+                " R波顶峰垂线处",
+                " QRS波群的起点",
+                " QRS波群的终末部"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "反映左、右心室移行变化的导联是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1导联放在胸骨右缘第4肋间",
+                " V2导联放在胸骨左缘第4肋间",
+                " V3导联放在V2与V4的连接线的中点",
+                " V4导联放在左腋中线第5肋间相交处",
+                " V5导联放在左腋前线V4水平处"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心电图表现P与QRS无固定关系,P-P间期和R-R间期各自相等,房率为66次/分,室率为44次/分,QRS波群形态基本正常,心电图诊断为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 二度Ⅰ型房室传导阻滞",
+                " 二度Ⅱ型房室传导阻滞",
+                " 三度房室传导阻滞",
+                " 一度房室传导阻滞",
+                " 束支传导阻滞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "反映两个肢体之间电位差的导联是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 标准导联",
+                " 单极导联",
+                " 加压单极肢体导联",
+                " 胸导联",
+                " aVR"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "前间壁心肌梗死的定位导联是下列哪项:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " I、aVL",
+                " Ⅱ、Ⅲ、aVF",
+                " Vl、V2、V3",
+                " V4、V5、V6",
+                " V7、V8、V9"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "窦性心动过缓,是指窦性心律的频率:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " <100次/分",
+                " <90次/分",
+                " <80次/分",
+                " <70次/分",
+                " <60次/分"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于胸导联电极的安放,下列哪项不正确:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1------胸骨右缘第四肋间",
+                " V2------胸骨左缘第四肋间",
+                " V3------V2与V4连线中点",
+                " V4------左第5肋间锁骨中线处",
+                " V5------左第5肋间腋前线处"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "左心室肥大的主要诊断依据是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " RVl > 1.5 mV",
+                " RaVL < 1.2 mV",
+                " RaVF < 2.0 mV",
+                " RVl+SV5 > 1.2 mV",
+                " RV5+SVl:男 > 4.0 mV,女 > 3.5 mV"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肺型P波的特点为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 高尖",
+                " 低平",
+                " 倒置",
+                " 增宽",
+                " 正常"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "探查电极置于左锁骨中线第五肋间的导联为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1",
+                " V2",
+                " V3",
+                " V4",
+                " V5"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列期前收缩中,QRS形态正常的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 交界性早搏",
+                " 间插性室性早搏",
+                " 多源性室性早搏",
+                " 室性早搏呈二联律",
+                " 房性早搏伴室内差异传导"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于ST段的叙述,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 正常的ST段多为一等电位线",
+                " 在任一导联,ST段下移不应超过0.5 mV",
+                " ST段上升在V1~V2导联不超过0.3 mV",
+                " ST段上升在V3导联不超过0.5 mV",
+                " ST段上升在V4~V6不超过0.1 mV"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "完全性右束支传导阻滞的心电图表现,除外:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " QRS波群时限≥0.12s",
+                " QRS波后半部在I、II、aVL、等为宽而有切迹的S波",
+                " aVR呈QR型,其R波宽而有切迹",
+                " V1.2导联ST段轻度压低,T波倒置",
+                " P波消失"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于心电图产生原理方面,以下哪一项是错误的:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心电的产生是心肌细胞随心动周期变化而出现的电位动态改变",
+                " 在静息状态下心肌细胞膜内为带正电的钾离子反应",
+                " 在静息状态下心肌细胞内钾离子向细胞外透出",
+                " 静息状态下心肌细胞膜外为负电,膜内为正电",
+                " 静息期的心肌细胞呈极化状态"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "目测心电轴主要根据以下哪两个导联中QRS波群的主波方向:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅰ、Ⅱ",
+                " Ⅱ、Ⅲ",
+                " Ⅰ、Ⅲ",
+                " aVR、aVL",
+                " aVL、aVF"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心房扑动的心电图表现,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 无正常P波,代之为F波",
+                " F波间为等电位线,波幅大小不等",
+                " 频率为250~350次/分",
+                " 心室律规则",
+                " QRS波时限一般不增宽"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "代表心室肌除极电位和时间变化的波形是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波",
+                " P-R间期",
+                " QRS波群",
+                " S-T 段",
+                " T波"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心电轴右偏,是指心电轴在:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0°∼ +30°",
+                " +30°∼ +90°",
+                " +90°∼ +180°",
+                " -30°∼ -90°",
+                " ≤+110°"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "正常的Q波振幅应小于同导联中R波的:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1/2",
+                " 1/3",
+                " 1/4",
+                " 1/5",
+                " 1/6"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心电图示各导联S-T段普遍抬高常见于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心肌梗塞",
+                " 心肌病",
+                " 冠心病心衰",
+                " 急性心包炎",
+                " 急性心肌炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "P波的产生是由于下列哪个部位除极引起:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左心房除极",
+                " 右心房除极",
+                " 左心室除极",
+                " 右心室除极",
+                " 左,右心房除极"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于心电轴,下列说法那项正确:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅰ导联主波向上,Ⅲ导联主波向下-电轴右偏",
+                " Ⅰ、Ⅲ导联主波均向下-电轴不偏",
+                " Ⅰ导联主波向下,Ⅲ导联主波向上-电轴右偏",
+                " 正常心电轴在0o~+110o之间",
+                " 心电轴轻度右偏是指心电轴在+90o~+120o之间"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "整个心脏除极与复极过程中实际存在的各瞬间综合心电向量称为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心电向量环",
+                " P环",
+                " QRS环",
+                " T环",
+                " 立体心电向量"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下壁心肌梗死的特征性心电图改变,主要表现在:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1-V3导联",
+                " V3-V5导联",
+                " V1-V5导联",
+                " Ⅰ,avI导联",
+                " Ⅱ,Ⅲ,avF导联"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "室早最重要心电图特点是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 提前出现宽大畸形QRS波",
+                " 提前出现P波",
+                " T波方向与主波方向相反",
+                " 无P波",
+                " 代偿间期完全"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心室律绝对不规则的心电图是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左后分支传导阻滞",
+                " 室性阵发性心动过速",
+                " 房性心动过速",
+                " 心房颤动",
+                " 室性逸搏心律"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心肌梗塞者损伤型ST段是指:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段压低呈水平型",
+                " ST段抬高弓背向上型",
+                " ST段压低下垂型",
+                " ST段压低呈上斜型",
+                " ST-T连接成鱼勾钩状"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性心肌梗塞时,对诊断最有价值的心电图改变是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Q波﹥同导联R波的1/5",
+                " T波倒置",
+                " 频发性室性早搏",
+                " T波异常高耸,呈帐篷型改变",
+                " 病理性Q波伴ST段弓背上抬,与T波形成单向曲线"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "行心电图检查时V2导联的探查电极应置于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸骨右缘第二肋间",
+                " 胸骨左缘第二肋间",
+                " 胸骨右缘第四肋间",
+                " 胸骨左缘第四肋间",
+                " 第五肋间与左锁骨中线相交处"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一种情况,心电轴一般不出现左偏:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左心室肥厚",
+                " 左前分支阻滞",
+                " 肥胖",
+                " 横位心",
+                " 左后分支阻滞"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对急性心肌梗死病人进行持续心电监护,最少连续监测•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 1~3天",
+                " 3~5天",
+                " 5~7天",
+                " 7~9天",
+                " 9~11天"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心电图诊断右心室肥厚的主要条件是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1、V2导联ST段压低",
+                " 电轴右偏",
+                " 继发S-T,T改变",
+                " QRS电压增高",
+                " V1主波向上"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "V6导联放置于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸骨右缘第4肋间",
+                " 胸骨左缘第4肋间",
+                " 左锁骨中线与第5肋间相交处",
+                " 左腋前线与V4同一水平处",
+                " 左腋中线与V4同一水平处"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是急性心肌梗死最早期的心电图改变:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段抬高呈弓背向上",
+                " 出现异常Q波和S/T段抬高",
+                " 出现异常Q波,ST段抬高和T波倒置",
+                " T波高耸",
+                " 以R波为主的导联ST段呈水平型下移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项心电图特征不支持慢性冠状动脉供血不足:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段水平型压低>0.05mV",
+                " T波高耸呈帐篷状",
+                " 各种心律失常",
+                " 左心室肥大、Q-T间期延长",
+                " U波持续倒置"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "哪项不是慢性冠状动脉供血不足心电图改变:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段水平型下移",
+                " ST段下垂型下移",
+                " ST段近似缺血型下移",
+                " J点下移",
+                " 冠状T波"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "V1导联放置于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸骨右缘第4肋间",
+                " 胸骨左缘第4肋间",
+                " 左锁骨中线与第5肋间相交处",
+                " 左腋前线与V4同一水平处",
+                " 左腋中线与V4同一水平处"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心肌细胞在除极或复极时细胞膜外形成电偶,电偶的方向是指向•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 负电荷",
+                " 零电位",
+                " 正电荷",
+                " 细胞内",
+                " 细胞外"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "T波的产生是由于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房除极",
+                " 心房复极",
+                " 心室除极",
+                " 心室复极",
+                " 心房心室复极"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "P-R间期的意义是代表•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房除极时间",
+                " 心房复极时间",
+                " 心房除极至复极时间",
+                " 心房除极至心室开始除极的时间",
+                " 心房除极与心室复极的时间"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于U波的说法,下列不正确的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在T波后0.02∼0.04秒出现",
+                " 振幅很低小",
+                " 其产生机制为心室剩余除极电流的影响",
+                " 方向大体与T波相一致",
+                " 明显增高时见于血压过低"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "符合心房颤动诊断的心电图表现是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波消失,代之以连续的大锯齿状F波",
+                " P波消失,代之以大小不等形状各异的f波",
+                " f波的频率为250~350次/分",
+                " QRS波>0、12秒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "P波振幅在胸导联应该:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " < 0.25mV",
+                " < 0.2mV",
+                " < 0.3mV",
+                " < 0.15mV",
+                " < 0.1mV"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "S-T 段下移的正常范围,在任何导联不应•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " >0.25mV",
+                " >0.15 mV",
+                " >0.10 mV",
+                " >0.05 mV",
+                " >0.20 mV"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列关于正常心电图S-T段向下偏移的范围正确的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 在任何导联,S-T段向下偏移不应超过0.05毫伏",
+                " 在任何导联,S-T段向下偏移不应超过0.1毫伏",
+                " 在标准导联,S-T段向下偏移不应超过0.1毫伏",
+                " 在加压单极肢体导联,S-T段向下偏移不应超过0.1毫伏",
+                " 在V4-V6导联,S-T段后下偏移不应超过0.1毫伏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "窦性心律的主要诊断条件是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 无P波",
+                " P波在I、V5、V6导联倒置,aVR导联直立",
+                " P波在I、Ⅱ导联直立,aVR导联倒置,P-R间期≥0.12秒",
+                " 可见逆行P波,P-R间期<0.20秒",
+                " P波消失,f波代替"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项可暂不进行心电监护•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 急性心肌梗死",
+                " 不稳定型心绞痛",
+                " 安装心脏起搏器时",
+                " 抗心律失常药物应用中",
+                " 窦性心律不齐"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不符合莫氏Ⅰ型房室传导阻滞特征的是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P-R间期逐渐延长,直至一次QRS波脱落",
+                " P-R间期延长部分进行性缩短",
+                " R-R间隔逐渐缩短,直至一次长的间歇",
+                " 长R-R间隔≥2次短的R-R间隔之和",
+                " 间歇后第一次R-R间隔大于间歇前R-R间隔"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心电图中QRS波群的振幅,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1的R波一般不小于1.0mV",
+                " V5的R波不超过2.5 mV",
+                " aVL的R波小于1.2 mV",
+                " aVF的R波小于2.0 mV",
+                " I的R波小于1.5 mV"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在心电图上最早出现的幅度较小的P波,反映的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房的复极过程",
+                " 心房的除极过程",
+                " 心室的除极过程",
+                " 心室的复极过程",
+                " 心房到心室激动的一个完整过程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "将某一导联正.负电极之间设想的连线,称为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心电图导联",
+                " 心电轴",
+                " 中心电端",
+                " 导联轴",
+                " 附加导联"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于T波的描述,下列描述错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 代表心室快速复极时的电位变化",
+                " 在正常情况下,T波的方向大多与QRS波主波的方向一致",
+                " 代表心室缓慢复极过程",
+                " 若心内膜下心肌缺血,使T波向量增大,面向缺血区的导联出现高大的T波",
+                " 若心外膜下心肌缺血,面向缺血区的导联出现倒置的T波"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是心肌损伤的心电图特征性表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段弓背型抬高",
+                " T波深倒置",
+                " ST段下斜型降低",
+                " 病理性Q波",
+                " ST-T鱼钩样降低"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "左心室肥大的诊断,不正确的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " QRS最大向量增大,如V5或V6的R波>2.5mV",
+                " 心电轴≥十900",
+                " QRS总时间>0.10s",
+                " 并存STT改变",
+                " 单次检查呈左室高电压表现,诊断应慎重"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "将两个平行而方向相反的心电向量进行综合,采用的方法是两者•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 抵消",
+                " 相加",
+                " 相减",
+                " 相乘",
+                " 按平行四边形法则"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "房性期前收缩的主要诊断条件是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 代偿间歇常完全",
+                " P’一R间期<0.12秒",
+                " P’波按时出现,R-R按时出现",
+                " P’波提前出现,但形态与窦性者相同",
+                " P’波提前出现,P’波的外形与同导联窦性P波不同,代偿间歇不完全"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "病人突发心悸,心电图示心率180次/分,QRS波时间0.10秒,R-R绝对整齐,此心电图为( )•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 房室交界性逸博心律",
+                " 阵发性室上性心动过速",
+                " 阵发性室性心动过速",
+                " 窦性心动过速",
+                " 房颤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项提示为完全性右束支传导阻滞:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波与QRS波有固定关系",
+                " QRS波时限>0.12秒",
+                " V1导联的QRS波呈rSR’且时限>0.12秒",
+                " V1导联S-T段下移>0.1秒",
+                " V1导联T波倒置"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某患者一年前发生急性下壁心肌梗塞,现作心电图检查,下列哪项是其心电图表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段降低",
+                " T波倒置",
+                " QRS波群低电压",
+                " 出现宽而深的Q波",
+                " 房室传导阻滞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "左腋前线与V4同一水平处是哪个导联安放的位置?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸导联V1",
+                " 胸导联V2",
+                " 胸导联V3",
+                " 胸导联V4",
+                " 胸导联V5位于"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "QRS波群终点至T波起始点之间的一段基线称为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P-R间期",
+                " S-T 段",
+                " Q-T 间期",
+                " J点",
+                " R-R间期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项代表心电图的心室的除极过程:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波",
+                " T波",
+                " QRS波",
+                " U波",
+                " S-T段"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "阵发性室上性心动过速的诊断条件为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " QRS波时限>0.12秒",
+                " 可见P波多样化",
+                " 常伴室内差异性传导",
+                " QRS波频率100次/分钟以上,可见逆行P波,P-R间期>0.12秒",
+                " 连续3个或3个以上的室上性期前收缩,频率160-250次/分钟"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心电图常规12导联除avR外,均出现S-T段弓背向下抬高,提示以下哪种疾病:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 急性心肌梗死",
+                " 心肌炎",
+                " 冠心病心绞痛",
+                " 急性心包炎",
+                " 扩张性心肌病"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "整个QRS波群全部向下称为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Q 型",
+                " Rs型",
+                " Qr型",
+                " qS型",
+                " QS型"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "变异心绞痛与心肌梗死在心电图上的鉴别点是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " S-T段上抬",
+                " T波异常高耸",
+                " 频发室性早搏",
+                " T波呈冠状T",
+                " 病理性Q波"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性前间壁心肌梗死QS波主要出现在下列哪组导联?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " I.II",
+                " II. III. avF",
+                " avL",
+                " V1~V3",
+                " V4~V6"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项符合心肌炎患者的心电图诊断:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 宽性心律不齐",
+                " 偶发性交界性早搏",
+                " 肺型P波",
+                " 室性早搏",
+                " 游走性心律"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "PR间期的意义是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房除极及复极全过程",
+                " 心房开始除极至心室开始除极过程",
+                " 心室除极过程",
+                " 心室快速复极过程",
+                " 心室缓慢复极过程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "青年男性,心率55次/分,律齐,P-R间期0.18秒且固定,应考虑为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 交界性心律",
+                " II 度房室传导阻滞",
+                " III度房室传导阻滞",
+                " 窦性心动过缓",
+                " 正常心律"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "尖端扭转型室性心动过速的诊断条件为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 连续3个室性期前收缩,偶联间期相反",
+                " 连续3~10个室性搏动至相反方向围绕基线不断扭转,频率160-250次/分钟",
+                " QRS波时限 > 0.12秒",
+                " R-R间期不规整",
+                " R-R间期绝对不齐"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "左房肥大的心电图特点是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波高尖",
+                " P波增宽呈双峰型",
+                " P波振幅≥0.25mV",
+                " P波振幅≥0.25mV,又呈双峰型",
+                " 高大的P波以II、III导联最突出"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不符合正常成人心电图:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " PR间期0.12~0.20秒",
+                " P波时限<0.12秒",
+                " V1、V2导联ST段上抬一般<0.3mV",
+                " QRS波群时限<0.12秒",
+                " QT间期0.20~0.32秒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一般正常的Q波时限应:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " <0.04s",
+                " <0.06s",
+                " <0.08s",
+                " <0.10s",
+                " <0.12s"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一种情况,心电轴一般不出现右偏:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 右心室肥厚",
+                " 左后分支阻滞",
+                " 垂直位心",
+                " 左前分支阻滞",
+                " 右束支传导阻滞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "鉴别心绞痛与心肌梗死最有意义的心电图改变是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段上抬",
+                " T波倒置",
+                " 同导联Q波的深度>1/4波,Q波时限>0.04秒",
+                " ST段降低>0.05毫伏",
+                " 高大的T波"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "All of the following must be included in ECG interpretation except:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Conduction Analysis",
+                " PU interval",
+                " Waveforms",
+                " Rhythm Analysis",
+                " QT interval"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于心电图各波的名称,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " R波后再出现的P波称为P’波",
+                " S波后再出现的正向波称R’波",
+                " R’波后再出现的负向波称为S’波",
+                " 在一个导联上,可根据波幅的大小,将QRS波写成Q或q,R",
+                " ST段之后出现的向上或向下的波为T波"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "P波高尖其振幅0.28mv,且II、III及avF导联表现最为突出,多见属于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左心房肥大",
+                " 右心房肥大",
+                " 双房肥大",
+                " 左心室肥大",
+                " 右心室肥大"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "区分心肌梗死和心绞痛最有意义的心电图改变是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段上升",
+                " T波呈冠状T",
+                " 合并心律失常",
+                " T波高耸",
+                " 病理性Q波"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心电图各波段的时间哪项不正常:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波< 0.11S",
+                " QRS波群 0.06-0.10S",
+                " Q波< 0.04S",
+                " P-R 0.20-0.24S",
+                " S-T段 0.10-0.16S"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关心房纤颤的心电图表现,下列哪项是不正确的:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波消失,代之以f波",
+                " f波的频率为350-600/min",
+                " 心室律绝对不规则",
+                " QRS波一般不增宽",
+                " V5导联f波最为明显"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "单极胸导联V1电极应放在•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸骨左缘第4肋间",
+                " 左腋前线V4水平处",
+                " 胸骨右缘第4肋间",
+                " 左锁骨中线与第5肋问相交点",
+                " 左腋中线第5肋间水平处"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心肌梗死陈旧期的心电图表现,主要是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波消失,代之以f波",
+                " 坏死性Q波",
+                " ST段下移",
+                " T波倒置",
+                " 出现u波"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "心肌缺血的心电图改变是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波 > 0.25 mV",
+                " aVR导联T波倒置0.1 mV",
+                " Vl导联ST段抬高0.1 mV",
+                " V3、V4导联ST段J点抬高0.3 mV",
+                " Ⅱ、Ⅲ、aVF导联ST段水平型下移0.2 mV"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "单极胸导联V5电极应放在•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左锁骨中线第5肋间",
+                " 胸骨右缘第4肋间",
+                " 左腋中线第5肋间水平处",
+                " 胸骨左缘第4肋间",
+                " 左腋前线V4水平处"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Ⅰ导联心电图表现R-R间隔0.33s,每个QRS波前均可见直立P波,P-R间期为0.12s,QRS时间和形态均正常,T波倒置,心电图诊断为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 房性阵发性心动过速",
+                " 交界性阵发性心动过速",
+                " 室性阵发性心动过速",
+                " 房性阵发性心动过速伴室内差异传导",
+                " 窦性心动过速"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心电图示：无正常QRS-T波，代之以连续快速而相对规则的大振幅波，频率200～250次/分，应考虑为：•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房扑动",
+                " 心房颤动",
+                " 室性心动过速",
+                " 心室扑动",
+                " 心室颤动"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者,男性,47岁,心电图表现为P波增宽有切迹呈双峰样,峰间距离大于0.04秒,P波时限>0.12秒,该患者可诊断为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 风心病二尖瓣狭窄",
+                " 冠心病",
+                " 高血压性心脏病",
+                " 病毒性心肌炎",
+                " 慢性肺源性心脏病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在心电图的Ⅱ.Ⅲ.aVF导联出现宽大Q波,S-T段呈弓背向上型抬高,与倒置T波融合成一单向曲线,应诊断为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前间壁心梗",
+                " 前壁心梗",
+                " 前侧壁心梗",
+                " 广泛前壁心梗",
+                " 下壁心梗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "右心室肥大的主要诊断依据是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Rl>1.2 mV",
+                " RVl<0.7 mV",
+                " RV5>2.5 mV",
+                " RV1+SV5≥1.2 mV",
+                " RV5+SVl≥4.0 mV"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "正常成人心率在正常范围时,P-R间期为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0.08∼0.11s",
+                " 0.08∼0.20s",
+                " 0.12∼0.16s",
+                " 0.12∼0.20s",
+                " 0.16∼0.24s"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "成人P-R间期•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0.39~0.43秒",
+                " 成人≤0.11 秒,儿童<0.09秒",
+                " 0.05~0.15秒",
+                " 0.12~0.20秒",
+                " 0.06~0.10秒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "V4导联放置于:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸骨右缘第4肋间",
+                " 胸骨左缘第4肋间",
+                " 左锁骨中线与第5肋间相交处",
+                " 左腋前线与V4同一水平处",
+                " 左腋中线与V4同一水平处"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "左房肥大心电图表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " RV5+SV1>4.0mV(男性)或>3.5mV(女性)",
+                " S-T段压低(水平或下斜型下移)≥0.1mV",
+                " P波增宽,时限≥0.12s,常呈双峰型,两峰间距≥0.04s",
+                " RV1+SV5>1.05mV",
+                " P波尖耸,振幅≥0.25mV"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "正常P波时间为:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " <0.12s",
+                " 0.04~0.10s",
+                " <0.20s",
+                " <0.13s",
+                " <0.05s"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项提示P波异常:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " II导联P波直立",
+                " III导联P波双向",
+                " aVR导联P波倒置",
+                " aVL导联P波不明显",
+                " V5导联P波倒置"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心房颤动的心电图特点,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 各导联无正常P波,代之以f",
+                " f波频率为350~600次/分",
+                " 心室律规则",
+                " QRS波一般不增宽",
+                " f波通常以V1导联最明显"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胸骨右缘第4肋间是哪个导联安放的位置?•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 胸导联V1",
+                " 胸导联V2",
+                " 胸导联V3",
+                " 胸导联V4",
+                " 胸导联V5"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "洋地黄中毒最常见的心律失常:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 室性期前收缩二联律、三联律",
+                " 心房颤动",
+                " 阵发性心动过速",
+                " 双向性心动过速",
+                " 窦性停搏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心电图机引出的白色标记导线应连接在•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 右上肢",
+                " 左上肢",
+                " 右下肢",
+                " 左下肢",
+                " 胸部"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "所谓J点指的是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P波与P-R段的交点",
+                " P-R段与QRS波的交点",
+                " QRS波终末与ST段起始的交点",
+                " ST段与T波的交点",
+                " T波与U波的交点"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "心肌梗死心电图“坏死型”改变是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段抬高",
+                " T波倒置",
+                " 异常Q波",
+                " PR间期延长",
+                " QRS波群时限延长"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于心房扑动的心电图特征以下说法错误的是( )•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 扑动波频率为每分钟250-350次",
+                " 正常P波被F波取代",
+                " F波间无等电位线,波幅大小不一,间隔不规则",
+                " F波常常不能全部下传",
+                " 一般心室率规则"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于QRS综合波的命名,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " QRS综合波中先出现的负向波为Q波",
+                " QRS结合波中先出现的正向波是R波",
+                " R波后出现的负向波称S波",
+                " S波后再出现的正向波称T波",
+                " 整个综合波均属负向波者称为QS波"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "阵发性室性心动过速的心电图特征,除外:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " QRS波宽大、畸形",
+                " 心室律基本均齐",
+                " 频率140~200次/分",
+                " P波规律出现",
+                " 有时可见保持固有节律的窦性P波融合于QRS波的不同部位"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "心电图各波命名的论述哪项错误:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心房除极波称P波",
+                " QRS波群中第一个向上的波为R波",
+                " QRS波群中第一个向下的波称Q波",
+                " QRS波群中,R波后面向下的波称S波",
+                " 心室复极波是T波"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "房性早搏的表现,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 提前出现一个变异的P’波",
+                " QRS波一般不变形",
+                " P-R>0.12s,代偿间歇常不完全",
+                " 部分P波之后无QRS波",
+                " 可产生逆行P波"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性心肌梗死时,确定心肌损伤的心电图诊断依据:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段呈弓背向上的抬高",
+                " ST段呈水平型下移",
+                " T波平坦",
+                " T波对称性倒置",
+                " 深而宽的异常Q波"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于估测心电轴的大致方位,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 根据I、III导联QRS波的主波方向进行估测",
+                " I、III,QRS波的主波均为正向波,则可推断为正常心电轴",
+                " 若I为较深的负向波,则为心电轴右偏",
+                " 若III为较深的负向波,则属心电轴左偏",
+                " 还可取心前导联的QRS波的主波方向来估测"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "心电图检查对下列哪种疾病最有诊断价值•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心律失常",
+                " 心肌梗塞",
+                " 冠状动脉供血不足",
+                " 房室肥大",
+                " 药物中毒"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于心肌缺血的心电图改变,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 心内膜下心肌缺血,出现与QRS主波方向一致的高大T波",
+                " 心外膜面缺血,出现与正常相反的T波,如下壁缺血出现II、",
+                " 心肌缺血时可出现ST段下移≥0.1 mV",
+                " 心肌缺血时,下移的ST段与R波夹角≥900",
+                " ST段弓背向上抬高"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "右房肥大心电图表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " RV5+SV1>4.0mV(男性)或>3.5mV(女性)",
+                " S-T段压低(水平或下斜型下移)≥0.1mV",
+                " P波增宽,时限≥0.12s,常呈双峰型,两峰间距≥0.04s",
+                " RV1+SV5>1.05mV",
+                " P波尖耸,振幅≥0.25mV"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有一冠心病患者,心电图表现为R-R间隔7个小方格,QRS时间为0.12s,节律大致整齐,T 与QRS主波方向相反,不能辨认是否存在P波,在此之前有频发性室性早搏,其心电图诊断可能为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 窦性心动过速",
+                " 房性阵发性心动过速",
+                " 交界性阵发性心动过速",
+                " 室性阵发性心动过速",
+                " 室性早搏二联律"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "正常心电图在以下哪一个导联P波是倒置的:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Ⅰ导联",
+                " Ⅱ导联",
+                " avR导联",
+                " avF导联",
+                " V4-V6导联"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是心肌梗死与心绞痛鉴别最有意义的心电图表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段抬高",
+                " ST段抬高,伴尖耸T波",
+                " 异常(病理)Q波",
+                " 冠状T波",
+                " T波高耸"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种心律失常往往是心跳骤停前短暂征象•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 房扑",
+                " 房颤",
+                " 室扑",
+                " 室颤",
+                " 室上速"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列不支持慢性冠状动脉供血不足的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段水平型村低>0.05mV",
+                " T波高耸呈帐篷状",
+                " 各种心律失常",
+                " 左心室肥大、Q-T间期延长",
+                " U波持续倒置"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "常用的R-R间期推算心率表中,错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 0.17 秒为353次/分钟",
+                " 0.24 秒为250次/分钟",
+                " 0.40 秒为150次/分钟",
+                " 0.60 秒为100次/分钟",
+                " 0.91 秒为59次/分钟"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "低血钾时典型的心电图主要表现为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " Q-T间期延长不明显",
+                " P-R间期缩短",
+                " T波低平或倒置,U波明显增高",
+                " S-T段抬高",
+                " QRS波群时间缩短"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是心绞痛的心电图表现:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " P-R间期延长",
+                " QRS波群增宽",
+                " 深宽的Q波",
+                " ST段下移,T波倒置",
+                " Q-T延长"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是心绞痛发作时的心电图改变:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " ST段降低≥0.05mV",
+                " T波平坦,双相或倒置",
+                " ST段降低,伴T波倒置",
+                " QRS波群≥0.12S",
+                " ST段抬高"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "诊断左心室肥大的基本条件是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 左心室电压增高",
+                " QRS时间达0.06-0.10S",
+                " V5导联VAT> 0.05S",
+                " V5或R波为主的导联ST段下移,T波倒置",
+                " 心电轴左偏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于正常人的T波,以下说法错误的是:•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 形态:呈钝圆形,前支较平,后支较陡",
+                " 方向:QRS波主波向上的导联,T波应直立",
+                " 高度:大于同导联1/10R波或后支的反向的延伸线达到或超过2/3R波",
+                " 宽度:约0.24秒",
+                " 变异:aVR导联常直立,其余均可直立或倒置"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "侧壁心肌梗死特征性改变的导联是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " V1~V3导联",
+                " Ⅱ、Ⅲ、aVF导联",
+                " V3~V5导联",
+                " I、aVL导联",
+                " V7~V9导联"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在心电图的Ⅱ、Ⅲ、aVF导联出现宽大Q波,S-T段呈弓背向上型抬高,与倒置T波融合成一单向曲线,应诊断为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 前间壁心梗",
+                " 前壁心梗",
+                " 前侧壁心梗",
+                " 广泛前壁心梗",
+                " 下壁心梗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        }
+    ]
+}

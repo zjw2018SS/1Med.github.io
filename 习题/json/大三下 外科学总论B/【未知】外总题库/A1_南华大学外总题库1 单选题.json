@@ -1,0 +1,5458 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科总论B",
+        "source": "ZY",
+        "filename": "A1_南华大学外总题库1",
+        "type_all_num": 209,
+        "dev": {
+            "wrap_num": 209,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 209,
+        "time": "25年04月25日21小时10分50秒",
+        "id": "id-m9wt7zs1-gr984eleq"
+    },
+    "body": [
+        {
+            "questions": [
+                "维持体液平衡，保持内环境稳定，机体主要通过下面哪个系统或器官"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经系统",
+                "内分泌系统",
+                "下丘脑-垂体后叶-抗利尿激素系统",
+                "肾",
+                "肾素-醛固硐系统"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "血浆渗透压的变化只有多少时，即可引起抗利尿激素分泌的调节"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不足 1%",
+                "±2%",
+                "不足 3%",
+                "不足 5%",
+                "5%以上"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "低钾血症最初表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "口苦",
+                "恶心、呕吐",
+                "肌无力",
+                "肠麻痹",
+                "心电图出现T波降低、变宽、倒置等"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一种反应为输血时最常见的并发症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "非溶血性发热反应",
+                "变态反应和过敏反应",
+                "溶血反应",
+                "细菌污染反应",
+                "酸碱平衡失调"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心脏复苏时最常用、效果最好的药物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "利多卡因",
+                "碳酸氢钠",
+                "肾上腺素",
+                "氯化钙",
+                "阿托品"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个选项是引起手术后恶心、呕吐的常见原因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "颅内压增高",
+                "急性胃扩张",
+                "麻醉反应",
+                "肠梗阻",
+                "糖尿病酸中毒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列关于肿瘤细胞在组织化学方面变化的说法，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脱氧核糖核酸 (DNA) 含量减少",
+                "核糖核酸 (RNA) 含量增多",
+                "骨肉瘤的细胞的碱性磷酸酶活性减弱",
+                "肝癌细胞的脱氢酶活性减弱",
+                "肺磷状细胞癌细胞的脂酶活性随分化程度降低而增强"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "氮芥属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞毒素类药物",
+                "激素类药物",
+                "生物碱类药物",
+                "抗生素类药物",
+                "抗代谢类药物"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "如长期应用速尿易导致"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "代谢性酸中毒",
+                "呼吸性酸中毒",
+                "呼吸性碱中毒",
+                "低氯性碱中毒",
+                "低氯性酸中毒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "幽门梗阻的病人，因长期呕吐常易发生"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低钾低氯性碱中毒",
+                "低钾高氯性碱中毒",
+                "高钾高氯性碱中毒",
+                "高钾低氯性碱中毒",
+                "高钾高氯性酸中毒"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "非胃肠道手术病人，术前应禁食"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2小时",
+                "4小时",
+                "6~8小时",
+                "8～12小时",
+                "24小时"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "丹毒的致病菌为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "金黄色葡萄球菌",
+                "大肠杆菌",
+                "β-溶血性链球菌",
+                "绿脓杆菌",
+                "变形杆菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列各项补液的措施中不恰当的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对发热的病人，体温每升高1℃，补液量宜增加10ml/kg",
+                "中度出汗的病人，宜增加补液500-1000ml",
+                "大量出汗的病人，宜增加补液1000-1500ml",
+                "气管切开的病人，宜增加补液1000ml",
+                "以往的丧失量不宜在1日内补足，而应用2-3日甚至更长时间内分次补给"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于输血速度的描述，下列哪个是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "除儿童外，一般调节在每分钟4-6ml",
+                "心脏病人宜每分钟1ml",
+                "小儿每分钟约10滴",
+                "对失血性休克，应快速输人所需血量",
+                "对血容量正常的贫血，每次输血以200-400ml为宜"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "输血可能引起的最严重的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "非溶血性发热反应",
+                "变态反应和过敏反应",
+                "溶血反应",
+                "细菌污染反应",
+                "出血倾向"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项对中心静脉压的影响最小"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血容量",
+                "静脉血管张力",
+                "肺动脉楔压",
+                "静脉回心血量",
+                "右心室排血能力"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列关于成人呼吸窘迫综合征的说法中错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "早期胸部X线一般无明显异常",
+                "用一般的吸氧法可缓解早期的呼吸窘迫",
+                "动脉血氧分压多低于8.0KPa",
+                "气道阻塞引起通气障碍可引起本病",
+                "本病最终可导致死亡"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于术前准备的叙述中，哪个不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前应学会正确咳嗽和咯痰的方法",
+                "术前应练习在床上大、小便",
+                "对操作时间长的大手术，术前应预防性应用抗生素",
+                "术前4小时开始禁止饮水",
+                "有吸烟习惯的病人应于术前1周开始停止吸烟"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对烧伤创面的处理，下列说法中哪个不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "宜先行烧伤清创术",
+                "小面积的Ⅱ°烧伤者，如水泡完整，宜先在表面涂碘伏，再吸出泡内液体，包扎",
+                "创面表面涂抗生素软膏，以防止细菌感染",
+                "头部、颈部创面宜用暴露法",
+                "全身多处烧伤可用包扎和暴露相结合的方法"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "高钾血症的心电图改变最不可能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T波高而尖",
+                "QT间期延长",
+                "QRS增宽",
+                "U波",
+                "RP间期延长"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不是肾调节机体酸碱平衡的机理"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "H⁺-Na⁺的交换",
+                "HCO₃⁻的重吸收",
+                "肾素-醛固酮系统兴奋，醛固酮的分泌增加",
+                "分泌NH₃与H⁺结合成NH₄⁺排出",
+                "尿的酸化而排出H⁺"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是气管插管的并发症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "喉头水肿",
+                "肺不张",
+                "苏醒延迟",
+                "心律失常",
+                "肺部感染"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是深静脉插管引起感染的原因"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "插管时无菌操作不严格",
+                "经常往导管系统加人药物",
+                "营养液配制后低温环境保存超过 24 小时才使用",
+                "插管后局部伤口处理不妥",
+                "营养液配制过程在普通治疗室进行"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于开放性伤口"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "清洁伤口",
+                "沾染伤口",
+                "感染伤口",
+                "刀刃切割伤",
+                "高处坠落肝破裂"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "烧伤休克期补液时，调节补液量及速度的指标不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血 pH 值、CO₂CP、红细胞压积",
+                "中心静脉压",
+                "尿量",
+                "口渴",
+                "肢体浅静脉和甲下毛细血管充盈情况"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不属于临界性肿瘤"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "良性肿瘤位于两个脏器交界处",
+                "包膜不完整的纤维瘤",
+                "生物学行为介于良恶性之间",
+                "切除后易复发",
+                "唾液腺混合瘤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "ARF 时最需紧急处理的情况是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "酸中毒",
+                "水中毒",
+                "高钾血症",
+                "感染",
+                "低钠血症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "不用造影剂而显示尿路梗阻部位及程度的检查是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT",
+                "KUB+IVP",
+                "KUB",
+                "肾图",
+                "磁共振水成像"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者腰部绞痛后突然无尿常提示"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾前性 ARF",
+                "肾后性 ARF",
+                "肾性 ARF",
+                "MOD",
+                "ARDS"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "MODS 一期速发型的发生往往由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发急症甚轻",
+                "原发急症甚为严重",
+                "肾功能障碍",
+                "肺功能障碍",
+                "胃肠功能障碍"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "发生 MODS 时，要待病变进展到相当程度方有明显临床表现的系统或器官是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心血管",
+                "肺",
+                "肝、胃肠和血液凝固系统",
+                "脑",
+                "肾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于 MODS 以下哪个是正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "凡有两个或两个以上的重要器官功能衰竭即是 MODS",
+                "肝脏损害往往是首发器官",
+                "全身性炎症反应 (SIRS) 只表现在感染而与损伤无关",
+                "肠道细菌/内毒素移位可触发 SIRS，但不会导致 MODS",
+                "以上都是错的"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于 MODS 以下叙述哪个是不正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "当病人出现创伤、休克、严重脓毒症时，应警惕有可能并发 MODS",
+                "对病人的救治必须有整体观念",
+                "急性创伤时，只要出现呼吸困难，就可以诊断为 ARDS",
+                "病因治疗是防治 MODS 的首要措施",
+                "防治感染是预防 MODS 极为重要的措施"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于多器官功能不全综合症 (MODS)，以下哪个是错误的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "MODS 常指急性疾病过程中发生的两个或两个以上主要器官功能不全",
+                "其特点之一是急性",
+                "死亡率高",
+                "凡是两个或两个以上的主要器官功能不全就是 MODS",
+                "MODS 最好的治疗是预防"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "现在认识 MSOF 属于全身性病理连锁反应，受累器官处于变化中，病变有轻有重，所以改称为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "ARDS",
+                "MODS",
+                "ARF",
+                "AOSC",
+                "DIC"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "MODS 二期迟发型的形成往往由于："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原发急症甚为严重",
+                "心衰",
+                "肾衰",
+                "继发感染持续存在毒素或抗原",
+                "肝衰"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "ARF 时，若尿素氮升高较肌酐明显，其比例 >20 时，提示："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾前性 ARF",
+                "肾后性 ARF",
+                "高分解代谢存在",
+                "低分解代谢存在",
+                "肾性 ARF"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "ARF 当有高钾血症时必然有："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高钠血症",
+                "高钙血症",
+                "高氯血症",
+                "高镁血症",
+                "低磷血症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "ARF 时，导致低血钠的主要原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钠丢失过多",
+                "代谢障碍使“钠泵效应下降”",
+                "肾小管功能障碍",
+                "水潴留",
+                "代谢性酸中毒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于 ARDS 以下哪种说法最正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有明显的呼吸困难",
+                "呼吸频率增快",
+                "有发绀征象，并有烦躁不安",
+                "是急性呼吸衰竭的一种类型",
+                "动脉血气检查异常"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关 ARDS 的诊断以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有诱发 ARDS 的基础病因，如严重创伤、脓毒症等",
+                "急性呼吸困难节律频速",
+                "胸片示双肺有弥漫性浸润病灶",
+                "一般的氧疗其低氧难以纠正",
+                "动脉血气分析是正常的"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肾性 ARF，尿比重恒定于："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1.000–1.009",
+                "1.010–1.014",
+                "1.015–1.019",
+                "1.020–1.024",
+                "1.025–1.030"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "治疗急性呼吸窘迫综合征以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "主要支持呼吸的方法用呼吸机进行呼末正压通气",
+                "因正压通气使回心血量减少，所以要大量快速输液",
+                "防治感染是重要措施",
+                "可选用改善肺循环的药物",
+                "纠正低氧的同时，应兼顾其他主要器官功能的支持治疗，防止 MODS"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "治疗 ARF 以下哪项是不正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有效的治疗基于正确的诊断。不同原因所致 ARF 需要不同的治疗方法",
+                "对于肾前性 ARF，简单而有效的方法就是补充血容量",
+                "尿路梗阻患者必须解除梗阻",
+                "在对 ARF 的保守治疗中，纠正水电解质酸碱平衡紊乱十分重要",
+                "一旦确认急性肾衰竭，立即行血液透析治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "ARF 病人出现高钾血症时其治疗以下哪项是不正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血钾超过 6.5 mmol/L 立即进行血液透析",
+                "10% 葡萄糖酸钙静脉推注",
+                "5% 碳酸氢钠 100ml 静脉滴注",
+                "葡萄糖—胰岛素混合液静脉滴注",
+                "口服钙离子交换树脂"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "多尿期常见的死亡原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低血钾或感染",
+                "消化道出血",
+                "酸中毒",
+                "高钾血症",
+                "低钠血症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性肾衰竭时以下哪个是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "机体代谢产生的固定酸需通过肾排出体外，因此 ARF 经常会导致酸中毒",
+                "因磷排泄减少，导致钙吸收减少，出现低钙血症",
+                "病人易出现负氮平衡，因此补氮量愈多愈好",
+                "血液透析的优点是能快速清除过多的水分、电解质和代谢产物",
+                "高血钾时见效最快的方法是静脉内注入钙离子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于急性肾衰竭 (ARF)，以下哪个是正确的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾前性肾功能不全，尿比重通常小于 1.010",
+                "急性肾衰一定伴有少尿",
+                "血液滤过是治疗严重酸中毒的最佳方法",
+                "严重创伤并发 ARF 时要严格控制蛋白质摄入",
+                "以上都正确"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者手术中误输异型血后无尿 2 天，最有效的治疗方案是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输注地塞米松",
+                "输注碳酸氢钠",
+                "输注甘露醇",
+                "输注速尿",
+                "血液透析"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有时 24 小时尿量超过 800ml，但血中肌酐、尿素氮进行性升高，称为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肾衰",
+                "慢性肾衰",
+                "非少尿型急性肾衰",
+                "MODS",
+                "ARDS"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "ARF 发生的主要原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾血管收缩缺血和肾小管细胞变性坏死",
+                "肾小球滤过率下降",
+                "代谢性酸中毒",
+                "高钾血症",
+                "水中毒"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "ARF 少尿无尿阶段最主要的死亡原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低钠血症",
+                "高磷及低钙血症",
+                "高钾血症",
+                "高镁血症",
+                "水中毒"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "ARF 少尿期治疗以下哪项是错的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "限制水份，防治高血钾",
+                "血液滤过是治疗严重酸中毒的最佳方法",
+                "腹膜透析治疗适于所有的病人且效果最佳",
+                "严格控制感染",
+                "维持营养，补充适量热卡和蛋白质"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是血液透析的禁忌症？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "BUN>30mmol/L",
+                "血清钾>6.5mmol/L",
+                "血清肌酐>908umol/L",
+                "严重酸中毒",
+                "休克"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个部位施行局部麻醉时麻醉药可加肾上腺素？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血压病人椎管内麻醉",
+                "疝气修补，局部浸润麻醉",
+                "阴茎神经阻滞",
+                "指间神经阻滞",
+                "气管内粘膜麻醉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种吸入麻醉药可引起弥散性缺氧？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恩氟烷",
+                "异氟烷",
+                "七氟烷",
+                "氧化亚氮",
+                "地氟烷"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种吸入麻醉药麻醉效能最低？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "安氟醚",
+                "异氟醚",
+                "氟烷",
+                "七氟醚",
+                "地氟醚"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "椎管内麻醉对生理的影响下列叙述哪项不正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻断阻滞区域交感神经使动脉舒张、静脉扩张，使心血量减少",
+                "低血压的发生率与麻醉平面有关",
+                "高平面麻醉可使心率减慢",
+                "休克病人宜选用椎管内麻醉",
+                "高血压病人不是椎管内麻醉的禁忌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种吸入麻醉药可引起痉挛性脑电图改变？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "安氟醚",
+                "异氟醚",
+                "氟烷",
+                "七氟醚",
+                "地氟醚"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列吸入麻醉药属气体麻醉药是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氧化亚氮",
+                "恩氟烷（安氟醚）",
+                "异氟烷（异氟醚）",
+                "七氟烷（七氟醚）",
+                "地氟烷（地氟醚）"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关下列吸入麻醉药特点哪项不正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氧化亚氮 MAC 高麻醉效能强",
+                "氧化亚氮麻醉可产生弥散性缺氧",
+                "氧化亚氮可使体内封闭空腔内压增加",
+                "氧化亚氮对循环影响小",
+                "氧化亚氮常与其它麻醉药复合使用"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个部位施行局部麻醉时麻醉药内不宜加肾上腺素？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "臂丛麻醉",
+                "椎管内麻醉",
+                "趾间神经阻滞",
+                "乳腺肿块的区域阻滞",
+                "腹壁脂肪瘤的区域阻滞"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "局麻药内加肾上腺素的主要目的是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "增强麻醉药的效能",
+                "加快药物的吸收代谢",
+                "预防过敏反应",
+                "局部血管收缩，延缓药物吸收",
+                "对抗局麻药的副作用"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关局部麻醉方法下列叙述哪项不正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "粘膜麻醉以选用渗透能力强的局麻药",
+                "局部浸润麻醉需用药量大时宜选用毒性低的药物，并使用最低有效浓度",
+                "神经阻滞麻醉以普鲁卡因为首选",
+                "布比卡因一般不应用于做局部浸润麻醉",
+                "区域阻滞可避免穿刺肿瘤组织"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种药物可抑制肾上腺皮质功能？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "普鲁泊福（异丙酚）",
+                "氧化亚氮",
+                "硫喷妥钠",
+                "依托咪酯",
+                "安氟醚"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列药物作为麻醉诱导时对循环影响最小？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "硫喷妥钠",
+                "氯胺酮",
+                "依托咪酯",
+                "羟丁酸钠",
+                "普鲁泊福（异丙酚）"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "体液由下列那些成分组成？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞外液+血浆",
+                "细胞内液+血浆",
+                "细胞内液+细胞外液",
+                "血浆+细胞间液",
+                "组织液+血浆"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "细胞外液由下列那些成分组成？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血浆+细胞间液",
+                "血浆+脑脊液",
+                "血浆+关节液",
+                "血浆+消化液",
+                "血浆+体液"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "成人血浆占细胞外液的比重为？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5%",
+                "15%",
+                "20%",
+                "25%",
+                "30%"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "维持细胞外液渗透压最主要的阳离子是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "K⁺",
+                "Mg²⁺",
+                "Ca²⁺",
+                "Na⁺",
+                "Fe⁺"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "血浆的正常渗透压是 (mmol/L)"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "290～310",
+                "280～300",
+                "280～310",
+                "290～320",
+                "290～300"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "体液及渗透压的稳定是由下列哪个系统进行调节的？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神经系统",
+                "神经—内分泌系统",
+                "内分泌系统",
+                "肾素—醛固酮系统",
+                "循环系统"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "机体正常的pH值为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "7.35～7.45",
+                "7.30～7.40",
+                "7.30～7.50",
+                "6.90～7.10",
+                "6.95～7.15"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "血液中对酸碱平衡的调节以下列哪个缓冲对最为重要？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "HPO₄²⁻/H₂PO₄⁻",
+                "HCO₃⁻/H₂CO₃",
+                "CO₃²⁻/HCO₃⁻",
+                "NH₃/NH₄⁺",
+                "H₂CO₃/HCO₃⁻"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "血液中HCO₃⁻/H₂CO₃正常值为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2:1",
+                "10:1",
+                "20:1",
+                "25:1",
+                "40:1"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血清中Na⁺正常值是 (mmol/L)"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "130～150",
+                "135～150",
+                "135～155",
+                "130～155",
+                "125～150"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "黄某，昨晚起出现急性水样泻，今晨前去就诊，目前该患者最为可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "等渗性缺水",
+                "低渗性缺水",
+                "高渗性缺水",
+                "高钾",
+                "低钾"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪一类体液失调患者最易出现口渴的症状？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "等渗性缺水",
+                "低渗性缺水",
+                "高渗性缺水",
+                "高钾",
+                "低钾"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "中度缺钠的诊断标准为 (血清钠离子浓度 mmol/L)"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "120～135",
+                "110～120",
+                "130～135",
+                "120～130",
+                "125～130"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "正常血清钾离子的浓度为 (mmol/L)"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "3.5～4.5",
+                "3.5～5.0",
+                "3.0～5.0",
+                "3.0～5.5",
+                "3.5～5.5"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项不是钾离子的生理功能？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "参与、维持细胞的正常代谢",
+                "维持神经—肌肉的兴奋性",
+                "维持血管的张力",
+                "维持心肌的正常功能",
+                "主要在细胞内"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断高钾血症最有力的证据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心电图T波高尖",
+                "病人出现神志淡漠",
+                "心电图出现病理性U波",
+                "血清钾离子浓度超过5.5mmol/L",
+                "腹泻"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项是血清高钾血症的心电图改变？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "T波低平",
+                "出现病理性U波",
+                "QRS波增宽",
+                "QT间期缩短",
+                "ST段下移"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "治疗高钾血症最有效的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血液透析",
+                "静脉输注苏打 (NaHCO₃)",
+                "静脉输注葡萄糖+胰岛素溶液",
+                "口服阳离子交换树脂",
+                "静脉输注葡萄糖"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "人体内钙离子主要以下列哪种形式储存？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "碳酸钙和磷酸钙",
+                "碳酸钙和氯化钙",
+                "磷酸钙和氯化钙",
+                "氯化钙和蛋白结合钙",
+                "碳酸钙和蛋白结合钙"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "机体缺镁时，补镁至症状消失后仍需补充的时间为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～3天",
+                "3～7天",
+                "1～3周",
+                "3～7周",
+                "7周以上"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种酸碱失衡在临床上最为常见？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "代谢性酸中毒",
+                "代谢性碱中毒",
+                "呼吸性酸中毒",
+                "呼吸性碱中毒",
+                "混合型中毒"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于血浆中阴离子间隙 (AG) 的简单测量方法以下哪项正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "(Na⁺) - (Cl⁻) - (HCO₃⁻)",
+                "(Cl⁻) + (HCO₃⁻) - (Na⁺)",
+                "(Na⁺) + (K⁺) - (Cl⁻) - (HCO₃⁻)",
+                "(Na⁺) - (Cl⁻) - (K⁺)",
+                "(Na⁺) - (Cl⁻)"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "血浆中阴离子间隙 (AG) 的正常值为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "10～15",
+                "8～12",
+                "4～12",
+                "12～20",
+                "4～8"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种呼吸形式是代谢性酸中毒的典型表现？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "深慢呼吸",
+                "深快呼吸",
+                "浅慢呼吸",
+                "浅快呼吸",
+                "潮式呼吸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪种组织中含水量最为丰富？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脂肪",
+                "皮肤",
+                "肌肉",
+                "骨骼",
+                "神经"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "低渗性缺水为了尽快纠正血清钠过低，可静脉输注高渗盐水（如5%的氯化钠溶液），但其速度应控制在（mmol/小时）？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "100～200",
+                "150～200",
+                "100～150",
+                "200～250",
+                "250～500"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "水中毒时体液渗透压的改变以下哪项正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "细胞内液渗透压上升，细胞外液渗透压下降",
+                "细胞内液渗透压正常，细胞外液渗透压降低",
+                "细胞内液渗透压下降，细胞外液渗透压下降",
+                "细胞内液渗透压上升，细胞外液渗透压上升",
+                "细胞内液渗透压下降，细胞外液渗透压上升"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "等渗性缺水时输入大量生理盐水可能出现？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高钾血症",
+                "高钠血症",
+                "高氯血症",
+                "低钠血症",
+                "低钾血症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一种类型的体液代谢紊乱最易出现休克？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "等渗性缺水",
+                "高渗性缺水",
+                "水中毒",
+                "低渗性缺水",
+                "高钾血症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某慢性肾炎患者，动脉血气分析结果如下：pH值7.33，PaCO₂ 30mmHg，HCO₃⁻ 15mmol/L，该患者最可能诊断是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "代谢性酸中毒",
+                "代谢性碱中毒",
+                "呼吸性酸中毒",
+                "呼吸性碱中毒",
+                "混合性中毒"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "长期应用盐皮质激素（如醛固酮）的患者易出现？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高钙血症",
+                "低钙血症",
+                "高钾血症",
+                "低钾血症",
+                "高钠血症"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "过多输入库存血，患者可能出现下列哪一种类型的电解质紊乱？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "低钾血症",
+                "低钠血症",
+                "高钾血症",
+                "高钠血症",
+                "高钙血症"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "呼吸性酸中毒首要的治疗措施是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "使用碱性药物",
+                "抗感染",
+                "改善通气功能",
+                "吸氧",
+                "高压氧"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "高钾血症时出现心律失常，可采取静脉输入？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "10%葡萄糖酸钙",
+                "5%碳酸氢钠",
+                "甘露醇",
+                "葡萄糖+胰岛素溶液",
+                "胰岛素溶液"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关成分输血以下哪项不正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可以改善循环",
+                "增强携氧能力",
+                "提高血浆蛋白",
+                "增进凝血功能",
+                "抑制过强的免疫力"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是输血的适应证？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "成人一次失血量低于全身总血容量的10%",
+                "成人一次失血量大于全身总血容量的30%",
+                "贫血或低蛋白血症",
+                "重症感染",
+                "凝血机制障碍"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "最适用于纠正血友病病人凝血功能障碍的成分是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新鲜冰冻血浆",
+                "凝血酶原",
+                "血小板",
+                "纤维蛋白原",
+                "Ⅷ因子或抗血友病因子"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关输血技术的叙述，以下哪项不正确？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常规采用中心静脉穿刺置管输血",
+                "急性大量失血，血压极低，而静脉输血困难者可经动脉输血",
+                "血液输入病人体内前要过滤",
+                "输血速度因病情而定",
+                "输血后血袋应保留2小时左右以备化验检查用"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "ACD抗凝血的保存期是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "20天",
+                "21天",
+                "28天",
+                "30天",
+                "35天"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "CPD抗凝血的保存期是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "20天",
+                "21天",
+                "28天",
+                "30天",
+                "35天"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "CPD-A抗凝血的保存期是？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "20天",
+                "21天",
+                "28天",
+                "30天",
+                "35天"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "血液的保存期是指将保存期末的血输入24小时后，红细胞的存活率在？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "50%以上",
+                "60%以上",
+                "70%以上",
+                "80%以上",
+                "90%以上"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在我国消化道肿瘤中，哪一种发病率最高？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "食管癌",
+                "胃癌",
+                "肝癌",
+                "肠癌",
+                "胰腺癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "化疗药物作用于细胞周期特异性药物是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阿糖胞苷",
+                "氟脲嘧啶",
+                "环磷酰胺",
+                "长春新碱",
+                "丝裂霉素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "提高恶性肿瘤患者生存率的关键是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术根治",
+                "化疗",
+                "早期治疗",
+                "放疗",
+                "综合治疗"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                " 小腿部骨髓炎后残余窦道，多年不愈，边缘隆起，易出血，为明确诊断最好采用："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切除活检",
+                "穿刺活检",
+                "脱落细胞学检查",
+                "切取活检",
+                "以上都不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当机体在各种致病因素作用下，下列哪一条是肿瘤正确的概念："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "组织细胞增生所形成的肿块",
+                "组织发育异常",
+                "器官发育不全",
+                "组织细胞增生与异常分化所形成的新生物",
+                "器官组织细胞增生形成的新生物"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "肿瘤的生长速度取决于："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脏器",
+                "组织来源",
+                "细胞的分化成熟程度",
+                "机体抵抗力",
+                "以上都不是"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "癌前病变是指："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "原位癌",
+                "未穿破基底膜的癌",
+                "未确诊的癌",
+                "可能转变成癌的不典型增生",
+                "粘膜内癌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "最常转移到淋巴结的肿瘤是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肉瘤",
+                "淋巴管瘤",
+                "癌",
+                "基底细胞癌",
+                "腺瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "神经鞘瘤："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "瘤体内全脂肪",
+                "来源于神经鞘细胞",
+                "边缘型源于神经干中央",
+                "为非真性肿瘤",
+                "手术切除应沿神经轴垂直方向切开"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "化学药物作用于细胞周期M期的抑制药物："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氟尿嘧啶",
+                "阿糖胞苷",
+                "阿霉素",
+                "长春新碱",
+                "氮芥"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "快速大量输入冷藏血时，应在血袋外加保护袋将血预热后输入，保护袋内的温度应："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "<30℃",
+                "<32℃",
+                "<33℃",
+                "<37℃",
+                "<40℃"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于输血的注意事项，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输血前应用糖皮质激素",
+                "输血前用生理盐水冲洗输血管道",
+                "多种药物可加入血液中同时输入",
+                "成人一般速度下输入1～2L冷藏血不需预热",
+                "输血前严密核对血型、交叉配血报告及保存时间"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "最严重的输血反应是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发热反应",
+                "过敏反应",
+                "溶血反应",
+                "循环超负荷",
+                "疾病传播"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一位失血性休克患者在输血过程中出现寒战、高热、口腔温39℃，血压正常。最可能的原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发热反应",
+                "过敏反应",
+                "溶血反应",
+                "输血后传播了疟疾",
+                "输血后传播了肝炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "一位多次接受输血的贫血病人在输全血过程中发生严重发热反应，该患者最适用的血液成分是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "另一供血者的同型全血",
+                "浓缩红细胞",
+                "洗涤红细胞",
+                "新鲜全血",
+                "自体血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种成分不是血细胞制剂："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浓缩红细胞",
+                "洗涤红细胞",
+                "浓缩血小板",
+                "浓缩白细胞",
+                "冷沉淀"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关新鲜冷冻血浆(FFP)的叙述，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是全血采集后6小时内分离并立即置于-20℃~-30℃保存的血浆",
+                "其保存期为一年",
+                "主要含凝血因子尤其是V、Ⅷ因子及纤维蛋白原，也含所有的血浆蛋白",
+                "适用于肝胆疾病引起的凝血障碍",
+                "临床上常用于纠正低血容量及低蛋白血症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "最适用于治疗肝胆疾病所致凝血障碍的血液制品是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浓缩血小板",
+                "冷沉淀",
+                "新鲜冷冻血浆",
+                "冷冻血浆",
+                "纤维蛋白原"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种成分不是血液成分制品："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浓缩红细胞",
+                "浓缩血小板",
+                "新鲜冷冻血浆",
+                "白蛋白",
+                "羟乙基淀粉"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "输血时引起溶血反应的主要原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "误输了异型血",
+                "输血前预热过度使红细胞破坏",
+                "血液中加入了高渗药物使红细胞破坏",
+                "血液中加入了低渗溶液使红细胞破坏",
+                "受血者血液内存在自身抗体，使输入的红细胞破坏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "心功能低下的老年人在大量、快速输血时，最容易发生："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发热反应",
+                "溶血反应",
+                "循环超负荷致急性心衰",
+                "细菌污染反应",
+                "过敏反应"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种血浆增量剂输入过量时可引起出血倾向："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右旋糖酐",
+                "6%羟乙基淀粉代血浆",
+                "10%羟乙基淀粉代血浆",
+                "明胶类代血浆",
+                "以上均不是"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是休克代偿期的临床表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "心率增快",
+                "精神紧张",
+                "面色苍白",
+                "脉压差缩小",
+                "血压降低"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "反映休克病人脑组织灌流不足的主要指标是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神状态",
+                "动脉血压",
+                "皮肤色泽",
+                "尿量",
+                "脉率"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "反映肾血流灌注的可靠指标是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血压",
+                "脉率",
+                "尿量",
+                "中心静脉压",
+                "肺毛细血管楔压"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "当中心静脉压(CVP)超过多少时表示有充血性心衰："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5cmH₂O",
+                "10cmH₂O",
+                "15cmH₂O",
+                "20cmH₂O",
+                "25cmH₂O"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "当中心静脉压(CVP)低于多少时常表示血容量不足："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5cmH₂O",
+                "10cmH₂O",
+                "15cmH₂O",
+                "20cmH₂O",
+                "25cmH₂O"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肺毛细血管楔压的正常值是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5~6mmHg",
+                "6~15mmHg",
+                "10~20mmHg",
+                "20~25mmHg",
+                "10~21mmHg"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "当肺毛细血管楔压(PCWP)低于多少时表示血容量不足："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "4mmHg",
+                "6mmHg",
+                "10mmHg",
+                "15mmHg",
+                "20mmHg"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关休克监测指标的叙述，以下哪项正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脉率的变化多出现在血压下降之后",
+                "脉压差缩正常出现在血压下降之后",
+                "中心静脉压在反映全身血容量及心功能状态方面其变化此动脉压晚",
+                "肺毛细血管楔压(PCWP)反映低血容量较中心静脉压(CVP)敏感",
+                "当脉率/收缩压指数>1.0时多表示无休克"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "鉴别心源性和低血容量性休克最可靠的指标是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血压",
+                "心率",
+                "尿量",
+                "CVP",
+                "血乳酸盐"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "可增强心肌收缩力，同时能扩张肾和内脏血管的多巴胺剂量是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                ">10μg/(min·kg)",
+                ">15μg/(min·kg)",
+                "<20μg/(min·kg)",
+                "<10μg/(min·kg)",
+                "<15μg/(min·kg)"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                " 小剂量多巴胺主要兴奋："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "α受体",
+                "β₁受体",
+                "β₂受体",
+                "多巴胺受体",
+                "多巴胺受体和β₁受体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "治疗失血性休克的关键是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "应用糖皮质激素",
+                "补充血容量和止血",
+                "纠正酸碱平衡失调",
+                "纠正电解质紊乱",
+                "血管活性药的应用"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一位失血性休克病人，经补充血容量后其血压及CVP仍低，此时的处理是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "给予两地兰",
+                "给予多巴胺",
+                "给予阿拉明",
+                "给予酚妥拉明",
+                "继续充分补液"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一位低血容量性休克患者，经治疗后血压恢复正常，CVP却高于正常值，原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血容量严重不足",
+                "血容量不足",
+                "右心功能不全",
+                "容量血管过度收缩",
+                "左心功能不全"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是\"冷休克\"的临床表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "躁动或神志淡漠",
+                "血压降低",
+                "心率增快",
+                "脉压差缩小",
+                "尿量>30ml/h"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "低血容量性休克患者经治疗后其CVP高，血压仍低，原因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血容量严重不足",
+                "血容量不足",
+                "血容量相对过多或心功能不全",
+                "容量血管过度收缩",
+                "心功能不全或血容量不足"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "低血容量性休克患者测得其CVP为3cmH₂O，血压90/60mmHg，处理原则是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "充分快速补液",
+                "适当补液",
+                "给强心药物",
+                "舒张血管",
+                "补液试验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "低血容量性休克患者，治疗后测得CVP6cmH₂O，血压85/60mmHg，处理原则是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "充分补液",
+                "适当补液",
+                "给强心药物",
+                "舒张血管",
+                "补液实验"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于损伤性休克的治疗，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "损伤性休克的急救不需补充血容量",
+                "疼痛刺激严重者可适当镇痛",
+                "妥善固定(制动)受伤部位",
+                "对危及生命的创伤(如张力性气胸)应作必要的紧急处理",
+                "应使用抗生素，防继发感染"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于\"暖休克\"的叙述，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血流动力学改变为低排高阻型",
+                "动静脉短路大量开放",
+                "存在组织灌流不足",
+                "存在细胞代谢障碍",
+                "一般出现在革兰氏阳性菌感染引起的感染性休克早期"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关感染性休克的叙述，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病理生理改变复杂",
+                "不易产生心和肾损害",
+                "易产生组织细胞氧利用障碍",
+                "易并发DIC",
+                "酸中毒发生早"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关\"冷休克\"的叙述，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血流动力学改变为高排低阻型",
+                "因大量毛细血管通透性增加致血容量减少",
+                "临床上较\"暖休克\"多见",
+                "可由革兰氏阴性菌感染引起",
+                "革兰氏阳性菌感染引起的\"暖休克\"加重时，可转为\"冷休克\""
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关感染性休克的治疗，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血流动力学改变为高排低阻型",
+                "常有心和肾损害，一般应监测CVP，指导输液量和速度",
+                "应尽早处理原发病灶以控制感染",
+                "常需使用心血管药物维持循环平稳",
+                "可大量长期应用糖皮质激素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "脾破裂失血性休克患者，在快速大量补充血容量后，血压仍低，心率快，且腹胀加重，此时最重要的紧急处理措施是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继续补液治疗",
+                "急诊手术止血",
+                "给予多巴胺",
+                "给予阿拉明",
+                "给予大剂量糖皮质激素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是低血容量性休克的表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CVP降低",
+                "PCWP高于15mmHg",
+                "心输出量(CO)降低",
+                "外周血管阻力增加",
+                "心率增快"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "感染性休克患者测得其CVP正常，心输出量增高，外周血管阻力降低，血压80/60mmHg，此时最适用的血管活性药是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多巴胺",
+                "多巴酚丁胺",
+                "酚妥拉明",
+                "去甲肾上腺素",
+                "西地兰"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "临床上常通过观察尿量的变化来评价休克的治疗效果，当成人尿量维持超过多少时表示休克已纠正："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "10ml/h",
+                "20ml/h",
+                "30ml/h",
+                "40ml/h",
+                "50ml/h"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于休克病人几个监测指标的叙述，以下哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "精神状态反映脑组织血液灌流情况",
+                "皮肤色泽、温度是体表血管灌注情况的标志",
+                "血压是反映休克程度及治疗效果最敏感的指标",
+                "脉率的变化多出现在血压下降之前",
+                "尿量是反映肾血液灌注情况的有用指标"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项不是休克抑制期的临床表现："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "神志淡漠",
+                "极度口渴",
+                "肢端发绀",
+                "脉率大于100次/分",
+                "血压95/60mmHg"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肝破裂失血性休克患者，其血压82/50mmHg，心率120次/分，皮肤苍白，神志淡漠，估计失血量为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "300ml以下",
+                "400～800ml",
+                "500~700ml",
+                "800～1600ml",
+                "1600ml以上"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关麻醉学的内容下列哪项正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床麻醉",
+                "急救与复苏",
+                "重症监测与治疗",
+                "疼痛诊治",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关现代麻醉方法，下列哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "全身麻醉",
+                "中药麻醉",
+                "局部麻醉",
+                "粘膜麻醉",
+                "椎管内麻醉"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关围手术期潜在危险因素下列哪项正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术创伤和失血",
+                "麻醉方法及药物对病人生理功能影响",
+                "外科疾病本身",
+                "并存症",
+                "以上都是"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "存在胃癌根治手术中潜在危险因素下列哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "麻醉方法及药物",
+                "手术创伤和失症",
+                "并存症",
+                "背部脂肪瘤",
+                "外科疾病本身"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关美国麻醉医师协会(ASA)分级下列哪项正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "I级病人病情最重，V级最轻",
+                "Ⅲ级病人的器官功能已受损但在代偿范围内",
+                "V级病人风险大，但仍可考虑行择期手术",
+                "体格健康，发育营养良好各器官功能正常属Ⅱ级",
+                "I级病人无手术死亡率"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关美国麻醉医师协会(ASA)分级下列哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "ASA分级分为5级",
+                "分级越高，病情越重，死亡率也越高",
+                "急性阑尾炎病人有发热、无伴随病应分类为I级",
+                "V级者为濒死病人，麻醉和手术异常危险",
+                "Ⅲ级病人如术前准备充分，尚能耐受手术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "ASA分级标准哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "I级身体健康，发育营养良好，各器官功能正常",
+                "II级除外科疾病外，有轻度并存病，功能代偿健全",
+                "Ⅲ级并存病较严重，体力活动有限，生活不能自理",
+                "IV级并存病严重，丧失日常工作能力，经常面临生命威胁",
+                "V级：无论手术与否，生命难以维持24小时的濒死病人"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "麻醉前准备事项哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "纠正或改善病理生理状态",
+                "高血压病人抗高血压药物术前应停用",
+                "精神状态准备",
+                "胃肠道准备",
+                "麻醉设备和用具及药品准备"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关术前禁食禁饮哪项不正确："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "应激情况胃排空加速",
+                "成人禁食12小时，禁饮4小时",
+                "小儿禁食4-8小时，禁水2-3小时",
+                "急症病人病情紧急时，不能等待禁食，应立即手术",
+                "饱胃病人必需立即手术时，应采取避免呕吐误吸的措施"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "有关术前准备哪些正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血压病术前宜使用中枢性降压药",
+                "抗高血压治疗应持续到手术当日",
+                "术前高血压病人，术前血压应降至正常水平",
+                "血压高不宜行择期手术",
+                "单胺氧化酶抑制剂不影响病人手术中血压情况"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "麻醉前用药的目的不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "清除病人紧张焦虑",
+                "预防术后感染",
+                "提高病人疼痛阈值减轻痛苦",
+                "抑制呼吸道腺体分泌功能",
+                "减轻或清除手术或麻醉引起的不良反射"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抗胆碱药目前并不常规作为术前用药",
+                "阿托品的中枢作用弱于东莨菪碱",
+                "东莨菪碱对心率增快的影响弱于阿托品",
+                "抗胆碱药不影响散热",
+                "抗胆碱能减轻椎管内麻醉时迷走神经亢进反应"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "术前用药的使用原则下列叙述哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "老人、小儿宜用麻醉性镇痛药于手术前缓解疼痛",
+                "老人、小儿宜首选东莨菪碱",
+                "婴幼儿代谢率高，镇静药相对较大",
+                "小儿腺体分泌旺盛，术前抗胆碱药量可偏大",
+                "术前用药只能采用肌肉注射途径给药"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "术前用药原则下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一般情况差，老年体弱术前用药应酌情减量",
+                "冠心病、高血压病人镇静药可适当加量",
+                "选择椎管内麻醉者一般不用抗胆碱药",
+                "全身麻醉一般使用镇静药和抗胆碱药",
+                "有呼吸抑制的病人一般术前不使用镇静药和阿片类药"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列有关术前常用药物的叙述哪些不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "地西泮具有镇静、催眠、抗焦虑及抗惊厥的作用",
+                "苯巴比妥具有镇静、催眠和抗惊厥的作用",
+                "抗胆碱药能拮抗 N 受体激动剂作用",
+                "阿托品有明显抑制汗腺分泌的能力",
+                "镇静催眠药均具有对局麻药毒性反应也有一定的防治作用"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "影响吸入麻醉药吸收的因素，下列哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "通气效应即有效肺泡通气量",
+                "浓度效应，即吸入药浓度",
+                "心输出量",
+                "血气分配系数，指药物的溶解度",
+                "最低肺泡有效浓度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "吸入麻醉药的主要排出途径"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肾",
+                "肝",
+                "皮肤",
+                "呼吸道",
+                "胆汁"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列吸入麻醉药属气体麻醉药是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "氧化亚氮",
+                "恩氟烷（安氟醚）",
+                "异氟烷（异氟醚）",
+                "七氟烷（七氟醚）",
+                "地氟烷（地氟醚）"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "非特异性感染不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多菌感染",
+                "伤口金葡菌感染",
+                "化脓性阑尾炎",
+                "肺部隐球菌感染",
+                "胆囊炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性感染是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病变在 2 周以内的感染",
+                "7~10 天的感染",
+                "急性炎症为主，发病 3 周以内",
+                "数小时至 1 周的感染",
+                "三天以内"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "外科感染的特点，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常有明显的局部症状",
+                "不会引起严重的全身感染",
+                "一般需要外科治疗的感染性疾病",
+                "可以是几种细菌的混合感染",
+                "局部红肿热痛"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "感染灶近侧皮肤出现 “红线” 是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "网状淋巴管炎",
+                "浅部静脉炎",
+                "深部淋巴管炎",
+                "浅表淋巴管炎",
+                "深静脉炎"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "丹毒的致病菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "金黄葡萄球菌",
+                "乙型溶血性链球菌",
+                "大肠杆菌",
+                "拟杆菌",
+                "绿脓杆菌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "感染早期中性粒细胞增多是由于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "中性粒细胞数量多",
+                "中性粒细胞体积小",
+                "中性粒细胞可塑性大",
+                "中性粒细胞移动迅速",
+                "中性粒细胞体积大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "面部 “危险三角区” 的危险在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "侵入上颌窦",
+                "颅内化脓性感染",
+                "内眦静脉炎",
+                "演变成痈",
+                "在面部"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "痈切开引流与一般脓肿的切开不同在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切口较大",
+                "要多个小切口",
+                "切口深",
+                "做“+”或“++”切口",
+                "对口切口"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脓性指头炎切开引流的指征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "掌指功能障碍",
+                "红肿热痛",
+                "有波动感",
+                "搏动性跳痛",
+                "破溃"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "破伤风是破伤风梭菌引起的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "菌血症",
+                "局部感染",
+                "脓毒症",
+                "MODS",
+                "FOS"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "破伤风最早出现强烈收缩的肌肉是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "上肢肌",
+                "背肌",
+                "咀嚼肌",
+                "颈项肌",
+                "四肢肌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "自动免疫法预防破伤风时间为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1~3 年",
+                "3~5 年",
+                "5~10 年",
+                "10~15 年",
+                "终生"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "破伤风的治疗原则中，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "及时正确处理伤口",
+                "应用抗毒素中和毒素",
+                "补充水、电解质",
+                "常规气管切开保证气道通畅",
+                "避声光"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "破伤风病人注射大量抗毒素的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "控制和解除痉挛",
+                "抑制破伤风梭菌的繁殖",
+                "减少毒素的产生",
+                "中和游离毒素",
+                "杀细菌"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "预防创伤后气性坏疽最可靠的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "彻底清创",
+                "使用大剂量抗生素",
+                "双氧水冲洗或湿敷伤口",
+                "及时气性坏疽抗毒血清治疗",
+                "开放创口"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于创伤分类，哪项不对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "按致伤原因",
+                "按组织器官",
+                "按受伤部位",
+                "按伤情的轻重",
+                "按有无骨折或内脏伤"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于切伤，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伤口缘整齐",
+                "出血较多",
+                "周围组织损伤较轻",
+                "损伤深时可切断大血管、肌腱等",
+                "伤口内常留有异物"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "组织烧伤后的体液渗出，一般要持续到伤后"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "24 小时",
+                "72 小时",
+                "12 小时",
+                "8 小时",
+                "36～48 小时"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "根据烧伤体液渗出的规律，烧伤早期的补液速度应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "均匀补充",
+                "先慢后快",
+                "先快后慢",
+                "快速补充",
+                "慢速补充"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "烧伤早期发生的休克属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "失血性休克",
+                "损伤性休克",
+                "感染性休克",
+                "低血容量性休克",
+                "神经性休克"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于烧伤急救正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "火焰烧伤者可用双手扑打火焰",
+                "不能用冷水冲洗",
+                "可以奔跑呼救",
+                "用冷水冲洗",
+                "不能用非易燃品覆盖灭火"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于大面积严重烧伤早期处理，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尽量避免长途转运",
+                "可用止痛剂",
+                "最好就近输液抗休克",
+                "大量口服盐水",
+                "必要时做气管切开"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "已发生了休克的烧伤病人清创时机应在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "待生命体征完全正常后清创",
+                "立即清创",
+                "休克好转后清创",
+                "烧伤后 8 小时内清创",
+                "烧伤后 24 小时内清创"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于冻疮的描述正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "冻疮是低温造成，因此北方发病率较高",
+                "冻疮的发生没有个体易感因素",
+                "发生冻疮后不会发生局部溃疡",
+                "成人较儿童年发病率高",
+                "冻疮发生主要是由于 10℃以下至冰点以上的低温加潮湿造成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于局部冻伤正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大多发生在接触冰点以上的温度",
+                "冻伤损害主要发生在冻融后",
+                "冻伤损害主要发生在冻融前",
+                "冻伤损害与缺血再灌注反应无关",
+                "冻伤损害不会造成肢体残废"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "中厚皮片"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "包括表皮和部分真皮乳头层",
+                "包括表皮和真皮的 1/2~1/3",
+                "包括皮肤全层",
+                "一般厚约 0.15~0.25mm",
+                "一般厚约 0.6mm 以上"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "游离皮肤移植的选择正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "刃厚皮片适于修复肉芽创面",
+                "全厚皮片适于皮源不足的病人",
+                "中厚皮片不适于关节功能部位",
+                "全厚皮片应用最多",
+                "中厚皮片应用最少"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肉瘤是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "来源肌肉组织的肿瘤",
+                "来源胚胎性肿瘤",
+                "来源间叶组织的恶性肿瘤",
+                "来源于平滑肌的恶性肿瘤",
+                "来源腺上皮组织的肿瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "恶性肿瘤的临床表现，下列那项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可出现血道转移",
+                "恶病质常为晚期表现",
+                "疼痛常为早期初发症状",
+                "常易出血和形成溃疡",
+                "区域淋巴结肿大"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "根据发病年龄癌多发生于 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "儿童",
+                "青少年",
+                "青年",
+                "中年以上",
+                "幼儿"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "根据发病年龄肉瘤多见于：B高"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "儿童",
+                "青少年",
+                "青年",
+                "中年以上",
+                "幼儿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

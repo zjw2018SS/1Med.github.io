@@ -1,0 +1,4824 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "外科",
+        "source": "未知",
+        "filename": "【人卫一类】（普外）A1",
+        "type_all_num": 200,
+        "dev": {
+            "wrap_num": 200,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 200,
+        "time": "25年01月13日11小时30分02秒",
+        "id": "id-m5uhk6sm-w9qlfir9c"
+    },
+    "body": [
+        {
+            "questions": [
+                "溃疡病致瘢痕性幽门梗阻最突出的临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "贫血",
+                "腹胀",
+                "消瘦",
+                "呕吐",
+                "腹水"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "脾脏循环血量约占心输出量的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1%～2%",
+                "4%～5%",
+                "8%～10%",
+                "10%～15%",
+                "15%～20%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "诊断性腹腔穿刺不应用于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小儿及老年人",
+                "精神状态不正常者",
+                "昏迷患者",
+                "诊断已明确的患者",
+                "诊断不明确的患者"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "发生痔的直接病因中，哪项无关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "习惯性便秘",
+                "腹内压力增高",
+                "直肠内静脉无静脉瓣",
+                "直肠下端和肛管的慢性感染",
+                "长期饮酒及喜食辛辣刺激性食物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "老年人发生机械性肠梗阻时，首先应想到的原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "蛔虫阻塞",
+                "肠粘连",
+                "嵌顿性腹外疝",
+                "肠道肿瘤",
+                "肠系膜血管栓塞"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃癌患者手术探查时，发现胰头转移灶属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "淋巴转移",
+                "血行转移",
+                "直接蔓延",
+                "种植转移",
+                "其他转移方式"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胃、十二指肠溃疡病穿孔引起的急腹症早期症状中，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹肌紧张",
+                "呕吐",
+                "早期出现休克症状",
+                "发热",
+                "肠鸣音小时"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "难复性疝的内容物最多是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小肠",
+                "大网膜",
+                "盲肠",
+                "乙状结肠",
+                "膀胱"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "早期直肠癌淋巴转移的最主要途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "向下转移",
+                "向周围转移",
+                "向腹股沟淋巴结转移",
+                "向上转移",
+                "向髂内淋巴结转移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胆道蛔虫病的诊断要点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "伴有恶心、呕吐蛔虫",
+                "剧烈腹部绞痛与不相称的轻微腹部体征",
+                "可出现黄疸",
+                "可并发胆源性胰腺炎",
+                "腹痛反复发作"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胆囊穿孔的治疗应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "紧急手术，引流腹腔",
+                "胆囊造影术",
+                "肝叶切除术",
+                "紧急手术解除梗阻，减压并引流胆道",
+                "胆总管-空肠吻合术"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性梗阻性化脓性胆管炎的最佳治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "应尽量保守，避免急诊手术",
+                "须及时作胆囊引流手术",
+                "须紧急作胆管引流手术",
+                "待病情稳定后择期作彻底手术",
+                "须紧急作胆囊切除术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "机械性肠梗阻与动力性肠梗阻的主要区别在于早期"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有无腹痛、腹胀及肛门停止排便排气",
+                "有无休克",
+                "呕吐是否剧烈且频繁",
+                "有无绞痛、腹胀和肠鸣音变化",
+                "有无酸碱失衡、电解质紊乱"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急腹症最重要的局部体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠鸣音减弱",
+                "腹膜刺激征",
+                "腹式呼吸运动减弱",
+                "腹壁肌肉紧张",
+                "腹痛有移动性浊音"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于下肢深静脉血栓形成后综合征，下列描述不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浅静脉曲张",
+                "常规行大隐静脉高位结扎剥脱术效果显著",
+                "足靴区溃疡",
+                "长时间站立后下肢肿胀",
+                "需要长期弹力袜支持"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于胆囊癌正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "均为腺癌",
+                "手术后效果好",
+                "易发生肝门淋巴结转移",
+                "预后差",
+                "胆囊结石为主要病因"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "鉴别回肠-结肠型肠套叠和盲肠癌梗阻最可靠的措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "行X线钡剂灌肠检查",
+                "右下腹有无包块",
+                "阵发性腹痛",
+                "查有无血性黏液便",
+                "查血癌胚抗原是否升高"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种饮食习惯会增加胃癌的发生率"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "长期食用高脂食物",
+                "长期食用腌制食物",
+                "长期低蛋白饮食",
+                "长期食用碱性食物",
+                "长期食用低盐饮食"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "闭合性腹部损伤，常见受损的内脏依次是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小肠、脾、肾、肝、胃",
+                "脾、肾、小肠、肝、肠系膜",
+                "脾、小肠、肾、肝、胃",
+                "肝、脾、肾、小肠、肠系膜",
+                "肾、肝、脾、小肠、肠系膜"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "肝细胞癌和胆管细胞癌都是常见的原发性肝癌，临床上可借助肿瘤标记物、影像学检查等手段进行鉴别。下述检查无助于鉴别诊断的为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "AFP",
+                "CA199",
+                "腹部增强CT",
+                "腹部增强MRI",
+                "凝血分析"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "最易发生休克的急腹症"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性肠胃炎",
+                "单纯性肠梗阻",
+                "急性阑尾炎",
+                "胆道蛔虫症",
+                "急性梗阻性胆管炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "消化道穿孔的处理原则是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对症支持",
+                "药物治疗",
+                "早期行手术治疗",
+                "抗感染治疗",
+                "随诊观察"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "诊断早期胃癌最可靠的手段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "钡餐检查",
+                "磁共振",
+                "B超检查",
+                "CT检查",
+                "纤维胃镜检查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Charcot三联征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黄疸，休克，腹痛",
+                "腹痛，寒热，黄疸",
+                "黄疸，寒热，休克",
+                "腹痛，黄疸，腹水",
+                "寒热，腹水，腹痛"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "阑尾炎切除术后最常见的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "粪瘘",
+                "切口感染",
+                "阑尾残株炎",
+                "粘连性肠梗阻",
+                "腹膜炎，腹腔脓肿"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于门静脉高压症，下列叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "门静脉压力越高，呕血发生率越高",
+                "曲张的食管胃底静脉出血不易自止",
+                "脾内纤维增生和脾髓细胞再生是脾大的主要原因",
+                "脾功能亢进表现为红、白细胞和血小板减少",
+                "腹水是对患者威胁最大的并发症"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "腹部最易受损的空腔脏器是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃",
+                "小肠",
+                "结肠",
+                "直肠",
+                "十二指肠"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于急腹症下列哪项叙述不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "诊断不明时不可用止痛药",
+                "感染引起的急腹症有发热",
+                "空腔脏器梗阻引起的急腹症为阵发性腹痛",
+                "腹痛为主要症状",
+                "老年人病变发展缓慢，腹痛反应明显"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下列腹痛性质与疾病的关系中，哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "间歇性刺痛——胆总管结石",
+                "阵发性绞痛——输尿管结石症",
+                "阵发性钻顶痛——胆道蛔虫症",
+                "剧烈刀割样疼痛——胃十二指肠溃疡穿孔",
+                "持续性胀痛——实质性脏器炎症"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "瘢痕性幽门梗阻的临床表现，应除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常定时发生在晚间呕吐",
+                "呕吐量大，多为宿食",
+                "上腹隆起，常有胃型及蠕动波",
+                "往往有振水音",
+                "呕吐往往引起脱水酸中毒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "先天性巨结肠的发病机制是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乙状结肠肌层发育不良，收缩力低下，引起结肠扩张",
+                "直肠或乙状结肠肠壁肌间神经节细胞缺如，受累肠道呈持续收缩状态",
+                "肛门外括约肌痉挛，结肠不能将粪便排出",
+                "直肠先天性狭窄，致乙状结肠结肠扩张，肥厚",
+                "结肠神经功能紊乱，肠管张力低下，呈扩张状态"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "十二指肠溃疡的好发部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "球部",
+                "降部",
+                "水平部",
+                "升部",
+                "移行部"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "腹股沟斜疝的疝囊在精索的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前外侧",
+                "后外侧",
+                "前内侧",
+                "后侧",
+                "后内侧"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于直疝，下列哪项是不正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于老年人",
+                "呈半球形，不进入阴囊",
+                "精索在疝囊后方",
+                "疝囊颈部于腹壁下动脉的内侧",
+                "极少发生嵌顿"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腹股沟疝手术治疗原则中错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婴幼儿只作单纯高位结扎",
+                "青少年腹股沟管后壁尚健全，可用Ferguson法",
+                "壮年常用Bassini修补法",
+                "腹壁缺损重的可采用疝成形术",
+                "绞窄疝肠切除术后可采作McVay法"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于嵌顿疝和绞窄疝，哪项是最正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床诊断嵌顿疝均有可能已有绞窄",
+                "嵌顿疝和绞窄疝临床上有明确界限",
+                "嵌顿疝和绞窄疝动脉血运均有障碍",
+                "两者均有急性肠梗阻表现",
+                "两者均需严密观察后决定是否手术"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "结肠癌的癌前疾病多见的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "家族性结肠息肉瘤",
+                "克隆氏病",
+                "回盲部结核",
+                "炎症性息肉",
+                "慢性结肠炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "重症腹部损伤患者治疗中根据损伤控制性外科理念，对体温的正确认识是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保证患者的低体温状态，降低机体代谢率",
+                "注意伤者机体保温和治疗过程加温",
+                "使患者的保持低温状态对凝血有利",
+                "患者的体温越高对治疗的益处越多",
+                "治疗过程中无需关注体温变化"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在行腹股沟疝修补术中，术中不慎将髂腹股沟神经切断，下列哪项处理方法最适当"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切断神经干作端口吻合",
+                "作双断端结扎",
+                "将切断的神经干埋入腹内斜肌内",
+                "用普鲁卡因作神经封闭",
+                "不作任何处理"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "脾切除术可取得明显疗效的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "遗传性椭圆形红细胞增多症",
+                "海洋性贫血",
+                "遗传性球形细胞增多症",
+                "丙酮酸激酶缺乏症",
+                "自身免疫性溶血性贫血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "十二指肠溃疡胃大部切除（毕Ⅱ式）术后，并发症中错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃切除的范围不够，输入段过长，易发生吻合口溃疡",
+                "呕吐胆汁不含食物，为输出口梗阻",
+                "呕吐食物，多不含胆汁，为吻合口梗阻",
+                "输入段梗阻易发生十二指肠残端瘘",
+                "反流性胃炎是残胃癌的基础"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "早期胃癌是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局限于肌层的胃癌",
+                "局限于胃壁",
+                "局限于黏膜或黏膜下",
+                "无淋巴结转移者",
+                "肿瘤小于1cm、无明显临床症状者"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是急性绞窄性肠梗阻的病理改变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "梗阻上面肠管膨胀、肠壁变薄，梗阻下面肠管瘪陷、肠壁正常",
+                "梗阻上面肠管膨胀、肠壁肥厚，梗阻下面肠管瘪陷、肠壁正常",
+                "肠壁静脉淤血、水肿、渗出",
+                "肠边缘动脉搏动消失，肠壁坏死、穿孔",
+                "腹腔出现血性液体、细菌和毒素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腹膜炎患者治疗中出现大便次数增多，里急后重，黏液便，应考虑并发"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "膈下脓肿",
+                "肠腔脓肿",
+                "细菌性痢疾",
+                "盆腔脓肿",
+                "中毒性痢疾"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃十二指肠溃疡出血患者，没有溃疡病史者占"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "5%～10%",
+                "10%～15%",
+                "15%～20%",
+                "20%～25%",
+                "25%～30%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性腹痛，呈持续性、阵发性加剧伴休克，最可能的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "绞窄性肠梗阻",
+                "单纯机械性肠梗阻",
+                "急性阑尾炎",
+                "胆道蛔虫症",
+                "输尿管结石"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "最多见的肛管直肠周围脓肿是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肛门旁皮下脓肿",
+                "坐骨肛管间隙脓肿",
+                "骨盆直肠间隙脓肿",
+                "直肠后间隙脓肿",
+                "直肠黏膜下脓肿"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于特殊类型急性阑尾炎，下列处理原则错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小儿急性阑尾炎应手术治疗",
+                "老年人急性阑尾炎应及早手术",
+                "孕期6个月内发生的急性阑尾炎应早手术",
+                "孕期末3个月的急性阑尾炎禁忌手术",
+                "伴高血压的老年人急性化脓性阑尾炎也应手术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，57岁，上腹部隐痛半年余，CT片，最可能的诊断是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胰腺囊腺瘤",
+                "胰腺脓肿",
+                "胰腺假性囊肿",
+                "胰腺癌",
+                "胰岛细胞瘤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肛管直肠其长度应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "8～14cm",
+                "15～18cm",
+                "18～23cm",
+                "23～28cm",
+                "28～33cm"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "直接发自腹腔动脉干的胃血管是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃右动脉",
+                "胃网膜右动脉",
+                "胃左动脉",
+                "胃网膜左动脉",
+                "胃短动脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胃的神经中，促进分泌和运动的神经不包括以下哪项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "交感神经",
+                "副交感神经",
+                "左迷走神经",
+                "右迷走神经",
+                "Latarjet神经"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "上消化道出血停止后，升高的氮质血症一般持续"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1～2天",
+                "2～3天",
+                "3～4天",
+                "5～7天",
+                "2周左右"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "对某内痔患者，拟作硬化剂注射治疗，注射一般选用哪个好发部位为最妥"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "位于齿状线下的黏膜下层的左侧、右前、右后",
+                "位于齿状线下的黏膜下层的右侧、左前、左后",
+                "位于齿状线下的黏膜下层的右侧、右前、右后",
+                "位于齿状线上的黏膜下层的左侧、右前、右后",
+                "位于齿状线上的黏膜下层的左侧、左前、左后"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对胆总管的描述，错误的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "开口于十二指肠大乳头",
+                "胆总管十二指肠上段沿肝十二指肠韧带右缘走行",
+                "胆总管胰腺段多经胰头后方",
+                "胆总管十二指肠壁段斜穿十二指肠降部中份的后内侧壁",
+                "胆总管十二指肠后段位于十二指肠水平部的后面"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肛管直肠周围脓肿的原发病灶最主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肛裂",
+                "肛乳头炎",
+                "肛瘘",
+                "内痔",
+                "肛窦炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胃癌患者最常发生的转移途径是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直接蔓延",
+                "血行转移",
+                "淋巴转移",
+                "种植转移",
+                "其他方式"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胆道系统是细菌性肝脓肿重要的感染来源，此种途径最常见的致病菌为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "金黄色葡萄球菌",
+                "粪肠球菌",
+                "大肠杆菌",
+                "链球菌",
+                "屎肠球菌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胃穿孔的特征性X线表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃泡增大",
+                "肠管膨胀",
+                "膈肌升高",
+                "气液平面",
+                "膈下游离气体"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "目前术前可对胃癌进行明确诊断的检查手段是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "气钡双重造影",
+                "胃镜取活检",
+                "胃螺旋CT",
+                "胃液脱落细胞学检查",
+                "彩色超声"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胃溃疡的手术指征不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "复合性溃疡",
+                "经4～6周正规内科治疗无效的溃疡",
+                "不能除外恶变的溃疡",
+                "有穿孔病史者",
+                "年龄超过45岁的溃疡患者"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胃癌的好发部位依次是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃窦部、胃体、贲门部",
+                "胃体、胃窦部、贲门部",
+                "贲门部、胃窦部、胃体",
+                "胃窦部、贲门部、胃体",
+                "贲门部、胃体、胃窦部"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "先天性胆道闭锁的手术治疗宜选择在出生后"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2个月内",
+                "3个月内",
+                "4个月内",
+                "5个月内",
+                "6个月内"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "胆囊结石和慢性胆囊炎最易与下列哪种疾病混淆"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性胰腺炎",
+                "胃痉挛",
+                "肠梗阻",
+                "胆道蛔虫病",
+                "胃、十二指肠溃疡"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "早期胃癌的概念是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局限在胃窦内",
+                "未侵犯浆膜层",
+                "直径在2cm以内",
+                "无淋巴结转移",
+                "局限于黏膜或黏膜下层"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "鉴别回肠-结肠型肠套叠和盲肠癌所致肠梗阻最可靠的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "询问有无慢性阵发性腹痛",
+                "检查右下腹有无包块",
+                "进行X线钡剂灌肠检查",
+                "检查有无血性黏液便",
+                "检查血红蛋白是否下降"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "待被检者下肢曲张静脉不充盈时，在腹股沟下方扎一橡皮管，然后让被检者起立，放开橡皮管，如血流迅速自上而下倒流，使浅静脉立即充盈曲张，最应考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "下肢浅深静脉交通支瓣膜闭锁不全",
+                "大隐静脉瓣闭锁不全",
+                "下肢深静脉阻塞",
+                "小隐静脉瓣闭锁不全",
+                "大隐静脉瓣功能正常"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列特殊检查中，哪项不助于梗阻性黄疸的诊断"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "超声检查",
+                "腹部立位平片",
+                "ERCP",
+                "MRCP",
+                "核素扫描"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "直肠癌切除术能否保留肛门，主要取决于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤距肛门的距离",
+                "肿瘤的病理类型",
+                "肿瘤是否已侵犯肠管周围",
+                "肿瘤有无远处转移",
+                "左半结肠的长度"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "急性阑尾炎的转归哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病理损害轻者痊愈后可不留解剖改变",
+                "急性炎症后可发生阑尾纤维化或萎缩",
+                "阑尾腔狭窄、引流不畅者常易致炎症复发",
+                "阑尾发炎后与周围粘连，牵扯致经常有右下腹隐痛",
+                "阑尾脓肿行非手术治愈后，多不必再次手术"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胃溃疡的好发部位在"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃后壁",
+                "幽门前壁",
+                "胃大弯",
+                "胃角",
+                "贲门旁"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "婴儿肠套叠的三大典型症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹痛，面色苍白，哭闹",
+                "腹痛，呕吐，血便",
+                "腹痛，肿块，血便",
+                "腹痛，呕吐，肿块",
+                "腹痛，肿块，哭闹"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝包虫病是由绦虫感染所致的人畜共患病，其终末宿主是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "犬",
+                "羊",
+                "牛",
+                "马",
+                "人"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "果酱样大便最常见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "小儿胃肠炎",
+                "小儿肠套叠",
+                "小儿崁顿疝",
+                "小儿阑尾炎",
+                "小儿肠梗阻"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列不是脾切除术后并发症的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹腔内大出血或急性胰腺炎",
+                "肺部并发症或膈下感染或脓肿",
+                "脾静脉或门静脉血栓形成",
+                "OPSI",
+                "血小板减少"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对于肝内胆管细胞癌的诊断具有较好诊断价值的肿瘤标记物为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "AFP",
+                "CA125",
+                "CEA",
+                "CA724",
+                "CA199"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "诊断急性阑尾炎不可能有的阳性体征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Roosing征",
+                "腰大肌试验",
+                "闭孔内肌试验",
+                "Murphy征",
+                "经肛门直肠指诊"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "上消化道出血最主要的临床表现是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呕血",
+                "黑便",
+                "呕血、便血、休克",
+                "失血性休克",
+                "脱水貌"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "患者排便后肛门处剧烈疼痛，肛门边可触及触痛明显的硬块，多见于以下哪种疾病"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内痔脱出嵌顿",
+                "直肠息肉脱出",
+                "血栓外痔形成",
+                "肛周脓肿",
+                "肛裂并前哨痔"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急腹症伴大出血休克体征者应给予"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "去枕仰卧位",
+                "平卧位",
+                "坐位",
+                "半卧位",
+                "头低脚高位"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "损伤控制性外科理念下在进行首次简短剖腹手术时需要解决的问题是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "一次性彻底解决胃肠道及其他系统的损伤",
+                "恢复腹壁和消化道完整性",
+                "消化道重建",
+                "通过肠造口解除梗阻及腹腔敞开解除腹腔高压",
+                "追求完美手术"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下面哪项是直肠癌扩散与转移的主要途径"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直接浸润",
+                "淋巴转移",
+                "跳跃转移",
+                "血行转移",
+                "种植转移"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关Charcot三联征，哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹痛，腹泻，高热",
+                "腹痛，寒战，高热",
+                "腹痛，寒战高热，黄疸",
+                "腹痛，高热，黄疸",
+                "寒战，高热，黄疸"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "胆总管结石急性发作和急性胆管炎的典型三联征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "突起右上腹阵发性绞痛，寒战，并触及胆囊",
+                "突起上腹部呈束腰带状剧痛，轻度黄疸，低血压",
+                "上腹或右上腹疼痛，畏寒发热，黄疸",
+                "寒战高热，肝区持续性胀痛，肝大",
+                "剑突下剧烈绞痛，呕蛔虫，无寒战"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "成人腹股沟斜疝的最主要特征之一是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿块位于腹股沟韧带下方",
+                "透光试验阳性",
+                "压住内环，疝不再出现",
+                "呈半球状，基底较宽",
+                "疝囊颈在腹壁下动脉内侧"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "正常成人胆总管直径一般为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.2～0.4cm",
+                "0.4～0.6cm",
+                "0.6～0.8cm",
+                "0.8～1.0cm",
+                "1.0～1.2cm"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "B超检查对胆囊结石的诊断准确率达95%，其超声显像最明显特征为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不均匀增强回声",
+                "强回声光团不伴声影",
+                "强回声光团并伴声影",
+                "不均匀增强回声，随体位移动",
+                "强回声光团伴声影，并随体位改变而移动"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关胆囊结石，哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "男性常见",
+                "可以出现梗阻性黄疸",
+                "静止性结石都不需手术治疗",
+                "口服法胆囊造影为首选检查",
+                "诊断主要依靠患者和阳性体征"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下述关于肝细胞腺瘤的描述错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "本病的发生与口服避孕药物相关",
+                "多见于中青年女性",
+                "多见于肝左叶",
+                "常有不完整的纤维包膜，边界清楚",
+                "肿瘤细胞与正常肝细胞相似，且与高分化肝癌细胞难以区分"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝硬化门静脉高压症患者出现上消化道出血，除了食管胃底静脉曲张破裂出血以外，另一种常见的病因是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "门脉高压性胃病",
+                "贲门黏膜撕裂性出血",
+                "十二指肠溃疡出血",
+                "异位静脉曲张破裂出血",
+                "胃溃疡出血"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "溃疡病发病机理的种种说法中占主要地位的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胆汁反流",
+                "慢性胃炎",
+                "胃血管痉挛",
+                "慢性胃炎，胃排空过速",
+                "胃酸增高，胃黏膜屏障破坏"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "下述对于肝血管瘤的诊断具有重要价值的影像学表现为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "B超显示病灶边界清晰",
+                "CT平扫为低密度",
+                "MRI T1加权像为低信号",
+                "MRI T2加权像为高密度信号，称“灯泡征”",
+                "PET-CT病灶无FDG摄取"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "有关绞窄性肠梗阻的临床表现的描述，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹肌紧张伴反跳痛",
+                "疼痛呈持续性，阵发加重",
+                "肠鸣音亢进，有气过水音",
+                "脉快，血压下降",
+                "X线表现孤立肠段扩张且固定"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期胃癌是指 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癌灶直径6～8mm",
+                "癌灶直径小于5mm",
+                "癌灶直径小于10mm",
+                "癌灶局限于黏膜或黏膜下层，无淋巴结转移",
+                "癌灶局限于黏膜或黏膜下层，无论有无淋巴结转移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，女，24岁，右下腹隐痛2年。查体：右下腹深压痛，未触及肿物。结肠镜检查未发现异常。钡灌肠检查阑尾未显影。妇科检查：右侧附件稍增厚，伴有触痛。曾多次使用口服和静脉输注抗生素治疗，症状无缓解。对该患者最适合的治疗是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继续使用抗生素治疗",
+                "改用抗结核药物治疗",
+                "做麦氏切口阑尾切除术",
+                "进行腹腔镜探查",
+                "做右下腹经腹直肌切口剖腹探查"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于老年急腹症患者临床特点，下列说法不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹痛不明显",
+                "白细胞计数显著增高",
+                "体温改变不明显",
+                "局部压痛不明显",
+                "明确诊断晚"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "有关急性胆囊炎的病因，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胆囊结石阻塞胆囊管",
+                "多胆道逆行致病菌入侵",
+                "多血道致病菌入侵所致",
+                "创伤及胆囊汁停滞，胆盐浓度增高化学性刺激",
+                "胰液反流引起非结石性胆囊炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝囊肿行开窗引流手术的指征为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "位置靠近肝被膜",
+                "位置靠近肝静脉或门静脉主要分支",
+                "患者为慢性乙型肝炎患者",
+                "囊肿存在压迫症状",
+                "多囊肝合并多囊肾"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "溃疡性结肠炎最常见的早期症状是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "里急后重",
+                "腹胀",
+                "血性腹泻",
+                "痉挛性疼痛",
+                "黏液脓血便"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "脾切除术后凶险性感染主要见于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "妇女、多胎妊娠者",
+                "婴幼儿",
+                "青年女性",
+                "儿童",
+                "青年男性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "急性阑尾炎，下列哪项不是手术治疗的适应证"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化脓性或坏疽性阑尾炎",
+                "阑尾穿孔并弥漫性腹膜炎",
+                "青年、小儿、妊娠患者的急性阑尾炎",
+                "慢性阑尾炎急性发作",
+                "阑尾炎性包块"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "放置三腔二囊管时为避免黏膜因受压时间太长而发生溃疡坏死，应定时放松气囊，间隔时间应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "4小时",
+                "8小时",
+                "9小时",
+                "12小时",
+                "24小时"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于下消化道出血的治疗，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对下消化道出血的患者应停用阿司匹林和非甾体类抗炎药",
+                "选择性肠系膜动脉灌注血管收缩药对憩室或血管扩张的急性出血止血率达80%，但50%会再出血",
+                "下消化道出血需要手术治疗的占15%",
+                "可经结肠镜行激光、硬化注射、电凝或金属内镜夹治",
+                "急诊患者死亡率为25%"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "外科治疗门静脉高压症的主要目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "改善肝功能，防止肝衰竭的发生",
+                "预防肝癌的发生",
+                "治疗顽固性腹水",
+                "防治食管胃底静脉曲张破裂所致的大出血",
+                "切除功能亢进的脾脏，调节免疫功能"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "提高胃癌治愈率的关键在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "术前、术中、术后化疗",
+                "早期诊断",
+                "根治性手术",
+                "放射治疗",
+                "综合治疗"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "连接胃的韧带中，有胃左动脉走行的韧带是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃胰韧带",
+                "肝胃韧带",
+                "脾胃韧带",
+                "胃结肠韧带",
+                "胃膈韧带"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于十二指肠憩室壁的组成，正确说法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "由黏膜和浆膜层组成",
+                "由黏膜和瘢痕结缔组织组成",
+                "由纤维组织组成",
+                "由黏膜、黏膜下层和浆膜层组成，几乎没有肌层",
+                "由黏膜层、肌肉层和浆膜层组成"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于对胃癌的认识，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "提高胃癌5年生存率的关键在于扩大切除范围以提高手术根治性",
+                "胃癌患者常胃酸偏低，粪便隐血试验阳性",
+                "至今治疗胃癌最主要的手段仍是手术切除",
+                "40岁以上出现消化道症状或“胃痛”者均应作进一步检查",
+                "胃溃疡有恶变的可能"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "上消化道出血最常见的病因为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃癌",
+                "出血性胃炎",
+                "胃十二指肠溃疡",
+                "应激性溃疡",
+                "胆道出血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肛瘘手术治疗的关键是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "切除肛管周围的瘢痕组织",
+                "切开瘘管壁，敞开引流",
+                "避免切断肛管外括约肌皮下部和浅部",
+                "切开肛管直肠环",
+                "正确地找到内口，将内口切开，切除"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "Hesselbach三角外侧边为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹股沟韧带",
+                "腹直肌外缘",
+                "股鞘内侧缘",
+                "腹壁下动脉",
+                "联合肌腱"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胃、十二指肠溃疡患者外科治疗绝对适应证为 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性大出血",
+                "亚急性穿孔",
+                "年轻溃疡病患者",
+                "十二指肠球部溃疡",
+                "瘢痕性幽门梗阻"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对诊断不明的急腹症患者禁用泻药的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "抑制感染扩散",
+                "减少肠蠕动",
+                "易致血压下降",
+                "影响肠道消化吸收",
+                "易致水、电解质失衡"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "妊娠期急性阑尾炎宜采取 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "尽量避免手术治疗",
+                "手术时一般应放置腹腔引流",
+                "应用镇静剂黄体酮等安胎措施",
+                "如已临产而症状体征轻微亦应手术治疗",
+                "应及早手术治疗"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种胃十二指肠溃疡不易出血"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃小弯侧",
+                "十二指肠球部前壁",
+                "十二指肠球部后壁",
+                "胃角",
+                "胃大弯侧"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "开放性腹部损伤常见的受损内脏依次是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝、小肠、胃、结肠、大血管",
+                "小肠、肝、胃、结肠、直肠",
+                "胃、小肠、肝、结肠、大血管",
+                "肝、胃、小肠、结肠、胰腺",
+                "胃、肝、小肠、结肠、大血管"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "阑尾炎的发生原因不包括下列哪一项"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阑尾管腔阻塞",
+                "细菌入侵",
+                "阑尾过长，扭曲",
+                "阑尾细小，血运不佳",
+                "剧烈运动"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "黏液血便，右下腹触到6cm直径大包块，质硬，不规则。应首选哪项检查"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃肠钡餐透视",
+                "灌肠气钡双重造影",
+                "CT",
+                "B型超声波检查",
+                "乙状结肠镜检查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "肝脏是人体重要的生命器官，多种物质在肝内合成，下述哪种物质不是由肝脏合成的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "白蛋白",
+                "纤维蛋白原",
+                "肌酐",
+                "尿素",
+                "胆固醇"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "损伤控制性外科的治疗程序是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "简短剖腹探查手术、ICU复苏、确定性手术",
+                "ICU复苏、确定性手术",
+                "完整剖腹探查手术、ICU复苏",
+                "ICU复苏、全面剖腹探查手术、确定性手术",
+                "确定性手术、ICU复苏"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "患者阑尾炎穿孔腹膜炎24小时，下列处置最关键是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "补液，纠正水，电解质紊乱",
+                "输血",
+                "应用大量有效抗生素",
+                "禁食、水，胃肠减压",
+                "急诊手术"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "闭襻型肠梗阻的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体液丧失明显",
+                "腹痛为阵发性绞痛",
+                "呕吐频繁",
+                "腹胀，腹部隆起不均匀对称",
+                "可排出血性黏液样粪便"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在下列动脉瘤中，发病率最高的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "脾动脉瘤",
+                "肾动脉瘤",
+                "股动脉瘤",
+                "腹主动脉瘤",
+                "肝动脉瘤"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "对某些脾破裂，行裂口修补术及部分脾切除术，是为了"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "节约时间",
+                "保留造血功能不受影响",
+                "避免日后可能因免疫低下招致严重感染",
+                "脾内贮有血液，避免失血过多",
+                "降低手术难度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝内胆管癌（肝内胆管细胞癌）的常见病因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性乙型肝炎",
+                "长期大量饮酒",
+                "胆囊结石",
+                "摄入黄曲霉素",
+                "肝内胆管结石"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性腹膜炎哪项概念是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "继发性腹膜炎比原发性腹膜炎多",
+                "急性腹膜炎严重者常并发中毒性休克",
+                "急性腹膜炎不须一律手术",
+                "急性腹膜炎常伴有碱中毒",
+                "多数病例可出现麻痹性肠梗阻"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "胆囊切除时，胆总管探查指征不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阻塞性黄疸病史",
+                "胆总管直径1.5cm以上",
+                "术中胆管造影示胆管结石",
+                "术中扪到胆管结石",
+                "胆囊单发大结石"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胃的胃肠间质瘤（GIST）切除术后复发危险度分级的判断依据不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤大小",
+                "患者性别",
+                "高倍镜下核分裂数",
+                "肿瘤转移",
+                "浸润周围组织"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "怀疑有脾破裂时，最简单、可靠的诊断方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "CT检查",
+                "血常规",
+                "B超检查",
+                "诊断性腹腔穿刺或腹腔灌洗",
+                "腹部X线平片"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "疝环也称为疝门，它是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "壁腹膜经疝门向外突出而形成的囊袋",
+                "疝囊与腹腔之间的通道",
+                "进入疝囊的腹内脏器或组织",
+                "指疝囊以外的各层组织",
+                "疝突向体表的门户，亦即腹壁薄弱区或缺损所在"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "区分肝脏左外叶和左内叶的解剖标志为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "左肝动脉",
+                "肝左静脉",
+                "肝圆韧带和镰状韧带",
+                "肝中静脉",
+                "肝右静脉"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下述哪种情况提示门静脉高压症患者近期具有较高的曲张血管破裂出血风险"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血小板计数低于50×109/L",
+                "肝功能检测总胆红素67µmol/L",
+                "凝血酶原时间17秒",
+                "增强CT显示门静脉血栓形成",
+                "胃镜显示曲张血管红色征阳性"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性胰腺炎时尿淀粉酶与血淀粉酶间的关系是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "两者同时增高",
+                "前者持续增高，后者先高后低",
+                "前者增高迟于后者，且下降较慢",
+                "前者增高迟于后者，但下降较快",
+                "前者增高早于后者，但下降较快"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在门静脉高压症的致病因素中，容易引起巨脾的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血吸虫性肝硬化",
+                "乙肝后肝硬化",
+                "丙肝后肝硬化",
+                "布加综合征",
+                "胆汁淤积性肝硬化"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于周围动脉瘤的发病原因，以下哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "某些先天性疾病，如马方综合征等可以引起周围动脉瘤",
+                "老年人，尤其是发达国家的老年人，动脉粥样硬化是一个主要病",
+                "青年人多由于损伤导致周围动脉瘤，但仅锐性损伤可导致动脉瘤",
+                "青年人亦可由于感染、动脉炎性疾病等导致周围动脉瘤",
+                "有时介入技术会导致医源性周围动脉瘤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列疝是由内脏构成疝囊壁的一部分的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Richter疝",
+                "腹股沟斜疝",
+                "嵌顿性疝",
+                "Littre疝",
+                "滑动性疝"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "降低肠梗阻死亡率最重要的措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "输血",
+                "应用抗生素",
+                "胃肠减压",
+                "良好的手术",
+                "补充水及电解质的缺失"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "腹外疝最重要的病因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "长期咳嗽",
+                "习惯性便秘",
+                "前列腺增生，排尿困难",
+                "腹内压突然增加",
+                "腹壁薄弱或腹压增高"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关倾倒综合征，以下错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "进食后心悸",
+                "进食后头晕出汗",
+                "进食后恶心呕吐",
+                "进食后上腹疼痛",
+                "进食后上腹饱胀"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下述哪项不是中晚期肝癌的常见表现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右上腹胀痛",
+                "Courvoisier征阳性",
+                "肝大，质硬",
+                "大量腹水",
+                "黄疸"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在鉴别斜疝与直疝时，以下最有价值的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病年龄",
+                "疝内容物是否进入阴囊",
+                "疝块外形",
+                "嵌顿机会",
+                "回纳疝块后压住内环区，疝块是否突出"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于急性腹痛的叙述，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯的阵发性绞痛多为胃肠、胆道、输尿管平滑肌痉挛",
+                "逐渐加重的腹痛多为炎症",
+                "突发而剧烈的持续性腹痛多为空腔脏器破裂或穿孔",
+                "阵发性腹痛的间歇期无疼痛常为腹腔内化脓性感染",
+                "腹痛伴发热一般是感染的表现"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "绞窄性肠梗阻的临床表现中，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "X线显示膨胀突出的肠袢随时间而改变其位置",
+                "持续剧痛无缓解",
+                "呕血性或棕褐色液体",
+                "肠鸣音消失或极微弱",
+                "出现腹膜刺激征"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "巨脾最常见于哪种病因所致的门静脉高压症患者"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乙肝后肝硬化",
+                "丙肝后肝硬化",
+                "血吸虫性肝硬化",
+                "骨髓纤维化",
+                "布加综合征"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "十二指肠乳头位于十二指肠的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "球部",
+                "升部",
+                "水平部",
+                "降部",
+                "移行部"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列阑尾炎优先采用手术治疗的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性单纯性阑尾炎",
+                "阑尾周围脓肿",
+                "轻型化脓性阑尾炎",
+                "阑尾穿孔并发局限性腹膜炎",
+                "阑尾穿孔并发弥漫性腹膜炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "胃黏膜分泌盐酸的壁细胞分布于胃的 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "贲门部",
+                "胃体部",
+                "胃底和胃体",
+                "胃底和胃窦部",
+                "胃体和胃窦"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝脏切除术后，对于肝组织再生最为重要的因素是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝动脉的压力",
+                "门静脉的压力和流量",
+                "胆管引流的通畅性",
+                "肝静脉回流的通畅性",
+                "经口营养摄入的量"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "最常见的引起上消化道出血的原因是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胆道出血",
+                "胃炎",
+                "胃癌",
+                "食管胃底静脉曲张",
+                "消化道溃疡"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "导致继发性腹膜炎的最常见致病菌是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "厌氧菌",
+                "大肠杆菌",
+                "肺炎双球菌",
+                "溶血性链球菌",
+                "多种细菌的混合感染"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "晚期肝癌常出现持续性腹痛，造成腹痛的原因主要是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肿瘤侵犯腹壁",
+                "肿瘤压迫周围组织",
+                "肿瘤破裂",
+                "肿瘤迅速生长使肝被膜紧张",
+                "肿瘤侵犯腹腔神经丛"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列急性阑尾炎的手术治疗适应证不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "阑尾炎性包块",
+                "慢性阑尾炎急性发作",
+                "化脓性或坏疽性阑尾炎",
+                "阑尾穿孔并弥漫性腹膜炎",
+                "青年、小儿、妊娠患者的急性阑尾炎"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "直肠肛管的最主要的生理功能是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分泌黏液",
+                "贮存粪便",
+                "吸收营养",
+                "吸收水分",
+                "排便"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于嵌顿疝的处理，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "嵌顿疝原则上要紧急手术",
+                "绞窄疝要尽快手术治疗",
+                "婴儿斜疝嵌顿1小时者可用非手术疗法",
+                "嵌顿性股疝6小时，必需行手术治疗",
+                "绞窄性疝的内容为大网膜一般不给予切除"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性化脓性阑尾炎的主要病理变化是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "炎症侵及黏膜及黏膜下层",
+                "炎症侵及肌层和浆膜层",
+                "阑尾管壁各层有小脓肿形成",
+                "腹腔内脓性液体",
+                "阑尾管壁坏死"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "有关齿状线解剖意义的描述中，错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "齿状线以上是黏膜，以下是皮肤",
+                "齿状线以上发生的痔是内痔，以下的痔是外痔",
+                "齿状线以上由直肠上、下动脉供血，以下由肛管动脉供应",
+                "齿状线以上淋巴引流入髂外淋巴结，以下入腹股沟淋巴结",
+                "齿状线以上受自主神经支配，以下属阴部内神经支配"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于粪便的颜色帮助鉴别出血来自上消化道或下消化道，下列说法错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "棕色粪便混有或沾有血迹，出血多来源于乙状结肠、直肠或肛门",
+                "大量鲜红色血液，提示出血来自肛门",
+                "栗色粪便意味着出血位于右结肠或小肠",
+                "黑粪症表示出血来自上消化道",
+                "无痛性大量出血，通常提示憩室或血管扩张出血"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，62岁，患胃溃疡多年。近年来上腹痛频繁，发作无规律，体重减轻，营养不良。胃钡餐透视见有龛影。该患者最需要进行的检查应为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "粪便隐血试验",
+                "胃酸测定",
+                "胃镜和细胞学检查",
+                "腹部B超检查",
+                "ERCP"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肠梗阻确诊以后，最重要的是了解"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肠梗阻的原因",
+                "肠梗阻是单纯性或绞窄性",
+                "肠梗阻的部位",
+                "肠梗阻的程度",
+                "肠梗阻发病的速度"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "临床最常见的肝前性门静脉高压症的病因为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "乙肝后肝硬化",
+                "血吸虫性肝硬化",
+                "骨髓纤维化",
+                "门静脉海绵样变性",
+                "布加综合征"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "原发性肝癌最常来源于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝细胞",
+                "库普弗细胞",
+                "肝星状细胞",
+                "胆管上皮细胞",
+                "鳞状细胞"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下述哪项不是细菌性肝脓肿的常见致病菌"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "大肠埃希菌",
+                "金黄色葡萄球菌",
+                "粪肠球菌",
+                "变形杆菌",
+                "结核分枝杆菌"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "腹膜后血肿保守治疗好转后最重要的并发症是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血尿",
+                "里急后重",
+                "Grey Turner征",
+                "腰背痛",
+                "感染"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "不作为阑尾炎辅助诊断体征的是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "Blumberg征",
+                "Rovsing征",
+                "Psoas征",
+                "Obturator征",
+                "经肛门直肠指检"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "损伤控制性外科理念追求的目标是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "手术成功率",
+                "伤者的存活率和生活质量",
+                "手术时间的控制",
+                "手术规模的控制",
+                "伤者手术风险的控制"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胃溃疡最常见的部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃角",
+                "胃窦小弯侧",
+                "胃体小弯侧",
+                "胃底小弯侧",
+                "胃底大弯侧"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "贲门周围血管离断术后再次出血的原因经常是因为血管结扎不彻底，其中最容易遗漏的血管为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃冠状静脉",
+                "胃短静脉",
+                "胃网膜左静脉",
+                "左膈下静脉",
+                "高位食管支或异位高位食管支"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性弥漫性腹膜炎，常见原因中哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "急性出血性胰腺炎",
+                "急性胃十二指肠溃疡穿孔",
+                "外伤性空腔脏器穿孔",
+                "肝破裂",
+                "绞窄性腹外疝"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "机械性肠梗阻腹痛的最主要的特点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持续性隐痛",
+                "间歇性隐痛",
+                "持续性绞痛伴肠鸣音亢进",
+                "阵发性绞痛伴肠鸣",
+                "剧烈持续性绞痛伴呕吐"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "急性腹膜炎患者发生休克的主要原因是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "剧烈腹痛",
+                "大量呕吐失液",
+                "呼吸循环功能不全",
+                "胃肠道渗出液刺激",
+                "毒素吸收及血容量减少"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "混合痔的概念是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内痔和外痔分别在不同的位置存在",
+                "痔和瘘同时存在",
+                "两个以上的内痔",
+                "多发内痔，布遍一周",
+                "直肠上下静脉丛均发生曲张形成"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "急性阑尾炎时最重要的体征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "麦氏点压痛",
+                "反跳痛",
+                "结肠充气试验阳性",
+                "右下腹固定压痛及反跳痛",
+                "脐周压痛"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在下列关于胃十二指肠溃疡的描述中，不正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "几乎所有的胃十二指肠溃疡大出血都需要急症手术止血",
+                "瘢痕性幽门梗阻是绝对手术指征",
+                "约80%的胃十二指肠溃疡穿孔患者可见膈下新月状游离气体影",
+                "胃溃疡有5%～10%的恶变率",
+                "幽门螺杆菌感染与胃十二指肠溃疡密切相关"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "肠梗阻最主要体征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹胀",
+                "腹式呼吸减弱",
+                "腹部可见肠型及肠蠕动波",
+                "腹肌紧张，压痛",
+                "腹部移动性浊音"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血栓闭塞性脉管炎的病因及病理，下列错误的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患者多有吸烟史",
+                "病变累及动脉，不累及静脉",
+                "病变呈节段性分布",
+                "寒冷和潮湿的生活环境可以致病",
+                "动脉周围有广泛纤维组织形成"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "引起上消化道大出血的病因不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃十二指肠溃疡",
+                "门脉高压症",
+                "出血性胃炎",
+                "胃癌",
+                "慢性萎缩性胃炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "以下哪种溃疡造成的幽门梗阻是必须手术解除的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "痉挛性",
+                "炎症性",
+                "水肿性",
+                "瘢痕性",
+                "感染性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "成年女性，阑尾穿孔术后5天，体温38.5℃，腹泻每天4次，稀水便，量不多，化验脓球＋，检查切口未见红肿，该患者应该做的检查为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "查血象",
+                "肛门指诊",
+                "腹部B超",
+                "乙状结肠镜检",
+                "直肠镜检"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胃癌患者仍然可以行胃癌根治术的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝有广泛转移",
+                "腹膜有广泛转移",
+                "全身多发远处转移",
+                "癌肿侵及横结肠",
+                "盆腔种植转移"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "体检诊断动静脉瘘的最可靠依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "浅静脉曲张",
+                "患肢增长、增粗",
+                "患肢皮温升高",
+                "患肢浅静脉扩张并扪及震颤",
+                "患肢腹股沟闻及血管杂音"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列情况均可发生麻痹性肠梗阻，但除外"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹膜内严重感染",
+                "腹膜后血肿",
+                "肠道肿瘤",
+                "低血钾、低血镁",
+                "腹部大手术"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "妇科腹痛特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "腹痛部位不明确",
+                "先发热后腹痛",
+                "常伴有腹膜刺激征",
+                "突发性下腹部撕裂样疼痛，向会阴部放射",
+                "可有腹部肿块"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "典型的急性阑尾炎腹痛的开始部位是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "右下腹",
+                "左下腹",
+                "脐周",
+                "右上腹",
+                "左上腹"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在急性腹膜炎的情况下，下列哪一类原因最常引起早期发热"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "胃、十二指肠溃疡穿孔",
+                "急性阑尾炎，胆囊炎穿孔",
+                "实质脏器破裂",
+                "结肠破裂早期",
+                "代谢性酸中毒"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "疝修补的基本原则中，哪项正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "疝囊均需高位结扎后悬吊",
+                "3岁以内小儿斜疝宜早期手术",
+                "儿童腹股沟疝手术，一般不需修补缺损",
+                "Halsted法为使精索移位于联合肌腱前",
+                "Ferguson法即精索原位的不修补腹股沟管的手术方法"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "血栓闭塞性脉管炎作腰交感神经切除术时，应切除"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病侧和对侧第3、4腰交感神经节及神经链",
+                "病侧第3、4腰交感神经节及神经链",
+                "病侧第2腰交感神经节及神经链",
+                "病侧及对侧第2腰交感神经节及神经链",
+                "病侧第2、3、4腰交感神经节及神经链"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于大隐静脉的描述，正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "起始于外踝与跟腱之间",
+                "汇入股深静脉",
+                "与胫后静脉之间可有交通静脉",
+                "患静脉曲张者，大隐静脉内多无瓣膜",
+                "大隐静脉内血栓形成会引起患肢股青肿"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "急性阑尾炎并发寒战、高热、黄疸时，应警惕"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肝脓肿",
+                "化脓性胆管炎",
+                "盆腔脓肿",
+                "毛细胆管性肝炎",
+                "门静脉炎"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "单纯空腔器官梗阻的腹痛特点为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "持续性腹痛",
+                "阵发性腹痛",
+                "持续性痛阵发性加重",
+                "持续性痛伴腹泻",
+                "阵发性痛伴发热"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "胃壁组织中富含淋巴结构的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "黏膜层",
+                "黏膜下层",
+                "黏膜肌层",
+                "固有肌层",
+                "浆膜层"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "关于脾功能亢进正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "仅见于门静脉高压引起代偿性脾大",
+                "巨脾仅见于血吸虫病性肝硬化",
+                "周围血细胞减少唯一原发因素是由于脾脏破坏过多所致",
+                "临床主要表现为红细胞降低明显",
+                "脾切除效果良好，可使周围血象不同程度地恢复"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "幽门梗阻的常见临床表现，不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "常定时发生在晚间呕吐",
+                "呕吐量大，常为宿食",
+                "上腹隆起，常有胃型及蠕动波",
+                "往往有振水音",
+                "呕吐往往引起脱水和酸中毒"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "早期胃癌的定义为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "癌肿＜1cm",
+                "癌浸润不超过黏膜下层，无论有无局部淋巴结转移",
+                "癌浸润不超过肌层，无局部淋巴结转移",
+                "癌浸润，仅限于黏膜层",
+                "只要手术可以切除干净的都算早期癌"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "腹部损伤可引起直肠周围感染可能性最大的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "直肠上段损伤",
+                "十二指肠损伤",
+                "直肠下段损伤",
+                "胰腺损伤",
+                "结肠损伤"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "经肛门直肠指诊不可发现的病变是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "内痔",
+                "肛瘘",
+                "直肠癌",
+                "前列腺增生",
+                "子宫肌瘤"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "慢性充血性脾大症是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "布加综合征",
+                "戈谢病",
+                "Banti综合征",
+                "脾囊肿",
+                "海洋性贫血"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "腹股沟斜疝的临床症状，以下最正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "多见于老年",
+                "呈半球形",
+                "疝囊颈在腹壁下动脉外侧",
+                "基底较宽",
+                "膀胱易进入疝囊"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "肝细胞癌最常见的转移途径为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "血行转移至肺",
+                "经淋巴途径转移至肝门部淋巴结",
+                "血行转移至骨",
+                "腹腔种植转移",
+                "经门静脉肝内转移"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "患者，男，40岁，上腹隐痛不适4个月，近1个月加剧，服胃痛片后有所缓解，食欲差，便潜血（＋＋），胃肠道钡餐检查见胃窦部小弯侧黏膜纹理紊乱，胃壁僵直不规则，诊断首先考虑"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "慢性胃窦炎",
+                "胃溃疡",
+                "胃癌",
+                "胃黏膜脱垂",
+                "萎缩性胃炎"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "早期胃癌，最主要是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "局限于黏膜或黏膜下层",
+                "局限于胃窦内",
+                "直径≤5cm",
+                "无淋巴结转移",
+                "病理分化程度极高"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [],
+            "answers_matching_index": [
+                0
+            ]
+        }
+    ]
+}

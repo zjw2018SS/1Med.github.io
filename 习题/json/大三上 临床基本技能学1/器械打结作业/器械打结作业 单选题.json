@@ -1,0 +1,148 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "临床基本技能学(外科基本技能)",
+        "filename": "器械打结作业",
+        "type_all_num": 5,
+        "dev": {
+            "wrap_num": 5,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 5,
+        "time": "24年11月09日22小时03分56秒",
+        "id": "id-m3a8l0st-raimfxstk"
+    },
+    "body": [
+        {
+            "questions": [
+                "持针器的正确使用下列哪项错误"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "图片3.png",
+                "图片1.png",
+                "图片2.png",
+                " 图片4.png"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "手术中传递器械中哪项错误？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 手术刀的传递是将刀柄轻轻放在操作者手掌上",
+                " 持针器的传递是将针线夹好后将钳柄对着操作者传递。",
+                " 手术剪及血管钳的传递是将钳柄轻放在操作者手掌上",
+                " 手术刀的传递是将刀片一端轻轻放在操作者手掌上"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "主要动脉的结扎选用哪种打结方式？ "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 方结",
+                " 滑结",
+                " 假结",
+                " 外科结"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "精细手术或整形手术选用下列哪种执刀方法"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "  执笔式",
+                " 持弓式 ",
+                "  抓持式 ",
+                " 反挑式"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "正确的持镊方法应该是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                " 右手拇指对中指和无名指",
+                " 左手拇指与食指、中指相对应 ",
+                " 右手拇指与食指、中指相对应",
+                " 左手拇指对中指"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

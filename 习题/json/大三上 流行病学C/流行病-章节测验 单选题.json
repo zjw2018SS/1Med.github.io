@@ -1,0 +1,4417 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "未知",
+        "filename": "流行病-章节测验",
+        "type_all_num": 169,
+        "dev": {
+            "wrap_num": 169,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_1_num": 169,
+        "time": "24年12月26日04小时14分08秒",
+        "id": "id-m54c29zp-988ys6fjf"
+    },
+    "body": [
+        {
+            "questions": [
+                "下列关于流行病学研究，说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实验性研究和分析性研究的差别是是否设立对照",
+                "只有分析性研究需要设计对照组，并在组间进行比较。",
+                "实验性研究的研究对象是人群。需要设计对照组，并在组间进行比较。",
+                "描述性研究不设立对照组，所以没有比较。",
+                "分析性研究需要随机分组进行组间比较"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某广告声称：“用金霉素治疗1000名上呼吸道感染的儿童有900名在72小时内症状消失。”我们是否可以得出下列结论：应选择金霉素治疗儿童的上呼吸道感染"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不正确，因为不是根据率比较",
+                "正确",
+                "不正确，因为样本量太小",
+                "不正确，因为没有对照组",
+                "不正确，因为没有进行统计学显著性检验"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪位是实验流行病学先驱，证实了橘子柠檬和坏血病的关系"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "James  Lind",
+                "Hippocrates",
+                "John Snow",
+                "Edward Jenner,",
+                "William  farr"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "流行病学研究的观察法与实验法的根本区别在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不设立对照组",
+                "统计学检验",
+                "是否人为控制研究的条件",
+                "研究对象是否为人群",
+                "设立对照组"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某高速公路的统计资料表明，蓝色车子的车祸事件要比其他车子的车祸发生事件为多。由此推论：蓝色车子发生车祸的危险性高于其他车子"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不对，因为没有对照组",
+                "不对，因为比较不是基于发生率",
+                "对",
+                "不对，因为以现患率代替了发生率",
+                "不对，因为没做显著性检验"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "100名高血压患者，用气功疗法降压，随访三个月，80％血压降至正常，下列哪个结论正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "无法作出结论，因未设对照组",
+                "此法效果可疑，因观察时间不长，20％未显效",
+                "气功疗法降压效果好，观察三个月80％病人有效",
+                "因样本不大，故无法下结论",
+                "无法作出结论，因未作统计学检验"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "流行病学与临床医学的根本区别在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "提供诊断依据",
+                "不涉及药物治疗",
+                "在群体水平上研究疾病现象",
+                "预防医学工作者专用",
+                "研究疾病的病因学"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "流行病学的核心观点是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "概率论和数理统计",
+                "多病因论观点",
+                "对比观点",
+                "群体观点",
+                "社会医学的观点 "
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "流行病学中的群体是指 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在一定范围内具有相同特征的人群，可以小到一个家庭，大到全人类",
+                "有典型症状的病人",
+                "所有病人",
+                "无症状的健康人",
+                "所有人"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "流行病学的研究对象是 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "典型病人",
+                "疾病",
+                "病人 ",
+                "健康人",
+                "人群"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "流行病学研究的描述性研究与分析法的根本区别在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是否抽样",
+                "是否随机分组",
+                "是否设立对照组",
+                "是否人为控制研究的条件",
+                "是否随访"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "流行病学工作的三个阶段是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "揭示现象、找出原因、提供措施",
+                "描述分布、提出假设、验证假设",
+                "整理资料、分析资料、得出结论",
+                "观察性研究、实验性研究、理论性研究",
+                "筛查病人、确诊病人、治疗病人"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在流行病学研究中，由于研究者不能或不能全部掌握或控制所研究现象发生的条件，因此采用什么方法就是很重要的方法"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "实验法",
+                "观察法",
+                "临床试验",
+                "建立数学模型",
+                "人群调查法"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "宣传说，吸烟是肺癌的危险因素，但某80岁老人，吸烟60年，每天吸烟1包，身体健康。用以下哪个观点解释比较合适？"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "概率论",
+                "小概率事件",
+                "对比",
+                "群体的观点",
+                "多病因论"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "我国野鼠型出血热的发病率从每年10月至次年1月升高，此种现象称为（）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "短期波动",
+                "季节性",
+                "长期变动",
+                "聚集性",
+                "周期性"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "感染率的指标常用于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "死亡为主的传染病",
+                "急性传染病",
+                "隐性感染较多的疾病",
+                "显性感染为主的传染病",
+                "慢性传染病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在分析某人群中疾病的发生频率时，首先需考虑的个体因素是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "民族",
+                "性别",
+                "职业",
+                "年龄",
+                "职业"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "土壤中缺碘的地区往往有地方性甲状腺肿存在，称此为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自然地方性",
+                "自然疫源性",
+                "统计地方性",
+                "输入性疾病",
+                "环境地方性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "2016年某地年初人口25.05万，年末人口24.95万，年新发高血压5000例，2016年初当地高血压患者45000人，则2016年该地高血压的患病率为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.02",
+                "0.18",
+                "0.20",
+                "0.16",
+                "0.25"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "2016年某地发生传染性肺炎的流行，暴露的总人数是20000人，经诊断发病病例数为3000人，其中30人急性发病死亡，下列说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染率为15.00%",
+                "资料分析时的频率指标应选患病率",
+                "病死率为1.50‰",
+                "病死率为10.00‰",
+                "资料分析时的频率指标应选死亡率"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某地区欲找出对病人生命威胁最大的疾病，以便制定防治对策，需要计算和评价的统计指标是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "死亡率",
+                "患病构成比",
+                "患病率",
+                "病死率",
+                "死亡专率"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项因素不会影响患病率的变化"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病死率的升高或下降",
+                "治疗水平的提高或降低",
+                "活时间长短",
+                "人口总数自然增加或减少",
+                "发病率的升高或下降"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某社区年均人口为9万，年内共死亡150人，其中60岁以上死亡100人；在全部死亡者中，因肿瘤死亡人数为50人，该社区该年肿瘤患病总人数1000人，该社区该年肿瘤的死亡率是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "33.33%",
+                "0.33‰",
+                "1.11‰",
+                "5%",
+                "0.56‰"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对暴发性肝炎评价临床抢救效果时最恰当的指标应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "死亡率",
+                "罹患率",
+                "发病率",
+                "患病率",
+                "病死率"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某社区开展高血压普查，可以算出该社区人群高血压的 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病死率",
+                "发病率",
+                "患病率",
+                "死亡率",
+                "存活率"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某地监测数据显示，2016年该地胃癌新报告病例630人，全部累积胃癌患者910人，因胃癌死亡407人，该地区平均人口200万，如该地的胃癌发病和病程处于稳定状态，则下列指标正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "该地2016年胃癌的病死率是64.0/10万人",
+                "无法计算该地胃癌的病死率",
+                "该地2016年胃癌的患病率是31.5/10万人",
+                "该地2016年胃癌的死亡率是20.4/10万人",
+                "该地2016年胃癌的发病率是45.5/10万人"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "满足患病率＝发病率×病程的条件是，在相当长的时间内"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "当地人口相当稳定",
+                "发病率稳定",
+                "病程稳定",
+                "发病率和病程都相当稳定",
+                "患病率稳定"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某疾病预防控制中心，在全市6～18岁中小学生中随机抽取了6000人检测HBsAg情况，结果发现100人阳性，该调查最适合的描述指标是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病率",
+                "感染率",
+                "罹患率",
+                "生存率",
+                "患病率"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "发病率的变化与下列哪项因素无关"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "防疫措施的有效与否",
+                "致病因素的作用明显加强和减弱",
+                "患病率的升高或下降",
+                "疾病诊断水平的提高或下降",
+                "诊断标准的变化"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "反映一个国家或地区卫生经济状况最敏感的指标是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婴儿死亡率",
+                "儿童死亡率",
+                "孕产妇死亡率",
+                "新生儿破伤风发病率",
+                "出生缺陷率"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "比较两个地区的流感流行程度时用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病率",
+                "死亡率",
+                "累积发病率",
+                "患病率",
+                "罹患率"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "以下不是散发发生原因的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "传染源呈散在分布",
+                "某些传播机制不容易实现的传染病",
+                "某些以隐性感染为主的疾病",
+                "该病在当地常年流行或因预防接种的结果使人群维持一定的免疫水平",
+                "某些长潜伏期传染病"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某地监测数据显示，2016年该地糖尿病报告病例2500人，全部累积糖尿病患者9500人，该年度因糖尿病死亡10人，该该地区地区平均人口60万，则2016年糖尿病的患病率为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.0417",
+                "0.2513",
+                "0.2",
+                "0.1583",
+                "0.1333"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "血吸虫病流行区的一次调查中，查得93例急性血吸虫病人有如下的疫水接触史：游泳52人，割湖草30人，插秧6人，放牧3人，洗衣2人，由此得出游泳是最危险的接触方式，是否正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "是",
+                "不是，应了解他们的既往史",
+                "不是，因没设对照",
+                "不是，因未作统计学显著性检验",
+                "不是，因所做比较不是以率为基础的"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在流行病学现场调查中，为组织方便和节约费用，选择哪一种抽样方法更合适?"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯随机抽样",
+                "分层抽样",
+                "系统抽样",
+                "整群抽样",
+                "多级抽样"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "不适宜开展普查的情况是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "此病有较简便准确的检测手段和方法",
+                "对查出的病例有切实的治疗方法",
+                "有足够的人力、物力和经费以发现病例和及时普治",
+                "对象人群组织严密，不易发生遗漏",
+                "人群中该病的患病率较低"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某县为一肝癌高发区，在该县随机调查一个乡进行肝癌死亡回顾性调查，属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯随机抽样",
+                "分层抽样",
+                "整群抽样",
+                "多级抽样",
+                "系统抽样"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "可用于疾病监测的流行病学研究是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "生态比较研究",
+                "生态趋势研究",
+                "病例对照研究",
+                "队列研究",
+                "试验研究"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "进行居民吸烟率的社会调查时，先抽出若干街道，再从中各抽得两个居委会进行各户普查，这种调查方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯随机抽样",
+                "系统抽样",
+                "分层抽样",
+                "整群抽样",
+                "多级整群抽样"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "关于调查表设计的原则，下列哪项说法是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "语句要准确、通俗易懂",
+                "语句尽可能使用专业术语",
+                "有关的项目一项不能少，无关的项目一项也不列",
+                "尽量使用客观和定量的指标",
+                "项目排列先易后难，先一般后敏感"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "抽样调查较普查有许多优点，下列哪项不是其优点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "节省人力",
+                "适宜于调查患病率低的疾病",
+                "节约时间",
+                "工作易做得细致",
+                "节约物力"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "随机抽样方法不包括"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯随机抽样",
+                "系统抽样",
+                "分层抽样",
+                "整群抽样",
+                "随机拦截调查"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某乡5000户约2万人口，欲抽其l/5人口进行某病调查。随机抽取第1户，随后每隔5户抽取1户，抽到户的每个成员均进行调查。这种抽样方法称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分层抽样",
+                "系统抽样",
+                "整群抽样",
+                "简单抽样",
+                "多级抽样"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "适用于抽样调查的情况是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为发现某病全部病例并提供治疗",
+                "为早期发现癌症患者以降低其死亡率",
+                "欲调查的人群人数很少",
+                "欲知道某地一定时间内某病的患病情况",
+                "要了解各种疾病的常年发病情况"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "调查某人群免疫水平时，各年龄组按比例抽样采血，检测特异性抗体"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单纯随机抽样",
+                "分层抽样",
+                "整群抽样",
+                "多级抽样",
+                "系统抽样"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "以人群组为基本单位收集和分析资料，从而进行暴露与疾病关系的研究，称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "生态学研究",
+                "现况调查",
+                "个例调查",
+                "爆发调查",
+                "病例报告"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于描述性研究的叙述，下列哪项是错误的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "生态学研究的类型包括比较研究和趋势研究",
+                "生态学研究可用于评价干预试验的效果",
+                "描述性研究可直接验证病因假设",
+                "个例调查又称病家调查",
+                "描述性研究属观察法"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "甲地工厂密集，大气污染严重，乙地是农村，大气污染较小。甲地吸烟者与不吸烟者皆比乙地吸烟者与不吸烟者肺癌发病率高，而不论甲地还是乙地，吸烟者都比不吸烟者肺癌发病率高。关于肺癌的病因，以下哪种推论最合适："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "肺癌只与大气污染有关",
+                "肺癌只与吸烟有关",
+                "甲地肺癌与大气污染有关",
+                "乙地肺癌与吸烟有关",
+                "肺癌与大气污染和吸烟均有关"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "做队列研究时，下列哪项不应作为队列选择的条件"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "应选择暴露情况容易查明者",
+                "便于随访",
+                "稳定",
+                "年龄较大",
+                "暴露者比例较高"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "评价一个致病因子的公共卫生意义，即评价在人群中干预的效果，宜选用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "归因危险度",
+                "相对危险度",
+                "特异度",
+                "归因危险度百分比",
+                "人群归因危险度"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在一项队列研究中，计算出某研究因素RR值的95%的可信区间为0.2~1.8，那么该研究因素可能为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "危险因素",
+                "保护因素",
+                "混杂因素",
+                "无关因素",
+                "以上均不是"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在一项关于吸烟与肺癌的队列研究中，获得如下资料：吸烟组肺癌的发病率为51.0/10万人年，非吸烟组的肺癌发病率为5.0/10万人年，而一般人群（全人群）的肺癌发病率为21.0/10万人年，吸烟对肺癌的人群归因危险度百分比（人群病因分值）是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "30/10万",
+                "46/10万",
+                "46/51",
+                "16/21",
+                "51/21"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "最适合于在铀矿工人中研究暴露于氡气与患肺癌危险的研究方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床试验",
+                "回顾性队列研究",
+                "前瞻性队列研究",
+                "干预性研究",
+                "横断面研究"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列关于队列研究的说法正确的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "当研究的危险因子暴露较普遍时，暴露组应从暴露率较高的人群中选择",
+                "当研究的危险因素暴露较普遍时，暴露组应从一般人群中选择",
+                "当研究的危险因子暴露并不普遍时，暴露组应从一般的人群中选择",
+                "选择暴露组时，不必考虑暴露因素在人群中的分布情况",
+                "以上都不是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在一份有关膀胱癌与吸烟关系的前瞻性队列研究中，发现男性吸烟者膀胱癌发病率为 48.0/10 万，不吸烟者为 25.0/10 万，一般人群为30.0/10万，其归因危险度是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "48/25",
+                "48/30",
+                "18/10万",
+                "23/10万",
+                "5/10万"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "关于相对危险度，下列叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "相对危险度的取值范围在0~∞之间",
+                "相对危险度等于l，说明暴露与疾病无联系",
+                "相对危险度为0.001时，比相对危险度为1.1时的联系强度更弱",
+                "相对危险度小于1，说明其间存在负联系",
+                "相对危险度大于1，说明其间存在正联系"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在一项关于吸烟与肺癌的队列研究中，获得如下资料：吸烟组肺癌的发病率为51.0/10万人年，非吸烟组的肺癌发病率为5.0/10万人年，而一般人群（全人群）的肺癌发病率为21.0/10万人年，吸烟对肺癌的归因危险度百分比（病因分值）是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "30/10万",
+                "46/10万",
+                "46/51",
+                "51/5",
+                "51/21"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是前瞻性队列研究的特点"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可直接计算发病率",
+                "需要随访",
+                "多用于罕见疾病",
+                "每次调查能同时研究几种疾病",
+                "是由因及果的研究"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在一份有关膀胱癌与吸烟关系的前瞻性队列研究中，发现男性吸烟者膀胱癌发病率为 48.0/10 万，不吸烟者为 25.0/10 万，一般人群为30.0/10万，相对危险度是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "48/25",
+                "48/30",
+                "18/10万",
+                "23/10万",
+                "5/10万"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "为评估长期吸烟的危害，Doll与Hill选择了符合入选条件的34440名男医生为研究对象。根据吸烟情况将人群分为不同暴露组。并定期随访来获取吸烟资料及相关信息。使用几种交叉方式来监测结局事件（死亡）的发生。上述研究属于哪种类型的流行病学研究（ ）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "历史性队列研究",
+                "病例对照研究",
+                "前瞻性队列研究",
+                "描述性研究",
+                "现场试验"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "队列研究中，如果随访时间较长，观察人数变动较大时，多采用下列哪种指标表示发病水平："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "年发病率",
+                "发病密度",
+                "累积发病率",
+                "罹患率",
+                "患病率"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对某病进行前瞻性队列研究时，随机选择的队列应有下列人员组成"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "患该病的人",
+                "未患该病的人",
+                "具有欲研究因素的人",
+                "具有该病家族史的人",
+                "不具有欲研究因素的人"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在检验某因素与某疾病的因果联系时，下列哪种观察法最有效"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "现况调查",
+                "生态学研究",
+                "病例报告",
+                "前瞻性队列研究",
+                "实验性研究"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "前瞻性队列研究与历史性队列研究的主要不同点在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "前者为随访研究，后者为横断面研究",
+                "前者研究对象进入队列的时间是即时的，后者为过去的",
+                "前者为由因及果的研究，后者为由果及因的研究",
+                "前者设立对照组，后者不设对照组",
+                "前者有失访，后者没有"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在匹配病例对照研究时，为了节约样本，提高效率，常用1∶M配比，但M的取值一般不超过"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "一项病例对照研究得到如下资料，其OR值为 ??2.jpg"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.25",
+                "4.0",
+                "2.0",
+                "0.5",
+                "0.49"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在病例对照研究中，选择对照的要求是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "未患某病的人",
+                "产生病例的人群中未患某病，而且其他特征与病例组相同的人",
+                "产生病例的人群中未患所研究的疾病，而且某些可能影响暴露与疾病关系的因素与病例组具有可比性的人",
+                "未患某病，其他特征与病例组相同的人",
+                "未患某病，与病例组具有同质的人"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "按性别、种族、居住地匹配的两组2型糖尿病患者，其中1组为非蛋白尿组（尿蛋白<300mg/24h，n=106），另1组为蛋白尿组（尿蛋白≥500mg/24h，n=106）。回顾性分析了出现蛋白尿之前高血压的患病情况，分析显示：高血压与蛋白尿的比值比（OR）2.00、95%的可信区间为（1.17～3.43）。正确的结论是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "高血压可增加蛋白尿发生的危险，高血压是蛋白尿发生的危险因素",
+                "高血压可减少蛋白尿发生的危险，高血压是蛋白尿发生的保护因素",
+                "高血压与蛋白尿发生无统计学联系",
+                "蛋白尿组高血压的发病率高于非蛋白尿组",
+                "非蛋白尿组高血压的发病率高于蛋白尿组"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "能提供较可靠信息的病例是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "现患病例",
+                "已康复的病例",
+                "新发病例",
+                "死亡病例",
+                "住院病例"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某人研究新生儿黄疸的病因，他研究的条件是：选择100例确诊新生儿黄疸病例和同期同医院确诊没有黄疸的新生儿100例，然后调查产妇的分娩卡片，了解产前及产时各种暴露情况，这种研究方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例对照研究",
+                "历史性队列研究",
+                "临床随访研究",
+                "实验研究",
+                "现况调查研究"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在病例对照研究中，匹配是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例组的样本数等于对照组的样本数",
+                "在安排病例和对照组时，使对照的某些特征或变量与病例相一致的方法",
+                "在安排病例和对照组时，使对照的研究因素与病例相一致的方法",
+                "在安排病例和对照组时，使对照的所有特征或变量与病例相一致的方法",
+                "病例组的研究因素的数量与对照组完全一致"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一项研究吸烟和心脏病的病例对照研究，按饮酒分层以后，得出 =10.49，=2.1，结论是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "饮酒是心脏病的危险因素",
+                "饮酒是心脏病的混杂因素",
+                "吸烟是心脏病的危险因素",
+                "吸烟是心脏病的混杂因素",
+                "吸烟和饮酒有联系"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "在吸烟与肺癌关系的病例对照研究中，如果对照组中女性占80%，男性占20%，而病例组女性占20%，男性占80%，则可能会造成"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "选择偏倚",
+                "信息偏倚",
+                "混杂偏倚",
+                "错分偏倚",
+                " .随机误差"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "??1.jpg"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "3.0",
+                "0.33",
+                "2.0",
+                "1.67",
+                "0.26"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "一项雌激素与子宫内膜癌关系的配对病例对照研究，病例与对照共63对，病例与对照均有雌激素暴露史者27对，两组均无暴露史者4对，病例组有暴露史而对照组无暴露史者29对。OR为："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "10.52",
+                "9.67",
+                "2.24",
+                "3.14",
+                "4.47"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在一项有500名病例和500名对照的研究中，分别在400名病例和100名对照中发现可疑病因因素。OR值是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "8",
+                "4",
+                "16",
+                "20",
+                "由上述资料不能计算"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "病例对照研究中常用的对照来源中，下列哪组最接近全人口的无偏样本，代表性最好"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例的配偶、同胞、亲戚、同班同学等",
+                "同一或多个医疗机构中诊断的其他病例",
+                "病例的邻居或所在居委、住宅区内的健康人或非该病患者",
+                "社会人口的非病例或健康人群的抽样",
+                "社会团体人群中的非该病例患者或健康人的抽样"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "夫妻不和的男外科大夫事故发生率较高，如果用病例对照研究来验证此假设，合适的对照为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "未出事故的男外科大夫",
+                "不是外科大夫的男性",
+                "夫妻和睦的男外科大夫",
+                "夫妻和睦的不是外科大夫的男性",
+                "未出事故的外科大夫之妻"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某研究得出某因素与疾病的联系，OR=1.5，95%CI为0.7~1.9，这意味着"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "总体OR值95%的可能是错误的",
+                "尚不能认为暴露和疾病有联系",
+                "总体OR值说明该因素是疾病危险因素，而95%CI说明有偏倚",
+                "存在偏倚的可能性为95%",
+                "OR值正负联系均存在"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一份有关吸烟与肺癌关系的病例对照研究结果显示： =12.36，P＜0.05，OR＝3.3， 正确的结论是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例组肺癌患病率明显大于对照组",
+                "病例组发生肺癌的可能性明显大于对照组",
+                "对照组发生肺癌的可能性明显大于病例组",
+                "对照组肺癌的患病率明显大于病例组",
+                "不吸烟者发生肺癌的可能性明显小于吸烟者"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "一项病例对照研究资料分析结果表明，吸烟是肺癌的危险因素，OR=3.5，分层分析结果显示OR=2.1，说明"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分层的因素是混杂因素",
+                "分层因素削弱了吸烟和肺癌的关联强度",
+                "分层因素应该和疾病无关",
+                "两次计算差异主要是由于抽样误差导致",
+                "分层前的结果计算错误"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "某研究者调查了某年内发生的200例死产，将其与200例活产比较。发现死产婴儿母亲中，65%的人劳动时间长于12小时；而活产婴儿母亲中，只有11%长于12小时（P＜0.05），据此，认为母亲劳动时间长于12小时可导致胎儿死亡。该结论"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "可能不对，因为没有对照组",
+                "可能不对，因为在影响生殖结果的其他重要因素方面，劳动时间长于12小时的母亲可能不同于那些劳动时间短于12小时的母亲",
+                "可能不对，因为用了患病率而不是发病率",
+                "可能不对，因为没有得到高水平的统计显著性",
+                "可能不对，因为没有因果时间顺序"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在匹配病例对照研究中，病例与对照的比例最常用"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "1∶1",
+                "1∶2",
+                "1∶3",
+                "1∶4",
+                "1∶5"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在做孕妇暴露X射线与新生儿畸形的病例对照调查时，有必要对以下哪个因素配对"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "新生儿体重",
+                "X射线剂量",
+                "孕妇年龄",
+                "新生儿畸形种类",
+                "都不配对"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "病例对照资料分析中，均衡性检验的目的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分析暴露与疾病的统计学关联",
+                "描述研究对象的一般特征",
+                "考核两组资料之间的可比性",
+                "检验病例与对照组的频数比例是否符合设计要求",
+                "检验暴露与疾病的关联强度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪一项是实验流行病学研究中评价预防措施效果的指标 "
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "保护率",
+                "有效率",
+                "生存率",
+                "治愈率",
+                "病死率"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "研究者进行临床试验时，常采用双盲法，以尽可能减少"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "选择偏倚",
+                "信息（测量）偏倚",
+                "混杂偏倚",
+                "失去可能推广性",
+                "以上都不是"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "对于流行病学实验研究对象的选择，下面哪一项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "流行病学实验研究应选择依从性好的人群",
+                "在新药临床试验时，应将老年人、儿童及孕妇等除外",
+                "在做药物临床试验时，不应选择流动性强的人群",
+                "要评价甲肝疫苗的效果，可以选择新近有甲肝流行的地区",
+                "要评价食用盐中加碘是否能有效预防地方性甲状腺肿，可以选择缺碘的内陆地区"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪个指标不能用于流行病学实验研究"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "有效率",
+                "治愈率",
+                "抗体阳性率",
+                "保护率",
+                "患病率"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "现场试验和社区干预试验最大的区别在于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "研究对象是否为病人",
+                "是否评价预防措施效果",
+                "干预措施是个人还是社区",
+                "是否需要随机分组",
+                "是否采用盲法"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "实验研究与队列研究的主要区别是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "研究组与对照组大小相等",
+                "研究是前瞻性的",
+                "研究者是否控制研究因素",
+                "研究组与对照组具有可比性",
+                "设立对照"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "流行病学实验不具备以下哪个特征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "将同一批研究人群随机分为实验与对照两个组",
+                "人为地给予实验组以干预措施",
+                "实验中运用盲法",
+                "运用危险度的分析与评价",
+                "评价干预措施的有效性"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪条不是流行病学实验的目的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "检验和评价干预措施（含临床和预防）的效果",
+                "评价治疗药物或方法对解除病痛，提高生存率的效果",
+                "评价干预措施实施后对预防疾病发生的作用",
+                "评价新疫苗对预防某种传染病发生的效果",
+                "评价自动戒烟对降低某些疾病发生和死亡的效果"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "流行病学实验研究中，下列哪种试验不可能出现"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "单盲试验",
+                "双盲试验",
+                "三盲试验",
+                "开放试验",
+                "现场观察试验"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "流行病学实验研究中，实验组与对照组人群的最大不同是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "年龄不同",
+                "性别不同",
+                "目标人群不同",
+                "干预措施不同",
+                "观察指标不同"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "流行病学实验研究的研究人群应是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "来自于同一总体的一组暴露人群和一组非暴露人群",
+                "来自于同一总体的一组病例人群和一组对照人群",
+                "来自于同一总体的一组干预人群和一组非干预人群",
+                "来自于分离总体的一组干预人群和—组非干预人群",
+                "来自于分离总体的同—组研究人群"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "关于临床试验的对照组，下列叙述哪项不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对照组是为了正确衡量处理因素的效应",
+                "可减少或防止偏倚的发生",
+                "防止病人自愈对结果的影响",
+                "可减少实验所需的样本量",
+                "是临床试验的比较基础"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某研究者找出某厂1945年1000名在表上涂镭的女工以及另外1000名女电话接线员，比较她们1945年至1975年的骨瘤发病率。结果发现，1945－1975年间，涂镭女工有20例骨瘤患者，而电话接线员只有4例，这种研究属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "回顾性队列研究",
+                "实验流行病学研究",
+                "临床试验研究",
+                "病例—对照研究",
+                "现况调查研究"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "研究某种药物对某病的治疗效果时，试验对象应该是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "严重型病人",
+                "男、女人数必须相等",
+                "患病人群中有代表性的样本",
+                "对照组为非患某病的人组成",
+                "非典型症状的病人"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "临床试验中的随机化是为了保证"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "在试验期间对干预病人和对照病人的处理与评价相似",
+                "试验的病人能代表该试验的目标人群",
+                "控制观察者间变异",
+                "干预病人和对照病人在人口学、临床及其他特征上相似",
+                "试验结果能在其它情况下重复得到"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在进行药物疗效分析时，下列哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "因为是临床试验，故不需要对照组",
+                "试验组、对照组均只选典型病人",
+                "试验组、对照组都应选择有代表性者，并且两组是均衡可比的",
+                "试验组应选择较轻的病人",
+                "对照组应选择较重的病人"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求串联试验的阳性预测值"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "45%",
+                "82.6%",
+                "50%",
+                "90%",
+                "95%"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "为提高诊断试验的灵敏度,对几个独立试验可:"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "串联使用",
+                "并联使用",
+                "先串联后并联使用",
+                "要求每个试验假阳性率低",
+                "要求每个试验特异度低"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求并联试验的特异度"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "90%",
+                "95%",
+                "80%",
+                "10%",
+                "94.1%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求串联试验的特异度"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "95%",
+                "80%",
+                "63.33%",
+                "45%",
+                "90%"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "从2000年至2010年，用同一种诊断试验对某病进行诊断。在这段时间内该病的患病率增加了一倍，诊断试验的哪种指标也会因此发生改变"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "灵敏度增加",
+                "特异度增加",
+                "阳性预测值增加",
+                "阴性预测值增加",
+                "约登指数增加"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求并联试验的灵敏度"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "45%",
+                "95%",
+                "90%",
+                "80%",
+                "50%"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "一项筛检试验，75%糖尿病患者筛检试验为阳性，它指的是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "灵敏度",
+                "特异度",
+                "假阳性率",
+                "假阴性率",
+                "一致率"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求串联试验的阴性预测值"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "63.3%",
+                "94.6%",
+                "80%",
+                "55%",
+                "45%"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "关于筛检试验的评价指标下列哪项是正确的"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "试验的灵敏度愈高阳性预测值愈高",
+                "试验的特异度愈高阴性预测值愈高",
+                "试验阳性预测值上升，试验阴性预测值随之上升",
+                "现患率增加，试验阳性预测值上升",
+                "现患率增加，试验阴性预测值上升"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "青光眼病人的眼压约在22～42mmHg，非青光眼病人的眼压约在14～26mmHg，根据这些资料，将筛检标准值定在下列哪一个范围比较合适"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "22～42mmHg",
+                "22～26mmHg",
+                "14～22mmHg",
+                "26～42mmHg",
+                "15～42mmHg"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求串联试验的灵敏度是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "45%",
+                "95%",
+                "90%",
+                "82.6%",
+                "80%"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "111.png试求并联试验的阳性预测值"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "95%",
+                "80%",
+                "94.1%",
+                "63.3%",
+                "82.6%"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "有关筛检，以下哪一种说法不正确"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "为了发现罕见疾病",
+                "所筛检的疾病是危害人群健康的严重疾病",
+                "一旦筛检发现可疑病例后，有确实的诊断手段和治疗措施",
+                "对所筛检的疾病有比较全面的认识",
+                "筛检的方法不应该群众精神与身体伤害"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "形成病因假设的一种方法是“求同法”，例如"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "某学校发生食物中毒，患者均为进食某项食品者，不进该食品者不发病，因而该项食品为可疑病因",
+                "某市发生散发食物中毒多起，经调查患者均有进食某熟食店某熟食史，因而该熟食为可疑病因",
+                "某厂供应的学生午餐饭盒，供应若干学校，各校用餐人数不等，用餐多的学校食物中毒发生人数多，该厂盒饭为可疑病因",
+                "某厂供应相同的午餐饭盒给若干学校，仅一个学校发生食物中毒，经调查食物中毒发生在该校自供午餐的班级，因而该厂盒饭并非病因",
+                "某市发生食物中毒多起，经化验大多由同一病原微生物所致"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "病因研究中要获得工作假设，有一种方法是求异法，例如"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "某学校发生食物中毒，患者均为进食学生午餐盒饭者，不进食者不发生，因而盒饭为可疑病因",
+                "某市发生散发食物中毒多起，经调查患者均有进食某熟食店某食品史，该食品为可疑病因",
+                "某厂供应的学生午餐饭盒，供应若干学校，各校用餐人数不等，用餐多的学校食物中毒发生人数多，该厂盒饭为可疑病因",
+                "某厂供应相同的午餐饭盒给若干学校，仅一个学校发生食物中毒，经调查食物中毒发生在该校自供午餐的班级，因而该厂盒饭并非病因",
+                "某市发生食物中毒多起，经化验大多由同一病原微生物所致"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "观察法中验证病因假设最可靠的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例对照研究",
+                "现患研究",
+                "生态学研究",
+                "诊断试验",
+                "队列研究"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "在流行病学调查中，被调查者由于某些隐私而不愿报告真情所造成的偏倚属"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "混杂偏倚",
+                "选择偏倚",
+                "测量偏倚",
+                "报告偏倚",
+                ". 回忆偏倚"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "在病因研究的轮状模型中，强调宿主与下列哪种因素的关系"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "生物因素",
+                "环境因素",
+                "物理因素",
+                "精神因素",
+                "化学因素"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是判断因果联系的标准"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "时间顺序",
+                "联系的合理性",
+                "样本大小",
+                "剂量反应关系",
+                "联系的强度"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以医院为基础的病例对照研究，最常见的偏倚是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "选择偏倚 　　",
+                "回忆偏倚 　　",
+                "信息偏倚",
+                "错分偏倚 　　",
+                "混杂偏倚"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "判断因果联系时的必要条件是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "联系的合理性",
+                "联系的强度",
+                "联系的一致性",
+                "时间顺序，即先“因”后“果”",
+                "联系的剂量反应关系"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "推断某因素与某病有因果关系，此因素应与该病关联且有一定强度，在不同研究中此关联不断出现，可疑的病因出现在前，且在医学和生物学上言之成理，还需要"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "关联必须特异，即某因素仅与某病有联系",
+                "因素与疾病必须是真联系不是假关联或间接关联",
+                "排除选择偏性或信息偏性",
+                "疾病的诊断必须正确",
+                "因素与疾病的分布相符，并有剂量反应关系"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某结核性患者有饮酒、高脂饮食、营养不良、咳血、发烧等，且该患者吸烟。其中必要病因是："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "营养不良",
+                "结核杆菌",
+                "吸烟",
+                "链球菌",
+                "居住拥挤"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "验证病因假设最可靠的方法是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例对照研究",
+                "现况调查",
+                "队列研究",
+                "抽样调查",
+                "流行病学实验研究"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "对病因含义最确切的表达是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病原微生物",
+                "物理因素",
+                "化学因素",
+                "心理因素",
+                "凡能使人们发病概率增加的因素"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "混杂因子是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "影响研究结果判断的因素",
+                "影响统计处理的因素",
+                "与研究疾病和对研究因子的暴露都有联系，并且不是暴露导致疾病的中间变量。",
+                "与所研究疾病有关的因子",
+                "与所研究的暴露有关的因子"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是预防接种的异常反应"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "变态反应性脑脊髓炎",
+                "无菌性化脓性炎症",
+                "接种部位24小时炎症反应",
+                "过敏性休克",
+                "血清病"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "目前在全世界已消灭的疾病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "鼠疫",
+                "天花",
+                "霍乱",
+                "麻疹",
+                "血吸虫病"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "目前，我国《传染病防治法》规定法定报告的病种分为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "3类35种",
+                "2类26种",
+                "3类41种",
+                "3类39种",
+                "3类40种"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "我国法定报告的甲类传染病是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "霍乱、炭疽",
+                "鼠疫、炭疽",
+                "鼠疫、霍乱",
+                "伤寒、副伤寒",
+                "伤寒、霍乱"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "因吃不洁食物而感染痢疾，食物是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "传播因素",
+                "传播途径",
+                "传染源",
+                "带菌者",
+                "传播过程"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "传染期是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "从症状出现到完全消失的时期",
+                "最短与最长潜伏期之间的时间",
+                "病人能排出病原体的整个时期",
+                "从临床症状出现到停止排出病原体的时期",
+                "从感染病原体到症状出现的时期"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "发现乙类传染病肺炭疽及其疑似病人时，报告时限是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "48小时之内",
+                "12小时之内",
+                "6小时之内",
+                "2小时之内",
+                "24小时之内"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不属于垂直传播："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "分娩时胎儿经感染严重的产道引起的感染",
+                "病原体从阴道经子宫口到达胎盘引起胎儿感染",
+                ".出生的婴儿被检测出乙肝",
+                "受感染的孕妇经胎盘将病原体传给胎儿",
+                "母亲通过亲吻将病原体传给婴儿引起的感染"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "传播途径是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病原体自传染源排出的过程",
+                "病原体更换宿主在外界环境下所经历的途径",
+                "以上都不是",
+                "病原体更换宿主的过程",
+                "病原体侵入易感者的过程"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "疫源地范围的大小取决于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "传染源的数量，活动范围及周围人口数多少",
+                "传染源的活动范围，排出病原体的数量及毒力",
+                "传染源的活动范围，数量和周围人群的免疫状态",
+                "传染源活动范围，传播途径的特点和周围人群的免疫状态",
+                "传播途径的特点和病原体所能波及的范围"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "饭店的碗筷每次用后都进行消毒，这是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "化学消毒",
+                "疫源地消毒",
+                "随时消毒",
+                "预防性消毒",
+                "终末消毒"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "决定传染病患者隔离期限长短的主要依据是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "恢复期",
+                "传染期",
+                "临床症状期",
+                "潜伏期",
+                "前驱期"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "目前控制AIDS病最有效的措施是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "积极治疗",
+                "戒毒",
+                "预防接种",
+                "健康教育",
+                "早发现、早治疗、早诊断"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "检疫或医学观察的主要依据是该传染病的："
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "临床症状期",
+                "潜伏期 　　",
+                "病原携带期",
+                "恢复期 　　",
+                "传染期 　　"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "自病原体侵入机体到临床症状最早出现的一段时间称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "隔离期",
+                "前驱期",
+                "发病前期",
+                "潜伏期",
+                "传染期"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "以下哪一项不是接触传播传染病的流行特征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "病例—般呈散发和家庭聚集性",
+                "加强传染源管理，严格消毒制度，注意个人卫生可以减少传播",
+                "个人卫生习惯不良和卫生条件差的地区发病较多",
+                "有明显的季节性和地区性特点",
+                "流行过程缓慢，全年均可发病。无明显季节性高峰"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "疫源地的消灭必须满足"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "以上都不是",
+                "A十B十C",
+                "所有易感的接触者经该病最长潜伏期观察，未出现新病例或感染",
+                "传染源被移走或消除了排菌状态",
+                "传染源散播在外界环境中的病原体被彻底清除"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项不是经食物传播的疾病的流行特征"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "停止食用污染食物后，爆发即可平息",
+                "以上都不是",
+                "病人都有食某种污染食 物的历史，未食该食物者不发病",
+                "传播广泛，发病率高",
+                "如果出现大量污染，可在用餐者中呈现爆发临床症状较重"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "经食物传播的传染病的流行特征是"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "呈严格季节性",
+                "呈周期性",
+                "散发为主",
+                "病人有食用被污染食物史，不食都不发病",
+                "儿童发病为主"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "注射特异免疫球蛋白属于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人工被动自动免疫",
+                "人工被动免疫",
+                "人工自动免疫",
+                "自然自动免疫",
+                "自然被动免疫"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "病原携带者作为传染源意义的大小，最主要取决于"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "携带病原体时间的长短",
+                "病原携带者的职业和个人卫生习惯",
+                "排出病原体数量的多少",
+                "所携带病原体的型别、毒力",
+                "有无间接排出病原体"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "传染源是指"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "体内有细菌的人",
+                "体内有病原体排出的人",
+                "体内有病原体生长繁殖并能排出病原体的人或动物",
+                "机体内有病原体的人或动物",
+                "机体内有病原体生长繁殖的人或动物"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "将传染病人收留在指定的处所，限制其活动并进行治疗，直到消除传染病传播的危险这一过程被称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "消毒",
+                "留验",
+                "医学观察",
+                "隔离",
+                "拘留"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "注射白喉抗毒素的同时，又接种白喉类毒素，这种免疫称为"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "人工自动被动免疫",
+                "人工自动",
+                "自然被动",
+                "自然自动",
+                "人工被动"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项措施不是一级预防（5.0分）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "合理营养",
+                "保护环境",
+                "消除病因",
+                "定期复查",
+                "预防接种"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "属于二级预防措施的是：（5.0分）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "对症治疗",
+                "病后恢复",
+                "早期诊断 　　",
+                "接种疫苗 　　",
+                "健康促进 　　"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "以下哪项属于二级预防措施（5.0分）"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "预防接种",
+                "康复工作",
+                "定期体检",
+                "防复发转移",
+                "良好的生活方式"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "据某高速公路交警统计，2016年上半年该高速公路上发生的交通事故，蓝色车辆有63起，白颜色的车辆发生交通事故的仅有46起。因此，认为驾驶蓝色车比白颜色的车发生事故的危险性更高，该结论•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "不正确，因为没有进行统计学显著性检验",
+                "不正确，因为未用全年的交通事故数据",
+                "不正确，因为没有比较组",
+                "正确",
+                "不正确，因为比较不是在率的基础上"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "反映一个国家或地区卫生经济状况最敏感的指标是：•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "婴儿死亡率",
+                "出生缺陷率",
+                "孕产妇死亡率",
+                "儿童死亡率",
+                "新生儿破伤风发病率"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "2016年某地发生传染性肺炎的流行，暴露的总人数是20000人，经诊断发病病例数为3000人，其中30人急性发病死亡，下列说法正确的是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "感染率为15.00%",
+                "病死率为10.00‰",
+                "病死率为1.50‰",
+                "资料分析时的频率指标应选死亡率",
+                "资料分析时的频率指标应选患病率"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "2016年某地年初人口25.05万，年末人口24.95万，年新发高血压5000例，2016年初当地高血压患者45000人，则2016年该地高血压的患病率为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "0.02",
+                "0.25",
+                "0.20",
+                "0.18",
+                "0.16"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "流行病学研究的起点是（   ）•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "寻求对策",
+                "描述疾病的分布",
+                "寻找病因",
+                "研究疾病的流行规律",
+                "理论研究"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某医生调查发现，甲县的死亡者中心血管病占的比例最大，占40％，而乙县死亡者中心血管病占第3位，仅占25％。该医生认为甲县人死于心血管病的危险大于乙县人。•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "此结论正确",
+                "此结论不正确，因为这不是率的比较",
+                "以上都不对",
+                "此结论不正确，因为没能设立对照组",
+                "此结论不正确，因为它是描述性研究，不能下结论"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "进行感染性腹泻监测时应选择的疾病频率测量指标是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "发病专率",
+                "时点患病率",
+                "期间患病率",
+                "罹患率",
+                "发病率"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "2016年某监测点的胃癌监测数据，1月1日该监测点人口数为9.9万，12月31日该监测点人口数10.1万，1月1日记录的胃癌病例120人，2016年年内胃癌新发病例200人，同年胃癌死亡人数为50人。则2016年胃癌的死亡率为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "49.5/10万",
+                "50.0/10万",
+                "121.2/10万",
+                "50.1/10万",
+                "202.0/10万"
+            ],
+            "answers": [
+                "B"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "某地人口为100万，过去几年每年发生伤寒患者在10例左右，而某年伤寒的发病率为9/10万•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "爆发",
+                "大流行",
+                "短期波动",
+                "流行",
+                "散发"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "土壤中缺碘的地区往往有地方性甲状腺肿存在，称此为•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "自然地方性",
+                "输入性疾病",
+                "统计地方性",
+                "环境地方性",
+                "自然疫源性"
+            ],
+            "answers": [
+                "A"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "在最近一项调查发现，A病的患病率高于B病，但两种疾病的发病率和季节波动是相同的，可能的原因是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "A病患者比B病诊断的快",
+                "A病患者比B病恢复得快",
+                "A病患者比B病死亡的快",
+                "B病患者比A病生存时间长",
+                "B病患者比A病恢复得快"
+            ],
+            "answers": [
+                "E"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "某人欲研究高血压在我国的患病情况，此处的研究群体包括•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "我国全部成年人群",
+                "医院就诊的高血压患者",
+                "我国全部高血压病人",
+                "我国全部人口",
+                "全国医院就诊病人"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "某幼儿园突发食物中毒，共出现患儿25例，其中男童20例，女童5例。经调查，该幼儿园共有学生200名，其中男女各100名。此次女童食物中毒的罹患率是：•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "20%",
+                "12.5%",
+                "5%",
+                "0.25% ",
+                "25%"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "某地区欲找出对病人生命威胁最大的疾病，以便制定防治对策，需要计算和评价的统计指标是•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "死亡率",
+                "患病率",
+                "病死率",
+                "患病构成比",
+                "死亡专率"
+            ],
+            "answers": [
+                "C"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "下列哪项因素不会影响患病率的变化•\t"
+            ],
+            "type": [
+                "单选题"
+            ],
+            "type_code": "1",
+            "options": [
+                "活时间长短",
+                "发病率的升高或下降",
+                "病死率的升高或下降",
+                "人口总数自然增加或减少",
+                "治疗水平的提高或降低"
+            ],
+            "answers": [
+                "D"
+            ],
+            "analysis": [],
+            "answers_matching_rate": [
+                "100%"
+            ],
+            "answers_matching_index": [
+                3
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div id="setting">
+        <div id="setting_icon_div" draggable="true">
+            <svg t="1705244734270" id="setting_icon" viewBox="0 0 1024 1024" version="1.1"
+                xmlns="http://www.w3.org/2000/svg" p-id="3193" width="32" height="32">
+                <path
+                    d="M482.88 112l-17.28 90.688-20.64 4.512a309.696 309.696 0 0 0-99.776 41.088l-18.688 11.84-73.28-55.04-44.64 44.64 51.904 76.416-11.392 17.76a310.016 310.016 0 0 0-41.568 99.584l-4.8 21.6-90.72 12.896v63.104l90.688 17.312 4.512 20.64a309.984 309.984 0 0 0 41.088 99.776l11.84 18.688-55.04 73.28 44.64 44.64 76.416-51.904 17.76 11.392a310.016 310.016 0 0 0 99.584 41.568l21.6 4.8 12.896 90.72h63.104l17.312-90.688 20.64-4.512a309.984 309.984 0 0 0 99.776-41.088l18.688-11.84 73.28 55.04 44.64-44.64-51.904-76.416 11.392-17.76a310.016 310.016 0 0 0 41.568-99.584l4.8-21.6 90.72-12.896V482.88l-90.688-17.312-4.512-20.64a309.984 309.984 0 0 0-41.088-99.776l-11.84-18.688 55.04-73.28-44.64-44.64-76.416 51.904-17.76-11.392a310.144 310.144 0 0 0-99.584-41.568l-21.6-4.8-12.896-90.72H482.88zM410.56 149.856l19.424-101.856h171.584l14.624 102.624c28 8.064 54.848 19.328 80.128 33.568l85.792-58.304 121.344 121.344-62.272 82.88c14.08 25.408 25.152 52.352 32.96 80.416l101.888 19.424v171.584l-102.624 14.624a373.92 373.92 0 0 1-33.568 80.128l58.304 85.792-121.344 121.344-82.88-62.272c-25.408 14.08-52.352 25.152-80.416 32.96l-19.424 101.888h-171.584l-14.624-102.624a373.92 373.92 0 0 1-80.128-33.568L241.92 898.112l-121.344-121.344 62.272-82.88a373.824 373.824 0 0 1-32.96-80.416L48 594.048v-171.584l102.624-14.624c8.064-27.968 19.328-54.848 33.568-80.128L125.888 241.92l121.344-121.344 82.88 62.272a373.856 373.856 0 0 1 80.416-32.96z"
+                    fill="#000000" p-id="3194"></path>
+                <path
+                    d="M512 704a192 192 0 1 1 0-384 192 192 0 0 1 0 384z m0-64a128 128 0 1 0 0-256 128 128 0 0 0 0 256z"
+                    fill="#000000" p-id="3195"></path>
+            </svg>
+        </div>
+        <div id="setting_div" data-setting-show="0" style="transform: scale(0);">
+            <div class="setting_item">
+                <div class="setting_item_title">1.常规显示</div>
+                <div class="toggle_switches_div">
+                    正确选项前显示“√”
+                    <label class="switch">
+                        <input type="checkbox" id="option_before" placeholder="功能"
+                            data-is-option-right-display="0"></input>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+
+                <div class="toggle_switches_div">
+                    悬停显示正确答案
+                    <label class="switch">
+                        <input type="checkbox" id="is_hide_answer_true" placeholder="功能"
+                            data-is-hide-answer-true="show"></input>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+                <div class="toggle_switches_div">
+                    沉浸模式
+                    <label class="switch">
+                        <input type="checkbox" id="is_immerse_setting" placeholder="功能"
+                            data-is-immerse-setting="0"></input>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="setting_item">
+                <div class="setting_item_title">2.题目功能</div>
+                <div id="output">
+                    <div id="wrap_num">共0个题目</div>
+                    <div id="single_output">复制</div>
+                    <div id="single_download">下载</div>
+                    <div id="preview">重做</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="setting.js"></script>
+    <!-- <script src="setting.js"></script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

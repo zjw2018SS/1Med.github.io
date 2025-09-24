@@ -1,0 +1,223 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "author": "听雨荷",
+        "course": "医学伦理学",
+        "filename": "2024春季学期医学伦理学B.docx",
+        "type_all_num": 10,
+        "dev": {
+            "wrap_num": 10,
+            "error_questions_num": 0,
+            "error_type_num": 0,
+            "error_type_code_num": 0,
+            "error_options_num": 0,
+            "error_answers_true_num": 0,
+            "error_analysis_num": 0
+        },
+        "type_3_num": 10,
+        "time": "24年11月17日16小时02分55秒",
+        "id": "id-m3lb7k62-szaw4dt3w"
+    },
+    "body": [
+        {
+            "questions": [
+                "中国的文化是一种伦理文化，儒家思想是中国文化的主流。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "医学道德具有实践性和稳定性的特点。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "医学是一门艺术，而不是单纯的技术。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "医务人员的权利必须服从患者的权利。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "错"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                0
+            ]
+        },
+        {
+            "questions": [
+                "语言能治病，也能致病。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "行善原则的要求是善待生命、善待病人、善待社会。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "除非临床需要，医务人员不要打听患者的隐私。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "病人有拒绝参加实验的权利，即使对病人没有任何危害的情况下，也不能强迫进行。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "医疗保密通常指医务人员在医疗活动中不向他人泄露有关患者疾病的隐私。\t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "在没有经过动物实验的情况下，进行人体实验是违反道德的。 \t"
+            ],
+            "type": [
+                "判断题"
+            ],
+            "type_code": "3",
+            "options": [
+                "错误",
+                "正确"
+            ],
+            "answers": [
+                "对"
+            ],
+            "analysis": [],
+            "answers_matching_index": [
+                1
+            ]
+        }
+    ]
+}

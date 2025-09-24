@@ -1,0 +1,687 @@
+
+
+
+
+
+
+let json_row = [
+    [
+        {
+            "content": "01《系统解剖学》\n系统解剖学霍琨网课视频+讲义链接：https://pan.quark.cn/s/e56e3be0f11e\n系统解剖学霍琨老师听课笔记.docx链接：https://pan.quark.cn/s/32fb47b793fd\n系解（人卫一类题库）链接：https://pan.quark.cn/s/925599fa97ab\n系统解剖学名词解释+简单题.pdf链接：https://pan.quark.cn/s/3a3dca70ebd0\n系统解剖学图片标本链接：https://pan.quark.cn/s/e3f30d8637a6\n系统解剖学手写笔记.pdf链接：https://pan.quark.cn/s/8d8c83cd1147\n系统解剖学彩色笔记.pdf链接：https://pan.quark.cn/s/108fa637f7d2\n系统解剖学骨骼系统X线影像图谱.pdf链接：https://pan.quark.cn/s/0d3c652feeb0\n系统解剖学实验考试图片.pdf链接：https://pan.quark.cn/s/e5e138dc299b\n系统解剖学题库.pdf链接：https://pan.quark.cn/s/7992b1a487e7\n系统解剖学学习指导与习题集.pdf链接：https://pan.quark.cn/s/633f0d6322b5\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 1,
+            "endPos": 596
+        },
+        {
+            "content": "02《组织学与胚胎学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 596,
+            "endPos": 607
+        }
+    ],
+    [
+        {
+            "content": "02《组织学与胚胎学》\n组胚（人卫一类题库）链接：https://pan.quark.cn/s/5c854a26a0d1\n组织胚胎学自学课件.pdf链接：https://pan.quark.cn/s/bb9d9ca3f5c6\n组织学与胚胎学名词解释+简答题.pdf链接：https://pan.quark.cn/s/cceb91342265\n组织学与胚胎学实验切片复习资料.ppt链接：https://pan.quark.cn/s/ca0e619f2318\n组织学与胚胎学题库.pdf链接：https://pan.quark.cn/s/bde9c82edfc0\n组织学与胚胎学整理笔记.pdf链接：https://pan.quark.cn/s/254f5d9adb1c\n组织学与胚胎学重点总结.pdf链接：https://pan.quark.cn/s/98d85bc1c1f1\n组织学与胚胎学学习指导与习题集.pdf链接：https://pan.quark.cn/s/e2a07d8cc00a\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 596,
+            "endPos": 1043
+        },
+        {
+            "content": "03《医学细胞生物学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 1043,
+            "endPos": 1054
+        }
+    ],
+    [
+        {
+            "content": "03《医学细胞生物学》\n细胞生物学（人卫一类题库）链接：https://pan.quark.cn/s/d524d1b8abe9\n细胞生物学名词解释和简答题.pdf链接：https://pan.quark.cn/s/944e9e9e5f92\n细胞生物学简答题重点知识.docx链接：https://pan.quark.cn/s/5444466b3dcd\n医学细胞生物学精品笔记.pdf链接：https://pan.quark.cn/s/1dfda4b6ed6c\n医学细胞生物学重点总结.pdf链接：https://pan.quark.cn/s/0dc86a585118\n医学细胞生物学题库.pdf链接：https://pan.quark.cn/s/f7fd9a8b6b3c\n医学细胞生物学实验指导与习题集.pdf链接：https://pan.quark.cn/s/9c1879c374eb\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 1043,
+            "endPos": 1437
+        },
+        {
+            "content": "04《局部解剖学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 1437,
+            "endPos": 1446
+        }
+    ],
+    [
+        {
+            "content": "04《局部解剖学》\n局部解剖学精讲精练.pdf链接：https://pan.quark.cn/s/331ceb98646a\n局部解剖学（人卫一类题库）链接：https://pan.quark.cn/s/ff792cdd3f1f\n局部解剖学名词解释+简答题.pdf链接：https://pan.quark.cn/s/5f16ed3d5592\n局部解剖学 名词解释大汇总.pdf链接：https://pan.quark.cn/s/8b5b0208dfa9\n局部解剖学重点知识整理.pdf链接：https://pan.quark.cn/s/3f5290e24146\n局部解剖学选择题题库.pdf链接：https://pan.quark.cn/s/75deed3a76c6\n局部解剖学学习指导与习题集.pdf链接：https://pan.quark.cn/s/8d10d73f306e\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 1437,
+            "endPos": 1826
+        },
+        {
+            "content": "05《病理生理学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 1826,
+            "endPos": 1835
+        }
+    ],
+    [
+        {
+            "content": "05《病理生理学》\n景晴病理生理学网课+讲义链接：https://pan.quark.cn/s/5745064541b9\n病理生理学（人卫一类题库）链接：https://pan.quark.cn/s/ba13a0066a84\n病理生理学笔记.pdf链接：https://pan.quark.cn/s/0a73c2e7075e\n病理生理学名词解释+简单题.pdf链接：https://pan.quark.cn/s/8d8d71c1c29d\n病理生理学题库.pdf链接：https://pan.quark.cn/s/e55b0f5539ba\n病理生理学学习指导与习题集.pdf链接：https://pan.quark.cn/s/793882696b28\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 1826,
+            "endPos": 2151
+        },
+        {
+            "content": "06《医学微生物学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 2151,
+            "endPos": 2161
+        }
+    ],
+    [
+        {
+            "content": "06《医学微生物学》\n医学微生物学精讲精练.pdf链接：https://pan.quark.cn/s/84c4b739915b\n医学微生物学（人卫一类题库）链接：https://pan.quark.cn/s/9cb6fd6aef5b\n医学微生物学笔记.pdf链接：https://pan.quark.cn/s/917b3b34690c\n医学微生物学名词解释+简单题.pdf链接：https://pan.quark.cn/s/6dc7d401b052\n医学微生物学名解+简答.pdf链接：https://pan.quark.cn/s/30b5fc5c3764\n微生物学表格整理（呼同学）.pdf链接：https://pan.quark.cn/s/b316eec6e33b\n微生物标本.pdf链接：https://pan.quark.cn/s/966225a25bc1\n医学微生物学题库.pdf链接：https://pan.quark.cn/s/b79d699338f0\n医学微生物学学习指导与习题集.pdf链接：https://pan.quark.cn/s/0ec1297259a8\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 2151,
+            "endPos": 2642
+        },
+        {
+            "content": "07《医学免疫学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 2642,
+            "endPos": 2651
+        }
+    ],
+    [
+        {
+            "content": "07《医学免疫学》\n医学免疫学精讲精练.pdf链接：https://pan.quark.cn/s/3a8684df4805\n医学免疫学笔记.pdf链接：https://pan.quark.cn/s/b7ca2803323b\n免疫（人卫一类题库）链接：https://pan.quark.cn/s/7fd7336f073d\n医学免疫学重点笔记总结（中山）.pdf链接：https://pan.quark.cn/s/88a5c6861921\n医学免疫学-名词解释.pdf链接：https://pan.quark.cn/s/006a184d8a85\n医学免疫学名词解释+简答题.pdf链接：https://pan.quark.cn/s/24a509d7db7a\n医学免疫学英文缩写.pdf链接：https://pan.quark.cn/s/25e46675eab5\n医学免疫学题库.pdf链接：https://pan.quark.cn/s/49e580c6d790\n医学免疫学学习指导与习题集.pdf链接：https://pan.quark.cn/s/6c1b6415d971\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 2642,
+            "endPos": 3128
+        },
+        {
+            "content": "08《药理学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 3128,
+            "endPos": 3135
+        }
+    ],
+    [
+        {
+            "content": "08《药理学》\n药理学精讲精练.pdf链接：https://pan.quark.cn/s/e5a19eb005ba\n景晴药理学网课+讲义链接：https://pan.quark.cn/s/d3aeed20907c\n汤以恒药理学网课视频+讲义链接：https://pan.quark.cn/s/0060e65cf33a\n药理（人卫一类题库）链接：https://pan.quark.cn/s/7fb463e2fca4\n药理学笔记.pdf链接：https://pan.quark.cn/s/47ddf3083b31\n药理学手写笔记总结.pdf链接：https://pan.quark.cn/s/606706aeede5\n药理学名词解释+简单题.pdf链接：https://pan.quark.cn/s/718a4f229173\n药理学思维导图.pdf链接：https://pan.quark.cn/s/a42a8ae9d988 \n药理学表格总结.pdf链接：https://pan.quark.cn/s/027eefe64123\n药理学题库.pdf链接：https://pan.quark.cn/s/ddc4a391ecf0\n药理学学习指导与习题集.pdf链接：https://pan.quark.cn/s/a35c66c56a9d\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 3128,
+            "endPos": 3693
+        },
+        {
+            "content": "09《寄生虫》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 3693,
+            "endPos": 3700
+        }
+    ],
+    [
+        {
+            "content": "09《寄生虫》\n寄生虫（人卫一类题库）链接：https://pan.quark.cn/s/4d668fc3425b\n人体寄生虫学横向联系知识点归纳.pdf链接：https://pan.quark.cn/s/6da1a6d63b96\n人体寄生虫学表格笔记.pdf链接：https://pan.quark.cn/s/1ea76ceb4c62\n寄生虫表格（期末小结）.doc链接：https://pan.quark.cn/s/e5fc7791200a\n人体寄生虫学题库.pdf链接：https://pan.quark.cn/s/8a7baa04e889\n人体寄生虫学重点总结.pdf链接：https://pan.quark.cn/s/f9d8a4b457c8\n人体寄生虫学图表总结.pdf链接：https://pan.quark.cn/s/7f808db0a608\n人体寄生虫学实验考试图片.pdf链接：https://pan.quark.cn/s/a2d9f621bc3f\n寄生虫图集（重点图片）.pdf链接：https://pan.quark.cn/s/db1a9bd35493\n人体寄生虫学图谱.pdf链接：https://pan.quark.cn/s/b239ed591ebe\n人体寄生虫学学习指导与习题集.pdf链接：https://pan.quark.cn/s/63becddf9d00\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 3693,
+            "endPos": 4290
+        },
+        {
+            "content": "10《生理学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 4290,
+            "endPos": 4297
+        }
+    ],
+    [
+        {
+            "content": "10《生理学》\n2024天天师兄生理学讲义汇总版.pdf链接：https://pan.quark.cn/s/633f3c20dd13\n2024天天师兄生理学思维导图汇总版.pdf链接：https://pan.quark.cn/s/4c54d99f4239\n景晴生理学网课+讲义链接：https://pan.quark.cn/s/89ba2cbcfe7c\n天天师兄生理学思维导图.pdf链接：https://pan.quark.cn/s/41054f6bbef2\n生理学手写笔记+总结.pdf链接：https://pan.quark.cn/s/f70d35baabfe\n生理学精讲精练.pdf链接：https://pan.quark.cn/s/edebf4b194c7\n生理学（人卫一类题库）链接：https://pan.quark.cn/s/c3707e42903b\n生理学名词解释+简单题.pdf链接：https://pan.quark.cn/s/eb9e873a8cf0\n生理学简答题汇总.pdf链接：https://pan.quark.cn/s/323b5f5756d4\n生理学题库.pdf链接：https://pan.quark.cn/s/36c2b8664bb7\n生理学学习指导与习题集.pdf链接：https://pan.quark.cn/s/61fe8e6a997f\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 4290,
+            "endPos": 4881
+        },
+        {
+            "content": "11《生物化学与分子生物学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 4881,
+            "endPos": 4895
+        }
+    ],
+    [
+        {
+            "content": "11《生物化学与分子生物学》\n刘不言生物化学网课视频+讲义链接：https://pan.quark.cn/s/d21ba963aefc\n生物化学精讲精练.pdf链接：https://pan.quark.cn/s/d82755f02ea0\n天天师兄生物化学思维导图.pdf链接：https://pan.quark.cn/s/b57c161d870b\n生化（人卫一类题库）链接：https://pan.quark.cn/s/9fce20e0f6ee\n生物化学名词解释.pdf链接：https://pan.quark.cn/s/c3dd209e90b6\n生物化学大题.pdf链接：https://pan.quark.cn/s/c7a006770d55\n生物化学名解+简答.pdf链接：https://pan.quark.cn/s/0e497fa2c559\n生物化学手写笔记.pdf链接：https://pan.quark.cn/s/b598a0080b18\n生物化学知识点清单.pdf链接：https://pan.quark.cn/s/be82b5cc44aa\n生物化学手写重点知识点总结.pdf链接：https://pan.quark.cn/s/72b1864bd95e\n生物化学题库.pdf链接：https://pan.quark.cn/s/5efd0e4a2117\n生物化学学习指导与习题集.pdf链接：https://pan.quark.cn/s/29e96819f70c\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 4881,
+            "endPos": 5519
+        },
+        {
+            "content": "12《病理学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 5519,
+            "endPos": 5526
+        }
+    ],
+    [
+        {
+            "content": "12《病理学》\n病理学网课+讲义（徐琦）链接：https://pan.quark.cn/s/a69ed7500402\n天天师兄病理学思维导图.pdf链接：https://pan.quark.cn/s/10033a4ff01a\n病理学（人卫一类题库）链接：https://pan.quark.cn/s/d2b5718e4d30\n病理学笔记.pdf链接：https://pan.quark.cn/s/159edab213b4\n病理学名词解释+简单题.pdf链接：https://pan.quark.cn/s/85b363686bfe\n病理学笔记总结（手写，共3个版本）.pdf链接：https://pan.quark.cn/s/d39a2997670c\n病理学实验考试图片.pdf链接：https://pan.quark.cn/s/1f6e3d0a5c4f\n病理学考试切片复习.pptx链接：https://pan.quark.cn/s/02fbeb271761\n病理学题库.pdf链接：https://pan.quark.cn/s/5be9e3d3b418\n病理学学习指导与习题集.pdf链接：https://pan.quark.cn/s/0fbfef5d2892\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 5519,
+            "endPos": 6051
+        },
+        {
+            "content": "13《内科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 6051,
+            "endPos": 6058
+        }
+    ],
+    [
+        {
+            "content": "13《内科学》\n内科学精讲精练.pdf链接：https://pan.quark.cn/s/e7e7d3512d16\n天天师兄内科学思维导图.pdf链接：https://pan.quark.cn/s/b3443227ddb4\n内科（人卫一类题库）链接：https://pan.quark.cn/s/6a317f1a4840\n内科学笔记.pdf链接：https://pan.quark.cn/s/43a013a96156\n王逸内科学网课+讲义链接：https://pan.quark.cn/s/3ddded354c9f\n内科学名词解释+简单题.pdf链接：https://pan.quark.cn/s/f0504474ba45\n内科学名词解释+简答（中英文版）.pdf链接：https://pan.quark.cn/s/20168b97e807\n内科-病例分析.pdf链接：https://pan.quark.cn/s/cb224cf69d7e\n内科学病例分析题库.pdf链接：https://pan.quark.cn/s/2350de303c2d\n内科学重点知识总结.pdf链接：https://pan.quark.cn/s/384a2458845b\n内科学选择题库.pdf链接：https://pan.quark.cn/s/8c228f58c924\n内科学学习指导与习题集.pdf链接：https://pan.quark.cn/s/37e154595c51\n2024刘忠宝内外科速记手册.pdf链接：https://pan.quark.cn/s/2a3b8b2ab086\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 6051,
+            "endPos": 6737
+        },
+        {
+            "content": "14《外科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 6737,
+            "endPos": 6744
+        }
+    ],
+    [
+        {
+            "content": "14《外科学》\n外科学精讲精练.pdf链接：https://pan.quark.cn/s/8f1f7a06f3cc\n天天师兄外科学思维导图.pdf链接：https://pan.quark.cn/s/79db5db9f69d\n外科（人卫一类题库）链接：https://pan.quark.cn/s/873e7d2f7030\n外科床旁补充内容.pdf链接：https://pan.quark.cn/s/d4fa88c019db\n外科学笔记.pdf链接：https://pan.quark.cn/s/b6e0ad94e4e7\n外科学名词解释+简答题.pdf链接：https://pan.quark.cn/s/28da52dcf34e\n外科学床旁教学重点内容.pdf链接：https://pan.quark.cn/s/d853f16b870e\n外科学重点知识总结.pdf链接：https://pan.quark.cn/s/a506d177d4b4\n外科学病例分析.pdf链接：https://pan.quark.cn/s/b7351ac11d0d\n外科学学习指导与习题集.pdf链接：https://pan.quark.cn/s/6eebe8e15939\n徐琦外科学网课+讲义链接：https://pan.quark.cn/s/780249b1a4e1\n2024刘忠宝内外科速记手册.pdf链接：https://pan.quark.cn/s/2a3b8b2ab086\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 6737,
+            "endPos": 7367
+        },
+        {
+            "content": "15《医学影像学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 7367,
+            "endPos": 7376
+        }
+    ],
+    [
+        {
+            "content": "15《医学影像学》\n医学影像学（人卫一类题库）链接：https://pan.quark.cn/s/4ec272a38c7d\n医学影像学常见疾病诊断口诀.pdf链接：https://pan.quark.cn/s/1fe7d9e724ce\n影像诊断学笔记.pdf链接：https://pan.quark.cn/s/932b1e7ccf56\n医学影像学常考疾病图片汇总.pdf链接：https://pan.quark.cn/s/cd1ccf79f690\n医学影像学名词解释+简单题.pdf链接：https://pan.quark.cn/s/40365646a453\n影像学名词解释+简答题（中英版）.pdf链接：https://pan.quark.cn/s/fcece8c61604\n医学影像学选择题库.pdf链接：https://pan.quark.cn/s/67b59a78ae1c\n医学影像学学习指导与习题集.pdf链接：https://pan.quark.cn/s/c216018a5933\n天天师兄影像学网课视频+讲义链接：https://pan.quark.cn/s/1d479be63717\n苏州大学医学影像学网课视频+讲义链接：https://pan.quark.cn/s/69c6cfe93af3\n影像诊断学-王雁飞网课+讲义链接：https://pan.quark.cn/s/ea870b908aa7\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 7367,
+            "endPos": 7975
+        },
+        {
+            "content": "16《传染病》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 7975,
+            "endPos": 7982
+        }
+    ],
+    [
+        {
+            "content": "16《传染病》\n传染病（人卫一类题库）链接：https://pan.quark.cn/s/3ba30a2a4324\n传染病学笔记.pdf链接：https://pan.quark.cn/s/c9793ba59815\n传染病学名词解释+简单题.pdf链接：https://pan.quark.cn/s/a8fd2a80a51c\n传染病学知识点总结.pdf链接：https://pan.quark.cn/s/b3d2abff4479\n传染病学题库.pdf链接：https://pan.quark.cn/s/59b01047f636\n传染病学学习指导与习题集.pdf链接：https://pan.quark.cn/s/b29825ef0696\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 7975,
+            "endPos": 8293
+        },
+        {
+            "content": "17《儿科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 8293,
+            "endPos": 8300
+        }
+    ],
+    [
+        {
+            "content": "17《儿科学》\n景晴儿科学网课+讲义链接：https://pan.quark.cn/s/862e8d824ea8\n儿科学（人卫一类题库）链接：https://pan.quark.cn/s/edb7482a8076\n儿科学笔记.pdf链接：https://pan.quark.cn/s/8a58218a6d2f\n儿科学名词解释+简单题.pdf链接：https://pan.quark.cn/s/8cd909d1aca1\n儿科名词解释（全英文版）.pdf链接：https://pan.quark.cn/s/d97934e58473\n儿科学重点总结.pdf链接：https://pan.quark.cn/s/e8d39328ae87\n儿科学题库.pdf链接：https://pan.quark.cn/s/be08b3c90f99\n儿科学病例分析.pdf链接：https://pan.quark.cn/s/eed3246f06ea\n儿科学学习指导与习题集.pdf链接：https://pan.quark.cn/s/6e84f4270fd0\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 8293,
+            "endPos": 8759
+        },
+        {
+            "content": "18《妇产科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 8759,
+            "endPos": 8767
+        }
+    ],
+    [
+        {
+            "content": "18《妇产科学》\n景晴妇产科学网课+讲义链接：https://pan.quark.cn/s/e85c515e8ca2\n妇产科（人卫一类题库）链接：https://pan.quark.cn/s/362ec7196fb1\n妇产科学笔记.pdf链接：https://pan.quark.cn/s/2bd9e678276c\n妇产科重点集锦.pdf链接：https://pan.quark.cn/s/347393f17b82\n妇产科学名词解释+简单题.pdf链接：https://pan.quark.cn/s/a8128542bd22\n妇产科学名词解释（英文版）.pdf链接：https://pan.quark.cn/s/a922a426d041\n妇产科学题库.pdf链接：https://pan.quark.cn/s/f36439161704\n妇产科学习指导与习题集.pdf链接：https://pan.quark.cn/s/4f1dc6463b79\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 8759,
+            "endPos": 9181
+        },
+        {
+            "content": "19《诊断学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 9181,
+            "endPos": 9188
+        }
+    ],
+    [
+        {
+            "content": "19《诊断学》\n诊断学精讲精练.pdf链接：https://pan.quark.cn/s/b593e0798d50\n诊断学（人卫一类题库）链接：https://pan.quark.cn/s/fb91393e3bcc\n临床诊断基本技术笔记pdf链接：https://pan.quark.cn/s/e4228a30f4bc\n临床诊断学体格检查顺序和台词.pdf链接：https://pan.quark.cn/s/e538bd924527\n诊断学笔记.pdf链接：https://pan.quark.cn/s/13f7f13c99d2\n诊断学手写笔记链接：https://pan.quark.cn/s/282a26438990\n王逸诊断学网课+讲义链接：https://pan.quark.cn/s/a0cce493828a\n诊断学名词解释+简单题.pdf链接：https://pan.quark.cn/s/3182c537b299\n诊断学中英文名解.pdf链接：https://pan.quark.cn/s/686333e44c4b\n心电图快速学习方法+口诀链接：https://pan.quark.cn/s/bec6052c4249\n心电图（诊断）手写笔记链接：https://pan.quark.cn/s/1ef489d72dea\n诊断学表格笔记.doc链接：https://pan.quark.cn/s/df1295b32f85\n诊断学（心电图）资料汇总链接：https://pan.quark.cn/s/8a64d86589f6\n临床诊断学资料汇总链接：https://pan.quark.cn/s/6b0ba4b637be\n实验诊断学资料汇总链接：https://pan.quark.cn/s/a65e891d214f\n诊断学（技能操作）资料汇总链接：https://pan.quark.cn/s/8020e0fbb24a\n诊断学学习指导与习题集.pdf链接：https://pan.quark.cn/s/76d6bf714a86\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 9181,
+            "endPos": 10050
+        },
+        {
+            "content": "20《医学伦理学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 10050,
+            "endPos": 10059
+        }
+    ],
+    [
+        {
+            "content": "20《医学伦理学》\n伦理学（人卫一类题库）链接：https://pan.quark.cn/s/c68777d7c7c5\n医学伦理学重点总结.docx链接：https://pan.quark.cn/s/dc37656d4e8b\n医学伦理学选择题库.pdf链接：https://pan.quark.cn/s/de6c107580ab\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 10050,
+            "endPos": 10215
+        },
+        {
+            "content": "21《耳鼻咽喉头颈外科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 10215,
+            "endPos": 10228
+        }
+    ],
+    [
+        {
+            "content": "21《耳鼻咽喉头颈外科学》\n耳鼻咽喉头颈外科（人卫一类题库）链接：https://pan.quark.cn/s/34f1d12715b1\n耳鼻喉科学笔记.pdf链接：https://pan.quark.cn/s/009f91e1d569\n耳鼻咽喉头颈外科学名词解释+简单题.pdf链接：https://pan.quark.cn/s/a4db754beba\n耳鼻喉重点总结.pdf链接：https://pan.quark.cn/s/194c4dc2458b\n耳鼻咽喉头颈外科学选择题库.pdf链接：https://pan.quark.cn/s/b51644e9904f\n耳鼻咽喉头颈外科学学习指导与习题集.pdf链接：https://pan.quark.cn/s/2efc998f9e47\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 10215,
+            "endPos": 10559
+        },
+        {
+            "content": "22《神经病学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 10559,
+            "endPos": 10567
+        }
+    ],
+    [
+        {
+            "content": "22《神经病学》\n神经病（人卫一类题库）」链接：https://pan.quark.cn/s/16e0e221f3a9\n神经病学笔记.pdf链接：https://pan.quark.cn/s/832c66c8dc62\n神经病学名词解释+解答题.pdf链接：https://pan.quark.cn/s/afbca89c8ae0\n神经病学知识点总结.pdf链接：https://pan.quark.cn/s/bb97d59fa87b\n神经病学学习指导与习题集.pdf链接：https://pan.quark.cn/s/c79547cc125f\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 10559,
+            "endPos": 10830
+        },
+        {
+            "content": "23《精神病学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 10830,
+            "endPos": 10838
+        }
+    ],
+    [
+        {
+            "content": "23《精神病学》\n精神病学（人卫一类题库）链接：https://pan.quark.cn/s/5a1a05e7173b\n精神病学笔记.pdf链接：https://pan.quark.cn/s/0aa50075d5e0\n精神病学名词解释.pdf链接：https://pan.quark.cn/s/0ca824652fe5\n精神病学—简答题汇总.pdf链接：https://pan.quark.cn/s/46451a5e0cf9\n精神病学重点知识总结.pdf链接：https://pan.quark.cn/s/feeb75f5f4cb\n精神病学选择题库.pdf链接：https://pan.quark.cn/s/627ec0b6db8f\n精神病学典型病例.pdf链接：https://pan.quark.cn/s/2784d04e304d\n精神病学学习指导与习题集.pdf链接：https://pan.quark.cn/s/58e05c7589f5\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 10830,
+            "endPos": 11253
+        },
+        {
+            "content": "24《口腔科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 11253,
+            "endPos": 11261
+        }
+    ],
+    [
+        {
+            "content": "24《口腔科学》\n口腔（人卫一类题库）链接：https://pan.quark.cn/s/ef9b82372199\n口腔科学笔记.pdf链接：https://pan.quark.cn/s/cf187b3bc5e4\n口腔科学学习指导与习题集.pdf链接：https://pan.quark.cn/s/e4cd84deff3c\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 11253,
+            "endPos": 11415
+        },
+        {
+            "content": "25《眼科学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 11415,
+            "endPos": 11422
+        }
+    ],
+    [
+        {
+            "content": "25《眼科学》\n眼科（人卫一类题库）链接：https://pan.quark.cn/s/5750d35e8130\n眼科学笔记.pdf链接：https://pan.quark.cn/s/8a6e928d486c\n眼科学名词解释+解答题.pdf链接：https://pan.quark.cn/s/a62ba91d0219\n眼科学选择题库.pdf链接：https://pan.quark.cn/s/92e087e3e220\n眼科学—重点总结.pdf链接：https://pan.quark.cn/s/036dfa1c3132\n眼科学学习指导与习题集.pdf链接：https://pan.quark.cn/s/5d756c39c706\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 11415,
+            "endPos": 11729
+        },
+        {
+            "content": "26《皮肤性病学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 11729,
+            "endPos": 11738
+        }
+    ],
+    [
+        {
+            "content": "26《皮肤性病学》\n皮肤病学（人卫一类题库）链接：https://pan.quark.cn/s/8bfa77f80b6d\n皮肤性病学笔记.pdf链接：https://pan.quark.cn/s/005e941bae2a\n皮肤性病学重点知识总结.pdf链接：https://pan.quark.cn/s/00199f9406c1\n皮肤性病学名词解释+解答题.doc链接：https://pan.quark.cn/s/a9dbdf379f64\n皮肤性病学题库.pdf链接：https://pan.quark.cn/s/d849e0f1b76e\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 11729,
+            "endPos": 12000
+        },
+        {
+            "content": "27《法医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 12000,
+            "endPos": 12007
+        }
+    ],
+    [
+        {
+            "content": "27《法医学》\n法医学背诵提纲.pdf链接：https://pan.quark.cn/s/f3364526cda8\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 12000,
+            "endPos": 12058
+        },
+        {
+            "content": "28《康复医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 12058,
+            "endPos": 12066
+        }
+    ],
+    [
+        {
+            "content": "28《康复医学》\n康复医学笔记.pdf链接：https://pan.quark.cn/s/f5a2f16a0a10\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 12058,
+            "endPos": 12116
+        },
+        {
+            "content": "29《流行病学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 12116,
+            "endPos": 12124
+        }
+    ],
+    [
+        {
+            "content": "29《流行病学》\n流行病学笔记.pdf链接：https://pan.quark.cn/s/ca5a529396bb\n秦枫流行病学网课+讲义链接：https://pan.quark.cn/s/608f0b8e2965\n流行病学名词解释+简单题.pdf链接：https://pan.quark.cn/s/491927982210\n流行病学分章重点梳理.pdf链接：https://pan.quark.cn/s/db5bfa60177f\n流行病学重点总结+整理笔记.pdf链接：https://pan.quark.cn/s/24c42686b4b8\n流行病学选择题库.pdf链接：https://pan.quark.cn/s/82c1372624e1\n流行病学学习指导与习题集.pdf链接：https://pan.quark.cn/s/bcc51ef0f3dd\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 12116,
+            "endPos": 12494
+        },
+        {
+            "content": "30《卫生法》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 12494,
+            "endPos": 12501
+        }
+    ],
+    [
+        {
+            "content": "30《卫生法》\n卫生法笔记.pdf链接：https://pan.quark.cn/s/06d93b4c6e2b\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 12494,
+            "endPos": 12550
+        },
+        {
+            "content": "31《循证医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 12550,
+            "endPos": 12558
+        }
+    ],
+    [
+        {
+            "content": "31《循证医学》\n循证医学笔记.pdf链接：https://pan.quark.cn/s/5cdf3194a771\n循证医学名词解释+简答题汇总.pdf链接：https://pan.quark.cn/s/4a29b3694bd8\n循证医学选择题库.pdf链接：https://pan.quark.cn/s/9613361e161a\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 12550,
+            "endPos": 12716
+        },
+        {
+            "content": "32《预防医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 12716,
+            "endPos": 12724
+        }
+    ],
+    [
+        {
+            "content": "32《预防医学》\n预防医学网课视频+讲义链接：https://pan.quark.cn/s/4c1d0dfd1a0b\n预防医学笔记.pdf链接：https://pan.quark.cn/s/dd416a65307e\n预防重点知识整理.docx链接：https://pan.quark.cn/s/975959bb5832\n预防医学练习题+答案.docx链接：https://pan.quark.cn/s/e6cea32ef843\n预防医学名解+简答.pdf链接：https://pan.quark.cn/s/dd996ded1cb2\n预防医学题库.pdf链接：https://pan.quark.cn/s/8e33a894eee4\n预防医学学习指导与习题集.pdf链接：https://pan.quark.cn/s/90f5257b13d5\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 12716,
+            "endPos": 13086
+        },
+        {
+            "content": "33《医学心理学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 13086,
+            "endPos": 13095
+        }
+    ],
+    [
+        {
+            "content": "33《医学心理学》\n医学心理学名词解释.pdf链接：https://pan.quark.cn/s/8db9ea2fe2f9\n医学心理学考试重点总结.doc链接：https://pan.quark.cn/s/f90e46dedadb\n医学心理学题库.pdf链接：https://pan.quark.cn/s/de14ce0fc33e\n医学心理学整理笔记.pdf链接：https://pan.quark.cn/s/bca01127b3d4\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 13086,
+            "endPos": 13304
+        },
+        {
+            "content": "34《医学遗传学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 13304,
+            "endPos": 13313
+        }
+    ],
+    [
+        {
+            "content": "34《医学遗传学》\n医学遗传学名词解释.pdf链接：https://pan.quark.cn/s/c9f9458de695\n医学遗传学名词解释+简答题.pdf链接：https://pan.quark.cn/s/bb199114cf11\n医学遗传学笔记.pdf链接：https://pan.quark.cn/s/cd0e82cd776e\n医学遗传学遗传病归纳.pdf链接：https://pan.quark.cn/s/aa89a00e8c52\n医学遗传学题库.pdf链接：https://pan.quark.cn/s/09f148ae9782\n医学遗传学学习指导与习题集.pdf链接：https://pan.quark.cn/s/6cad8538c761\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 13304,
+            "endPos": 13631
+        },
+        {
+            "content": "35《肿瘤学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 13631,
+            "endPos": 13638
+        }
+    ],
+    [
+        {
+            "content": "35《肿瘤学》\n肿瘤学名词解释+简单题.pdf链接：https://pan.quark.cn/s/efeb522b9c4e\n肿瘤学—简答题汇总.pdf链接：https://pan.quark.cn/s/b5cf03e9bf31\n肿瘤学—重点.pdf链接：https://pan.quark.cn/s/1cbb3b76edfe\n肿瘤学—题库.pdf链接：https://pan.quark.cn/s/3cf7b12a5e38\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 13631,
+            "endPos": 13843
+        },
+        {
+            "content": "36《全科医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 13843,
+            "endPos": 13851
+        }
+    ],
+    [
+        {
+            "content": "36《全科医学》\n全科医学资料汇总链接：https://pan.quark.cn/s/f620bec77404\n全科医学整理笔记.pdf链接：https://pan.quark.cn/s/8bf05624874d\n全科医学题库.pdf链接：https://pan.quark.cn/s/a240e0c0e319\n全科医学重点总结.pdf链接：https://pan.quark.cn/s/a021401ceb7a\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 13843,
+            "endPos": 14050
+        },
+        {
+            "content": "37《医学统计学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 14050,
+            "endPos": 14059
+        }
+    ],
+    [
+        {
+            "content": "37《医学统计学》\n医学统计学习题集+解答.pdf链接：https://pan.quark.cn/s/9fd7258e32c5\n医学统计学彩色笔记.pdf链接：https://pan.quark.cn/s/de3f01acc49c\n医学统计学选择题库.pdf链接：https://pan.quark.cn/s/707fb991dd43\n医学统计学重点总结.pdf链接：https://pan.quark.cn/s/d24c67c14518\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 14050,
+            "endPos": 14270
+        },
+        {
+            "content": "38《中医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 14270,
+            "endPos": 14277
+        }
+    ],
+    [
+        {
+            "content": "38《中医学》\n中医学名词解释+简单题.pdf链接：https://pan.quark.cn/s/28c82e0927a5\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 14270,
+            "endPos": 14332
+        },
+        {
+            "content": "39《核医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 14332,
+            "endPos": 14339
+        }
+    ],
+    [
+        {
+            "content": "39《核医学》\n核医学学习指导与习题集.pdf链接：https://pan.quark.cn/s/d4912808cf47\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 14332,
+            "endPos": 14394
+        },
+        {
+            "content": "40《医用有机化学》、《医用物理学》、《医学营养学》、《卫生学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 14394,
+            "endPos": 14426
+        }
+    ],
+    [
+        {
+            "content": "40《医用有机化学》、《医用物理学》、《医学营养学》、《卫生学》等40+科目资料链接：https://pan.quark.cn/s/191671e6782c\n41护理专业资料汇总链接：https://pan.quark.cn/s/70412ebd40d7\n42检验专业资料汇总链接：https://pan.quark.cn/s/e5a161bd8d75\n43口腔专业资料汇总链接：https://pan.quark.cn/s/7e144337e21c\n44预防医学专业资料汇总链接：https://pan.quark.cn/s/ed5d674bec19\n45麻醉专业资料汇总链接：https://pan.quark.cn/s/361b6737f753\n46法医学等其他专业资料汇总链接：https://pan.quark.cn/s/73159cf1eab8\n47康复医学专业资料汇总链接：https://pan.quark.cn/s/42fbf3a1646f\n48影像专业资料汇总链接：https://pan.quark.cn/s/ff13de8a476f\n49药学专业含中药专业资料汇总链接：https://pan.quark.cn/s/37300b73177e\n50中医类专业资料汇总链接：https://pan.quark.cn/s/b9f413aa5538\n",
+            "isParticipating": true,
+            "groupNum": 0,
+            "startPos": 14394,
+            "endPos": 14977
+        },
+        {
+            "content": "39《核医学》",
+            "isParticipating": true,
+            "groupNum": 1,
+            "startPos": 14977,
+            "endPos": 14984
+        }
+    ]
+]
+
+json = []
+output = []
+
+for (let i = 0; i < json_row.length; i++) {
+    let json_row_each = json_row[i][0]
+    json.push(json_row_each["content"])
+}
+
+// console.log(json);
+
+for (let i = 0; i < json.length; i++) {
+    let json_each = json[i]
+    let result = json_each.split(/\n/)
+    for (let j = 0; j < result.length; j++) {
+        let each = result[j]
+        if (j == 0) continue
+        if (each == "") {
+            result.splice(j, 1)
+            continue
+        }
+        let each_result = each.split("：")
+        let course = each_result[0]
+        let href = each_result[1]
+        if (course != "") {
+            result[j] = {
+                "course": course,
+                "href": href
+            }
+        }
+    }
+
+    let title = result.splice(0, 1)
+    output.push({
+        "title": title,
+        "content": result
+    })
+}
+console.log(output);
