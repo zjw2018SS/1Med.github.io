@@ -1,0 +1,26 @@
+// ==UserScript==
+// @name          chaoxingRedo（学习通显示优化，浏览器本地重做习题）（开发版）
+// @namespace      https://xn--gmqq3isro3y3d.icu/
+// @version       0.03
+// @description    学习通显示优化，重做已经做过的习题（本地功能，与学习通无关）等。目前在开发早期，功能还不完善，感谢您反馈问题。浏览器扩展管理请开启开发者模式才能正常使用油猴脚本！
+// @author       听雨荷
+// @match        https://mooc1.chaoxing.com/*
+
+// @require      file://Z:/web/chaoxingRedo/dist/chaoxingRedo.js
+
+
+
+// @icon        https://xn--gmqq3isro3y3d.icu/favicon.ico
+
+// @license      MIT
+
+
+// @downloadURL https://update.greasyfork.org/scripts/518327/%E5%AD%A6%E4%B9%A0%E9%80%9Aredo%2C%E5%BE%AEdo.user.js
+// @updateURL https://update.greasyfork.org/scripts/518327/%E5%AD%A6%E4%B9%A0%E9%80%9Aredo%2C%E5%BE%AEdo.meta.js
+// ==/UserScript==
+
+(function() {
+// @require      http://127.0.0.1:3450/chaoxingRedo.js
+
+    console.log("外层脚本启动成功")
+})();
