@@ -1,3 +1,6 @@
+// 1. 引入你的变更配置文件
+const config = require('./all_changes.js');
+
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -14,6 +17,8 @@ console.log(__dirname, targetDir, outputFile);
 
 // 需要排除的文件和文件夹
 const excludedItems = [/watch-and-pack/, /pack\.js$/, /dev/, /dist/, /build/, /node_modules/, /test/];
+
+
 
 (async () => {
     try {
@@ -57,7 +62,24 @@ const excludedItems = [/watch-and-pack/, /pack\.js$/, /dev/, /dist/, /build/, /n
             }
         }
 
+        // --- 1. 处理日期格式 (26/4/7) ---
+        const now = new Date();
+        const dateStr = `${now.getFullYear().toString().slice(-2)}/${now.getMonth() + 1}/${now.getDate()}`;
+
+        // B. 替换使用教程中的占位符 (@data@ 和 @version@)
+        // 使用 /g 全局替换，确保代码和 HTML 中所有地方都被换掉
+        const processText = (content) => {
+            return content
+                .replace(/@data@/g, dateStr)
+                .replace(/@version@/g, config.version);
+        }
+        content =processText(content)
         // 使用 writeFile 而不是 appendFile 确保覆盖文件
+        // B. 自动替换逻辑代码中的网址
+        if (config.oldUrl != config.newUrl) {
+            // 使用 replaceAll 确保替换掉 main.js 中所有的旧网址
+            content = content.split(config.oldUrl).join(config.newUrl);
+        }
         await fs.writeFile(outputFile, content);
         console.log('Files have been packed into pack.js');
     } catch (error) {

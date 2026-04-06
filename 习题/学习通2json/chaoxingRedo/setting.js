@@ -180,6 +180,43 @@ function is_hide_answer_true_fun() {
         }
     }
 }
+// ---------------------------------
+// 答案解析是否悬停显示
+
+let answer_analysis_arr = document.getElementsByClassName("analysis");
+if (answer_arr.length != 0) {
+    for (let i = 0; i < answer_analysis_arr.length; i++) {
+        answer_analysis_arr[i].style.transform = 'scale(1)';
+        answer_analysis_arr[i].classList.add("show")
+    }
+}
+
+
+let is_hide_answer_analysis = document.getElementById("is_hide_answer_analysis")
+is_hide_answer_analysis.addEventListener("click", is_hide_answer_analysis_fun)
+
+function is_hide_answer_analysis_fun() {
+    console.log("1");
+    let _is_show = document.getElementById("is_hide_answer_analysis").dataset.isHideAnswerAnalysis
+    if (_is_show == "show") {
+
+        document.getElementById("is_hide_answer_analysis").dataset.isHideAnswerAnalysis = "hide"
+        let answer_show = document.getElementById("answer_show")
+        let answer_analysis_arr = document.getElementsByClassName("analysis");
+        for (let i = 0; i < answer_analysis_arr.length; i++) {
+            answer_analysis_arr[i].classList.remove("show")
+            answer_analysis_arr[i].classList.add("hide")
+        }
+    } else if (_is_show == "hide") {
+        document.getElementById("is_hide_answer_analysis").dataset.isHideAnswerAnalysis = "show"
+        let answer_show = document.getElementById("answer_show")
+        let answer_analysis_arr = document.getElementsByClassName("analysis");
+        for (let i = 0; i < answer_analysis_arr.length; i++) {
+            answer_analysis_arr[i].classList.remove("hide")
+            answer_analysis_arr[i].classList.add("show")
+        }
+    }
+}
 
 // ---------------------------------
 // 全屏function

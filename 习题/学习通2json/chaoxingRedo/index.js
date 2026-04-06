@@ -1,6 +1,6 @@
 
 
-g_open_url = "https://xn--gmqq3isro3y3d.icu/%E4%B9%A0%E9%A2%98/exercise.html?extension"
+g_open_url = "https://xn--xkrra975bzrc.icu/%E4%B9%A0%E9%A2%98/exercise.html?extension"
 
 Date.prototype.format = function (fmt) {
     var o = {
@@ -128,15 +128,17 @@ function main() {
     }
 
     json["head"]["filename"] = title
-    let divQuestion = document.getElementsByClassName("mark_table padTop60 ans-cc fontLabel")[0]
+    let divQuestion = document.getElementsByClassName("mark_table padTop60")[0]
     // console.log(divQuestion);
     let wraps = divQuestion.getElementsByClassName("mark_item")
+    // console.log(wraps);
     // 不同题型的包裹
     for (let h = 0; h < wraps.length; h++) {
         let wraps_each = wraps[h]
+        // console.log(wraps_each);
         // 单个题目的包裹
-        let wrap = wraps_each.getElementsByClassName("marBom60 questionLi singleQuesId")
-        let alert_time=1
+        let wrap = wraps_each.getElementsByClassName("marBom60 questionLi")
+        let alert_time = 1
         for (let i = 0; i < wrap.length; i++) {
             let questions = []
             let type = []
@@ -153,9 +155,9 @@ function main() {
                 continue
             }
 
-            if (get_type(wrap_each)==null) {
-                if (alert_time==1){
-                    alert_time=0
+            if (get_type(wrap_each) == null) {
+                if (alert_time == 1) {
+                    alert_time = 0
                     alert("有题目类型不匹配")
                 }
 
@@ -171,7 +173,7 @@ function main() {
                 }
                 // console.log(wrap_each.getElementsByClassName("mark_key clearfix"));
                 let answers_wrap = wrap_each.getElementsByClassName("mark_answer")[0]
-                console.log(answers_wrap.getElementsByClassName("mark_key clearfix")[0], answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"));
+                // console.log(answers_wrap.getElementsByClassName("mark_key clearfix")[0], answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"));
                 if (answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl").length != 0) {
 
                     answers = answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl")[0].innerText.replace("正确答案:", "")
@@ -181,7 +183,7 @@ function main() {
                         let answers_char = answers_char_arr[h]
                         answers_matching_index.push(answers_char.charCodeAt(0) - 65)
                     }
-                    console.log("answers", answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"), answers, answers_char_arr, answers_matching_index);
+                    // console.log("answers", answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"), answers, answers_char_arr, answers_matching_index);
                 } else {
                     console.warn(wrap_each, answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"), "没有获取到正确答案,尝试匹配我的答案");
                     if (answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorDeep marginRight40 fl").length != 0) {
@@ -192,7 +194,7 @@ function main() {
                             let answers_char = answers_char_arr[h]
                             answers_matching_index.push(answers_char.charCodeAt(0) - 65)
                         }
-                        console.log("answers", answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorDeep marginRight40 fl"), answers, answers_char_arr, answers_matching_index);
+                        // console.log("answers", answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorDeep marginRight40 fl"), answers, answers_char_arr, answers_matching_index);
                     } else {
                         console.warn(wrap_each, answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorDeep marginRight40 fl"), "没有获取到我的答案");
                     }
@@ -216,7 +218,7 @@ function main() {
                         answers_matching_index[0] = 0
                     }
 
-                    console.log("answers", answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"), answers, answers_matching_index);
+                    // console.log("answers", answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"), answers, answers_matching_index);
                 } else {
                     console.warn(wrap_each, answers_wrap.getElementsByClassName("mark_key clearfix")[0].getElementsByClassName("colorGreen marginRight40 fl"), "没有获取到正确答案");
 
@@ -246,7 +248,7 @@ function main() {
                     }
 
 
-                    console.log("answers", answers_wrap.getElementsByClassName("mark_fill colorGreen")[0].getElementsByTagName("dd"), answers);
+                    // console.log("answers", answers_wrap.getElementsByClassName("mark_fill colorGreen")[0].getElementsByTagName("dd"), answers);
                 } else {
                     console.warn(wrap_each, answers_wrap.getElementsByClassName("mark_fill colorGreen")[0].getElementsByTagName("dd"), "没有获取到正确答案");
                 }

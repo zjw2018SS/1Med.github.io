@@ -280,6 +280,23 @@ input:checked+.slider_:before {
     filter: blur(0px);
 }
 
+
+/* ------------------------------------ */
+/* 答案解析是否悬停显示 */
+.analysis {
+
+}
+
+.analysis.hide {
+    filter: blur(10px);
+}
+
+.analysis.hide:hover {
+    filter: blur(0px);
+}
+
+
+/* --------------------------------- */
 .mark_table.padTop60.ans-cc.fontLabel {
     --optionRightDisplay: 1;
     --optionRightDisplay_: none;
