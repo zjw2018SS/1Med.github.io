@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name          chaoxingRedo（学习通显示优化，浏览器本地重做习题）
-// @namespace      https://xn--gmqq3isro3y3d.icu/
-// @version       0.0.5
+// @name           chaoxingRedo（学习通显示优化，浏览器本地重做习题）
+// @namespace      @g_open_url@
+// @version        @version@
 // @description    学习通显示优化，重做已经做过的习题（本地功能，与学习通无关）等。目前在开发早期，功能还不完善，感谢您反馈问题。浏览器扩展管理请开启开发者模式才能正常使用油猴脚本！
-// @author       听雨荷
-// @match        https://mooc1.chaoxing.com/*
-// @icon        https://xn--gmqq3isro3y3d.icu/favicon.ico
-// @license      MIT
+// @author         听雨荷
+// @match          https://mooc1.chaoxing.com/*
+// @icon           @g_open_url@favicon.ico
+// @license        MIT
 // ==/UserScript==
 
 (function() {

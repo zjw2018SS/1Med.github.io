@@ -1,6 +1,6 @@
 
 
-g_open_url = "https://xn--xkrra975bzrc.icu/%E4%B9%A0%E9%A2%98/exercise.html?extension"
+g_open_url = "@g_open_url@%E4%B9%A0%E9%A2%98/exercise.html?extension"
 
 Date.prototype.format = function (fmt) {
     var o = {

@@ -43,7 +43,7 @@ const excludedItems = [/watch-and-pack/, /pack\.js$/, /dev/, /dist/, /build/, /n
                     } else {
                         data = '';
                     }
-                    
+
                     content += `
                     var divElement = document.createElement("div");
                     divElement.innerHTML = \`${data}\`;
@@ -71,15 +71,13 @@ const excludedItems = [/watch-and-pack/, /pack\.js$/, /dev/, /dist/, /build/, /n
         const processText = (content) => {
             return content
                 .replace(/@data@/g, dateStr)
-                .replace(/@version@/g, config.version);
+                .replace(/@version@/g, config.version)
+                .replace(/@g_open_url@/g, config.g_open_url);
         }
-        content =processText(content)
+        content = processText(content)
+
+
         // 使用 writeFile 而不是 appendFile 确保覆盖文件
-        // B. 自动替换逻辑代码中的网址
-        if (config.oldUrl != config.newUrl) {
-            // 使用 replaceAll 确保替换掉 main.js 中所有的旧网址
-            content = content.split(config.oldUrl).join(config.newUrl);
-        }
         await fs.writeFile(outputFile, content);
         console.log('Files have been packed into pack.js');
     } catch (error) {
