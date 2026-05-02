@@ -32,4 +32,5 @@ coverage
 
 # my
 *.php
+/README.md
 

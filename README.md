@@ -1,29 +1,118 @@
-# 1Med
+# 医鸣惊人
 
-This template should help get you started developing with Vue 3 in Vite.
+一个专为医学生打造的知识共享与互动学习平台，帮助医学生高效学习、备考。
 
-## Recommended IDE Setup
+## 项目简介
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+医鸣惊人是一个集学习资料、在线做题、工具推荐于一体的医学生学习辅助平台。平台收录了丰富的医学课程学习资料，包括系统解剖学、生理学、生化学、病理学、药理学、内科学、外科学等40+门医学课程的名师网课、笔记、题库等资源。
 
-## Customize configuration
+## 功能模块
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### 首页
+- Banner轮播展示平台核心功能
+- 快速入口：油猴脚本、开始做题
+- 快速访问链接：南华教务、课程学分、到梦查分、图书馆等常用站点
 
-## Project Setup
+### 学习资料
+- 课程推荐：精选医学网课视频链接（霍琨、景晴、天天师兄等名师课程）
+- 资料分享：各学科笔记、名解、简答题库、思维导图等学习资料
+- 课程信息：查看课程学分要求
 
-```sh
+### 在线做题
+- 支持单选题、多选题、判断题、填空题、简答题等多种题型
+- JSON格式题库导入
+- 答题进度保存
+- 答案解析与错误统计
+
+### 工具推荐
+- 分类推荐优质学习工具
+- 涵盖：文件传输、单词记忆、文献翻译、笔记软件等
+
+## 技术栈
+
+- **前端框架**: Vue 3
+- **构建工具**: Vite
+- **UI组件**: SweetAlert2
+- **样式**: 原生CSS
+
+## 快速开始
+
+```bash
+# 安装依赖
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# 开发模式
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# 生产构建
 npm run build
+
+# 预览构建结果
+npm run preview
 ```
+
+## 项目结构
+
+```
+1Med/
+├── index.html          # 首页
+├── learning.html       # 学习资料页
+├── resource.html       # 工具推荐页
+├── vite.config.js      # Vite配置
+├── package.json
+├── src/                # Vue源码
+│   ├── components/     # Vue组件
+│   └── resource.js      # 资源页面入口
+├── static/              # 静态资源
+│   ├── css/            # 样式文件
+│   ├── js/             # JavaScript文件
+│   ├── json/           # JSON数据（课程资料列表）
+│   ├── img/            # 图片资源
+│   ├── md/             # Markdown文档
+│   └── 学习资料/        # 学习资料目录
+├── 习题/                 # 做题系统
+│   ├── index.html      # 题库首页
+│   ├── exercise.html   # 答题页面
+│   ├── course.html     # 课程学分
+│   ├── dream.html      # 到梦空间要求
+│   ├── json/           # 医学课程题库JSON
+│   ├── css/            # 做题系统样式
+│   └── js/             # 做题系统脚本
+└── public/             # 公共资源
+```
+
+## 主要课程资料
+
+平台收录的医学课程包括但不限于：
+
+- 系统解剖学、组织学与胚胎学
+- 生理学、生物化学与分子生物学
+- 病理学、病理生理学
+- 药理学、医学微生物学、医学免疫学
+- 内科学、外科学、医学影像学
+- 妇产科学、儿科学
+- 神经病学、精神病学
+- 皮肤病学、眼科学、耳鼻咽喉头颈外科学
+- 传染病学、流行病学
+- 医学遗传学、肿瘤学
+- 法医学、康复医学、核医学
+
+每门课程均包含：网课视频、听课笔记、人卫题库、名词解释、简答题库、实验资料、思维导图等
+将JSON格式的题库文件放入 `习题/json/` 目录，文件名对应课程名称。
+
+### 题库JSON格式
+```json
+[
+  {
+    "title": "题目",
+    "type": "single",  // single/multi/judge/fill/qa
+    "options": ["A", "B", "C", "D"],
+    "answer": "A",
+    "analysis": "解析"
+  }
+]
+```
+
+## License
+
+Private - All Rights Reserved
