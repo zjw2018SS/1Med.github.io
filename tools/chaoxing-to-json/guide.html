@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>chaoxingRedo 使用说明</title>
+  <style>
+    body {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 32px 18px;
+      color: #202124;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.75;
+      background: #f7f8fa;
+    }
+    main {
+      padding: 28px;
+      border: 1px solid #dfe3e8;
+      border-radius: 8px;
+      background: #fff;
+    }
+    h1, h2 { line-height: 1.3; }
+    code {
+      padding: 2px 5px;
+      border-radius: 4px;
+      background: #edf2f7;
+    }
+    a { color: #146c54; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>chaoxingRedo 使用说明</h1>
+    <p>这个工具是学习通油猴脚本，用于在学习通作业页面提取已经做过的题目，并导出为本项目做题页可以读取的 JSON。</p>
+
+    <h2>入口</h2>
+    <ul>
+      <li><a href="https://greasyfork.org/zh-CN/scripts/518327-chaoxingredo-%E5%AD%A6%E4%B9%A0%E9%80%9A%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%9C%AC%E5%9C%B0%E9%87%8D%E5%81%9A%E4%B9%A0%E9%A2%98" target="_blank" rel="noopener noreferrer">GreasyFork 安装/更新页</a></li>
+      <li><a href="./dist/chaoxingRedo.user.js">本地构建产物</a></li>
+      <li><a href="./index.html">chaoxingRedo 本地开发页</a></li>
+      <li><a href="../json-export-tool/index.html">JSON 题库生成工具</a></li>
+      <li><a href="../../#/practice/exercise">新版做题页</a></li>
+    </ul>
+
+    <h2>本地安装</h2>
+    <p>本地验收优先运行 <code>npm run chaoxing:dev</code>。这个命令会先生成完整的 <code>dist/chaoxingRedo.user.js</code>，再打开可安装脚本，安装后不依赖本地 dev server。</p>
+    <p><code>npm run chaoxing:hmr</code> 是热更新调试入口，会安装一个依赖本地 Vite 模块注入的 <code>dev:</code> 脚本。学习通页面可能会因为 CSP 或浏览器安全策略拦截它；如果学习通页面一直加载、面板不出现，改用 <code>npm run chaoxing:dev</code> 安装完整构建产物。</p>
+
+    <h2>基本流程</h2>
+    <ol>
+      <li>在学习通作业结果页运行脚本。</li>
+      <li>点击脚本面板中的复制或下载，得到 JSON。</li>
+      <li>点击脚本面板中的 <code>重做</code>，或在新版做题页点击 <code>导入 JSON</code>。</li>
+    </ol>
+
+    <h2>输出说明</h2>
+    <p>工具输出的题库 JSON 以新版做题页可读取为准，不再维护旧项目路径。生成后可直接导入新版做题页，也可以放入 <code>public/data/practice/banks</code> 作为正式题库。</p>
+  </main>
+</body>
+</html>

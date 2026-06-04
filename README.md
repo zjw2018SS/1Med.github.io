@@ -1,118 +1,110 @@
 # 医鸣惊人
 
-一个专为医学生打造的知识共享与互动学习平台，帮助医学生高效学习、备考。
-
-## 项目简介
-
-医鸣惊人是一个集学习资料、在线做题、工具推荐于一体的医学生学习辅助平台。平台收录了丰富的医学课程学习资料，包括系统解剖学、生理学、生化学、病理学、药理学、内科学、外科学等40+门医学课程的名师网课、笔记、题库等资源。
-
-## 功能模块
-
-### 首页
-- Banner轮播展示平台核心功能
-- 快速入口：油猴脚本、开始做题
-- 快速访问链接：南华教务、课程学分、到梦查分、图书馆等常用站点
-
-### 学习资料
-- 课程推荐：精选医学网课视频链接（霍琨、景晴、天天师兄等名师课程）
-- 资料分享：各学科笔记、名解、简答题库、思维导图等学习资料
-- 课程信息：查看课程学分要求
-
-### 在线做题
-- 支持单选题、多选题、判断题、填空题、简答题等多种题型
-- JSON格式题库导入
-- 答题进度保存
-- 答案解析与错误统计
-
-### 工具推荐
-- 分类推荐优质学习工具
-- 涵盖：文件传输、单词记忆、文献翻译、笔记软件等
+面向医学生的学习资料、在线题库、课程信息和工具资源导航平台。
 
 ## 技术栈
 
-- **前端框架**: Vue 3
-- **构建工具**: Vite
-- **UI组件**: SweetAlert2
-- **样式**: 原生CSS
+- Vue 3
+- Vite
+- Vue Router
+- Pinia
+- Node.js 内置测试 runner
 
-## 快速开始
+## 开发命令
 
 ```bash
-# 安装依赖
 npm install
-
-# 开发模式
 npm run dev
-
-# 生产构建
+npm test
 npm run build
-
-# 预览构建结果
 npm run preview
+npm run chaoxing:dev
+npm run chaoxing:hmr
+npm run chaoxing:build
 ```
 
-## 项目结构
+开发服务默认监听 `0.0.0.0:5173`。同一局域网手机访问时，优先使用本机真实网卡地址，例如 `http://192.168.x.x:5173/`。
 
-```
-1Med/
-├── index.html          # 首页
-├── learning.html       # 学习资料页
-├── resource.html       # 工具推荐页
-├── vite.config.js      # Vite配置
-├── package.json
-├── src/                # Vue源码
-│   ├── components/     # Vue组件
-│   └── resource.js      # 资源页面入口
-├── static/              # 静态资源
-│   ├── css/            # 样式文件
-│   ├── js/             # JavaScript文件
-│   ├── json/           # JSON数据（课程资料列表）
-│   ├── img/            # 图片资源
-│   ├── md/             # Markdown文档
-│   └── 学习资料/        # 学习资料目录
-├── 习题/                 # 做题系统
-│   ├── index.html      # 题库首页
-│   ├── exercise.html   # 答题页面
-│   ├── course.html     # 课程学分
-│   ├── dream.html      # 到梦空间要求
-│   ├── json/           # 医学课程题库JSON
-│   ├── css/            # 做题系统样式
-│   └── js/             # 做题系统脚本
-└── public/             # 公共资源
-```
+`npm run chaoxing:dev` 会先构建完整的本地 `chaoxingRedo.user.js`，再启动 Vite 并打开安装地址，适合本地安装测试。`npm run chaoxing:hmr` 才是 `vite-plugin-monkey` 的热更新调试入口；它会安装一个依赖本地 Vite 模块注入的 `dev:` 脚本，在学习通页面可能被 CSP 或浏览器安全策略拦截，不建议当作本地正式安装方式。
 
-## 主要课程资料
+`npm run build` 会先同步工具依赖，再构建 chaoxingRedo 油猴脚本，然后执行 Vite 构建，最后运行 `scripts/sync-static-assets.ps1`。`public/data` 会由 Vite 自动复制到 `dist/data`，脚本只补充同步历史静态资源：
 
-平台收录的医学课程包括但不限于：
+- `static/` -> `dist/static/`
+- `img/` -> `dist/img/`
+- `tools/` -> `dist/tools/`，但不复制工具内部的 `node_modules/`、`build/`、`dev/`、`src/`、`test/` 等开发文件
+- `favicon.ico` -> `dist/favicon.ico`
+- `CNAME` -> `dist/CNAME`
 
-- 系统解剖学、组织学与胚胎学
-- 生理学、生物化学与分子生物学
-- 病理学、病理生理学
-- 药理学、医学微生物学、医学免疫学
-- 内科学、外科学、医学影像学
-- 妇产科学、儿科学
-- 神经病学、精神病学
-- 皮肤病学、眼科学、耳鼻咽喉头颈外科学
-- 传染病学、流行病学
-- 医学遗传学、肿瘤学
-- 法医学、康复医学、核医学
+## 应用结构
 
-每门课程均包含：网课视频、听课笔记、人卫题库、名词解释、简答题库、实验资料、思维导图等
-将JSON格式的题库文件放入 `习题/json/` 目录，文件名对应课程名称。
+```txt
+src/
+  App.vue
+  main.js
+  router/
+  pages/
+  services/
+  stores/
+  styles/
+  features/
+    exercise/
 
-### 题库JSON格式
-```json
-[
-  {
-    "title": "题目",
-    "type": "single",  // single/multi/judge/fill/qa
-    "options": ["A", "B", "C", "D"],
-    "answer": "A",
-    "analysis": "解析"
-  }
-]
+public/
+  data/
+    home/
+    learning/
+    practice/
+    resources/
+    courses/
+
+tools/
+  chaoxing-to-json/
+  json-export-tool/
 ```
 
-## License
+主要页面：
 
-Private - All Rights Reserved
+- `#/` 首页
+- `#/learning` 学习资料
+- `#/practice` 题库目录
+- `#/practice/exercise` 练习台
+- `#/resources` 工具资源
+- `#/courses` 课程信息
+- `#/dream` 到梦空间
+
+项目已经按新项目方式重构，不再保留 `习题` 目录；可复用的旧工具统一放在 `tools/` 下维护。
+
+## 做题系统
+
+新版做题系统把原来的大 DOM 脚本拆出核心逻辑：
+
+- `src/features/exercise/exerciseCore.js`：题库标准化、答案判断、乱序、答案展示。
+- `src/features/exercise/exerciseCore.test.js`：核心逻辑测试。
+- `src/pages/ExercisePage.vue`：题库选择、本地 JSON 导入、答题、提交、收藏、进度保存、历史记录、导出。
+- `src/services/exerciseHistoryService.js`：历史记录和做题设置。历史只保存路径、答案和统计信息，不复制完整题库。
+
+进度保存使用 localStorage，命名空间为 `1med:v2`。
+
+## 内容维护
+
+以后增删改内容统一维护 `public/data`：
+
+- 首页快捷入口：`public/data/home/quick-links.json`
+- 学习资料：`public/data/learning/courses.json`
+- 在线做题目录：`public/data/practice/catalog.json`
+- 在线做题题库：`public/data/practice/banks/**/path_info.json` 和同目录下的题库 JSON
+- 工具资源：`public/data/resources/resources.json`
+- 课程信息：`public/data/courses/course-info.json`
+
+修改 JSON 后，开发模式会直接从 `public/data` 读取；生产发布前运行 `npm run build` 即可把数据打包到 `dist/data`。
+
+## 数据处理工具
+
+题库生产工具统一维护在 `tools/`：
+
+- 工具总入口：`tools/index.html`
+- chaoxingRedo 学习通油猴脚本：`tools/chaoxing-to-json/`，用户安装页为 GreasyFork
+- JSON 题库生成：`tools/json-export-tool/`
+- 社会学统计题转换：`tools/json-export-tool/tool/society.html`
+
+这些工具通过静态页面单独运行，也会随 `npm run build` 发布到 `dist/tools`。工具不再保留旧项目路径，兼容性只保留在输出内容上：生成的题库 JSON 应能被新版做题页导入、预览和作答。chaoxingRedo 通过 `vite-plugin-monkey` 输出可发布的 `.user.js`，并通过 `#/practice/exercise?extension` 与新版做题页通信。

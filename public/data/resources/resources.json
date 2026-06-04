@@ -1,0 +1,30 @@
+[
+  {
+    "name": "题库工具入口",
+    "description": "本站题库生产工具入口，包含 chaoxingRedo、JSON 题库生成和统计题转换。",
+    "category": "本站工具",
+    "platform": "本站",
+    "href": "tools/index.html"
+  },
+  {
+    "name": "chaoxingRedo",
+    "description": "用户直接安装的学习通油猴脚本，识别题目后可跳转本站做题页本地重做。",
+    "category": "本站工具",
+    "platform": "GreasyFork",
+    "href": "https://greasyfork.org/zh-CN/scripts/518327-chaoxingredo-%E5%AD%A6%E4%B9%A0%E9%80%9A%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%9C%AC%E5%9C%B0%E9%87%8D%E5%81%9A%E4%B9%A0%E9%A2%98"
+  },
+  {
+    "name": "JSON 题库生成",
+    "description": "通过正则规则把文本题库转换为新版做题页可读取的 JSON。",
+    "category": "本站工具",
+    "platform": "本站",
+    "href": "tools/json-export-tool/index.html"
+  },
+  {
+    "name": "社会学统计题转换",
+    "description": "把带百分率的社会学统计题整理成题库 JSON。",
+    "category": "本站工具",
+    "platform": "本站",
+    "href": "tools/json-export-tool/tool/society.html"
+  }
+]

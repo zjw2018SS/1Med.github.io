@@ -1,0 +1,147 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "医鸣惊人首页" [ref=e5] [cursor=pointer]:
+      - /url: "#/"
+      - generic [ref=e6]: 医鸣惊人
+    - navigation [ref=e7]:
+      - link "首页" [ref=e8] [cursor=pointer]:
+        - /url: "#/"
+        - img [ref=e9]
+        - generic [ref=e12]: 首页
+      - link "学习资料" [ref=e13] [cursor=pointer]:
+        - /url: "#/learning"
+        - img [ref=e14]
+        - generic [ref=e16]: 学习资料
+      - link "在线做题" [ref=e17] [cursor=pointer]:
+        - /url: "#/practice"
+        - img [ref=e18]
+        - generic [ref=e21]: 在线做题
+      - link "工具资源" [ref=e22] [cursor=pointer]:
+        - /url: "#/resources"
+        - img [ref=e23]
+        - generic [ref=e29]: 工具资源
+      - link "课程信息" [ref=e30] [cursor=pointer]:
+        - /url: "#/courses"
+        - img [ref=e31]
+        - generic [ref=e33]: 课程信息
+      - link "到梦空间" [ref=e34] [cursor=pointer]:
+        - /url: "#/dream"
+        - img [ref=e35]
+        - generic [ref=e37]: 到梦空间
+    - generic [ref=e38]:
+      - button "切换浅色模式" [ref=e39] [cursor=pointer]:
+        - img [ref=e40]
+      - generic "切换主题色" [ref=e46]:
+        - img [ref=e47]
+        - combobox [ref=e53]:
+          - option "青绿" [selected]
+          - option "蓝色"
+          - option "紫色"
+          - option "琥珀"
+  - main [ref=e54]:
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - heading "练习台" [level=1] [ref=e58]
+          - paragraph [ref=e59]: 未选择题库
+        - generic [ref=e60]:
+          - button "导入 JSON" [ref=e61] [cursor=pointer]:
+            - img [ref=e62]
+            - text: 导入 JSON
+          - button "重新做" [disabled] [ref=e66]:
+            - img [ref=e67]
+            - text: 重新做
+          - button "乱序" [disabled] [ref=e70]:
+            - img [ref=e71]
+            - text: 乱序
+          - button "交卷" [disabled] [ref=e77]:
+            - img [ref=e78]
+            - text: 交卷
+          - button "导出" [disabled] [ref=e81]:
+            - img [ref=e82]
+            - text: 导出
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - img [ref=e87]
+          - combobox [ref=e90]:
+            - option "选择题库目录" [selected]
+            - option "大一上 临床医学导论"
+            - option "大一上 形势与政策1"
+            - option "大一下 中国近现代史纲要"
+            - option "大一下 医学人文素质教育导论"
+            - option "大一下 大学计算机B"
+            - option "大一下 形势与政策2"
+            - option "大一下 组织学与胚胎学A"
+            - option "大三上 临床基本技能学1"
+            - option "大三上 医学伦理学A"
+            - option "大三上 医学心理学B"
+            - option "大三上 卫生法学B"
+            - option "大三上 流行病学C"
+            - option "大三上 诊断学C1"
+            - option "大三上 预防医学A"
+            - option "大三下 临床基本技能学2"
+            - option "大三下 医学影像学"
+            - option "大三下 外科学总论B"
+            - option "大三下 水平测试模拟考试"
+            - option "大三下 精神病学A"
+            - option "大三下 药理学A"
+            - option "大三下 诊断学"
+            - option "大二上 医学免疫学"
+            - option "大二上 大学英语A3"
+            - option "大二上 实验动物学C"
+            - option "大二上 局部解剖学"
+            - option "大二上 毛泽东思想和中国特色社会主义理论体系"
+            - option "大二上 生物化学G"
+            - option "大二上 生理学B"
+            - option "大二下 习近平新时代中国特色社会主义思想概论"
+            - option "大二下 医学分子生物学D"
+            - option "大二下 医学微生物学A"
+            - option "大二下 医学遗传学A"
+            - option "大二下 形势与政策4"
+            - option "大二下 病理学"
+            - option "大二下 马克思主义基本原理"
+        - generic [ref=e91]:
+          - img [ref=e92]
+          - combobox [ref=e95]:
+            - option "选择题库文件" [selected]
+        - generic [ref=e96]:
+          - img [ref=e97]
+          - combobox [ref=e98]:
+            - option "导出全部" [selected]
+            - option "导出已提交"
+            - option "导出错题"
+            - option "导出收藏"
+        - generic "做题视图" [ref=e99]:
+          - button "单题" [ref=e100] [cursor=pointer]
+          - button "全部" [ref=e101] [cursor=pointer]
+        - generic [ref=e102]:
+          - img [ref=e103]
+          - combobox [ref=e105]:
+            - option "小字号"
+            - option "中字号"
+            - option "大字号" [selected]
+        - generic [ref=e106]:
+          - checkbox "单选/判断自动提交" [ref=e107]
+          - text: 单选/判断自动提交
+        - generic [ref=e108]:
+          - img [ref=e109]
+          - combobox [ref=e112]:
+            - option "保留 6 条历史"
+            - option "保留 12 条历史" [selected]
+            - option "保留 20 条历史"
+            - option "保留 30 条历史"
+        - generic [ref=e113]:
+          - img [ref=e114]
+          - combobox [ref=e118]:
+            - option "JSON" [selected]
+            - option "TXT"
+            - option "CSV"
+        - generic [ref=e119]: 工具预览数据不存在，请回到 JSON 题库生成工具重新预览。
+      - group [ref=e120]:
+        - generic "历史记录 2 条，展开后可继续、重做或删除 最多 12 条" [ref=e121] [cursor=pointer]:
+          - generic [ref=e122]:
+            - img [ref=e123]
+            - strong [ref=e127]: 历史记录
+            - generic [ref=e128]: 2 条，展开后可继续、重做或删除
+          - generic [ref=e129]: 最多 12 条
+      - generic [ref=e130]: 请选择题库文件或导入本地 JSON。

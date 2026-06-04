@@ -1,0 +1,131 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "医鸣惊人首页" [ref=e5] [cursor=pointer]:
+      - /url: "#/"
+      - generic [ref=e6]: 医鸣惊人
+    - navigation [ref=e7]:
+      - link "首页" [ref=e8] [cursor=pointer]:
+        - /url: "#/"
+        - img [ref=e9]
+        - generic [ref=e12]: 首页
+      - link "学习资料" [ref=e13] [cursor=pointer]:
+        - /url: "#/learning"
+        - img [ref=e14]
+        - generic [ref=e16]: 学习资料
+      - link "在线做题" [ref=e17] [cursor=pointer]:
+        - /url: "#/practice"
+        - img [ref=e18]
+        - generic [ref=e21]: 在线做题
+      - link "工具资源" [ref=e22] [cursor=pointer]:
+        - /url: "#/resources"
+        - img [ref=e23]
+        - generic [ref=e29]: 工具资源
+      - link "课程信息" [ref=e30] [cursor=pointer]:
+        - /url: "#/courses"
+        - img [ref=e31]
+        - generic [ref=e33]: 课程信息
+      - link "到梦空间" [ref=e34] [cursor=pointer]:
+        - /url: "#/dream"
+        - img [ref=e35]
+        - generic [ref=e37]: 到梦空间
+    - generic [ref=e38]:
+      - button "切换黑暗模式" [ref=e39] [cursor=pointer]:
+        - img [ref=e40]
+      - generic "切换主题色" [ref=e42]:
+        - img [ref=e43]
+        - combobox [ref=e49]:
+          - option "青绿" [selected]
+          - option "蓝色"
+          - option "紫色"
+          - option "琥珀"
+  - main [ref=e50]:
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - heading "练习台" [level=1] [ref=e54]
+          - paragraph [ref=e55]: 等待 chaoxingRedo 发送题库...
+        - generic [ref=e56]:
+          - button "导入 JSON" [ref=e57] [cursor=pointer]:
+            - img [ref=e58]
+            - text: 导入 JSON
+          - button "重新做" [disabled] [ref=e62]:
+            - img [ref=e63]
+            - text: 重新做
+          - button "乱序" [disabled] [ref=e66]:
+            - img [ref=e67]
+            - text: 乱序
+          - button "导出" [disabled] [ref=e73]:
+            - img [ref=e74]
+            - text: 导出
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - img [ref=e79]
+          - combobox [ref=e82]:
+            - option "选择题库目录" [selected]
+            - option "大一上 临床医学导论"
+            - option "大一上 形势与政策1"
+            - option "大一下 中国近现代史纲要"
+            - option "大一下 医学人文素质教育导论"
+            - option "大一下 大学计算机B"
+            - option "大一下 形势与政策2"
+            - option "大一下 组织学与胚胎学A"
+            - option "大三上 临床基本技能学1"
+            - option "大三上 医学伦理学A"
+            - option "大三上 医学心理学B"
+            - option "大三上 卫生法学B"
+            - option "大三上 流行病学C"
+            - option "大三上 诊断学C1"
+            - option "大三上 预防医学A"
+            - option "大三下 临床基本技能学2"
+            - option "大三下 医学影像学"
+            - option "大三下 外科学总论B"
+            - option "大三下 水平测试模拟考试"
+            - option "大三下 精神病学A"
+            - option "大三下 药理学A"
+            - option "大三下 诊断学"
+            - option "大二上 医学免疫学"
+            - option "大二上 大学英语A3"
+            - option "大二上 实验动物学C"
+            - option "大二上 局部解剖学"
+            - option "大二上 毛泽东思想和中国特色社会主义理论体系"
+            - option "大二上 生物化学G"
+            - option "大二上 生理学B"
+            - option "大二下 习近平新时代中国特色社会主义思想概论"
+            - option "大二下 医学分子生物学D"
+            - option "大二下 医学微生物学A"
+            - option "大二下 医学遗传学A"
+            - option "大二下 形势与政策4"
+            - option "大二下 病理学"
+            - option "大二下 马克思主义基本原理"
+        - generic [ref=e83]:
+          - img [ref=e84]
+          - combobox [ref=e87]:
+            - option "选择题库文件" [selected]
+        - generic [ref=e88]:
+          - img [ref=e89]
+          - combobox [ref=e90]:
+            - option "导出全部" [selected]
+            - option "导出已提交"
+            - option "导出错题"
+            - option "导出收藏"
+        - generic "做题视图" [ref=e91]:
+          - button "单题" [ref=e92] [cursor=pointer]
+          - button "全部" [ref=e93] [cursor=pointer]
+        - generic [ref=e94]:
+          - checkbox "单选/判断自动提交" [ref=e95]
+          - text: 单选/判断自动提交
+        - generic [ref=e96]:
+          - img [ref=e97]
+          - combobox [ref=e100]:
+            - option "保留 6 条历史"
+            - option "保留 12 条历史" [selected]
+            - option "保留 20 条历史"
+            - option "保留 30 条历史"
+        - generic [ref=e101]:
+          - img [ref=e102]
+          - combobox [ref=e106]:
+            - option "JSON" [selected]
+            - option "TXT"
+            - option "CSV"
+        - generic [ref=e107]: 等待 chaoxingRedo 题库数据超时，请回到学习通页面重新点击重做。
+      - generic [ref=e108]: 请选择题库文件或导入本地 JSON。

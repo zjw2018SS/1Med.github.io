@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>chaoxingRedo</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: #202124;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f6f8fb;
+    }
+    main {
+      width: min(920px, calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 42px 0;
+    }
+    h1 { margin: 0 0 10px; font-size: 36px; }
+    p { color: #5f6b7a; line-height: 1.7; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 22px 0; }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      min-height: 40px;
+      padding: 0 14px;
+      border: 1px solid #cfd9e4;
+      border-radius: 7px;
+      color: #1f2937;
+      text-decoration: none;
+      background: #fff;
+    }
+    .button.primary {
+      border-color: #146c54;
+      color: #fff;
+      background: #146c54;
+    }
+    .panel {
+      margin-top: 20px;
+      padding: 18px;
+      border: 1px solid #dfe5ec;
+      border-radius: 8px;
+      background: #fff;
+    }
+    code {
+      padding: 2px 5px;
+      border-radius: 4px;
+      background: #edf2f7;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>chaoxingRedo</h1>
+    <p>这是面向用户直接安装的学习通油猴脚本。脚本在学习通作业结果页识别题目，支持复制、下载 JSON，并跳转本站做题页本地重做。</p>
+    <div class="actions">
+      <a class="button primary" href="https://greasyfork.org/zh-CN/scripts/518327-chaoxingredo-%E5%AD%A6%E4%B9%A0%E9%80%9A%E6%98%BE%E7%A4%BA%E4%BC%98%E5%8C%96-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%9C%AC%E5%9C%B0%E9%87%8D%E5%81%9A%E4%B9%A0%E9%A2%98" target="_blank" rel="noopener noreferrer">安装/更新油猴脚本</a>
+      <a class="button" href="./dist/chaoxingRedo.user.js">安装本地构建产物</a>
+      <a class="button" href="./guide.html">使用说明</a>
+    </div>
+    <section class="panel">
+      <h2>开发入口</h2>
+      <p>源码已经迁移到 <code>tools/chaoxing-to-json/src</code>，使用项目统一的油猴构建框架。</p>
+      <p>本地安装测试：<code>npm run chaoxing:dev</code>；热更新调试：<code>npm run chaoxing:hmr</code>；发布构建：<code>npm run chaoxing:build</code>。</p>
+      <p><code>chaoxing:hmr</code> 生成的 dev 脚本依赖本地 Vite 模块注入，在学习通页面可能被安全策略拦截。验收脚本是否能在学习通加载时，请优先安装本地构建产物。</p>
+    </section>
+  </main>
+</body>
+</html>

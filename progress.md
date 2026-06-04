@@ -1,0 +1,117 @@
+# 1Med Refactor Progress
+
+## 2026-06-01 Session
+
+- Started full project refactor request.
+- Inspected root project structure, package dependencies, Vite config, source files, static pages, and exercise files.
+- Confirmed project is a hybrid static multi-page app with a small partial Vue integration.
+- Created persistent planning files for the refactor.
+- Ran `npm install`; Vite remained incomplete.
+- Reinstalled Vite and confirmed Vite `dist` exists; build then failed on missing Rollup files, indicating broader dependency corruption.
+- Removed and reinstalled root `node_modules` with `npm ci`.
+- `npm run build` now succeeds on the old app. It still warns about non-module legacy scripts loaded from `index.html`.
+- Added Vue Router, Pinia, Lucide icons, and Vitest.
+- Replaced static root pages with a Vue app entry and legacy redirect stubs.
+- Added Vite multi-page inputs and a legacy asset copy plugin.
+- Added exercise-domain normalization, answer checking, shuffle logic, and Vitest tests.
+- Added Vue pages for home, learning resources, tool resources, practice catalog, exercise, course information, and dream-space requirements.
+- Found a Windows/Node exit-code issue: Vite/Vitest complete their work but return `-1073740791`.
+- Moved legacy asset copying out of Vite into `scripts/sync-legacy-assets.ps1`; `npm run build` now exits 0.
+- Replaced Vitest with Node's built-in test runner; `npm test` now exits 0.
+- Added dev/prod data fallback paths so dev server reads original `习题/json` and production reads `dist/data/questions`.
+- Verified with Playwright: home page renders, learning page loads 40 courses/278 links, practice catalog loads 35 course directories, exercise page loads a JSON bank and answer submission works, course page loads curriculum data.
+- Removed obsolete partial Vue resource toolbar files.
+- Updated README with the new architecture, commands, routes, and data sync behavior.
+- Added export controls to the exercise page: export all/submitted/wrong/favorite questions as JSON, TXT, or CSV.
+- Added pure export formatting helpers and tests for filtered export rows.
+- Verified browser downloads for JSON and CSV exports; CSV includes UTF-8 BOM for Excel-friendly Chinese text.
+- Final `npm test` passed.
+- Final `npm run build` passed and synced legacy assets. Verified `dist/data/questions/dir_info.json`, `dist/data/course-info.json`, and `dist/static/json/course.json` exist, with no mojibake output directory.
+- Enabled `node_modules/` in `.gitignore`; the repository currently has tracked dependency files, so a later cleanup should remove them from version control.
+- Started follow-up feature batch for LAN dev access, richer exercise workflow, sorting, theme switching, and requested home quick links.
+- Inspected Vite config, shared store/storage helpers, home page, practice catalog, exercise page, course page, and learning page.
+- Added namespaced exercise history/settings helpers with bounded history limits and safer localStorage writes.
+- Added exercise page restart, history panel, single/all view switch, answer-card status labels, and optional auto-submit for single-answer single/judge questions.
+- Added history/resume/restart entry points on the online practice home page.
+- Added sort direction controls to learning resources, practice catalog, tool resources, and course information.
+- Added global dark mode and theme-color switching in the app header.
+- Updated Vite dev/preview config to bind to `0.0.0.0` for LAN access.
+- Updated README with LAN access, exercise history, and content maintenance locations.
+- Final follow-up verification: `npm test` passed, `npm run build` passed, Playwright verified home quick links, exercise status/history/all-view/auto-submit, practice history, course reverse sorting, and theme data attributes.
+- Restarted the dev server directly through Vite on `0.0.0.0:5173`; LAN candidate address is `http://192.168.0.100:5173/`.
+- Polished dark-mode control contrast by giving selects/buttons explicit dark control backgrounds and brand contrast colors.
+- Collapsed exercise-page history into a compact details panel and capped history list scrolling to avoid pushing questions down.
+- Set practice file links and practice-history continue/restart links to open in new tabs.
+- Verified with `npm test`, `npm run build`, and Playwright checks for dark select contrast, collapsed history, `_blank` links, and zero console errors.
+- Changed exercise page startup behavior so it always defaults to the all-question view, even if an older local setting saved `viewMode: "single"`.
+- Moved runtime-maintained content into `public/data`: home quick links, learning courses, practice catalog/banks, tool resources, and course information.
+- Rewrote home/resource/course/question-bank services to read only from the new `public/data` layout.
+- Removed old `learning.html`, `resource.html`, Vite multi-page compatibility inputs, and the legacy asset sync script.
+- Moved reusable old tools into `tools/chaoxing-to-json` and `tools/json-export-tool`, then removed the `习题` directory.
+- Deleted obsolete `static/json` data duplicates so content maintenance has a single source of truth.
+- Expanded practice `path_info.json` arrays into individual clickable question-bank files.
+- Validated `public/data` JSON and practice-bank paths: 35 catalog entries, 462 question-bank file references, 0 missing files, 0 invalid JSON files.
+- Final Phase 10 verification: `npm test` passed, `npm run build` passed, and Playwright verified home, practice catalog, exercise load/history/status, resources, courses, learning, dark mode toggle, and zero console errors.
+- Restarted the dev server directly through Vite on `0.0.0.0:5173`; LAN candidate address is `http://192.168.0.100:5173/`.
+- Refactored the first `tools/` compatibility surface by adding `tools/index.html`, temporary path aliases, and `tools/README.md`; the path aliases were later removed in Phase 12 after the compatibility boundary was clarified.
+- Removed active browser dependencies on ignored `node_modules` paths in `tools/json-export-tool` by adding local `vendor/` browser assets and compatibility wrappers for SweetAlert and ClipboardJS.
+- Updated 学习通 conversion scripts/docs so generated links target the new Vue exercise route `#/practice/exercise?extension` instead of the removed `习题/exercise.html`.
+- Updated production static sync so `tools/` is copied to `dist/tools` while nested `node_modules` directories are excluded.
+- Added local tool entries to `public/data/resources/resources.json`, so the Vue “工具资源” page can open the tools in new tabs.
+- Fixed a Vite HTML parsing failure in `tools/json-export-tool/index.html` by escaping visible regex lookbehind examples.
+- Final Phase 11 verification: resources JSON and 12 tool HTML files passed local-reference validation; `npm test` passed; `npm run build` passed; `dist/tools` exists with no nested `node_modules`; Playwright verified `tools/index.html`, JSON export tool, old preview tool, chaoxing docs, compatibility redirects, resources page entries, and zero console errors.
+- Started Phase 12 after the user clarified that tools compatibility means output compatibility, not old path compatibility.
+- Removed old-path alias directories `tools/学习通2json` and `tools/json导出工具`.
+- Removed the old JSON preview exercise page and its CSS/JS because the new Vue exercise page is now the supported preview/doing surface.
+- Renamed `tools/json-export-tool/习题生成工具.js/css` to `index.js/css`.
+- Removed jQuery usage from the JSON export tool and replaced the remaining selectors with native DOM APIs.
+- Removed temporary SweetAlert/Clipboard compatibility wrappers; tools now use npm-managed SweetAlert2 copied by `npm run tools:vendor`.
+- Added `scripts/sync-tools-vendor.ps1` and wired `npm run dev` / `npm run build` to sync tools vendor assets before serving/building.
+- Added transient tool-preview loading in `src/pages/ExercisePage.vue`: `tools/json-export-tool` writes `1med:tool-preview-bank`, the Vue exercise page reads it and immediately removes it.
+- Added a Node test covering JSON generated by `tools/json-export-tool`.
+- Updated Chinese documentation under `tools/README.md`, `tools/chaoxing-to-json/README.md`, `tools/chaoxing-to-json/guide.html`, and `tools/json-export-tool/README.md`.
+- Excluded `tools` development directories and package metadata from production static copying.
+- Upgraded `sweetalert2`, then Vite and `@vitejs/plugin-vue`; `npm audit --json` now reports 0 vulnerabilities.
+- Final Phase 12 verification: static tool references passed, syntax checks passed, `npm test` passed with 5 tests, `npm run build` passed, `dist/tools` has no old compatibility paths/dev directories/package metadata, Playwright verified tools index, JSON export tool, society converter, and JSON preview into the Vue exercise page with zero console errors.
+- Promoted the maintained `tools/chaoxing-to-json/chaoxingRedo` implementation into `tools/chaoxing-to-json` and removed the older base 学习通转 JSON root files/subdirectory.
+- Updated tool index, chaoxingRedo docs, guide links, build replacement logic, root README, and local userscript template paths so the maintained chaoxingRedo path is now `tools/chaoxing-to-json/`.
+- Reduced `public/data/resources/resources.json` to four 本站工具 entries only: tool index, chaoxingRedo, JSON 题库生成, and 社会学统计题转换.
+- Updated the resource page and home-card copy so 工具资源 no longer describes external 文献/文件传输/效率工具.
+- Verified Phase 13 with syntax checks, resource JSON checks, static tool HTML link validation, `npm test`, `npm run build`, `dist/tools` old-subpath/exclusion checks, and Playwright browser checks for `tools/index.html`, `tools/chaoxing-to-json/index.html`, and `#/resources`.
+- Started Phase 14 for the GreasyFork chaoxingRedo link, course-credit sorting, and full userscript refactor.
+- Evaluated userscript frameworks through npm metadata: `vite-plugin-monkey` 8.0.6 targets Tampermonkey/Violentmonkey/Greasemonkey/ScriptCat and peers on Vite 8; WXT and Plasmo are web-extension frameworks.
+- Installed `vite-plugin-monkey` as a dev dependency; `npm audit --json` still reports 0 vulnerabilities.
+- Added `tools/userscript-framework/` with a reusable Vite userscript config helper and Chinese documentation.
+- Rewrote chaoxingRedo into modular source under `tools/chaoxing-to-json/src`: extraction, floating panel, clipboard, download, iframe text copy, and `postMessage` redo handoff are separated.
+- Replaced the old chaoxingRedo static panel page with a local landing/development page and pointed user-facing chaoxingRedo links to the GreasyFork install page.
+- Removed the old chaoxingRedo root script/style files, old local package metadata, and old `build`, `dev`, `test`, and nested `node_modules` directories.
+- Added `npm run chaoxing:dev` and `npm run chaoxing:build`; the full `npm run build` now builds `tools/chaoxing-to-json/dist/chaoxingRedo.user.js` before the Vue production build.
+- Added `#/practice/exercise?extension` message receiver in the Vue exercise page. It accepts chaoxingRedo JSON broadcasts, loads the question bank, and replies with `1Med is OK!`.
+- Added course information sorting options for 学分升序 and 学分降序.
+- Added tests for chaoxingRedo-generated question-bank compatibility and answer/option parsing.
+- Final Phase 14 verification: syntax checks passed, `npm run chaoxing:build` passed, `npm test` passed with 7 tests, `npm run build` passed, dist excludes tool source/dev folders while keeping `chaoxingRedo.user.js`, audit passed, and Playwright verified tool links, resource links, credit sorting, extension broadcast loading, and zero console errors.
+- Investigated the local chaoxingRedo install failure: `vite-plugin-monkey` HMR mode installs a lightweight `dev:` script that injects local `type="module"` code into the 学习通 HTTPS page, which can be blocked by page/browser security policy.
+- Changed `npm run chaoxing:dev` to build and serve the complete local `tools/chaoxing-to-json/dist/chaoxingRedo.user.js` for installation; moved the HMR workflow to `npm run chaoxing:hmr`.
+- Fixed the HMR userscript prefix so the development script is named `dev:chaoxingRedo...` instead of only `dev:`.
+- Updated README, chaoxingRedo docs, guide page, and userscript-framework docs to explain local build install versus HMR debugging.
+- Verified the fix with `npm run chaoxing:build`, `npm test`, `npm run build`, and a temporary HMR metadata check on port 5199 that was closed after verification.
+- Started the enhancement backlog implementation from P0.
+- Completed P0-1 by removing CJK-to-CJK accidental spaces in `cleanText` while preserving mixed Chinese/Latin spacing; `npm test` passed with 8 tests and `npm run build` passed.
+- Completed P0-2 by running `git rm -r --cached node_modules`, verifying `git ls-files node_modules` returns 0 while local dependencies remain, running `npm test` and `npm run build`, then committing `34a2f55 chore: stop tracking node_modules`.
+- Completed P0-3 by debouncing free-text answer progress writes at 400ms and flushing on immediate workflow changes/unmount; `npm test` passed, `npm run build` passed, and Playwright verified delayed save plus reload restore.
+- Completed P0-4 by adding a cached `resultsById` computed map for exercise answer results; `npm test` passed, `npm run build` passed, and Playwright verified answer panel, answer-card status, and statistics still update correctly.
+- Completed P0-5 by adding `scripts/validate-practice-data.mjs`, moving 39 unreferenced doc/docx/pdf source files from `public/data/practice` to `source-materials/practice`, validating all 492 referenced question-bank JSON files, and confirming `dist/data/practice` contains 0 doc/docx/pdf files after build.
+- Completed P1 keyboard operations for single-question mode: left/right navigation, number/A-H option selection, Enter submit-and-next, and F favorite; `npm test` passed, `npm run build` passed, and Playwright verified the shortcuts without console errors.
+- Completed P1 exam submission and summary: whole-paper submit, score/type summary, wrong-only entry, and temporary wrong-question redo; `npm test` passed, `npm run build` passed, and Playwright verified summary and wrong redo without console errors.
+- Completed P1 answer-card filtering with all/unanswered/answered/wrong/favorites filters shared by the index grid and displayed question list; `npm test` passed, `npm run build` passed, and Playwright verified each filter without console errors.
+- Completed P1 visible focus styles for buttons, links, form controls, and option rows; `npm test` passed, `npm run build` passed, and Playwright verified outline/focus-within styles without console errors.
+- Completed P1 mobile answer-card drawer: small screens show a `题号` entry, keep the question index off-canvas by default, open it as a bottom drawer, and close after selecting a question; `npm test` passed, `npm run build` passed, and Playwright verified the mobile drawer without console errors.
+- Completed P1 reading font size settings with small/medium/large question-reading sizes persisted in exercise settings; `npm test` passed, `npm run build` passed, and Playwright verified font size changes plus storage writes without console errors.
+- Completed P1 first-load theme behavior: without local theme storage the app reads `prefers-color-scheme`, and manual mode/accent changes persist from then on; `npm test` passed, `npm run build` passed, and Playwright verified initial system fallback plus manual persistence without console errors.
+- Completed P1 fill-answer scoring enhancements: separated multi-blank answers by `；`, `;`, and `|`, compared blanks in order after full-width/case/punctuation normalization, and preserved reference-answer display; `npm test` passed with 9 tests, `npm run build` passed, and Playwright verified correct fill scoring without console errors.
+- Completed P2 cross-platform sync scripts by adding Node `.mjs` replacements for tool vendor and static asset sync and switching `package.json` scripts from PowerShell to `node`; `npm test` passed and `npm run build` passed with the Node scripts.
+- Completed P2 ESLint + Prettier setup with flat ESLint config, Prettier config, `npm run lint`, and `npm run format`; `npm run lint`, `npm test`, and `npm run build` all passed.
+- Completed P2 CI workflow in `.github/workflows/ci.yml` with `npm ci`, `npm test`, `npm run lint`, and `npm run build`; local `npm run lint`, `npm test`, and `npm run build` all passed.
+- Completed P2 route titles by adding `meta.title` to routes and a router `afterEach` document-title hook; `npm test` passed, `npm run build` passed, and Playwright verified the courses title without console errors.
+- Completed P2 service test coverage by exporting `normalizePracticePath`, adding path-normalization tests, adding exercise-history upsert/dedup/trim tests, and making tested service imports Node-ESM compatible; `npm run lint`, `npm test` with 11 tests, and `npm run build` all passed.
+- Completed P2 PWA support with `vite-plugin-pwa`, an app manifest, service-worker generation, and runtime caching for visited `/data/**` resources while excluding large `data/**` files from precache; final `npm run lint`, `npm test`, `npm run build`, practice-data validation, and `dist/data/practice` binary checks all passed.

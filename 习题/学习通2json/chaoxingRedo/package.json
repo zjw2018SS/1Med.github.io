@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "chokidar": "^4.0.1",
-    "debounce": "^2.2.0",
-    "fs-extra": "^11.2.0",
-    "lodash": "^4.17.21"
-  }
-}
