@@ -33,5 +33,12 @@ coverage
 
 # my
 *.php
-/README.md
+
+# dev/working docs (not part of the published project)
+/progress.md
+/task_plan.md
+/findings.md
+/enhancement-backlog.md
+/source-materials/
+/.playwright-cli/
 
