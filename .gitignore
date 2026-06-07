@@ -44,4 +44,5 @@ coverage
 
 # deploy script (contains private server address; do not publish)
 /scripts/deploy.sh
+/DEPLOYMENT.local.md
 
