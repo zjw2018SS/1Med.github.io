@@ -42,3 +42,6 @@ coverage
 /source-materials/
 /.playwright-cli/
 
+# deploy script (contains private server address; do not publish)
+/scripts/deploy.sh
+
