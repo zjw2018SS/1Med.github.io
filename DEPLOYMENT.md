@@ -49,14 +49,16 @@ gh run watch            # 盯着最近一次运行
 
 ```bash
 npm install
-npm run dev        # 开发服务器，默认 0.0.0.0:5173
-npm test           # 做题核心逻辑测试
+npm run dev        # 开发服务器，默认 0.0.0.0:5173（启动时会先生成搜题索引）
+npm test           # 纯逻辑测试（做题核心、错题本、搜题、学习统计）
 npm run lint
-npm run build      # 生成 dist/（含同步 CNAME、img、static、tools）
+npm run build      # 生成 dist/（含搜题索引、CNAME、img、static、tools）
 npm run preview    # 预览构建产物
 ```
 
 CI（`.github/workflows/ci.yml`）在每次 push / PR 上跑 test + lint + build，Node 22。
+
+> 全站搜题索引由 `npm run search:build`（`scripts/build-search-index.mjs`）生成到 `public/data/search/`，已并入 `dev` 与 `build` 链、且在 `.gitignore` 中（构建时自动重建，随 `dist/` 部署，无需手动步骤）。
 
 ## 自有服务器部署（可选）
 

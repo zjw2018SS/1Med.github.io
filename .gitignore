@@ -46,3 +46,6 @@ coverage
 /scripts/deploy.sh
 /DEPLOYMENT.local.md
 
+# generated search index (rebuilt by `npm run search:build` / the build chain)
+/public/data/search/
+

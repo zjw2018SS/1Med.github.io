@@ -114,15 +114,35 @@ table {
 
 th,
 td {
-  padding: 13px 14px;
+  padding: 13px 16px;
   border-bottom: 1px solid var(--line);
   text-align: left;
 }
 
 th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
   color: var(--text-soft);
   background: var(--surface-soft);
   font-size: 14px;
+  font-weight: 700;
+}
+
+tbody tr {
+  transition: background var(--dur) var(--ease);
+}
+
+tbody tr:nth-child(even) {
+  background: var(--surface-muted);
+}
+
+tbody tr:hover {
+  background: var(--brand-soft);
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
 }
 
 td {

@@ -112,12 +112,20 @@ onMounted(async () => {
   color: var(--text);
   background: var(--surface);
   font-weight: 700;
+  font-size: 16px;
   text-align: left;
+  transition: background var(--dur) var(--ease), color var(--dur) var(--ease);
+}
+
+.course-title:hover {
+  color: var(--brand-strong);
+  background: var(--hover-surface);
 }
 
 .course-title svg {
+  flex: 0 0 auto;
   color: var(--muted);
-  transition: transform 160ms ease;
+  transition: transform var(--dur) var(--ease);
 }
 
 .course-title svg.open {
@@ -140,9 +148,21 @@ onMounted(async () => {
   background: var(--surface-muted);
   color: var(--text-soft);
   line-height: 1.45;
+  transition: color var(--dur) var(--ease), background var(--dur) var(--ease), padding var(--dur) var(--ease);
+}
+
+.course-links a svg {
+  flex: 0 0 auto;
+  color: var(--muted);
 }
 
 .course-links a:hover {
   color: var(--brand-strong);
+  background: var(--brand-soft);
+  padding-left: 22px;
+}
+
+.course-links a:hover svg {
+  color: var(--brand);
 }
 </style>

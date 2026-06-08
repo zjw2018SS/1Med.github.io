@@ -5,10 +5,21 @@
         <h1>在线做题</h1>
         <p>读取统一题库目录，也可以在练习页导入本地 JSON。</p>
       </div>
-      <RouterLink class="button primary" to="/practice/exercise">
-        <Play :size="18" />
-        打开练习台
-      </RouterLink>
+      <div class="practice-entry-actions">
+        <RouterLink class="button" to="/practice/search">
+          <Search :size="18" />
+          全站搜题
+        </RouterLink>
+        <RouterLink class="button" to="/practice/mistakes">
+          <NotebookText :size="18" />
+          错题本
+          <span v-if="mistakeCount" class="entry-badge">{{ mistakeCount }}</span>
+        </RouterLink>
+        <RouterLink class="button primary" to="/practice/exercise">
+          <Play :size="18" />
+          打开练习台
+        </RouterLink>
+      </div>
     </div>
 
     <div class="toolbar">
@@ -124,8 +135,9 @@
 <script setup>
 import { computed, onMounted, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
-import { ArrowUpDown, ChevronRight, FileQuestion, FolderOpen, History, Play, Search, XCircle } from '@lucide/vue'
+import { ArrowUpDown, ChevronRight, FileQuestion, FolderOpen, History, NotebookText, Play, Search, XCircle } from '@lucide/vue'
 import { loadQuestionCatalog, loadQuestionFiles } from '@/services/questionBankService'
+import { readMistakeBook } from '@/services/mistakeBookService'
 import {
   clearExerciseProgress,
   normalizeHistoryLimit,
@@ -147,6 +159,7 @@ const fileError = ref('')
 const settings = readExerciseSettings()
 const history = ref(readExerciseHistory())
 const historyLimit = ref(settings.historyLimit)
+const mistakeCount = ref(Object.keys(readMistakeBook()).length)
 
 const filteredCatalog = computed(() => {
   const key = keyword.value.trim().toLowerCase()
@@ -180,6 +193,7 @@ function removeHistory(entry) {
 
 onMounted(async () => {
   history.value = readExerciseHistory()
+  mistakeCount.value = Object.keys(readMistakeBook()).length
   try {
     catalog.value = await loadQuestionCatalog()
     if (catalog.value[0]) await selectCourse(catalog.value[0])
@@ -192,6 +206,26 @@ onMounted(async () => {
 </script>
 
 <style scoped>
+.practice-entry-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.entry-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  border-radius: var(--radius-pill);
+  background: var(--rose);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+}
+
 .practice-layout {
   display: grid;
   grid-template-columns: minmax(260px, 340px) 1fr;
@@ -211,18 +245,26 @@ onMounted(async () => {
   gap: 8px;
   width: 100%;
   min-height: 42px;
-  padding: 8px 10px;
+  padding: 8px 12px;
   border: 0;
-  border-radius: 7px;
+  border-left: 3px solid transparent;
+  border-radius: var(--radius-sm);
   color: var(--text-soft);
   background: transparent;
   text-align: left;
+  transition: color var(--dur) var(--ease), background var(--dur) var(--ease), border-color var(--dur) var(--ease);
 }
 
-.catalog-list button.active,
 .catalog-list button:hover {
   color: var(--brand-strong);
-  background: var(--surface-soft);
+  background: var(--hover-surface);
+}
+
+.catalog-list button.active {
+  color: var(--brand-strong);
+  border-left-color: var(--brand);
+  background: var(--brand-soft);
+  font-weight: 600;
 }
 
 .file-panel {
@@ -241,6 +283,7 @@ onMounted(async () => {
 .file-panel h2 {
   margin: 0;
   font-size: 22px;
+  letter-spacing: -0.01em;
 }
 
 .file-list {
@@ -254,15 +297,31 @@ onMounted(async () => {
   align-items: center;
   gap: 10px;
   min-height: 44px;
-  padding: 8px 12px;
+  padding: 8px 14px;
   border: 1px solid var(--line);
-  border-radius: 7px;
+  border-radius: var(--radius-sm);
   background: var(--surface-muted);
+  transition: color var(--dur) var(--ease), border-color var(--dur) var(--ease), background var(--dur) var(--ease), transform var(--dur) var(--ease);
+}
+
+.file-row svg:first-child {
+  color: var(--muted);
+}
+
+.file-row svg:last-child {
+  color: var(--muted);
+  transition: transform var(--dur) var(--ease), color var(--dur) var(--ease);
 }
 
 .file-row:hover {
   color: var(--brand-strong);
-  border-color: rgba(36, 122, 99, 0.28);
+  border-color: color-mix(in srgb, var(--brand) 40%, var(--line));
+  background: var(--brand-soft);
+}
+
+.file-row:hover svg:last-child {
+  color: var(--brand);
+  transform: translateX(3px);
 }
 
 .history-panel {
@@ -303,10 +362,16 @@ onMounted(async () => {
 .history-card {
   display: grid;
   gap: 12px;
-  padding: 12px;
+  padding: 14px;
   border: 1px solid var(--line);
-  border-radius: 7px;
+  border-radius: var(--radius-sm);
   background: var(--surface-muted);
+  transition: border-color var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
+}
+
+.history-card:hover {
+  border-color: color-mix(in srgb, var(--brand) 30%, var(--line));
+  box-shadow: var(--shadow-sm);
 }
 
 .history-card strong,

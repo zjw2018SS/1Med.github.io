@@ -35,3 +35,11 @@ export function normalizePracticePath(path) {
   if (!clean.startsWith('practice/')) clean = `practice/banks/${clean}`
   return clean
 }
+
+// Subject = the top-level folder under practice/banks (e.g. "大一上 临床医学导论").
+// Shared by the mistake notebook, search index builder, and dashboard.
+export function subjectFromBankPath(path) {
+  const clean = normalizePracticePath(path).replace(/^practice\/banks\//, '')
+  const top = clean.split('/').filter(Boolean)[0] || ''
+  return top.replace(/^-ign/, '').trim()
+}

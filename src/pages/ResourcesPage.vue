@@ -30,10 +30,10 @@
     </div>
 
     <div class="grid three">
-      <article v-for="item in filteredResources" :key="item.id" class="resource-card card">
+      <article v-for="item in filteredResources" :key="item.id" class="resource-card card interactive">
         <div class="resource-card__head">
           <h2>{{ item.name }}</h2>
-          <span>{{ item.platform }}</span>
+          <span class="platform-tag">{{ item.platform }}</span>
         </div>
         <p>{{ item.description }}</p>
         <div class="resource-card__footer">
@@ -77,9 +77,10 @@ onMounted(async () => {
 <style scoped>
 .resource-card {
   display: grid;
+  grid-template-rows: auto 1fr auto;
   gap: 14px;
   min-height: 190px;
-  padding: 18px;
+  padding: 20px;
 }
 
 .resource-card__head,
@@ -93,11 +94,16 @@ onMounted(async () => {
 .resource-card h2 {
   margin: 0;
   font-size: 20px;
+  letter-spacing: -0.01em;
 }
 
-.resource-card__head span {
+.platform-tag {
+  flex: 0 0 auto;
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
   color: var(--muted);
-  font-size: 13px;
+  font-size: 12px;
   white-space: nowrap;
 }
 

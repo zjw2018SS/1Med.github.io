@@ -54,7 +54,7 @@ table {
 
 th,
 td {
-  padding: 14px;
+  padding: 14px 16px;
   border-bottom: 1px solid var(--line);
   text-align: center;
 }
@@ -65,7 +65,23 @@ td:first-child {
 }
 
 th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
   color: var(--text-soft);
   background: var(--surface-soft);
+  font-weight: 700;
+}
+
+tbody tr {
+  transition: background var(--dur) var(--ease);
+}
+
+tbody tr:hover {
+  background: var(--brand-soft);
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
 }
 </style>

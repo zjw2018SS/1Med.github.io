@@ -43,7 +43,7 @@
 <script setup>
 import { onBeforeUnmount, ref, watch } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
-import { BookOpen, ClipboardList, Home, Library, Menu, Moon, PackageSearch, Palette, Sun, TableProperties } from '@lucide/vue'
+import { BookOpen, ClipboardList, Home, LayoutDashboard, Library, Menu, Moon, PackageSearch, Palette, Sun, TableProperties } from '@lucide/vue'
 import { readStorage, writeStorage } from '@/services/storageService'
 import logoUrl from '../static/img/favicon.png'
 
@@ -58,6 +58,7 @@ const navItems = [
   { to: '/', label: '首页', icon: Home },
   { to: '/learning', label: '学习资料', icon: BookOpen },
   { to: '/practice', label: '在线做题', icon: ClipboardList },
+  { to: '/dashboard', label: '学习看板', icon: LayoutDashboard },
   { to: '/resources', label: '工具资源', icon: PackageSearch },
   { to: '/courses', label: '课程信息', icon: TableProperties },
   { to: '/dream', label: '到梦空间', icon: Library },

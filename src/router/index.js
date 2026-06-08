@@ -34,10 +34,28 @@ const routes = [
     component: () => import('@/pages/ExercisePage.vue'),
   },
   {
+    path: '/practice/mistakes',
+    name: 'mistakes',
+    meta: { title: `错题本 - ${siteTitle}` },
+    component: () => import('@/pages/MistakeBookPage.vue'),
+  },
+  {
+    path: '/practice/search',
+    name: 'search',
+    meta: { title: `全站搜题 - ${siteTitle}` },
+    component: () => import('@/pages/SearchPage.vue'),
+  },
+  {
     path: '/courses',
     name: 'courses',
     meta: { title: `课程信息 - ${siteTitle}` },
     component: () => import('@/pages/CoursePage.vue'),
+  },
+  {
+    path: '/dashboard',
+    name: 'dashboard',
+    meta: { title: `学习看板 - ${siteTitle}` },
+    component: () => import('@/pages/DashboardPage.vue'),
   },
   {
     path: '/dream',
